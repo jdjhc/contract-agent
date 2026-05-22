@@ -10,7 +10,7 @@ import pdfplumber
 from pypdf import PdfReader
 import docx
 
-from models import Clause
+from models import DUP_SENTINEL, Clause
 
 
 SUPPORTED_EXTENSIONS = {".pdf", ".docx", ".txt", ".md"}
@@ -286,12 +286,22 @@ async def _split_with_llm(text: str) -> list[Clause]:
         return []
 
     clauses: list[Clause] = []
+    seen_ids: dict[str, int] = {}
     for i, (start, heading) in enumerate(positions):
         end = positions[i + 1][0] if i + 1 < len(positions) else len(text)
         body = text[start:end].strip()
         if not body:
             continue
         cid = _clause_id_from_heading(heading, i + 1)
+        # Ensure ids are unique within a document — downstream code uses
+        # clause_id as a dict key. The DUP_SENTINEL suffix is stripped
+        # before sending to the LLM or rendering for users (see
+        # models.display_clause_id), so user-visible ids remain clean.
+        if cid in seen_ids:
+            seen_ids[cid] += 1
+            cid = f"{cid}{DUP_SENTINEL}{seen_ids[cid]}"
+        else:
+            seen_ids[cid] = 1
         title = heading.strip()[:80]
         clauses.append(Clause(id=cid, title=title, text=body))
     return clauses

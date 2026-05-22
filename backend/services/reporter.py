@@ -4,7 +4,7 @@ from __future__ import annotations
 from collections import Counter
 from datetime import datetime, timezone
 
-from models import ContractReview, ContractType, FlagItem, FlagLevel
+from models import ContractReview, ContractType, FlagItem, FlagLevel, display_clause_id
 
 
 def build_report(
@@ -21,13 +21,20 @@ def build_report(
     if summary is None:
         summary = _auto_summary(contract_type, counts_dict)
 
+    # Strip the internal duplicate-disambiguation suffix before the report
+    # leaves the backend — users only see clean ids like "A" not "A__dup__2".
+    cleaned_flags = [
+        f.model_copy(update={"clause_id": display_clause_id(f.clause_id)})
+        for f in flags
+    ]
+
     return ContractReview(
         document_id=document_id,
         filename=filename,
         contract_type=contract_type,
         contract_type_confidence=confidence,
         summary=summary,
-        flags=_sort_flags(flags),
+        flags=_sort_flags(cleaned_flags),
         counts=counts_dict,
         generated_at=datetime.now(timezone.utc).isoformat(),
     )

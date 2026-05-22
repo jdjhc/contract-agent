@@ -27,6 +27,7 @@ from models import (
     FlagItem,
     FlagLevel,
     ReviewMetrics,
+    display_clause_id,
 )
 from services.classifier import classify_by_keywords
 from services.comparator import compare_clauses, load_positions
@@ -186,7 +187,7 @@ _AUGMENT_SYSTEM = (
 _CLAUSE_TEXT_CAP = 6000
 
 # Per-clause LLM calls run in parallel; cap to avoid hammering the provider.
-_AUGMENT_CONCURRENCY = 6
+_AUGMENT_CONCURRENCY = 10
 
 
 def _augment_user_prompt(
@@ -199,6 +200,14 @@ def _augment_user_prompt(
     clause_body = clause.text[:_CLAUSE_TEXT_CAP]
     if len(clause.text) > _CLAUSE_TEXT_CAP:
         clause_body += f"\n... [truncated, full clause is {len(clause.text)} chars]"
+
+    # Strip the internal duplicate-disambiguation suffix from any id the LLM sees.
+    display_id = display_clause_id(clause.id)
+    seed_dumps = []
+    for f in clause_seeds:
+        d = f.model_dump()
+        d["clause_id"] = display_clause_id(d.get("clause_id", ""))
+        seed_dumps.append(d)
 
     parts = [f"Contract type: {contract_type.value}\n"]
     parts.append(
@@ -218,13 +227,13 @@ def _augment_user_prompt(
         )
     parts.append(
         f"## Clause under review\n"
-        f"id: {clause.id}\n"
+        f"id: {display_id}\n"
         f"title: {clause.title}\n"
         f"text:\n{clause_body}"
     )
     parts.append(
         "## Candidate flags raised against this clause by the deterministic comparator\n"
-        + json.dumps([f.model_dump() for f in clause_seeds], indent=2)
+        + json.dumps(seed_dumps, indent=2)
     )
     return "\n\n".join(parts)
 
@@ -273,6 +282,11 @@ async def _augment_one_clause(
     refined = _parse_augment_response(raw)
     if refined is None:
         return clause_seeds
+    # Trust our own clause id — LLM only sees the stripped display id, so we
+    # always overwrite with the true unique internal id (and the verbatim title).
+    for f in refined:
+        f.clause_id = clause.id
+        f.clause_title = clause.title
     return refined or clause_seeds
 
 
@@ -341,10 +355,15 @@ async def _llm_summary(
         "review report. Mention overall risk posture, the headline issues, "
         "and a recommended next step. Plain prose, no bullets."
     )
+    flag_dumps = []
+    for f in flags:
+        d = f.model_dump()
+        d["clause_id"] = display_clause_id(d.get("clause_id", ""))
+        flag_dumps.append(d)
     user = (
         f"Contract type: {contract_type.value}\n"
         f"Filename: {doc.filename}\n"
-        f"Flags: {json.dumps([f.model_dump() for f in flags])}\n"
+        f"Flags: {json.dumps(flag_dumps)}\n"
     )
     text = await call_llm(system, user, max_tokens=400, label="summary")
     return text.strip() or None

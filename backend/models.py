@@ -7,6 +7,18 @@ from typing import Literal
 from pydantic import BaseModel, Field
 
 
+# Sentinel used inside clause ids to disambiguate duplicates emitted by the
+# LLM splitter (e.g. three clauses starting with "Agreement" all get id="A").
+# Storage keeps the suffix so dict lookups stay unique; display and LLM
+# prompts strip it via display_clause_id() so the user-facing id is just "A".
+DUP_SENTINEL = "__dup__"
+
+
+def display_clause_id(clause_id: str) -> str:
+    """Strip the duplicate-disambiguation suffix from a clause id."""
+    return clause_id.split(DUP_SENTINEL, 1)[0]
+
+
 class ContractType(str, Enum):
     PUBLIC_RESEARCH = "Public Research Contract"
     COMMERCIAL_RESEARCH = "Commercial Research Contract"

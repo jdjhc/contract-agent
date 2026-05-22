@@ -1,0 +1,12 @@
+{
+  "filename": "Contract Example 1.pdf",
+  "predicted_type": "Public Research Contract",
+  "confidence": 0.95,
+  "rationale": "The document outlines terms for funding and obligations related to a research program, with references to government involvement, compliance with government policies, and potential risks to the government. These elements strongly indicate a Public Research Contract, aligning with the keyword baseline and context.",
+  "expected_hint": null,
+  "name_match": null,
+  "wall_ms": 4427.4,
+  "source_text_chars": 43299,
+  "source_clauses": 41,
+  "merged_fragments": []
+}

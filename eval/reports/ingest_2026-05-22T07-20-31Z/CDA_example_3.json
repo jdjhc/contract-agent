@@ -1,0 +1,167 @@
+{
+  "filename": "CDA example 3.pdf",
+  "merged_fragments": [],
+  "text_chars": 6139,
+  "n_clauses": 30,
+  "ingest_metrics": {
+    "n_calls": 1,
+    "input_tokens": 1284,
+    "output_tokens": 499,
+    "latency_ms": 9414.2,
+    "total_cost_usd": 0.0082
+  },
+  "wall_ms": 9501.7,
+  "text": "CONFIDENTIALITY AGREEMENT\nThis Confidentiality Agreement (the “Agreement”) is entered into as of the date of the last signature (“Effective Date”) by and between registered\nin England and Wales under Company No. and the entity or individual listed in the signature block below (“Partner”). and\nPartner are each a “Party” and collectively, the “Parties.” 5 Return of Confidential Information. Upon the disclosing Party’s\nrequest, the Recipient shall promptly return or, at the disclosing Party’s\n1 Introduction. The Parties have entered or propose to enter discussions option destroys all documents containing Confidential Information and any other\nin order to explore mutually beneficial business opportunities (the documents, specifications, data or information of any nature whatsoever based on\n“Purpose”). In connection with the Purpose, either Party may disclose or relating to Confidential Information. Upon the request of the disclosing Party, an\ninformation of a confidential nature to the other Party which is then officer of the Recipient shall promptly certify in writing that such destruction has\nreferred to as Recipient. been completed.\n2 Confidential information. As used in this Agreement, “Confidential 6 No License. Any and all rights to the Confidential Information, including\nInformation” means either Party’s non-public and/or proprietary but not limited to copyright, trademarks, patents and any other\ninformation that: (a) if disclosed in writing, is labelled as “confidential” intellectual property rights, shall remain the property of the disclosing\nor “proprietary”; (b) if disclosed orally, is designated confidential at Party. No license to or in any of the Confidential Information is hereby\ndisclosure; or (c) by its nature and/or the circumstances of its disclosure, granted directly or indirectly or implied in any way whatsoever. This\nshould be reasonably considered as confidential. Agreement imposes no obligation on either Party to proceed with any\nbusiness transaction or agreement and does not create any agency or\n3 Use of Confidential Information.\npartnership of any kind between the Parties.\n3.1 The Recipient shall keep Confidential Information strictly\n7 Term. Either Party may terminate this Agreement on thirty (30) days’\nconfidential and not disclose such Confidential Information to\nwritten notice. The Parties’ confidentiality obligations will survive for an\nany third party without the disclosing Party’s prior written\nadditional one (1) years after the termination of this Agreement,\nconsent. The Recipient shall treat such Confidential Information\nprovided that any trade secrets must be maintained confidentially so\nwith the same degree of care that it treats its own Confidential\nlong as such information constitutes a trade secret. The term of the\nInformation, but in no event less than a reasonable degree of\nagreement is for 12 month from date of signature.\ncare.\n8 Disclaimer. The disclosing Party discloses the Confidential Information\n3.2 The Recipient may only use the Confidential Information for\nwithout any warranty as to the correctness or completeness of the\nthe Purpose and shall not use the Confidential Information for\nConfidential Information, express or implied, of any kind. The disclosing\nany other purpose whatsoever.\nParty shall not be liable for any costs or damages whatsoever incurred\n3.3 The Recipient may disclose the Confidential Information only to the Recipient or any third party arising out of the correctness or\nto its employees, agents, consultants, contractors, and those of completeness of the Confidential Information.\nits group companies (“Representatives”) on a strictly “need-to-\nknow” basis. The Recipient shall ensure that Representatives are 9 Amendments; Entire Agreement. Any amendments to this\nbound by obligations no less extensive than those set out in this Agreement must be made in writing and signed by both Parties in order to be valid.\nAgreement. The Recipient shall be liable to the disclosing Party This Agreement constitutes the entire agreement between the Parties with respect\npursuant to the provisions set forth in this Agreement for any to the Purpose and supersedes all prior oral or written agreements between the\nbreach by its Representatives. Parties.\n3.4 Confidential Information shall not include information that 10 Counterparts; No Assignment. This Agreement may be executed in\n(a) was known to the Recipient prior to the time of disclosure; counterparts, and via facsimile and/or .pdf. Recipient may not assign or\n(b) was in the public domain prior to the time of execution of transfer this Agreement without the other Party’s written consent, not\nthis Agreement, or which comes into the public domain through to be unreasonably withheld.\nno fault or breach of the Agreement by the Recipient; or (c) has 11 Governing Law. This Agreement shall be governed by and in accordance\nbeen independently developed by the Recipient without with the laws of England. Any dispute arising out of or in connection\nreference to or use of the Confidential Information. with this Agreement, including any question regarding its existence,\n4 Right to Notice. In the event the Recipient receives a request to release validity or termination, shall be determined by arbitration in London in\nConfidential Information pursuant to a court order, subpoena, or other accordance with the ICC Rules in force at the commencement of the\ngovernmental authority, Recipient shall provide the disclosing Party arbitration. The number of arbitrators shall be one. The language of the\nwith prompt written notice in order to permit the disclosing Party to arbitration shall be English.\neither consent to the disclosure or seek a protective order or other 12 Notices. Any notice hereunder will be effective upon receipt, must be\nappropriate remedy. Recipient shall limit the disclosure of Confidential given in writing, and delivered to the other Party at its address given\nInformation to the greatest extent possible under the circumstances. herein and via e-mail.\nDATE:\nPARTNER: Univ e rsity of Auckland\nADDRESS:\n22 Princes Street, Auckland, New Zealand",
+  "clauses": [
+    {
+      "id": "C",
+      "title": "CONFIDENTIALITY AGREEMENT",
+      "text": "CONFIDENTIALITY AGREEMENT\nThis Confidentiality Agreement (the “Agreement”) is entered into as of the date of the last signature (“Effective Date”) by and between registered\nin England and Wales under Company No. and the entity or individual listed in the signature block below (“Partner”). and\nPartner are each a “Party” and collectively, the “Parties.”"
+    },
+    {
+      "id": "5",
+      "title": "5 Return of Confidential Information. Upon the disclosing Party’s",
+      "text": "5 Return of Confidential Information. Upon the disclosing Party’s\nrequest, the Recipient shall promptly return or, at the disclosing Party’s"
+    },
+    {
+      "id": "1",
+      "title": "1 Introduction. The Parties have entered or propose to enter discussions",
+      "text": "1 Introduction. The Parties have entered or propose to enter discussions option destroys all documents containing Confidential Information and any other\nin order to explore mutually beneficial business opportunities (the documents, specifications, data or information of any nature whatsoever based on"
+    },
+    {
+      "id": "4",
+      "title": "“Purpose”). In connection with the Purpose, either Party may disclose",
+      "text": "“Purpose”). In connection with the Purpose, either Party may disclose or relating to Confidential Information. Upon the request of the disclosing Party, an\ninformation of a confidential nature to the other Party which is then officer of the Recipient shall promptly certify in writing that such destruction has\nreferred to as Recipient. been completed."
+    },
+    {
+      "id": "2",
+      "title": "2 Confidential information. As used in this Agreement, “Confidential",
+      "text": "2 Confidential information. As used in this Agreement, “Confidential"
+    },
+    {
+      "id": "6",
+      "title": "6 No License. Any and all rights to the Confidential Information, including",
+      "text": "6 No License. Any and all rights to the Confidential Information, including\nInformation” means either Party’s non-public and/or proprietary but not limited to copyright, trademarks, patents and any other\ninformation that: (a) if disclosed in writing, is labelled as “confidential” intellectual property rights, shall remain the property of the disclosing"
+    },
+    {
+      "id": "7",
+      "title": "or “proprietary”; (b) if disclosed orally, is designated confidential at",
+      "text": "or “proprietary”; (b) if disclosed orally, is designated confidential at Party. No license to or in any of the Confidential Information is hereby\ndisclosure; or (c) by its nature and/or the circumstances of its disclosure, granted directly or indirectly or implied in any way whatsoever. This\nshould be reasonably considered as confidential. Agreement imposes no obligation on either Party to proceed with any\nbusiness transaction or agreement and does not create any agency or"
+    },
+    {
+      "id": "3",
+      "title": "3 Use of Confidential Information.",
+      "text": "3 Use of Confidential Information.\npartnership of any kind between the Parties."
+    },
+    {
+      "id": "3.1",
+      "title": "3.1 The Recipient shall keep Confidential Information strictly",
+      "text": "3.1 The Recipient shall keep Confidential Information strictly"
+    },
+    {
+      "id": "7__dup__2",
+      "title": "7 Term. Either Party may terminate this Agreement on thirty (30) days’",
+      "text": "7 Term. Either Party may terminate this Agreement on thirty (30) days’\nconfidential and not disclose such Confidential Information to"
+    },
+    {
+      "id": "11",
+      "title": "written notice. The Parties’ confidentiality obligations will survive for an",
+      "text": "written notice. The Parties’ confidentiality obligations will survive for an"
+    },
+    {
+      "id": "12",
+      "title": "any third party without the disclosing Party’s prior written",
+      "text": "any third party without the disclosing Party’s prior written\nadditional one (1) years after the termination of this Agreement,\nconsent. The Recipient shall treat such Confidential Information\nprovided that any trade secrets must be maintained confidentially so\nwith the same degree of care that it treats its own Confidential\nlong as such information constitutes a trade secret. The term of the\nInformation, but in no event less than a reasonable degree of\nagreement is for 12 month from date of signature.\ncare."
+    },
+    {
+      "id": "8",
+      "title": "8 Disclaimer. The disclosing Party discloses the Confidential Information",
+      "text": "8 Disclaimer. The disclosing Party discloses the Confidential Information"
+    },
+    {
+      "id": "3.2",
+      "title": "3.2 The Recipient may only use the Confidential Information for",
+      "text": "3.2 The Recipient may only use the Confidential Information for"
+    },
+    {
+      "id": "15",
+      "title": "without any warranty as to the correctness or completeness of the",
+      "text": "without any warranty as to the correctness or completeness of the"
+    },
+    {
+      "id": "16",
+      "title": "the Purpose and shall not use the Confidential Information for",
+      "text": "the Purpose and shall not use the Confidential Information for\nConfidential Information, express or implied, of any kind. The disclosing\nany other purpose whatsoever.\nParty shall not be liable for any costs or damages whatsoever incurred"
+    },
+    {
+      "id": "3.3",
+      "title": "3.3 The Recipient may disclose the Confidential Information only to",
+      "text": "3.3 The Recipient may disclose the Confidential Information only to the Recipient or any third party arising out of the correctness or"
+    },
+    {
+      "id": "18",
+      "title": "to its employees, agents, consultants, contractors, and those of",
+      "text": "to its employees, agents, consultants, contractors, and those of completeness of the Confidential Information.\nits group companies (“Representatives”) on a strictly “need-to-\nknow” basis. The Recipient shall ensure that Representatives are"
+    },
+    {
+      "id": "9",
+      "title": "9 Amendments; Entire Agreement. Any amendments to this",
+      "text": "9 Amendments; Entire Agreement. Any amendments to this\nbound by obligations no less extensive than those set out in this"
+    },
+    {
+      "id": "A",
+      "title": "Agreement must be made in writing and signed by both Parties in order to be vali",
+      "text": "Agreement must be made in writing and signed by both Parties in order to be valid.\nAgreement. The Recipient shall be liable to the disclosing Party This Agreement constitutes the entire agreement between the Parties with respect\npursuant to the provisions set forth in this Agreement for any to the Purpose and supersedes all prior oral or written agreements between the\nbreach by its Representatives. Parties."
+    },
+    {
+      "id": "3.4",
+      "title": "3.4 Confidential Information shall not include information that",
+      "text": "3.4 Confidential Information shall not include information that"
+    },
+    {
+      "id": "10",
+      "title": "10 Counterparts; No Assignment. This Agreement may be executed in",
+      "text": "10 Counterparts; No Assignment. This Agreement may be executed in"
+    },
+    {
+      "id": "23",
+      "title": "(a) was known to the Recipient prior to the time of disclosure;",
+      "text": "(a) was known to the Recipient prior to the time of disclosure;"
+    },
+    {
+      "id": "24",
+      "title": "counterparts, and via facsimile and/or .pdf. Recipient may not assign or",
+      "text": "counterparts, and via facsimile and/or .pdf. Recipient may not assign or\n(b) was in the public domain prior to the time of execution of transfer this Agreement without the other Party’s written consent, not\nthis Agreement, or which comes into the public domain through to be unreasonably withheld.\nno fault or breach of the Agreement by the Recipient; or (c) has"
+    },
+    {
+      "id": "11__dup__2",
+      "title": "11 Governing Law. This Agreement shall be governed by and in accordance",
+      "text": "11 Governing Law. This Agreement shall be governed by and in accordance\nbeen independently developed by the Recipient without"
+    },
+    {
+      "id": "26",
+      "title": "with the laws of England. Any dispute arising out of or in connection",
+      "text": "with the laws of England. Any dispute arising out of or in connection\nreference to or use of the Confidential Information. with this Agreement, including any question regarding its existence,"
+    },
+    {
+      "id": "4__dup__2",
+      "title": "4 Right to Notice. In the event the Recipient receives a request to release",
+      "text": "4 Right to Notice. In the event the Recipient receives a request to release validity or termination, shall be determined by arbitration in London in"
+    },
+    {
+      "id": "C__dup__2",
+      "title": "Confidential Information pursuant to a court order, subpoena, or other",
+      "text": "Confidential Information pursuant to a court order, subpoena, or other accordance with the ICC Rules in force at the commencement of the\ngovernmental authority, Recipient shall provide the disclosing Party arbitration. The number of arbitrators shall be one. The language of the\nwith prompt written notice in order to permit the disclosing Party to arbitration shall be English.\neither consent to the disclosure or seek a protective order or other"
+    },
+    {
+      "id": "12__dup__2",
+      "title": "12 Notices. Any notice hereunder will be effective upon receipt, must be",
+      "text": "12 Notices. Any notice hereunder will be effective upon receipt, must be\nappropriate remedy. Recipient shall limit the disclosure of Confidential"
+    },
+    {
+      "id": "30",
+      "title": "given in writing, and delivered to the other Party at its address given",
+      "text": "given in writing, and delivered to the other Party at its address given\nInformation to the greatest extent possible under the circumstances. herein and via e-mail.\nDATE:\nPARTNER: Univ e rsity of Auckland\nADDRESS:\n22 Princes Street, Auckland, New Zealand"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "MTA Example 3.pdf",
+  "contract_type": "Data Transfer Agreement",
+  "flags_source": "augment",
+  "n_flags": 71,
+  "counts": {
+    "red": 4,
+    "amber": 8,
+    "green": 3,
+    "blue": 56
+  },
+  "summary": "The review of \"MTA Example 3.pdf,\" a Data Transfer Agreement, reveals a moderate to high-risk posture due to several flagged issues, including governing law, publication rights, and termination provisions. Notably, the agreement specifies Canadian law (Ontario) as the governing jurisdiction, which deviates from UoA's Preferred and Acceptable tiers, and imposes prior consent requirements for publication, conflicting with UoA's academic freedom standards. Additionally, the termination clause allows for termination for convenience, which is inconsistent with UoA's preferred termination framework. Immediate escalation to General Counsel and the Senior Manager, Research Grants and Contracts, is recommended to address these critical deviations and negotiate alignment with UoA's policies.",
+  "wall_ms": 10078.9
+}

@@ -1,0 +1,635 @@
+{
+  "filename": "Collaboration Agreement Example 2.pdf",
+  "contract_type": "Collaboration Agreement",
+  "n_seed_flags": 38,
+  "n_augmented_flags": 38,
+  "seed_counts": {
+    "red": 0,
+    "amber": 5,
+    "green": 0,
+    "blue": 33
+  },
+  "augmented_counts": {
+    "red": 2,
+    "amber": 2,
+    "green": 1,
+    "blue": 33
+  },
+  "level_changes": {
+    "amber→green": 1,
+    "amber→red": 2
+  },
+  "wall_ms": 17912.1,
+  "seed_flags": [
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Research Collaboration Agreement",
+      "snippet": "Research Collaboration Agreement",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "Between [REDACTED] and",
+      "snippet": "Between [REDACTED] and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "U",
+      "clause_title": "University of Auckland",
+      "snippet": "University of Auckland",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "San Francisco, Aug 29, 2024",
+      "snippet": "San Francisco, Aug 29, 2024",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "O",
+      "clause_title": "ON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS",
+      "snippet": "ON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS “[REDACTED]”",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__2",
+      "clause_title": "REPRESENTED BY [REDACTED] ACTING ON BEHALF",
+      "snippet": "REPRESENTED BY [REDACTED] ACTING ON BEHALF",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__3",
+      "clause_title": "REGISTERED IN [REDACTED];",
+      "snippet": "REGISTERED IN [REDACTED];",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "O__dup__2",
+      "clause_title": "OTHER SIDE, THE RESEARCHER University of Auckland",
+      "snippet": "OTHER SIDE, THE RESEARCHER University of Auckland",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "a university constituted under the University of Auckland Act 1961 AT",
+      "snippet": "a university constituted under the University of Auckland Act 1961 AT University of Auckland;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "IN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS.",
+      "snippet": "IN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__2",
+      "clause_title": "STATEMENTS:",
+      "snippet": "STATEMENTS:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__2",
+      "clause_title": "I. The parties are institutions with full capacity to engage, and whose",
+      "snippet": "I. The parties are institutions with full capacity to engage, and whose essential purposes are research and development.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__3",
+      "clause_title": "II. The parties coincide in the interest of promoting teaching, research,",
+      "snippet": "II. The parties coincide in the interest of promoting teaching, research, and development, the reason for which it is their will to endorse the present agreement in the clauses and conditions established below: ``` CLAU…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F",
+      "clause_title": "FIRST. The present aggreement seeks to establish the bases and criteria",
+      "snippet": "FIRST. The present aggreement seeks to establish the bases and criteria upon which and will establish a collaboration.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__3",
+      "clause_title": "SECOND.The parties declare their interest in collaboration in relation to",
+      "snippet": "SECOND.The parties declare their interest in collaboration in relation to the provision of Assessment Licenses by to the University of Auckland.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "THIRD. The parties agree that the specific development, activities,",
+      "snippet": "THIRD. The parties agree that the specific development, activities, responsibilities of each party, and the budget for the activity programs resulting from this agreement will be detailed and added as annexes to this ag…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__2",
+      "clause_title": "FOURTH. The parties will designate members of their personnel to be",
+      "snippet": "FOURTH. The parties will designate members of their personnel to be responsible for monitoring this agreement and all the specific ones that are signed.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "F__dup__3",
+      "clause_title": "FIFTH. A party must not use the names, logos or trade marks of the other",
+      "snippet": "FIFTH. A party must not use the names, logos or trade marks of the other party or its personnel in any publicity or marketing without the other party’s prior written consent.",
+      "rationale": "Touches the UoA-sensitive topic of Publicity; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Neither party can use names or brands of the other or their personnel without prior written consent. | Escalation: University Marketing (brand@auckland.ac.nz).",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__4",
+      "clause_title": "SIXTH. The personnel designated in each party for the implementation of",
+      "snippet": "SIXTH. The personnel designated in each party for the implementation of any joint action will depend exclusively on the institution with which they have established their labor relationship.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__5",
+      "clause_title": "SEVENTH. The present agreement will be effective for three years from",
+      "snippet": "SEVENTH. The present agreement will be effective for three years from the date of signing.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "E",
+      "clause_title": "EIGHTH. Both parties agree to treat any scientific and technical",
+      "snippet": "EIGHTH. Both parties agree to treat any scientific and technical information received from the other party during the collaboration as confidential, ensuring limited circulation of said information and assuming responsi…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "T__dup__2",
+      "clause_title": "This duty of confidentiality will persist indefinitely following the",
+      "snippet": "This duty of confidentiality will persist indefinitely following the termination of this contract.",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NINTH. The parties undertake to fully comply with the data protection",
+      "snippet": "NINTH. The parties undertake to fully comply with the data protection obligations contained in the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the protection of natural persons about the processing of pe…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__3",
+      "clause_title": "The parties have the right to request access to their personal data,",
+      "snippet": "The parties have the right to request access to their personal data, rectification or deletion, as well as the limitation of its treatment, to oppose it and the portability of their data.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__4",
+      "clause_title": "TENTH. The parties expressly accept the content and ethical values",
+      "snippet": "TENTH. The parties expressly accept the content and ethical values established in the Code of Conduct and Anticorruption Policy of the other party, whose content they know, formally committing to putting it into practic…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "L",
+      "clause_title": "Likewise, the enforcement of this Code and Policy is mandatory for all",
+      "snippet": "Likewise, the enforcement of this Code and Policy is mandatory for all third parties involved on their own in all activities developed jointly.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__4",
+      "clause_title": "Failure to comply with the provisions of this clause, as well as any",
+      "snippet": "Failure to comply with the provisions of this clause, as well as any unethical behavior that may arise during the relationship of the parties must be reported immediately, will be cause for resolution, and, where approp…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "E__dup__2",
+      "clause_title": "ELEVENTH. The collaboration relationship provided for in this agreement",
+      "snippet": "ELEVENTH. The collaboration relationship provided for in this agreement excludes any employment relationship between the parties.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "T__dup__5",
+      "clause_title": "The parties undertake to resolve amicably any disagreement that may",
+      "snippet": "The parties undertake to resolve amicably any disagreement that may arise in the development of this Collaboration Agreement. In case of divergences in the interpretation and fulfillment of the same or the specific agre…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "T__dup__6",
+      "clause_title": "The maximum aggregate liability of one party to the other under or in",
+      "snippet": "The maximum aggregate liability of one party to the other under or in connection with this Agreement shall be limited to an amount equal to ______. Neither party shall be liable to the other for any loss of profits, rev…",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__4",
+      "clause_title": "Read and understood by the parties, it is signed in two copies.",
+      "snippet": "Read and understood by the parties, it is signed in two copies.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__7",
+      "clause_title": "The parties hereto have caused this agreement to be executed by their",
+      "snippet": "The parties hereto have caused this agreement to be executed by their respective authorized representatives as of the day, month and year entered above.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__5",
+      "clause_title": "For ___________________________",
+      "snippet": "For ___________________________",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__6",
+      "clause_title": "Signed by: _____________________",
+      "snippet": "Signed by: _____________________ [signature]",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__8",
+      "clause_title": "Title: __________________________",
+      "snippet": "Title: __________________________",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__6",
+      "clause_title": "For University of Auckland",
+      "snippet": "For University of Auckland",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__7",
+      "clause_title": "Signed by: University of Auckland",
+      "snippet": "Signed by: University of Auckland [signature]",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__9",
+      "clause_title": "Title: a university constituted under the University of Auckland Act",
+      "snippet": "Title: a university constituted under the University of Auckland Act 1961",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    }
+  ],
+  "augmented_flags": [
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Research Collaboration Agreement",
+      "snippet": "Research Collaboration Agreement",
+      "rationale": "The clause title 'Research Collaboration Agreement' does not address any specific contractual topic covered by the UoA Preferred Contracting Positions. It is a generic heading and does not require evaluation against the Positions document.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "Between [REDACTED] and",
+      "snippet": "Between [REDACTED] and",
+      "rationale": "The clause appears to be a placeholder or introductory text identifying the parties to the agreement. This topic is not addressed in the UoA Preferred Contracting Positions, and there is no standard template for this contract type.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "U",
+      "clause_title": "University of Auckland",
+      "snippet": "University of Auckland",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. It appears to be a placeholder or heading without substantive content.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "San Francisco, Aug 29, 2024",
+      "snippet": "San Francisco, Aug 29, 2024",
+      "rationale": "The clause appears to be a date and location reference, which is not addressed in the UoA Preferred Contracting Positions. It does not fall under any specific policy or topic covered by the Positions document.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "O",
+      "clause_title": "ON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS",
+      "snippet": "ON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS “[REDACTED]”",
+      "rationale": "The clause pertains to the identification of parties, which is not addressed in the UoA Preferred Contracting Positions. No specific guidance or template exists for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__2",
+      "clause_title": "REPRESENTED BY [REDACTED] ACTING ON BEHALF",
+      "snippet": "REPRESENTED BY [REDACTED] ACTING ON BEHALF",
+      "rationale": "The clause topic (representation or authority to act) is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__3",
+      "clause_title": "REGISTERED IN [REDACTED];",
+      "snippet": "REGISTERED IN [REDACTED];",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy guidance or escalation route applies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "O__dup__2",
+      "clause_title": "OTHER SIDE, THE RESEARCHER University of Auckland",
+      "snippet": "OTHER SIDE, THE RESEARCHER University of Auckland",
+      "rationale": "The clause does not address any specific topic covered in the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "a university constituted under the University of Auckland Act 1961 AT",
+      "snippet": "a university constituted under the University of Auckland Act 1961 AT University of Auckland;",
+      "rationale": "The clause refers to the legal constitution of the University of Auckland under the University of Auckland Act 1961. This topic is not addressed in the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "IN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS.",
+      "snippet": "IN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS.",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions, nor does it align with any keywords or policies provided. It appears to be a placeholder or introductory statement without substantive content.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__2",
+      "clause_title": "STATEMENTS:",
+      "snippet": "STATEMENTS:",
+      "rationale": "The clause 'STATEMENTS:' does not correspond to any topic covered in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__2",
+      "clause_title": "I. The parties are institutions with full capacity to engage, and whose",
+      "snippet": "I. The parties are institutions with full capacity to engage, and whose essential purposes are research and development.",
+      "rationale": "The clause addresses the capacity and purpose of the parties, which is not covered by any UoA Preferred Contracting Positions or associated keywords. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__3",
+      "clause_title": "II. The parties coincide in the interest of promoting teaching, research,",
+      "snippet": "II. The parties coincide in the interest of promoting teaching, research, and development, the reason for which it is their will to endorse the present agreement in the clauses and conditions established below: ``` CLAU…",
+      "rationale": "The clause is a general preamble or recital expressing the intent of the parties to collaborate in teaching, research, and development. This topic is not specifically addressed in the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F",
+      "clause_title": "FIRST. The present aggreement seeks to establish the bases and criteria",
+      "snippet": "FIRST. The present aggreement seeks to establish the bases and criteria upon which and will establish a collaboration.",
+      "rationale": "The clause introduces the purpose and framework of the agreement, which is not addressed in the UoA Preferred Contracting Positions. No specific guidance or template exists for this type of introductory clause.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__3",
+      "clause_title": "SECOND.The parties declare their interest in collaboration in relation to",
+      "snippet": "SECOND.The parties declare their interest in collaboration in relation to the provision of Assessment Licenses by to the University of Auckland.",
+      "rationale": "The clause addresses a topic (collaboration and provision of Assessment Licenses) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "THIRD. The parties agree that the specific development, activities,",
+      "snippet": "THIRD. The parties agree that the specific development, activities, responsibilities of each party, and the budget for the activity programs resulting from this agreement will be detailed and added as annexes to this ag…",
+      "rationale": "The clause addresses the inclusion of annexes detailing specific development, activities, responsibilities, and budget, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__2",
+      "clause_title": "FOURTH. The parties will designate members of their personnel to be",
+      "snippet": "FOURTH. The parties will designate members of their personnel to be responsible for monitoring this agreement and all the specific ones that are signed.",
+      "rationale": "The clause addresses the designation of personnel for monitoring the agreement, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "F__dup__3",
+      "clause_title": "FIFTH. A party must not use the names, logos or trade marks of the other",
+      "snippet": "FIFTH. A party must not use the names, logos or trade marks of the other party or its personnel in any publicity or marketing without the other party’s prior written consent.",
+      "rationale": "The clause aligns exactly with UoA Position #POS-14, which states that neither party can use the names or brands of the other or their personnel without prior written consent. This matches the Preferred tier for the topic of Publicity.",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__4",
+      "clause_title": "SIXTH. The personnel designated in each party for the implementation of",
+      "snippet": "SIXTH. The personnel designated in each party for the implementation of any joint action will depend exclusively on the institution with which they have established their labor relationship.",
+      "rationale": "The clause addresses the allocation of personnel responsibilities based on their employment relationship, which is not covered by any UoA Preferred Contracting Positions or associated keywords. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__5",
+      "clause_title": "SEVENTH. The present agreement will be effective for three years from",
+      "snippet": "SEVENTH. The present agreement will be effective for three years from the date of signing.",
+      "rationale": "The topic of agreement duration or term is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "E",
+      "clause_title": "EIGHTH. Both parties agree to treat any scientific and technical",
+      "snippet": "EIGHTH. Both parties agree to treat any scientific and technical information received from the other party during the collaboration as confidential, ensuring limited circulation of said information and assuming responsibility for this obligation being fulfilled by all personnel who require access under this agreement.",
+      "rationale": "The clause addresses confidentiality but does not explicitly align with UoA's Preferred Position under POS-11. Specifically, it does not exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not specify a time limit for confidentiality obligations (e.g., up to 5 years post-completion). While the clause is generally acceptable, it requires confirmation that it aligns with UoA's Acceptable tier, which allows confidentiality obligations limited in time (e.g., 5–7 years post-termination/expiry/disclosure). Escalation to the Senior Manager, Research Grants and Contracts, is recommended for further review.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "red",
+      "clause_id": "T__dup__2",
+      "clause_title": "This duty of confidentiality will persist indefinitely following the",
+      "snippet": "This duty of confidentiality will persist indefinitely following the termination of this contract.",
+      "rationale": "The clause addresses confidentiality but specifies an indefinite duration, which is not aligned with UoA's Preferred or Acceptable positions. UoA's Preferred position under POS-11 limits confidentiality obligations to a maximum of 5 years post-completion, and the Acceptable position allows for 5–7 years. Indefinite confidentiality obligations are outside the Acceptable tier and require escalation to the Senior Manager, Research Grants and Contracts for review and potential renegotiation.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NINTH. The parties undertake to fully comply with the data protection",
+      "snippet": "NINTH. The parties undertake to fully comply with the data protection obligations contained in the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the protection of natural persons about the processing of pe…",
+      "rationale": "The clause addresses data protection obligations under the GDPR, which is not covered in the UoA Preferred Contracting Positions or any UoA Standard Template. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__3",
+      "clause_title": "The parties have the right to request access to their personal data,",
+      "snippet": "The parties have the right to request access to their personal data, rectification or deletion, as well as the limitation of its treatment, to oppose it and the portability of their data.",
+      "rationale": "The clause addresses data protection rights, which is not covered in the UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__4",
+      "clause_title": "TENTH. The parties expressly accept the content and ethical values",
+      "snippet": "TENTH. The parties expressly accept the content and ethical values established in the Code of Conduct and Anticorruption Policy of the other party, whose content they know, formally committing to putting it into practice in each one of the decisions, processes, and activities developed in collaboration with the party, as well as not carrying out any practice that in any way may lead to a violation of applicable laws or regulations related to corruption.",
+      "rationale": "The clause addresses ethical values and anticorruption policies, which are not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "L",
+      "clause_title": "Likewise, the enforcement of this Code and Policy is mandatory for all",
+      "snippet": "Likewise, the enforcement of this Code and Policy is mandatory for all third parties involved on their own in all activities developed jointly.",
+      "rationale": "The clause addresses the enforcement of a 'Code and Policy' for third parties, which is not covered by any UoA Preferred Contracting Positions or associated keywords. As such, it falls outside the scope of the documented positions and requires further review to determine its appropriateness.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__4",
+      "clause_title": "Failure to comply with the provisions of this clause, as well as any",
+      "snippet": "Failure to comply with the provisions of this clause, as well as any unethical behavior that may arise during the relationship of the parties must be reported immediately, will be cause for resolution, and, where appropriate, will result in demanding lawful compensation for damages that may arise.",
+      "rationale": "The clause addresses a topic (unethical behavior and its consequences) that is not explicitly covered in the UoA Preferred Contracting Positions. There is no guidance or standard template language for this type of provision, and it does not align with any of the listed topics or keywords.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "E__dup__2",
+      "clause_title": "ELEVENTH. The collaboration relationship provided for in this agreement",
+      "snippet": "ELEVENTH. The collaboration relationship provided for in this agreement excludes any employment relationship between the parties.",
+      "rationale": "The clause addresses the exclusion of an employment relationship between the parties, which is not covered by any UoA Preferred Contracting Positions or a UoA Standard Template. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "T__dup__5",
+      "clause_title": "The parties undertake to resolve amicably any disagreement that may",
+      "snippet": "The parties undertake to resolve amicably any disagreement that may arise in the development of this Collaboration Agreement. In case of divergences in the interpretation and fulfillment of the same or the specific agreements or contracts that result, the Courts and Tribunals of the parties' headquarters will be the only ones with competency, the parties expressly waiving to any other jurisdiction that may correspond.",
+      "rationale": "This clause addresses the topic of Governing Law and Jurisdiction (UoA Position #POS-16). The clause specifies that the Courts and Tribunals of the parties' headquarters will have exclusive jurisdiction, which is inconsistent with both the Preferred (New Zealand) and Acceptable (Australia, the United Kingdom, Common European countries, Singapore, or non-exclusive jurisdiction of a specific US state) positions. Exclusive jurisdiction in unspecified locations introduces significant legal risk and falls outside the Acceptable tier. Escalation to General Counsel is required.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "T__dup__6",
+      "clause_title": "The maximum aggregate liability of one party to the other under or in",
+      "snippet": "The maximum aggregate liability of one party to the other under or in connection with this Agreement shall be limited to an amount equal to ______. Neither party shall be liable to the other for any loss of profits, revenue, savings, business, goodwill, or for any consequential, indirect, incidental, or special damages of any kind under or in connection with this Agreement.",
+      "rationale": "The clause addresses the topic of Liability Limitations and Exclusions, which is covered under UoA Position #POS-07. While the clause explicitly excludes consequential, indirect, and other specified losses, it does not specify a monetary cap for the maximum aggregate liability. This omission prevents full alignment with the Preferred tier, which requires a cap of the lesser of the contract value or NZD$500,000. However, the clause aligns with the Acceptable tier, provided the total liability limit (including indemnities) is in line with Research Contract Delegations. The clause does not include carve-outs for fraud, wilful default, personal injury/death, statutory non-excludable liability, or confidentiality, which are acceptable exceptions under the UoA Positions. The clause should be reviewed further to ensure compliance with the Research Contract Delegations.",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__4",
+      "clause_title": "Read and understood by the parties, it is signed in two copies.",
+      "snippet": "Read and understood by the parties, it is signed in two copies.",
+      "rationale": "The clause addresses a procedural matter (execution of the agreement in duplicate) that is not covered by any UoA Preferred Contracting Positions or associated policies. As such, it falls outside the scope of the Positions document.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__7",
+      "clause_title": "The parties hereto have caused this agreement to be executed by their",
+      "snippet": "The parties hereto have caused this agreement to be executed by their respective authorized representatives as of the day, month and year entered above.",
+      "rationale": "The clause pertains to execution formalities, which are not addressed in the UoA Preferred Contracting Positions document. No specific policy or template exists for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__5",
+      "clause_title": "For ___________________________",
+      "snippet": "For ___________________________",
+      "rationale": "The clause does not address any topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template. It appears to be a placeholder or incomplete clause without substantive content.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__6",
+      "clause_title": "Signed by: _____________________",
+      "snippet": "Signed by: _____________________ [signature]",
+      "rationale": "The clause pertains to the signature block, which is not addressed in the UoA Preferred Contracting Positions or any registered template for this contract type. Signature blocks are standard administrative elements and do not require substantive review under the provided policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__8",
+      "clause_title": "Title: __________________________",
+      "snippet": "Title: __________________________",
+      "rationale": "The clause addresses the title of the agreement, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "F__dup__6",
+      "clause_title": "For University of Auckland",
+      "snippet": "For University of Auckland",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. It appears to be a placeholder or heading without substantive content.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__7",
+      "clause_title": "Signed by: University of Auckland",
+      "snippet": "Signed by: University of Auckland [signature]",
+      "rationale": "The clause pertains to the signature block, which is not addressed in the UoA Preferred Contracting Positions or any registered template for this contract type. Signature blocks are administrative and do not fall under substantive policy topics.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T__dup__9",
+      "clause_title": "Title: a university constituted under the University of Auckland Act",
+      "snippet": "Title: a university constituted under the University of Auckland Act 1961",
+      "rationale": "The clause addresses the University's legal constitution under the University of Auckland Act 1961, which is not covered by any UoA Preferred Contracting Positions or standard template. As such, it falls outside the scope of the Positions document.",
+      "standard_ref": null
+    }
+  ]
+}

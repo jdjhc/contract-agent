@@ -1,0 +1,384 @@
+{
+  "ran_at": "2026-05-22T07:38:44.153975+00:00",
+  "node": "compare",
+  "ingest_dir": "eval/reports/ingest_2026-05-22T07-20-31Z",
+  "classify_dir": "eval/reports/classify_2026-05-22T07-38-04Z",
+  "n_files": 28,
+  "n_ok": 28,
+  "n_failed": 0,
+  "wall_seconds": 0.86,
+  "totals_by_level": {
+    "red": 13,
+    "amber": 517,
+    "green": 13,
+    "blue": 1096
+  },
+  "missing_in_classify": [],
+  "missing_in_ingest": [],
+  "results": [
+    {
+      "filename": "CDA example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 18,
+        "green": 0,
+        "blue": 21
+      },
+      "n_flags": 39,
+      "wall_ms": 20.09,
+      "checkpoint": "CDA_example_1.json"
+    },
+    {
+      "filename": "CDA example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 13,
+        "green": 2,
+        "blue": 4
+      },
+      "n_flags": 19,
+      "wall_ms": 8.92,
+      "checkpoint": "CDA_example_2.json"
+    },
+    {
+      "filename": "CDA example 3.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 24,
+        "green": 0,
+        "blue": 6
+      },
+      "n_flags": 30,
+      "wall_ms": 8.03,
+      "checkpoint": "CDA_example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 11,
+        "green": 0,
+        "blue": 29
+      },
+      "n_flags": 40,
+      "wall_ms": 23.39,
+      "checkpoint": "Collaboration_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 5,
+        "green": 0,
+        "blue": 33
+      },
+      "n_flags": 38,
+      "wall_ms": 7.49,
+      "checkpoint": "Collaboration_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 3.pdf",
+      "ok": true,
+      "counts": {
+        "red": 2,
+        "amber": 43,
+        "green": 0,
+        "blue": 80
+      },
+      "n_flags": 125,
+      "wall_ms": 35.96,
+      "checkpoint": "Collaboration_Agreement_Example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 4.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 11,
+        "green": 0,
+        "blue": 29
+      },
+      "n_flags": 40,
+      "wall_ms": 34.85,
+      "checkpoint": "Collaboration_Agreement_Example_4.json"
+    },
+    {
+      "filename": "Consultancy Services Agreement Example.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 1,
+        "green": 1,
+        "blue": 39
+      },
+      "n_flags": 41,
+      "wall_ms": 40.79,
+      "checkpoint": "Consultancy_Services_Agreement_Example.json"
+    },
+    {
+      "filename": "Contract Example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 3,
+        "green": 0,
+        "blue": 38
+      },
+      "n_flags": 41,
+      "wall_ms": 36.73,
+      "checkpoint": "Contract_Example_1.json"
+    },
+    {
+      "filename": "Contract Example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 3,
+        "green": 0,
+        "blue": 38
+      },
+      "n_flags": 41,
+      "wall_ms": 35.91,
+      "checkpoint": "Contract_Example_2.json"
+    },
+    {
+      "filename": "Contract Example 3.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 19,
+        "green": 1,
+        "blue": 36
+      },
+      "n_flags": 56,
+      "wall_ms": 17.26,
+      "checkpoint": "Contract_Example_3.json"
+    },
+    {
+      "filename": "Contract Example 4.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 24,
+        "green": 2,
+        "blue": 16
+      },
+      "n_flags": 42,
+      "wall_ms": 13.91,
+      "checkpoint": "Contract_Example_4.json"
+    },
+    {
+      "filename": "Contract Example 5.pdf",
+      "ok": true,
+      "counts": {
+        "red": 1,
+        "amber": 27,
+        "green": 0,
+        "blue": 43
+      },
+      "n_flags": 71,
+      "wall_ms": 41.95,
+      "checkpoint": "Contract_Example_5.json"
+    },
+    {
+      "filename": "Contract for Goods and Services Example.pdf",
+      "ok": true,
+      "counts": {
+        "red": 1,
+        "amber": 74,
+        "green": 2,
+        "blue": 136
+      },
+      "n_flags": 213,
+      "wall_ms": 179.47,
+      "checkpoint": "Contract_for_Goods_and_Services_Example.json"
+    },
+    {
+      "filename": "Data Transfer Agreement Example.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 11,
+        "green": 0,
+        "blue": 30
+      },
+      "n_flags": 41,
+      "wall_ms": 18.25,
+      "checkpoint": "Data_Transfer_Agreement_Example.json"
+    },
+    {
+      "filename": "MTA Example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 2,
+        "amber": 10,
+        "green": 0,
+        "blue": 27
+      },
+      "n_flags": 39,
+      "wall_ms": 15.87,
+      "checkpoint": "MTA_Example_1.json"
+    },
+    {
+      "filename": "MTA Example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 2,
+        "amber": 9,
+        "green": 0,
+        "blue": 27
+      },
+      "n_flags": 38,
+      "wall_ms": 11.02,
+      "checkpoint": "MTA_Example_2.json"
+    },
+    {
+      "filename": "MTA Example 3.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 20,
+        "green": 0,
+        "blue": 51
+      },
+      "n_flags": 71,
+      "wall_ms": 25.66,
+      "checkpoint": "MTA_Example_3.json"
+    },
+    {
+      "filename": "MTA Example 4.pdf",
+      "ok": true,
+      "counts": {
+        "red": 2,
+        "amber": 9,
+        "green": 0,
+        "blue": 28
+      },
+      "n_flags": 39,
+      "wall_ms": 14.37,
+      "checkpoint": "MTA_Example_4.json"
+    },
+    {
+      "filename": "Master Services Agreement Example 1 (1).pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 21,
+        "green": 0,
+        "blue": 58
+      },
+      "n_flags": 79,
+      "wall_ms": 100.5,
+      "checkpoint": "Master_Services_Agreement_Example_1__1.json"
+    },
+    {
+      "filename": "NDA example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 1,
+        "amber": 7,
+        "green": 3,
+        "blue": 3
+      },
+      "n_flags": 14,
+      "wall_ms": 8.22,
+      "checkpoint": "NDA_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 24,
+        "green": 0,
+        "blue": 30
+      },
+      "n_flags": 54,
+      "wall_ms": 10.25,
+      "checkpoint": "NDA_student_work_experience_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 37,
+        "green": 1,
+        "blue": 40
+      },
+      "n_flags": 78,
+      "wall_ms": 15.84,
+      "checkpoint": "NDA_student_work_experience_example_2.json"
+    },
+    {
+      "filename": "Service Provider Agreement Example.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 10,
+        "green": 0,
+        "blue": 32
+      },
+      "n_flags": 42,
+      "wall_ms": 23.72,
+      "checkpoint": "Service_Provider_Agreement_Example.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 8,
+        "green": 1,
+        "blue": 31
+      },
+      "n_flags": 40,
+      "wall_ms": 27.0,
+      "checkpoint": "Student_Research_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 1,
+        "amber": 18,
+        "green": 0,
+        "blue": 20
+      },
+      "n_flags": 39,
+      "wall_ms": 15.86,
+      "checkpoint": "Student_Research_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Subcontract Example 1.pdf",
+      "ok": true,
+      "counts": {
+        "red": 0,
+        "amber": 51,
+        "green": 0,
+        "blue": 136
+      },
+      "n_flags": 187,
+      "wall_ms": 38.73,
+      "checkpoint": "Subcontract_Example_1.json"
+    },
+    {
+      "filename": "Subcontract Example 2.pdf",
+      "ok": true,
+      "counts": {
+        "red": 1,
+        "amber": 6,
+        "green": 0,
+        "blue": 35
+      },
+      "n_flags": 42,
+      "wall_ms": 18.34,
+      "checkpoint": "Subcontract_Example_2.json"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "NDA student work experience example 2.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "flags_source": "augment",
+  "n_flags": 78,
+  "counts": {
+    "red": 7,
+    "amber": 20,
+    "green": 8,
+    "blue": 43
+  },
+  "summary": "The overall risk posture of this Confidential Disclosure Agreement is moderate, with several clauses flagged as amber or red due to misalignment with UoA's Preferred Position #POS-11 on Confidentiality. Key issues include the lack of exclusions for public, independently developed, or previously known information, the absence of time limits on confidentiality obligations, and overly broad definitions of confidential information. The recommended next step is to escalate the flagged clauses, particularly those marked red, to the Senior Manager, Research Grants and Contracts for review and negotiation to ensure compliance with UoA's confidentiality standards.",
+  "wall_ms": 5596.7
+}

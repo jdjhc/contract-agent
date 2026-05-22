@@ -1,0 +1,1719 @@
+{
+  "filename": "Contract for Goods and Services Example.pdf",
+  "contract_type": "Provision of Services Agreement",
+  "n_clauses": 213,
+  "counts": {
+    "red": 1,
+    "amber": 74,
+    "green": 2,
+    "blue": 136
+  },
+  "n_flags": 213,
+  "wall_ms": 179.47,
+  "flags": [
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. ENTERING THIS CONTRACT",
+      "snippet": "1. ENTERING THIS CONTRACT ........................................................................................................... 32",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. COMMENCEMENT AND TERM",
+      "snippet": "2. COMMENCEMENT AND TERM ....................................................................................................... 33",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3",
+      "clause_title": "3. VARIATION REQUESTS",
+      "snippet": "3. VARIATION REQUESTS ................................................................................................................... 33 4. GUARANTEE .................................................................…",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7. SUBCONTRACTORS",
+      "snippet": "7. SUBCONTRACTORS ....................................................................................................................... 51 18. LIABILITY AND GENERAL INDEMNITY ..........................................…",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "24. DISENGAGEMENT SERVICES",
+      "snippet": "24. DISENGAGEMENT SERVICES ...................................................................................................... 60",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "25",
+      "clause_title": "25. INTELLECTUAL PROPERTY RIGHTS",
+      "snippet": "25. INTELLECTUAL PROPERTY RIGHTS ......................................................................................... 61",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "26",
+      "clause_title": "26. CONFIDENTIAL INFORMATION",
+      "snippet": "26. CONFIDENTIAL INFORMATION .................................................................................................. 63 27. CHILDREN'S ACT 2014 ................................................................…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 Non-exclusivity: The Supplier’s engagement under this Contract is",
+      "snippet": "1.1 Non-exclusivity: The Supplier’s engagement under this Contract is non-exclusive. [REDACTED] is free to obtain goods, services and equipment of the same or similar type to those under this Contract from any other per…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 Reliance: The Supplier:",
+      "snippet": "1.2 Reliance: The Supplier:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "(a) acknowledges that [REDACTED] is entering into this Contract in",
+      "snippet": "(a) acknowledges that [REDACTED] is entering into this Contract in reliance on:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "(i) the Supplier’s specialist skills, knowledge, experience and expertise",
+      "snippet": "(i) the Supplier’s specialist skills, knowledge, experience and expertise in the subject matter covered by this Contract;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "(ii) the accuracy, completeness and truth of all information provided by",
+      "snippet": "(ii) the accuracy, completeness and truth of all information provided by the Supplier to [REDACTED] prior to execution of this Contract (including any proposal or presentation); and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "(iii) the Supplier’s ongoing ability during the term of this Contract to",
+      "snippet": "(iii) the Supplier’s ongoing ability during the term of this Contract to provide and make available the necessary experienced and appropriately qualified resources and Supplier Personnel to [REDACTED]; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "(b) represents that all information provided by the Supplier to [REDACTED]",
+      "snippet": "(b) represents that all information provided by the Supplier to [REDACTED] prior to execution of this Contract (including any proposal or presentation) is accurate, complete and true.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.3",
+      "clause_title": "1.3 Due diligence: The Supplier:",
+      "snippet": "1.3 Due diligence: The Supplier:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "(a) represents that it has, prior to signing this Contract, conducted all",
+      "snippet": "(a) represents that it has, prior to signing this Contract, conducted all necessary due diligence in relation to the requirements of this Contract, including its obligations under this Contract; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "17",
+      "clause_title": "(b) agrees that it has entered into this Contract in reliance on its own",
+      "snippet": "(b) agrees that it has entered into this Contract in reliance on its own due diligence alone and, in entering into this Contract, has not relied on any representation, warranty, condition or other term, express or impli…",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.4",
+      "clause_title": "1.4 Relationship principles: Without limiting any of the Supplier’s",
+      "snippet": "1.4 Relationship principles: Without limiting any of the Supplier’s obligations under this Contract, the Parties agree to:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "19",
+      "clause_title": "(a) act in good faith in all matters relating to this Contract and,",
+      "snippet": "(a) act in good faith in all matters relating to this Contract and, without abandoning their own interests, to demonstrate honesty, integrity, openness, reasonableness, and accountability in their dealings with each oth…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "20",
+      "clause_title": "(b) deal with each other in a collaborative, collegial and respectful",
+      "snippet": "(b) deal with each other in a collaborative, collegial and respectful manner;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "21",
+      "clause_title": "(c) work together, co-operate with the Personnel of the other Party and",
+      "snippet": "(c) work together, co-operate with the Personnel of the other Party and any third parties as necessary, and ensure that suitable Personnel from each Party are available as and when required to carry out the Parties’ res…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "(d) promptly raise for discussion with each other any matters affecting",
+      "snippet": "(d) promptly raise for discussion with each other any matters affecting this Contract or the delivery of the Goods and (if applicable) the Services, whenever necessary. ``` ``` IN-CONFIDENCE 2. COMMENCEMENT AND TERM",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Term: Subject to clause 2.2, this Contract commences on the Start Date",
+      "snippet": "2.1 Term: Subject to clause 2.2, this Contract commences on the Start Date and, unless terminated in accordance with this Contract, will remain in force until the close of the End Date.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.2",
+      "clause_title": "2.2 Renewal: [REDACTED] may extend the term of this Contract the number of",
+      "snippet": "2.2 Renewal: [REDACTED] may extend the term of this Contract the number of times, and for the additional period, as stated in the Contract Details section by giving the Supplier Notice at least 20 Business Days before t…",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.1",
+      "clause_title": "3.1 Variation Request: At any time during the term of this Contract, either",
+      "snippet": "3.1 Variation Request: At any time during the term of this Contract, either party may request changes or variations to the scope or nature of, or the method of providing:",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "26__dup__2",
+      "clause_title": "(a) any Good; and/or",
+      "snippet": "(a) any Good; and/or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "27",
+      "clause_title": "(b) any Service,",
+      "snippet": "(b) any Service, together with any consequential changes or variations to this Contract, by submitting a Variation Request to the other party in accordance with this clause 3.",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.2",
+      "clause_title": "3.2 Contents of Variation Request: Where:",
+      "snippet": "3.2 Contents of Variation Request: Where:",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "green",
+      "clause_id": "29",
+      "clause_title": "(a) the party making the Variation Request is [REDACTED] that Variation",
+      "snippet": "(a) the party making the Variation Request is [REDACTED] that Variation Request must outline the proposed change and contain such information as is reasonably necessary to enable the Supplier to respond promptly to [RED…",
+      "rationale": "Aligns with UoA preferred position on Warranties — matches \"as is\". Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts).",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "amber",
+      "clause_id": "30",
+      "clause_title": "(b) the party making the Variation Request is the Supplier, the Variation",
+      "snippet": "(b) the party making the Variation Request is the Supplier, the Variation Request will contain a full description of the changes proposed, together with additional information of the type contemplated by clause 3.4.",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.3",
+      "clause_title": "3.3 Supplier’s response: The Supplier must, at its own cost, review a",
+      "snippet": "3.3 Supplier’s response: The Supplier must, at its own cost, review a Variation Request received from [REDACTED] and respond to [REDACTED] by providing [REDACTED] with a submission which contains the information describ…",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.4",
+      "clause_title": "3.4 Further information: Each Variation Request from the Supplier, and",
+      "snippet": "3.4 Further information: Each Variation Request from the Supplier, and each Submission, must include at a minimum:",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "33",
+      "clause_title": "(a) details as to the feasibility and resource implications (including",
+      "snippet": "(a) details as to the feasibility and resource implications (including [REDACTED] resource implications) of the Variation Request;",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "34",
+      "clause_title": "(b) details as to any effect which the Variation Request if implemented,",
+      "snippet": "(b) details as to any effect which the Variation Request if implemented, may have on the existing Goods and/or Services including their functionality and performance, existing Service Levels (if applicable), applicable …",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "amber",
+      "clause_id": "35",
+      "clause_title": "(c) a timeline for implementation and commencement of the Variation",
+      "snippet": "(c) a timeline for implementation and commencement of the Variation Request including any significant interim milestones (as applicable);",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "36",
+      "clause_title": "(d) any amendments or variations to this Contract required to effect the",
+      "snippet": "(d) any amendments or variations to this Contract required to effect the Variation Request and, if requested by [REDACTED] a draft variation; and ``` ``` IN-CONFIDENCE",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "37",
+      "clause_title": "(e) all other relevant information, including information concerning any",
+      "snippet": "(e) all other relevant information, including information concerning any assumptions made by the Supplier.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.5",
+      "clause_title": "3.5 Notification: [REDACTED] will consider the Variation Request or",
+      "snippet": "3.5 Notification: [REDACTED] will consider the Variation Request or Submission (as the case may be) and notify the Supplier that it:",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "39",
+      "clause_title": "(a) accepts the Variation Request or Submission, in which case clause",
+      "snippet": "(a) accepts the Variation Request or Submission, in which case clause 3.6 will apply;",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "40",
+      "clause_title": "(b) wishes to negotiate the Variation Request or Submission, in which",
+      "snippet": "(b) wishes to negotiate the Variation Request or Submission, in which case the parties will then promptly negotiate, and once agreement is reached then clause 3.6 will apply;",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "41",
+      "clause_title": "(c) withdraws the Variation Request originally made by [REDACTED] to",
+      "snippet": "(c) withdraws the Variation Request originally made by [REDACTED] to which the Submission relates; or",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "42",
+      "clause_title": "(d) rejects the Variation Request received from the Supplier.",
+      "snippet": "(d) rejects the Variation Request received from the Supplier. [REDACTED] may at any time and at the relevant time exercise any of its options under subclauses (a) to (d) above.",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.6",
+      "clause_title": "3.6 Amendment: Once agreement has been reached on a Variation Request",
+      "snippet": "3.6 Amendment: Once agreement has been reached on a Variation Request from the Supplier or a Submission, the parties will negotiate the amendments that need to be made to this Contract based on the terms of the Variatio…",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "red",
+      "clause_id": "44",
+      "clause_title": "(a) ensure that the amendments are, as far as is reasonably appropriate",
+      "snippet": "(a) ensure that the amendments are, as far as is reasonably appropriate in the circumstances, consistent with the terms of this Contract; (b) ensure that any new Charges, or amendments to existing Charges, are reasonabl…",
+      "rationale": "Conflicts with UoA position on Liability Limitations and Exclusions — detected pattern \"Unlimited liability\". Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "amber",
+      "clause_id": "W",
+      "clause_title": "Without limiting any other rights or remedies [REDACTED] may have, if at any",
+      "snippet": "Without limiting any other rights or remedies [REDACTED] may have, if at any time [REDACTED] considers that any aspect of the partial termination is not proceeding to its ``` ``` IN-CONFIDENCE satisfaction, it may by no…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "23.6",
+      "clause_title": "23.6 Supplier's obligations on termination or expiry of this Contract:",
+      "snippet": "23.6 Supplier's obligations on termination or expiry of this Contract:",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "47",
+      "clause_title": "(a) On giving or receiving a Notice of termination, the Supplier must:",
+      "snippet": "(a) On giving or receiving a Notice of termination, the Supplier must:",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "48",
+      "clause_title": "(i) unless otherwise requested by [REDACTED], stop providing the Goods and",
+      "snippet": "(i) unless otherwise requested by [REDACTED], stop providing the Goods and Services or, if a partial termination, the Goods and Services specified in the Notice;",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "49",
+      "clause_title": "(ii) comply with any conditions contained in the Notice; and",
+      "snippet": "(ii) comply with any conditions contained in the Notice; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "50",
+      "clause_title": "(iii) immediately do everything reasonably possible to reduce its losses,",
+      "snippet": "(iii) immediately do everything reasonably possible to reduce its losses, costs and expenses arising from the termination of this Contract.",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "51",
+      "clause_title": "(b) On termination or expiry of this Contract, [REDACTED] will only be liable",
+      "snippet": "(b) On termination or expiry of this Contract, [REDACTED] will only be liable to pay the Charges due for Goods and/or Services delivered before the effective date of termination or expiry, and the Supplier will promptly…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "52",
+      "clause_title": "(c) On termination or expiry of this Contract, the Supplier must (at the",
+      "snippet": "(c) On termination or expiry of this Contract, the Supplier must (at the Supplier’s cost):",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "53",
+      "clause_title": "(i) take all reasonable steps to keep [REDACTED] aware of any matters that",
+      "snippet": "(i) take all reasonable steps to keep [REDACTED] aware of any matters that come to the attention of the Supplier which require [REDACTED] to act to protect its interests;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "54",
+      "clause_title": "(ii) return all Confidential Information of [REDACTED] (including [REDACTED]",
+      "snippet": "(ii) return all Confidential Information of [REDACTED] (including [REDACTED] Data) in accordance with clause 26.6;",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "55",
+      "clause_title": "(iii) return all Personal Information in accordance with clause 3.5 of",
+      "snippet": "(iii) return all Personal Information in accordance with clause 3.5 of Schedule 5;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "56",
+      "clause_title": "(iv) return to [REDACTED] all [REDACTED] Property (including all means of",
+      "snippet": "(iv) return to [REDACTED] all [REDACTED] Property (including all means of accessing such [REDACTED] Property or [REDACTED] Site(s)) and other property that [REDACTED] has provided to the Supplier under or in connection …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "57",
+      "clause_title": "(v) provide any disengagement services in accordance with clause 24.",
+      "snippet": "(v) provide any disengagement services in accordance with clause 24.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "23.7",
+      "clause_title": "23.7 Consequences of termination or expiry of this Contract:",
+      "snippet": "23.7 Consequences of termination or expiry of this Contract:",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "59",
+      "clause_title": "(a) Any termination or expiry of this Contract is without prejudice to and",
+      "snippet": "(a) Any termination or expiry of this Contract is without prejudice to and does not affect any rights, powers, remedies or obligations of a Party that have accrued prior to the time of termination or End Date, or limit …",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "60",
+      "clause_title": "(b) If this Contract is terminated or expires, [REDACTED]:",
+      "snippet": "(b) If this Contract is terminated or expires, [REDACTED]:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "61",
+      "clause_title": "(i) will only be liable to pay Charges that were due for Goods and/or",
+      "snippet": "(i) will only be liable to pay Charges that were due for Goods and/or Services delivered before the effective date of termination or expiry; and",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "62",
+      "clause_title": "(ii) may, without limiting any other rights or remedies [REDACTED] may have,",
+      "snippet": "(ii) may, without limiting any other rights or remedies [REDACTED] may have, recover from the Supplier or set off against sums due to the Supplier, any ``` ``` IN-CONFIDENCE Charges paid in advance for Goods and/or Serv…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "24.1",
+      "clause_title": "24.1 Commencement: Commencing at any time before or from the expiry or",
+      "snippet": "24.1 Commencement: Commencing at any time before or from the expiry or termination of this Contract for any reason, the Supplier shall, at the request of [REDACTED], provide the disengagement services required by [REDAC…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "24.2",
+      "clause_title": "24.2 Duration: The Supplier shall provide the disengagement services for a",
+      "snippet": "24.2 Duration: The Supplier shall provide the disengagement services for a period of 12 months from the date of termination or expiry of this Contract, or such other period as agreed by the Parties in the Contract Detai…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "24.3",
+      "clause_title": "24.3 Disengagement services: [REDACTED] may notify the Supplier of any",
+      "snippet": "24.3 Disengagement services: [REDACTED] may notify the Supplier of any disengagement services that may be required. Following such notification, the Parties will work together to plan how such disengagement services wil…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "66",
+      "clause_title": "(a) continued provision of the Goods and/or Services to the extent required",
+      "snippet": "(a) continued provision of the Goods and/or Services to the extent required by [REDACTED];",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "67",
+      "clause_title": "(b) delivery to [REDACTED] of all deliverables, Documentation or other",
+      "snippet": "(b) delivery to [REDACTED] of all deliverables, Documentation or other materials relating to the Goods and/or Services as they exist as at the date of termination or expiry;",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "68",
+      "clause_title": "(c) in good faith, taking all steps reasonably expected and necessary for",
+      "snippet": "(c) in good faith, taking all steps reasonably expected and necessary for the orderly transition and handover of the Goods and/or Services to [REDACTED] and/or its nominated alternative service provider(s), with minimal…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "69",
+      "clause_title": "(d) migrating and/or transferring all relevant software, [REDACTED] Data and",
+      "snippet": "(d) migrating and/or transferring all relevant software, [REDACTED] Data and the provision of Goods and/or Services to [REDACTED] and/or its nominated alternative service provider(s), in such manner and format reasonabl…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "70",
+      "clause_title": "(e) arranging for [REDACTED] and/or its nominated alternative service",
+      "snippet": "(e) arranging for [REDACTED] and/or its nominated alternative service provider(s) to acquire the rights to access and use any software, facilities, equipment, documentation and other resources used by the Supplier to pr…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "71",
+      "clause_title": "(f) returning to [REDACTED] at such times required by [REDACTED] all tangible",
+      "snippet": "(f) returning to [REDACTED] at such times required by [REDACTED] all tangible and intangible property of [REDACTED] held by the Supplier;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "72",
+      "clause_title": "(g) subject to clause 26.6, if so directed by [REDACTED], return or destroy",
+      "snippet": "(g) subject to clause 26.6, if so directed by [REDACTED], return or destroy all Confidential Information of [REDACTED] (including [REDACTED] Data);",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "73",
+      "clause_title": "(h) transferring, relocating or disposing of [REDACTED] assets at Supplier",
+      "snippet": "(h) transferring, relocating or disposing of [REDACTED] assets at Supplier sites, in accordance with [REDACTED] instructions;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "74",
+      "clause_title": "(i) arranging or procuring the secondment of suitably qualified Supplier",
+      "snippet": "(i) arranging or procuring the secondment of suitably qualified Supplier Personnel if reasonably required by [REDACTED] to support transition;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "75",
+      "clause_title": "(j) preparing written reports to outline outstanding projects and work in",
+      "snippet": "(j) preparing written reports to outline outstanding projects and work in progress in relation to the Goods and/or Services; ``` ``` IN-CONFIDENCE",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "76",
+      "clause_title": "(k) handing-over relevant security controls and work in progress to",
+      "snippet": "(k) handing-over relevant security controls and work in progress to [REDACTED] and/or its nominated alternative service provider(s);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "77",
+      "clause_title": "(l) providing training reasonably required by [REDACTED] for [REDACTED]",
+      "snippet": "(l) providing training reasonably required by [REDACTED] for [REDACTED] Personnel and/or its nominated alternative service provider(s); and/or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "78",
+      "clause_title": "(m) at the request of [REDACTED] and/or its nominated alternative service",
+      "snippet": "(m) at the request of [REDACTED] and/or its nominated alternative service provider(s), answering all questions and providing all information regarding the provision of the Goods and/or Services.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24.4",
+      "clause_title": "24.4 Disengagement services Charges:",
+      "snippet": "24.4 Disengagement services Charges:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "80",
+      "clause_title": "(a) Subject to subclause (b) below, [REDACTED] will pay the Supplier the",
+      "snippet": "(a) Subject to subclause (b) below, [REDACTED] will pay the Supplier the Charges for the disengagement services in accordance with the Disengagement Plan.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "81",
+      "clause_title": "(b) The Charges for the disengagement services will not include payment for",
+      "snippet": "(b) The Charges for the disengagement services will not include payment for any work which is not described and budgeted for in the Disengagement Plan (and will not exceed the budget for the applicable disengagement ser…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "24.5",
+      "clause_title": "24.5 Other rights and remedies: For the avoidance of doubt, any remedy",
+      "snippet": "24.5 Other rights and remedies: For the avoidance of doubt, any remedy available to [REDACTED] under this Contract will be available in relation to disengagement services. 25. INTELLECTUAL PROPERTY RIGHTS",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.1",
+      "clause_title": "25.1 Ownership of Intellectual Property Rights: Pre-existing Intellectual",
+      "snippet": "25.1 Ownership of Intellectual Property Rights: Pre-existing Intellectual Property Rights remain the property of their current owner.",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.2",
+      "clause_title": "25.2 New Intellectual Property: New Intellectual Property Rights shall be",
+      "snippet": "25.2 New Intellectual Property: New Intellectual Property Rights shall be owned by [REDACTED] as and when it is created, and the Supplier will perform all necessary acts to vest such New Intellectual Property Rights in …",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.3",
+      "clause_title": "25.3 Licence to [REDACTED]: The Supplier grants to [REDACTED] a fully paid up,",
+      "snippet": "25.3 Licence to [REDACTED]: The Supplier grants to [REDACTED] a fully paid up, royalty-free, worldwide, non-exclusive, sub-licensable, transferable, perpetual, and irrevocable, licence to use, for any purpose, all Intel…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.4",
+      "clause_title": "25.4 Licence to the Supplier: [REDACTED] grants to the Supplier a non-exclusive",
+      "snippet": "25.4 Licence to the Supplier: [REDACTED] grants to the Supplier a non-exclusive and non-transferable licence during the term of this Contract to use [REDACTED] Intellectual Property Rights for the sole purpose of perfor…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.5",
+      "clause_title": "25.5 Know-how: Notwithstanding any other provision of this Contract, either",
+      "snippet": "25.5 Know-how: Notwithstanding any other provision of this Contract, either party may use, in any way the party deems appropriate, the know-how, ideas, concepts and techniques contributed to, or developed by it, during …",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.6",
+      "clause_title": "25.6 Supplier warranties: The Supplier warrants to [REDACTED] that:",
+      "snippet": "25.6 Supplier warranties: The Supplier warrants to [REDACTED] that:",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "89",
+      "clause_title": "(a) it has all requisite ownership rights and licenses to fully perform its",
+      "snippet": "(a) it has all requisite ownership rights and licenses to fully perform its obligations under this Contract, and to grant all rights under this Contract free and clear of any ``` ``` IN-CONFIDENCE and all agreements, li…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "90",
+      "clause_title": "(b) the use by [REDACTED] of any Goods and/or Services and the use by",
+      "snippet": "(b) the use by [REDACTED] of any Goods and/or Services and the use by [REDACTED] of the Intellectual Property Rights licensed and provided by the Supplier in accordance with this Contract will not breach any law or infr…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.7",
+      "clause_title": "25.7 Intellectual Property indemnity:",
+      "snippet": "25.7 Intellectual Property indemnity:",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "92",
+      "clause_title": "(a) The Supplier fully indemnifies [REDACTED] and its Personnel (each an",
+      "snippet": "(a) The Supplier fully indemnifies [REDACTED] and its Personnel (each an Indemnified Party) against all claims, proceedings, actions, expenses, damages, liabilities, demands, costs, expenses and losses (including all le…",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "93",
+      "clause_title": "(b) This clause 25.7 is intended to give benefit to all Indemnified Parties",
+      "snippet": "(b) This clause 25.7 is intended to give benefit to all Indemnified Parties and is only enforceable by [REDACTED] directly against the Supplier on behalf of the Indemnified Parties in terms of subpart 1 of part 2 of the…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "25.8",
+      "clause_title": "25.8 IP Claims procedure:",
+      "snippet": "25.8 IP Claims procedure:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "95",
+      "clause_title": "(a) Each Party will promptly give written notice to the other Party on",
+      "snippet": "(a) Each Party will promptly give written notice to the other Party on becoming aware of such IP Claim.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "96",
+      "clause_title": "(b) Unless [REDACTED] or the Litigation Directions otherwise require, the",
+      "snippet": "(b) Unless [REDACTED] or the Litigation Directions otherwise require, the Supplier will control the conduct of the defence of any IP Claim and all negotiations for its settlement or compromise, but in all cases will:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "97",
+      "clause_title": "(i) consult with and keep [REDACTED] informed of the defence or",
+      "snippet": "(i) consult with and keep [REDACTED] informed of the defence or negotiations in relation to the IP Claim at all material times;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "98",
+      "clause_title": "(ii) diligently conduct any litigation or negotiations and use competent",
+      "snippet": "(ii) diligently conduct any litigation or negotiations and use competent counsel;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "99",
+      "clause_title": "(iii) conduct the IP Claim in a manner that does not adversely affect the",
+      "snippet": "(iii) conduct the IP Claim in a manner that does not adversely affect the name or reputation of MPI or any Minister, including following any reasonable [REDACTED] directions relevant to the defence or settlement of the …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "100",
+      "clause_title": "(iv) not take any steps to enter into any proposed settlement or",
+      "snippet": "(iv) not take any steps to enter into any proposed settlement or compromise in relation to any IP Claim without first obtaining the written consent of [REDACTED].",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "101",
+      "clause_title": "(c) If required by [REDACTED] at [REDACTED] sole discretion, [REDACTED] or its",
+      "snippet": "(c) If required by [REDACTED] at [REDACTED] sole discretion, [REDACTED] or its appointed representative will control the conduct of the defence of any IP Claim and [REDACTED] is entitled to obtain representation or advi…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.9",
+      "clause_title": "25.9 [Redacted] remedies: Where any IP Claim disrupts [Redacted] use or",
+      "snippet": "25.9 [Redacted] remedies: Where any IP Claim disrupts [Redacted] use or enjoyment of the Goods or Services because they infringe or are likely to infringe any third party’s Intellectual Property Rights, the Supplier wil…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "103",
+      "clause_title": "(a) modify the infringing Goods and/or Services to [Redacted] satisfaction so",
+      "snippet": "(a) modify the infringing Goods and/or Services to [Redacted] satisfaction so that there is no further infringement; or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "104",
+      "clause_title": "(b) if the modifications under subclause (a) above cannot be made to",
+      "snippet": "(b) if the modifications under subclause (a) above cannot be made to [Redacted] satisfaction, secure for [Redacted] replacement goods and/or services, provided that the Supplier must ensure that the remedy does not mate…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "26.1",
+      "clause_title": "26.1 Protection of Confidential Information: Except as permitted by clause",
+      "snippet": "26.1 Protection of Confidential Information: Except as permitted by clause 26.3, each Party shall keep the other Party’s Confidential Information absolutely secret and confidential, and shall not disclose that Confident…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "26.2",
+      "clause_title": "26.2 Confidential Information (Personnel): Each Party will:",
+      "snippet": "26.2 Confidential Information (Personnel): Each Party will:",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "107",
+      "clause_title": "(a) limit access to all Confidential Information to those of its Personnel",
+      "snippet": "(a) limit access to all Confidential Information to those of its Personnel who reasonably require such Confidential Information for the purposes of (in the case of the Supplier) providing or performing the Goods and Ser…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "108",
+      "clause_title": "(b) ensure that its Personnel:",
+      "snippet": "(b) ensure that its Personnel:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "109",
+      "clause_title": "(i) are aware of and have agreed to the confidentiality obligations in",
+      "snippet": "(i) are aware of and have agreed to the confidentiality obligations in this Contract; and",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "110",
+      "clause_title": "(ii) do not use or disclose any of the other Party’s Confidential",
+      "snippet": "(ii) do not use or disclose any of the other Party’s Confidential Information except as allowed by this Contract.",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "26.3",
+      "clause_title": "26.3 Exceptions: The obligations in clauses 26.1 and 26.2 do not apply to",
+      "snippet": "26.3 Exceptions: The obligations in clauses 26.1 and 26.2 do not apply to the disclosure of Confidential Information:",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "112",
+      "clause_title": "(a) subject to 26.4, if and to the extent required by law (including under",
+      "snippet": "(a) subject to 26.4, if and to the extent required by law (including under the OIA and the Privacy Act), the rules of any registered securities exchange on which the Party’s securities are listed, or any Government Agen…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "113",
+      "clause_title": "(b) if the other Party gives prior written approval to the use or",
+      "snippet": "(b) if the other Party gives prior written approval to the use or disclosure;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "114",
+      "clause_title": "(c) if and to the extent the information:",
+      "snippet": "(c) if and to the extent the information: ``` ``` IN-CONFIDENCE",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "115",
+      "clause_title": "(i) is disclosed to the receiving Party on a non-confidential basis by a",
+      "snippet": "(i) is disclosed to the receiving Party on a non-confidential basis by a third party who has the right to make such disclosure without requiring the information be kept confidential by the receiving Party and without br…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "116",
+      "clause_title": "(ii) is generally available to the public through no fault of the",
+      "snippet": "(ii) is generally available to the public through no fault of the receiving Party; or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "117",
+      "clause_title": "(d) if and to the extent necessary for the purpose of giving effect to, or",
+      "snippet": "(d) if and to the extent necessary for the purpose of giving effect to, or enforcing or attempting to enforce, the terms of this Contract.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "26.4",
+      "clause_title": "26.4 Prior notification and consultation: Notwithstanding anything else in",
+      "snippet": "26.4 Prior notification and consultation: Notwithstanding anything else in this Contract, if the Supplier is required by clause 26.3(a) to make a disclosure or announcement, it shall, to the extent permitted by law, bef…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "119",
+      "clause_title": "(a) give to [REDACTED] the maximum notice reasonably practicable in the",
+      "snippet": "(a) give to [REDACTED] the maximum notice reasonably practicable in the circumstances, specifying the requirement under which it is required to disclose the Confidential Information, and the precise Confidential Informa…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "120",
+      "clause_title": "(b) comply with all directions by [REDACTED] to contest or resist the",
+      "snippet": "(b) comply with all directions by [REDACTED] to contest or resist the requirement to disclose Confidential Information; and",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "121",
+      "clause_title": "(c) consult in good faith with [REDACTED] with a view to agreeing upon the",
+      "snippet": "(c) consult in good faith with [REDACTED] with a view to agreeing upon the form and timing of the disclosure or announcement.",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "amber",
+      "clause_id": "26.5",
+      "clause_title": "26.5 Misuse of validly disclosed Confidential Information or breach of",
+      "snippet": "26.5 Misuse of validly disclosed Confidential Information or breach of confidentiality: The Supplier will notify [REDACTED] in writing immediately on becoming aware of any:",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "123",
+      "clause_title": "(a) potential, threatened or actual misuse or unauthorised disclosure or",
+      "snippet": "(a) potential, threatened or actual misuse or unauthorised disclosure or use of Confidential Information by any person to whom the Supplier makes any disclosure in accordance with clause 26.3; or",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "124",
+      "clause_title": "(b) breach of the Supplier's obligations under this clause 26,",
+      "snippet": "(b) breach of the Supplier's obligations under this clause 26, and will take all reasonable steps to mitigate the effects of such disclosure and fully co-operate with [REDACTED] in preventing or limiting such misuse, un…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1__dup__2",
+      "clause_title": "1. DEFINITIONS",
+      "snippet": "1. DEFINITIONS 1.1 In this Schedule, unless the context otherwise requires, the following definitions apply: Control Measures has the meaning given to that term in regulation 3 of the HSW (GRWM) Regulations 2016. HSW Ac…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4. NOTIFYING EVENTS TO WORKSAFE NZ OR OTHER RELEVANT REGULATOR",
+      "snippet": "4. NOTIFYING EVENTS TO WORKSAFE NZ OR OTHER RELEVANT REGULATOR 4.1 Notifiable Events: (a) The Supplier will ensure that all Notifiable Events occurring during delivery of the Goods and/or Services, or that otherwise rel…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "127",
+      "clause_title": "(ii) any health and safety incident or risk; and",
+      "snippet": "(ii) any health and safety incident or risk; and (b) at any reasonable time during usual Business Hours, carry out:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "128",
+      "clause_title": "(i) an audit of the Supplier’s health and safety systems as they relate to",
+      "snippet": "(i) an audit of the Supplier’s health and safety systems as they relate to this Contract; and/or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "129",
+      "clause_title": "(ii) a physical inspection of any workplace used or intended to be used by",
+      "snippet": "(ii) a physical inspection of any workplace used or intended to be used by the Supplier or any Subcontractor in connection with the supply of the Goods and/or Services. 6.2 Supplier obligations: The Supplier must prompt…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "130",
+      "clause_title": "(a) the requested information and/or documentation in the format specified",
+      "snippet": "(a) the requested information and/or documentation in the format specified by ███ and (b) ███ with access and assistance in respect of any audit or inspection carried out under subclause 6.1 above. 6.3 Application to Su…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.1__dup__2",
+      "clause_title": "1.1 Definitions: In this Schedule, unless the context otherwise requires, t",
+      "snippet": "1.1 Definitions: In this Schedule, unless the context otherwise requires, the following definitions apply: Control Measures has the meaning given to that term in regulation 3 of the HSW (GRWM) Regulations 2016. Critical…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2__dup__2",
+      "clause_title": "3.2 Health and Safety Management Plan:",
+      "snippet": "3.2 Health and Safety Management Plan:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "133",
+      "clause_title": "(a) The Supplier will submit to [REDACTED] a draft Health and Safety Managem",
+      "snippet": "(a) The Supplier will submit to [REDACTED] a draft Health and Safety Management Plan before the Start Date, or in exceptional circumstances (such as a natural disaster or biosecurity response), no later than 10 Business…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "134",
+      "clause_title": "(i) a health and safety risk register, specific to the Goods and/or Services",
+      "snippet": "(i) a health and safety risk register, specific to the Goods and/or Services and any operational requirements, including:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "135",
+      "clause_title": "(aa) Critical Risks to Health and Safety and critical controls;",
+      "snippet": "(aa) Critical Risks to Health and Safety and critical controls;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "136",
+      "clause_title": "(bb) clearly assigned responsibilities for managing risks to health and saf",
+      "snippet": "(bb) clearly assigned responsibilities for managing risks to health and safety; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "137",
+      "clause_title": "(cc) evidence the Supplier has relevant critical controls in place that are",
+      "snippet": "(cc) evidence the Supplier has relevant critical controls in place that are comparable to the [REDACTED] Health and Safety Risks and Critical Controls Information for [REDACTED] Suppliers & Contractors;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "138",
+      "clause_title": "(ii) any applicable standard operating procedures;",
+      "snippet": "(ii) any applicable standard operating procedures;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "139",
+      "clause_title": "(iii) evidence that all Personnel, Subcontractors and Workers have relevant",
+      "snippet": "(iii) evidence that all Personnel, Subcontractors and Workers have relevant certification/training qualifications (as appropriate);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "140",
+      "clause_title": "(iv) emergency procedures, specific to the Goods and/or Services and the lo",
+      "snippet": "(iv) emergency procedures, specific to the Goods and/or Services and the location at which those Goods and/or Services are being provided;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "141",
+      "clause_title": "(v) required personal protective equipment;",
+      "snippet": "(v) required personal protective equipment;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "142",
+      "clause_title": "(vi) the name of any and all Supplier Personnel, Subcontractors, Workers an",
+      "snippet": "(vi) the name of any and all Supplier Personnel, Subcontractors, Workers and, if applicable, any volunteers engaged to assist with the Goods and/or Services; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "143",
+      "clause_title": "(vii) a detailed description of how any Supplier Personnel, Subcontractors,",
+      "snippet": "(vii) a detailed description of how any Supplier Personnel, Subcontractors, Workers and volunteers will be managed by the Supplier, including how the Supplier will ensure that Supplier Personnel, Subcontractors, Workers…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "144",
+      "clause_title": "(b) Upon receipt of the draft Health and Safety Management Plan under subcl",
+      "snippet": "(b) Upon receipt of the draft Health and Safety Management Plan under subclause (a) above, [REDACTED] will have the opportunity to review and comment on the draft plan and offer suggestions to the Supplier.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "145",
+      "clause_title": "(c) The Supplier must duly consider any comments provided by [REDACTED] in",
+      "snippet": "(c) The Supplier must duly consider any comments provided by [REDACTED] in accordance with subclause (b) above and finalise the Health and Safety Management Plan within 10 Business Days after receiving such comments (or…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "146",
+      "clause_title": "(d) Following finalisation of the Health and Safety Management Plan in acco",
+      "snippet": "(d) Following finalisation of the Health and Safety Management Plan in accordance with subclause (c) above, the Supplier must: [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED]. ```…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "147",
+      "clause_title": "(i) comply with, and ensure its Personnel, Workers and Subcontractors compl",
+      "snippet": "(i) comply with, and ensure its Personnel, Workers and Subcontractors comply with, the Health and Safety Management Plan at all times and in all circumstances; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "148",
+      "clause_title": "(ii) on an ongoing basis throughout the term of this Contract, review and,",
+      "snippet": "(ii) on an ongoing basis throughout the term of this Contract, review and, where necessary, update the Health and Safety Management Plan to ensure it remains current and appropriate having regard to the Critical Risks t…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "149",
+      "clause_title": "(aa) following any Notifiable Event; and/or",
+      "snippet": "(aa) following any Notifiable Event; and/or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "150",
+      "clause_title": "(bb) whenever the Supplier and/or [REDACTED] reasonably considers that new,",
+      "snippet": "(bb) whenever the Supplier and/or [REDACTED] reasonably considers that new, increased or previously unidentified risks (particularly greater exposure to Critical Risks to Health and Safety) have arisen in the provision …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "151",
+      "clause_title": "(e) [REDACTED] may, at any time, request any changes to the Health and Safe",
+      "snippet": "(e) [REDACTED] may, at any time, request any changes to the Health and Safety Management Plan where [REDACTED] considers such changes are reasonably necessary to manage any new, increased or previously unidentified risk…",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "152",
+      "clause_title": "(f) Without limiting its other rights and remedies under this Contract, if",
+      "snippet": "(f) Without limiting its other rights and remedies under this Contract, if [REDACTED] does not accept the content of the Health and Safety Management Plan, including where agreement cannot be reached following a request…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "153",
+      "clause_title": "(i) suspend or terminate all or part of the Goods and/or Services under thi",
+      "snippet": "(i) suspend or terminate all or part of the Goods and/or Services under this Contract, either permanently or until such time as the Health and Safety Management Plan is updated and accepted by [REDACTED]; and/or",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "154",
+      "clause_title": "(ii) refer the matter for resolution in accordance with the dispute resolut",
+      "snippet": "(ii) refer the matter for resolution in accordance with the dispute resolution clauses under clause 21 of Schedule 3. 4. NOTIFYING EVENTS TO WORKSAFE NZ OR OTHER RELEVANT REGULATOR",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "4.1",
+      "clause_title": "4.1 Notifiable Events: The Supplier will ensure that all Notifiable Events",
+      "snippet": "4.1 Notifiable Events: The Supplier will ensure that all Notifiable Events (including both incidents and injuries/illnesses) occurring during delivery of the Goods and/or Services, or that otherwise relate to or affect …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. HEALTH AND SAFETY REPORTING TO [REDACTED]",
+      "snippet": "5. HEALTH AND SAFETY REPORTING TO [REDACTED]",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.1",
+      "clause_title": "5.1 Notifiable Events: Without limiting the Supplier's other obligations un",
+      "snippet": "5.1 Notifiable Events: Without limiting the Supplier's other obligations under this Contract, the Supplier must:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "158",
+      "clause_title": "(a) notify [REDACTED] of any Notifiable Events within one Business Day of b",
+      "snippet": "(a) notify [REDACTED] of any Notifiable Events within one Business Day of becoming aware of the event; ``` ``` IN-CONFIDENCE",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "159",
+      "clause_title": "(b) where WorkSafe NZ or another relevant regulator has been notified, prom",
+      "snippet": "(b) where WorkSafe NZ or another relevant regulator has been notified, promptly provide [REDACTED] with a documented summary of:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "160",
+      "clause_title": "(i) the Notifiable Event; and",
+      "snippet": "(i) the Notifiable Event; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "161",
+      "clause_title": "(ii) the corrective actions taken to manage any Critical Risks to Health an",
+      "snippet": "(ii) the corrective actions taken to manage any Critical Risks to Health and Safety identified as part of the investigation.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.2",
+      "clause_title": "5.2 Contemporaneous reporting of High Actual or Potential Critical Risk Inc",
+      "snippet": "5.2 Contemporaneous reporting of High Actual or Potential Critical Risk Incidents: Without limiting the Supplier’s other obligations under this Contract, the Supplier must report any High Actual or Potential Critical Ri…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.3",
+      "clause_title": "5.3 Ongoing health and safety reporting: Without limiting the Supplier’s ot",
+      "snippet": "5.3 Ongoing health and safety reporting: Without limiting the Supplier’s other obligations under this Contract, the Supplier must deliver a documented regular health and safety report to [REDACTED] Contract Manager, and…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "164",
+      "clause_title": "(a) all health and safety incidents relevant to the Goods and/or Services;",
+      "snippet": "(a) all health and safety incidents relevant to the Goods and/or Services;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "165",
+      "clause_title": "(b) proactive health and safety measures being implemented to continuously",
+      "snippet": "(b) proactive health and safety measures being implemented to continuously improve the management of Critical Risks to Health and Safety;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "166",
+      "clause_title": "(c) corrective actions identified for each High Actual or High Potential Cr",
+      "snippet": "(c) corrective actions identified for each High Actual or High Potential Critical Risk Incident, and whether those actions have been implemented, including any corrective actions taken in response to audits or investiga…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "167",
+      "clause_title": "(d) identification of the controls in place that worked, and those controls",
+      "snippet": "(d) identification of the controls in place that worked, and those controls that failed, for each High Actual or High Potential Critical Risk exposure and/or incident occurring that month;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "168",
+      "clause_title": "(e) any instances the Supplier becomes aware of where its Personnel, Subcon",
+      "snippet": "(e) any instances the Supplier becomes aware of where its Personnel, Subcontractors and/or Workers, in carrying out Goods and/or Services, have not complied with the requirements of this Contract or the HSW Act in relat…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "169",
+      "clause_title": "(f) the current status of any injured Supplier Personnel, Subcontractors an",
+      "snippet": "(f) the current status of any injured Supplier Personnel, Subcontractors and/or Workers; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "170",
+      "clause_title": "(g) any property damage, environmental damage or pollution, to the extent t",
+      "snippet": "(g) any property damage, environmental damage or pollution, to the extent that it relates to a health or safety risk of the Goods and/or Services.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6",
+      "clause_title": "6. NON-COMPLIANCE AND CORRECTIVE ACTIONS",
+      "snippet": "6. NON-COMPLIANCE AND CORRECTIVE ACTIONS",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6.1",
+      "clause_title": "6.1 Remedies for failure: Without limiting the Supplier’s other obligations",
+      "snippet": "6.1 Remedies for failure: Without limiting the Supplier’s other obligations under this Contract, if [REDACTED] becomes aware of a breach of the HSW Laws or the health and safety clauses in this Schedule by the Supplier …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "173",
+      "clause_title": "(a) require the Supplier to remedy the breach of the HSW Laws or this Contr",
+      "snippet": "(a) require the Supplier to remedy the breach of the HSW Laws or this Contract at its cost on receipt of Notice in writing from [REDACTED] requiring the breach to be remedied; ``` ``` IN-CONFIDENCE",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "174",
+      "clause_title": "(b) suspend or terminate all or part of the Goods and/or Services under thi",
+      "snippet": "(b) suspend or terminate all or part of the Goods and/or Services under this Contract, until such time as the breach has been remedied and/or the associated health and safety risk has been eliminated or appropriately ma…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "175",
+      "clause_title": "(c) if the breach relates to the acts or omissions of:",
+      "snippet": "(c) if the breach relates to the acts or omissions of:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "176",
+      "clause_title": "(i) the Supplier’s Personnel, direct the Supplier to remove and replace the",
+      "snippet": "(i) the Supplier’s Personnel, direct the Supplier to remove and replace the relevant Personnel; and/or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "177",
+      "clause_title": "(ii) a Subcontractor, direct the Supplier to remove and replace the relevan",
+      "snippet": "(ii) a Subcontractor, direct the Supplier to remove and replace the relevant Subcontractor;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "178",
+      "clause_title": "(d) require the Supplier to amend the Health and Safety Management Plan to",
+      "snippet": "(d) require the Supplier to amend the Health and Safety Management Plan to address and manage the identified health and safety risks; and/or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "179",
+      "clause_title": "(e) refer the matter for resolution in accordance with the dispute resoluti",
+      "snippet": "(e) refer the matter for resolution in accordance with the dispute resolution clauses under clause 21 of Schedule 3.",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "amber",
+      "clause_id": "6.2",
+      "clause_title": "6.2 Termination for breach: If the Supplier fails to take the action requir",
+      "snippet": "6.2 Termination for breach: If the Supplier fails to take the action required by ███ under clause 6.1 within the timeframe specified by ███ (or, if no timeframe is specified, within a reasonable period of time), ███ may…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.1",
+      "clause_title": "7.1 Subcontractor requirements: Without limiting the Supplier’s other oblig",
+      "snippet": "7.1 Subcontractor requirements: Without limiting the Supplier’s other obligations under this Contract, the Supplier must, at ███ request:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "182",
+      "clause_title": "(a) conduct a health and safety pre-qualification or assurance process for",
+      "snippet": "(a) conduct a health and safety pre-qualification or assurance process for its Subcontractors to ensure that critical controls are in place that are comparable to the ███ Health and Safety Risks and Critical Controls In…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "183",
+      "clause_title": "(b) submit a Health and Safety Management Plan, or amend an existing Health",
+      "snippet": "(b) submit a Health and Safety Management Plan, or amend an existing Health and Safety Management Plan, to address specific health and safety risks posed by the proposed use of its Subcontractors.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.2",
+      "clause_title": "7.2 Compliance with health and safety requirements: The Supplier must ensur",
+      "snippet": "7.2 Compliance with health and safety requirements: The Supplier must ensure that prior to the delivery of Goods and/or Services by any Subcontractor, its Subcontractors have been advised of, and comply with any specifi…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "8. HEALTH AND SAFETY RECORDS",
+      "snippet": "8. HEALTH AND SAFETY RECORDS",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8.1",
+      "clause_title": "8.1 Health and safety records: Without limiting its other obligations under",
+      "snippet": "8.1 Health and safety records: Without limiting its other obligations under this Contract:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "187",
+      "clause_title": "(a) the Supplier must maintain all health and safety records required under",
+      "snippet": "(a) the Supplier must maintain all health and safety records required under the HSW Act and must promptly provide those records to ███ on request; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "188",
+      "clause_title": "(b) in addition to any records required under the HSW Act, the Supplier mus",
+      "snippet": "(b) in addition to any records required under the HSW Act, the Supplier must maintain, and provide to ███ on request, the following records in relation to the Goods and/or Services: ███ ███ ███ ███ ███ ███ ███ ███ ███ █…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "189",
+      "clause_title": "(i) records of the management of Critical Risks to Health and Safety, inclu",
+      "snippet": "(i) records of the management of Critical Risks to Health and Safety, including evidence from assurance activities that demonstrate that Critical Risks to Health and Safety are being effectively controlled by the Suppli…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "190",
+      "clause_title": "(ii) records of all health and safety incidents that have been investigated",
+      "snippet": "(ii) records of all health and safety incidents that have been investigated internally by the Supplier, or by WorkSafe NZ or other relevant regulator, including the outcome of such investigations; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "191",
+      "clause_title": "(iii) records of health and safety due diligence processes and any associat",
+      "snippet": "(iii) records of health and safety due diligence processes and any associated documents relating to the compliance and performance of the Supplier’s Personnel, Subcontractors, Workers and volunteers.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "9. HEALTH AND SAFETY AUDIT AND INSPECTION",
+      "snippet": "9. HEALTH AND SAFETY AUDIT AND INSPECTION",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9.1",
+      "clause_title": "9.1 Audit and inspection: Without limiting its other rights and remedies un",
+      "snippet": "9.1 Audit and inspection: Without limiting its other rights and remedies under this Contract, ███ or any third party appointed by ███ may:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "194",
+      "clause_title": "(a) require the Contractor to provide information or documentation in relat",
+      "snippet": "(a) require the Contractor to provide information or documentation in relation to:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "195",
+      "clause_title": "(i) the Supplier’s health and safety performance and/or compliance in relat",
+      "snippet": "(i) the Supplier’s health and safety performance and/or compliance in relation to the Goods and/or Services; and/or (ii) any health and safety incident or risk; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "196",
+      "clause_title": "(b) at any reasonable time during Business Hours, carry out:",
+      "snippet": "(b) at any reasonable time during Business Hours, carry out: (i) an audit of the Supplier’s health and safety systems as they relate to this Contract; and/or (ii) a physical inspection of any workplace used or intended …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9.2",
+      "clause_title": "9.2 Supplier obligations: The Supplier must promptly provide:",
+      "snippet": "9.2 Supplier obligations: The Supplier must promptly provide: (a) the requested information and/or documentation in the format specified by ███ and (b) ███ with access and assistance in respect of any audit or inspectio…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9.3",
+      "clause_title": "9.3 Application to Subcontractors: This clause 9 applies to each Subcontract",
+      "snippet": "9.3 Application to Subcontractors: This clause 9 applies to each Subcontractor of the Supplier as if that Subcontractor were the Supplier. The Supplier must ensure that each Subcontractor is bound by enforceable obligat…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "9.4",
+      "clause_title": "9.4 Remedying non-compliance: Without limiting any of ███ other rights or r",
+      "snippet": "9.4 Remedying non-compliance: Without limiting any of ███ other rights or remedies, if any non-compliance or concern is identified as part of an audit under this clause 9, the Supplier must act in good faith to resolve …",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SCHEDULE 5",
+      "snippet": "SCHEDULE 5",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "INFORMATION AND DATA REQUIREMENTS",
+      "snippet": "INFORMATION AND DATA REQUIREMENTS 1. DEFINITIONS 1.1 Definitions: In this Schedule, unless the context otherwise requires, the following definitions apply:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Disabling Code means any program code or programming instructions, or any d",
+      "snippet": "Disabling Code means any program code or programming instructions, or any device, which may damage, interfere with, impair or otherwise adversely affect a party’s operations, prevent or hinder access to any program or […",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__2",
+      "clause_title": "Industry Best Practice means that degree of skill, diligence, prudence, fo",
+      "snippet": "Industry Best Practice means that degree of skill, diligence, prudence, foresight and judgement which would be reasonably and ordinarily expected from a skilled, reasonable and experienced operator in the information te…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "M",
+      "clause_title": "Māori Data means data, information or knowledge (including mātauranga Māor",
+      "snippet": "Māori Data means data, information or knowledge (including mātauranga Māori) that is about, from or connected to Māori. It also includes data about population, place, culture and environment, and Personal Information ab…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "M__dup__2",
+      "clause_title": "Multi-source Environment means the environment in which [REDACTED] procure",
+      "snippet": "Multi-source Environment means the environment in which [REDACTED] procures or obtains its information technology communication goods and services from a range of information technology, telecommunications, network and …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "O",
+      "clause_title": "Open Source Software means any software which is licensed under any form o",
+      "snippet": "Open Source Software means any software which is licensed under any form of open source licence meeting the Open Source Initiative’s Open Source Definition found at [REDACTED].",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Permitted Purposes has the meaning given to that term in clause 3.1(a) of t",
+      "snippet": "Permitted Purposes has the meaning given to that term in clause 3.1(a) of this Schedule.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__2",
+      "clause_title": "Security Breach has the meaning given to that term in clause 4.5 of this S",
+      "snippet": "Security Breach has the meaning given to that term in clause 4.5 of this Schedule.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2__dup__2",
+      "clause_title": "2. [REDACTED] DATA",
+      "snippet": "2. [REDACTED] DATA",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1__dup__2",
+      "clause_title": "2.1 Ownership of [REDACTED] Data: Notwithstanding any other provision in th",
+      "snippet": "2.1 Ownership of [REDACTED] Data: Notwithstanding any other provision in this Contract, the Supplier acknowledges that it does not own any [REDACTED] Data.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "2.2__dup__2",
+      "clause_title": "2.2 Supplier access to [REDACTED] Data: Subject to the Supplier complying w",
+      "snippet": "2.2 Supplier access to [REDACTED] Data: Subject to the Supplier complying with clause 2.3 and [REDACTED] security and confidentiality requirements, policies and procedures, [REDACTED] will provide the Supplier such acce…",
+      "rationale": "Aligns with UoA preferred position on Warranties — matches \"as is\". Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts).",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.3",
+      "clause_title": "2.3 Treatment of [REDACTED] Data: Without limiting the Supplier’s other obl",
+      "snippet": "2.3 Treatment of [REDACTED] Data: Without limiting the Supplier’s other obligations under this Contract, the Supplier must:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "213",
+      "clause_title": "(a) not, without the prior written approval of [REDACTED] in each instance,",
+      "snippet": "(a) not, without the prior written approval of [REDACTED] in each instance, use [REDACTED] Data other than for the purposes of providing the Goods and Services under this Contract; (b) keep the [REDACTED] Data (includin…",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    }
+  ]
+}

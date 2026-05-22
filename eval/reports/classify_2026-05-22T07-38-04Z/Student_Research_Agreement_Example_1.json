@@ -1,0 +1,12 @@
+{
+  "filename": "Student Research Agreement Example 1.pdf",
+  "predicted_type": "Student Research Agreement",
+  "confidence": 0.99,
+  "rationale": "The document explicitly identifies itself as a 'Student Research Agreement' multiple times, including in the title and throughout the text. It also references key elements such as a student, supervisor, course, and project, which are consistent with this category.",
+  "expected_hint": "Student Research Agreement",
+  "name_match": true,
+  "wall_ms": 4831.0,
+  "source_text_chars": 33923,
+  "source_clauses": 40,
+  "merged_fragments": []
+}

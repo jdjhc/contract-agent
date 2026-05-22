@@ -1,0 +1,14 @@
+{
+  "filename": "Collaboration Agreement Example 1.pdf",
+  "contract_type": "Collaboration Agreement",
+  "flags_source": "augment",
+  "n_flags": 40,
+  "counts": {
+    "red": 1,
+    "amber": 10,
+    "green": 2,
+    "blue": 27
+  },
+  "summary": "The review of the Collaboration Agreement indicates a moderate risk posture, with several clauses flagged for further review, particularly those related to intellectual property (IP) and confidentiality. Key issues include the need for referral of all IP-related clauses to Auckland UniServices Ltd for compliance with UoA Position #POS-IP and a red-flagged confidentiality clause that deviates from UoA Position #POS-11, requiring escalation to the Senior Manager, Research Grants and Contracts. The next step is to escalate the flagged clauses to the appropriate UoA stakeholders, including UniServices for IP matters and the Senior Manager for confidentiality concerns, to ensure alignment with institutional policies.",
+  "wall_ms": 8783.0
+}

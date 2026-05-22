@@ -1,0 +1,350 @@
+{
+  "document_id": "Student_Research_Agreement_Example_1_pdf",
+  "filename": "Student Research Agreement Example 1.pdf",
+  "contract_type": "Student Research Agreement",
+  "contract_type_confidence": 0.99,
+  "summary": "The overall risk posture of this Student Research Agreement is moderate, with several clauses flagged for potential issues, particularly around Intellectual Property (IP), termination, and publication rights. Key concerns include unclear or incomplete drafting in some clauses, as well as IP-related provisions that require escalation to Auckland UniServices for review, as mandated by UoA Position #POS-IP. The next step is to escalate the flagged amber and red clauses to the appropriate UoA stakeholders, including the Senior Manager, Research Grants and Contracts, and the Head of IP, for further review and potential redrafting to ensure compliance with UoA policies and templates.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "2.33",
+      "clause_title": "2.33 At no cost to the University must",
+      "snippet": "2.33 At no cost to the University must permitted assignees (as the case may be) of that provide with one copy of any Party. Publication or any other substantial report resulting from the Project and any other outputs specified in",
+      "rationale": "The clause is unclear and poorly drafted, making it difficult to determine its alignment with UoA's Preferred or Acceptable positions on Publication (UoA Position #POS-12). The clause appears to touch on the topic of Publications but does not explicitly preserve the Principal Investigator's right to publish or the student's right to publish their thesis or academic work, which are critical elements of UoA's Preferred position. Additionally, the clause does not address the possibility of a reasonable patent stand-down or embargo periods for commercially sensitive content. This lack of clarity and potential misalignment with UoA's positions necessitates escalation to the Senior Manager, Research Grants and Contracts for review and potential redrafting.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.1",
+      "clause_title": "1.1 In this Agreement:",
+      "snippet": "1.1 In this Agreement: ” means the person appointed by “Affiliate” in relation to a Party means that Party’s directors, as the Project supervisor and named as such advisors, officers, employees, contractors, personnel a…",
+      "rationale": "The clause includes definitions related to Intellectual Property (e.g., 'Intellectual Property,' 'Pre-existing Intellectual Property,' 'Project IP') and other terms that may impact IP rights. UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices (Head of IP) for review, as UoA does not set IP positions independently.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.21",
+      "clause_title": "2.21 must provide the Student with",
+      "snippet": "2.21 must provide the Student with by the Parties or the Student relating to or arising from the Specific Resources if described in Project that is not Pre-existing Intellectual Property. Schedule 1.",
+      "rationale": "The clause appears to address Intellectual Property (IP) matters, which are outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices for review. UoA Position #POS-IP explicitly states that all IP clauses must be escalated to Auckland UniServices (Head of IP) regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.23",
+      "clause_title": "2.23 The Project will be undertaken by the Student at the",
+      "snippet": "2.23 The Project will be undertaken by the Student at the “Results” means all data, results, research findings, location(s) specified in Schedule 1 and must be inventions, discoveries, and reports arising from the Project.",
+      "rationale": "The clause includes references to 'Results,' which encompass intellectual property elements such as data, research findings, inventions, and discoveries. Intellectual Property clauses are explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates escalation of all IP-related clauses.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "31",
+      "clause_title": "(b) where the Funding Recipient is the University,",
+      "snippet": "(b) where the Funding Recipient is the University, refund any portion of Funding that has not Page 7 of 17 ``` already been applied by the University pursuant to Schedule 1 from the date of the Student’s termination; and",
+      "rationale": "This clause addresses the refund of unused funding upon termination, which ties to the UoA Position on Termination (#POS-19). While the clause does not explicitly contradict the Preferred or Acceptable tiers, it requires confirmation that termination costs and uncancellable obligations are accounted for, as per UoA policy. Escalation to the Senior Manager Research Grants and Contracts is recommended to ensure compliance.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "39",
+      "clause_title": "(f) complies with the University’s obligations under the",
+      "snippet": "(f) complies with the University’s obligations under the following clauses 5 (Intellectual Property), 6 (Confidential Information), 7 (Thesis and Publications) and 8 (Publicity) as if the Student were a Party to this Agreement.",
+      "rationale": "The clause references Intellectual Property (clause 5), which falls under UoA Position #POS-IP. UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices (Head of IP) for review. This clause also touches on Confidentiality, Publications, and Publicity, which are covered by other UoA Positions, but the inclusion of IP necessitates referral.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Definitions",
+      "snippet": "1. Definitions this Agreement.",
+      "rationale": "The clause addresses definitions, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. Definitions are typically standard and administrative in nature, and do not fall under the scope of the provided policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 In this Agreement:",
+      "snippet": "1.2 In this Agreement: with PHF Science;",
+      "rationale": "The clause appears to be incomplete or improperly drafted, and its topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. It does not align with any specific policy or template reference.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2.4",
+      "clause_title": "1.2.4 All references to legislation are references to New",
+      "snippet": "1.2.4 All references to legislation are references to New Schedule 1. Zealand legislation and include all subordinate",
+      "rationale": "The clause addresses a topic (references to legislation) that is not covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2.6",
+      "clause_title": "1.2.6 “including” in this Agreement means “including,",
+      "snippet": "1.2.6 “including” in this Agreement means “including, Schedule 1. without limitation.”",
+      "rationale": "The clause defines the term 'including' as 'including, without limitation,' which is a standard interpretative provision. This topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.21",
+      "clause_title": "1.21 All monetary amounts are stated in New Zealand",
+      "snippet": "1.21 All monetary amounts are stated in New Zealand",
+      "rationale": "The clause addresses a topic (monetary amounts being stated in New Zealand) that is not explicitly covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.22",
+      "clause_title": "1.22 Where the context permits, the singular includes the",
+      "snippet": "1.22 Where the context permits, the singular includes the plural and vice versa.",
+      "rationale": "The clause addresses a general interpretative rule (singular includes plural and vice versa), which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.23",
+      "clause_title": "1.23 References to a Party in this Agreement include",
+      "snippet": "1.23 References to a Party in this Agreement include successors, executors, administrators and",
+      "rationale": "The clause addresses the inclusion of successors, executors, and administrators in the definition of a party, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.25",
+      "clause_title": "1.25 References to clauses, schedules and attachments",
+      "snippet": "1.25 References to clauses, schedules and attachments specified in Schedule 1 provided by are to clauses in, and the schedules and ; and attachments to, this Agreement (unless stated",
+      "rationale": "The clause addresses a topic (references to clauses, schedules, and attachments) that is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy or template guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. Party Obligations",
+      "snippet": "2. Party Obligations with or complete the Project, the University must immediately advise and:",
+      "rationale": "The clause appears incomplete and does not align with any specific UoA Preferred Contracting Position or the UoA Standard Template for Student Research Agreements. The topic is not addressed in the UoA Preferred Contracting Positions, and the clause lacks sufficient context to determine its intent or compliance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Each Party must notify the other Party as soon as",
+      "snippet": "2.1 Each Party must notify the other Party as soon as reasonably practicable of any circumstances that could",
+      "rationale": "The clause addresses a notification obligation, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy or template guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2",
+      "clause_title": "2.2 Obligations",
+      "snippet": "2.2 Obligations Student’s termination;",
+      "rationale": "The clause text provided is incomplete and does not provide sufficient context to evaluate alignment with UoA's Preferred or Acceptable positions on Termination. It does not clearly address mutual termination, termination for convenience, or termination costs, nor does it align with the detailed provisions in UoA Position #POS-19. As the clause is ambiguous and lacks substantive content, it falls outside the scope of the UoA Preferred Contracting Positions and requires further clarification or expansion.",
+      "standard_ref": "Not covered by UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2.4",
+      "clause_title": "2.2.4 must pay to the University the Funding",
+      "snippet": "2.2.4 must pay to the University the Funding student in Schedule 1 who will be carrying out research for set out in Schedule 1 (if any) in accordance with the Project. clause 4. “Specific Resources” mean the resources described in",
+      "rationale": "The clause appears to address payment obligations related to funding for the research project, but the topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.3.4",
+      "clause_title": "2.3.4 Where the Student is identified as the Funding",
+      "snippet": "2.3.4 Where the Student is identified as the Funding legislation, any re-enactment of, or amendment to, Recipient: that legislation and all legislation passed in",
+      "rationale": "The clause text provided is incomplete and does not clearly align with any UoA Preferred Contracting Positions or the UoA Standard Template. It does not explicitly address the topic of Variations and Extensions (POS-21) or any other defined position. The clause appears to be a fragment and lacks sufficient context to determine its relevance or compliance.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.3.6",
+      "clause_title": "2.3.6 The University must use reasonable endeavours to ensure the Student:",
+      "snippet": "2.3.6 The University must use reasonable endeavours to ensure the Student:",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. It does not fall under any defined policy or template reference.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.22",
+      "clause_title": "2.22 In addition to the Specific Resources,",
+      "snippet": "2.22 In addition to the Specific Resources, “Project Report” means any reports identified and must provide appropriate equipment, described in Schedule 1 that the Student must provide to knowledge, information, and materials that are necessary to enable the Student to undertake the Project. The extent of this support will be determined by the Supervisor.",
+      "rationale": "The clause addresses the provision of resources, equipment, and support for the Student to undertake the Project, as well as defining 'Project Report' and 'Publications.' This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.31",
+      "clause_title": "2.31 The University must use all reasonable endeavours",
+      "snippet": "2.31 The University must use all reasonable endeavours to ensure the Student performs the Project in “University Supervisor” means the person appointed as accordance with the terms of this Agreement and must put into effect any documentation required to facilitate this performance.",
+      "rationale": "The clause addresses the University's obligation to ensure the Student performs the Project and references the role of the University Supervisor. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.32",
+      "clause_title": "2.32 The University must:",
+      "snippet": "2.32 The University must: “Working Day” means any day other than a Saturday,",
+      "rationale": "The clause defines 'Working Day,' which is not a topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.35",
+      "clause_title": "2.35 If the Student is for any reason unable to continue",
+      "snippet": "2.35 If the Student is for any reason unable to continue",
+      "rationale": "The clause addresses a topic (student's inability to continue) that is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "(a) ensure the Student has achieved the",
+      "snippet": "(a) ensure the Student has achieved the Sunday, public holiday in New Zealand, and any day from 24 appropriate level of education and/or is December to 5 January inclusive in any year. enrolled in the required Courses as agreed",
+      "rationale": "The clause addresses the student's educational qualifications and course enrollment, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. This topic falls outside the scope of the provided references.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(b) appoint the University Supervisor who will",
+      "snippet": "(b) appoint the University Supervisor who will dollars and exclude GST, unless stated otherwise. provide the necessary support to the Student to undertake the Project; and",
+      "rationale": "The clause addresses the appointment of a University Supervisor and their role in supporting the Student, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. The topic falls outside the scope of the documented policies and templates.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "(c) ensure continuity of supervisory support",
+      "snippet": "(c) ensure continuity of supervisory support throughout the Term.",
+      "rationale": "The topic of ensuring continuity of supervisory support is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "(a) the University must pay to the Student the full",
+      "snippet": "(a) the University must pay to the Student the full substitution for that legislation. amount of the corresponding Funding",
+      "rationale": "The clause addresses a topic (payment from the University to the Student) that is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. No specific policy or template reference applies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "23 University Obligations",
+      "snippet": "23 University Obligations Schedule 1 to be provided by the University and/or to the Student for carrying out the Project.",
+      "rationale": "The clause addresses the University's obligations to provide Schedule 1 for the Student to carry out the Project. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined positions and templates.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "(b) the University will hold the corresponding",
+      "snippet": "(b) the University will hold the corresponding otherwise). Funding in trust and only distribute it to the Student in accordance with this clause and",
+      "rationale": "The clause addresses the handling of funding in trust, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "(a) where the Funding Recipient is the Student,",
+      "snippet": "(a) where the Funding Recipient is the Student, negatively affect the Project and its obligations under this refund the portion of Funding paid by Agreement. that has not been paid to the Student under clause 2.3.4 from the date of the",
+      "rationale": "The clause addresses a refund mechanism related to funding for the Student, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy and requires independent review.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "32",
+      "clause_title": "(c) submit to [redacted] a report on the work completed",
+      "snippet": "(c) submit to [redacted] a report on the work completed to date.",
+      "rationale": "The clause pertains to the submission of a report on work completed, which is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined positions and template.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "(a) commences the Project on the Start Date and",
+      "snippet": "(a) commences the Project on the Start Date and diligently undertakes the Project to the standards and levels of competence expected of a student on the Course;",
+      "rationale": "The clause addresses the student's obligation to commence and diligently undertake the project to a standard expected of a student on the course. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined positions and templates.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "37",
+      "clause_title": "(d) complies with all relevant [redacted] rules and",
+      "snippet": "(d) complies with all relevant [redacted] rules and policies expected of an [redacted] employee operating at an equivalent level;",
+      "rationale": "The clause addresses compliance with rules and policies expected of an equivalent employee, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(e) complies with any laws, regulations, rules, or",
+      "snippet": "(e) complies with any laws, regulations, rules, or guidelines of any government or public authority that may be applicable to the research and any laws, regulations, or guidelines relating to health and safety or ethics; and",
+      "rationale": "The clause addresses compliance with laws, regulations, and guidelines related to research, health and safety, and ethics. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. Therefore, it falls outside the scope of the defined tiers and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Student Research Agreement",
+      "snippet": "Student Research Agreement",
+      "rationale": "The clause title 'Student Research Agreement' is a general heading and does not address any specific topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template. It is not a substantive clause and does not require alignment with any specific policy or template.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Schedule 2: Terms And Conditions",
+      "snippet": "Schedule 2: Terms And Conditions Funding upon the University providing a valid invoice under",
+      "rationale": "The clause addresses payment terms specific to Schedule 2, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template. Payment terms are generally addressed in the Preferred Contracting Positions under POS-15, but this clause does not provide sufficient detail to align with those standards.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "3",
+      "clause_title": "3. Health and Safety",
+      "snippet": "3. Health and Safety 3.11 The Parties must comply with the Health and Safety at Work Act 2015 (‘HSW Act’), including any regulations, codes and guidance made under the HSW Act. 3.12 If the Student undertakes the Project…",
+      "rationale": "The clause aligns with UoA's preferred position on health and safety compliance. It explicitly requires adherence to the Health and Safety at Work Act 2015 (HSW Act) and includes detailed obligations for the Client to ensure the Student's safety on-site. This matches the UoA Standard Template for Student Research Agreements, which includes similar provisions for health and safety compliance and site-specific obligations.",
+      "standard_ref": "UoA-Student Research Agreement Template (April 2018).docx"
+    },
+    {
+      "level": "green",
+      "clause_id": "35",
+      "clause_title": "(b) performs the research required for the Project and",
+      "snippet": "(b) performs the research required for the Project and delivers that research in a manner and in accordance with the Milestones and applicable due dates specified in Schedule 1;",
+      "rationale": "The clause aligns with the UoA Standard Template for Student Research Agreements, which specifies that the Student will carry out the Research during the Research Period and provide reports as set out in Schedule 1. The clause is consistent with the template's requirements for research performance and deliverables.",
+      "standard_ref": "UoA-Student Research Agreement Template (April 2018)"
+    },
+    {
+      "level": "green",
+      "clause_id": "36",
+      "clause_title": "(c) submits to [redacted] any Project Reports specified",
+      "snippet": "(c) submits to [redacted] any Project Reports specified in Schedule 1 by the agreed report date;",
+      "rationale": "The clause aligns with the UoA Standard Template for Student Research Agreements, which specifies that the Student will provide reports of the type and at the frequency and/or times set out in Schedule 1. This matches the template's requirements for reporting obligations.",
+      "standard_ref": "UoA-Student Research Agreement Template (April 2018)"
+    }
+  ],
+  "counts": {
+    "green": 3,
+    "amber": 5,
+    "red": 1,
+    "blue": 31
+  },
+  "generated_at": "2026-05-22T07:42:54.680851+00:00",
+  "metrics": {
+    "n_calls": 4,
+    "input_tokens": 10241,
+    "output_tokens": 3931,
+    "total_tokens": 14172,
+    "latency_ms": 141027.0,
+    "total_cost_usd": 0.064912,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)",
+    "UoA Template — UoA-Student Research Agreement Template (April 2018).docx"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "MTA Example 1.pdf",
+  "contract_type": "Material Transfer Agreement",
+  "flags_source": "augment",
+  "n_flags": 39,
+  "counts": {
+    "red": 1,
+    "amber": 9,
+    "green": 5,
+    "blue": 24
+  },
+  "summary": "The review of \"MTA Example 1.pdf\" reveals a generally moderate risk posture, with most flagged clauses falling outside the scope of the University of Auckland's (UoA) Preferred Contracting Positions or Standard Templates. Key issues include uncapped indemnity obligations (Clause 8, red flag), liability limitations that deviate from UoA's preferred positions (Clauses 4 and 7, amber flags), and jurisdictional exclusivity under English law (Clause 24, amber flag). The recommended next step is to escalate the red- and amber-flagged clauses to the appropriate UoA authorities, including the Research Grants and Contracts Delegations and General Counsel, for further review and negotiation to ensure compliance with UoA's risk tolerance and policy framework.",
+  "wall_ms": 5950.2
+}

@@ -1,0 +1,12 @@
+{
+  "filename": "Service Provider Agreement Example.pdf",
+  "predicted_type": "Provision of Services Agreement",
+  "confidence": 0.9,
+  "rationale": "The document explicitly outlines the appointment of a Service Provider to perform specific services for a Company, with detailed terms and conditions governing the provision of these services. While confidentiality is mentioned, it is not the primary focus of the agreement, which is centered on the delivery of services. This aligns most closely with a Provision of Services Agreement.",
+  "expected_hint": "Provision of Services Agreement",
+  "name_match": true,
+  "wall_ms": 2486.9,
+  "source_text_chars": 24297,
+  "source_clauses": 42,
+  "merged_fragments": []
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "Collaboration Agreement Example 3.pdf",
+  "contract_type": "Collaboration Agreement",
+  "flags_source": "augment",
+  "n_flags": 125,
+  "counts": {
+    "red": 5,
+    "amber": 35,
+    "green": 10,
+    "blue": 75
+  },
+  "summary": "The review of the collaboration agreement indicates a moderate risk posture, with several clauses flagged for further review or escalation. Key issues include deviations from UoA's Preferred Positions on Intellectual Property (POS-IP), Indemnities (POS-08), Publication (POS-12), and Termination (POS-19). Notably, broad indemnities, restrictive publication rights, and termination without cause provisions require immediate attention. The next step is to escalate flagged clauses to the Senior Manager, Research Grants and Contracts, and Auckland UniServices Ltd for IP-related clauses, ensuring alignment with UoA's policies and mitigating potential risks.",
+  "wall_ms": 10722.8
+}

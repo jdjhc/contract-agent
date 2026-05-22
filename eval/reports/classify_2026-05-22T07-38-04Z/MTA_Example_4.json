@@ -1,0 +1,12 @@
+{
+  "filename": "MTA Example 4.pdf",
+  "predicted_type": "Material Transfer Agreement",
+  "confidence": 1.0,
+  "rationale": "The document explicitly identifies itself as a 'Material Transfer Agreement' in the title and throughout the text. It includes detailed provisions about the transfer, use, and ownership of biological materials, as well as restrictions on modifications and third-party transfers, which are characteristic of this contract type.",
+  "expected_hint": "Material Transfer Agreement",
+  "name_match": true,
+  "wall_ms": 4079.2,
+  "source_text_chars": 14027,
+  "source_clauses": 39,
+  "merged_fragments": []
+}

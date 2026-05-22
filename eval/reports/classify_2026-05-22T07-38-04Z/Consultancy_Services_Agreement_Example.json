@@ -1,0 +1,12 @@
+{
+  "filename": "Consultancy Services Agreement Example.pdf",
+  "predicted_type": "Consultancy Services Agreement",
+  "confidence": 0.98,
+  "rationale": "The document is explicitly titled 'University of Auckland Consultancy Agreement' and repeatedly references 'Consultancy Services Agreement' throughout the text. The structure and content focus on the provision of consultancy services, including terms related to the consultant's obligations, payment, intellectual property, and termination, which are characteristic of a Consultancy Services Agreement.",
+  "expected_hint": "Consultancy Services Agreement",
+  "name_match": true,
+  "wall_ms": 3435.1,
+  "source_text_chars": 56173,
+  "source_clauses": 41,
+  "merged_fragments": []
+}

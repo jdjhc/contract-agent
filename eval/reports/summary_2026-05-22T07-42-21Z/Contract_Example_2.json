@@ -1,0 +1,14 @@
+{
+  "filename": "Contract Example 2.pdf",
+  "contract_type": "Public Research Contract",
+  "flags_source": "augment",
+  "n_flags": 41,
+  "counts": {
+    "red": 0,
+    "amber": 1,
+    "green": 1,
+    "blue": 39
+  },
+  "summary": "The review of \"Contract Example 2.pdf,\" a public research contract, indicates a low-risk posture overall, with all flagged clauses either falling outside the scope of the University of Auckland's Preferred Contracting Positions or aligning with acceptable standards. The headline issue is the prevalence of clauses flagged as \"blue,\" which signifies topics not explicitly addressed by UoA policies or templates, such as funding dependencies, eligibility criteria, and personnel obligations. As a next step, it is recommended to escalate the single \"amber\" clause related to termination provisions to the Senior Manager, Research Grants and Contracts, for further evaluation and potential alignment with UoA's termination policies.",
+  "wall_ms": 3593.5
+}

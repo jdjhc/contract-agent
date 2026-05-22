@@ -1,0 +1,14 @@
+{
+  "filename": "Contract Example 3.pdf",
+  "contract_type": "Provision of Services Agreement",
+  "flags_source": "augment",
+  "n_flags": 57,
+  "counts": {
+    "red": 5,
+    "amber": 9,
+    "green": 3,
+    "blue": 40
+  },
+  "summary": "The review of \"Contract Example 3.pdf\" reveals a generally moderate risk posture, with a mix of clauses flagged as blue, amber, and red. Key issues include deviations from UoA's preferred positions on liability, indemnities, intellectual property, and termination rights, which require escalation to relevant stakeholders for compliance review. Immediate next steps should involve referring the flagged red and amber clauses to the appropriate teams, such as the Research Grants and Contracts Delegations, Tax and Compliance, and Auckland UniServices, to ensure alignment with UoA's policies and mitigate potential risks.",
+  "wall_ms": 5587.7
+}

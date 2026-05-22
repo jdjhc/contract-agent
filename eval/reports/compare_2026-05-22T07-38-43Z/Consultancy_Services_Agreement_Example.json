@@ -1,0 +1,343 @@
+{
+  "filename": "Consultancy Services Agreement Example.pdf",
+  "contract_type": "Consultancy Services Agreement",
+  "n_clauses": 41,
+  "counts": {
+    "red": 0,
+    "amber": 1,
+    "green": 1,
+    "blue": 39
+  },
+  "n_flags": 41,
+  "wall_ms": 40.79,
+  "flags": [
+    {
+      "level": "blue",
+      "clause_id": "U",
+      "clause_title": "University of Auckland Consultancy Agreement",
+      "snippet": "University of Auckland Consultancy Agreement - 10 - Part 4",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "Term",
+      "snippet": "Terms and Conditions",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "PART 4 - TERMS AND CONDITIONS",
+      "snippet": "PART 4 - TERMS AND CONDITIONS TABLE OF CONTENTS",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1 CONDITIONS PRECEDENT",
+      "snippet": "1 CONDITIONS PRECEDENT 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Agreement to Come into Effect",
+      "snippet": "Agreement to Come into Effect 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Conditions Precedent",
+      "snippet": "Conditions Precedent 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "C__dup__2",
+      "clause_title": "Cancellation",
+      "snippet": "Cancellation 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2 COMMENCEMENT / COMPLETION",
+      "snippet": "2 COMMENCEMENT / COMPLETION 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A__dup__2",
+      "clause_title": "Agreement Effective",
+      "snippet": "Agreement Effective 13 Term 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Services Prior to Execution of this Agreement",
+      "snippet": "Services Prior to Execution of this Agreement 13",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "E",
+      "clause_title": "Extension of Term",
+      "snippet": "Extension of Term 13",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3 OBLIGATIONS OF CONTACT",
+      "snippet": "3 OBLIGATIONS OF CONTACT 14",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "Information",
+      "snippet": "Information 14",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "E__dup__2",
+      "clause_title": "Equipment and Facilities",
+      "snippet": "Equipment and Facilities 14",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4 OBLIGATIONS OF THE CONSULTANT",
+      "snippet": "4 OBLIGATIONS OF THE CONSULTANT 14",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P__dup__2",
+      "clause_title": "Provision of the Services",
+      "snippet": "Provision of the Services 14",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__2",
+      "clause_title": "Standard of Care",
+      "snippet": "Standard of Care 15",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A__dup__3",
+      "clause_title": "Authority of the Consultant",
+      "snippet": "Authority of the Consultant 15",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P__dup__3",
+      "clause_title": "Presence on Site",
+      "snippet": "Presence on Site 15",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__2",
+      "clause_title": "Information to be supplied by the Consultant",
+      "snippet": "Information to be supplied by the Consultant 15",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P__dup__4",
+      "clause_title": "Property",
+      "snippet": "Property 16",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "C__dup__3",
+      "clause_title": "Co-operation",
+      "snippet": "Co-operation 16",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Retention of Documents and Audit Inspection",
+      "snippet": "Retention of Documents and Audit Inspection 17",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A__dup__4",
+      "clause_title": "Approval of Documents",
+      "snippet": "Approval of Documents 17",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__3",
+      "clause_title": "Instructions to Others by Consultant",
+      "snippet": "Instructions to Others by Consultant 17",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A__dup__5",
+      "clause_title": "Attendance at Meetings",
+      "snippet": "Attendance at Meetings 17",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "H",
+      "clause_title": "Health, Safety and Environment",
+      "snippet": "Health, Safety and Environment 17",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "I__dup__4",
+      "clause_title": "Information Technology",
+      "snippet": "Information Technology 18",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__2",
+      "clause_title": "Reporting",
+      "snippet": "Reporting 19",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5 PERSONNEL",
+      "snippet": "5 PERSONNEL 19",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "K",
+      "clause_title": "Key Personnel",
+      "snippet": "Key Personnel 19",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "O",
+      "clause_title": "Other Personnel",
+      "snippet": "Other Personnel 19",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__3",
+      "clause_title": "Removal of Personnel",
+      "snippet": "Removal of Personnel 19",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "M",
+      "clause_title": "Meeting with Staff",
+      "snippet": "Meeting with Staff 20",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__4",
+      "clause_title": "Representative",
+      "snippet": "Representative 20",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "C__dup__4",
+      "clause_title": "Consultant’s Representative",
+      "snippet": "Consultant’s Representative 20",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6",
+      "clause_title": "6 ASSIGNMENT",
+      "snippet": "6 ASSIGNMENT 20",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A__dup__6",
+      "clause_title": "Assignment or Subcontracting by the Consultant",
+      "snippet": "Assignment or Subcontracting by the Consultant 20",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "C__dup__5",
+      "clause_title": "Consent of",
+      "snippet": "Consent of 20 Change in Share Capital of Consultant Error! Bookmark not defined.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A__dup__7",
+      "clause_title": "Assignment by",
+      "snippet": "Assignment by 21",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "7",
+      "clause_title": "7 INTELLECTUAL PROPERTY",
+      "snippet": "7 INTELLECTUAL PROPERTY 21 Intellectual Property of Consultant Error! Bookmark not defined. Intellectual Property of Error! Bookmark not defined. Intellectual Property Warranty and Indemnity\\ Error! Bookmark not defined…",
+      "rationale": "Aligns with UoA preferred position on Governing Law and Jurisdiction — matches \"governed by the laws of\nNew Zealand\". Preferred: New Zealand.",
+      "standard_ref": "UoA Position #POS-16"
+    }
+  ]
+}

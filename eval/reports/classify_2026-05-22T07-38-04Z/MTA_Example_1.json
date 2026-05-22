@@ -1,0 +1,12 @@
+{
+  "filename": "MTA Example 1.pdf",
+  "predicted_type": "Material Transfer Agreement",
+  "confidence": 0.98,
+  "rationale": "The document explicitly identifies itself as a 'Material Transfer Agreement' in the title and throughout the text. It involves the transfer of human tissue material and associated data from a Provider Institution to a Recipient Institution for research purposes, which aligns directly with the definition of a Material Transfer Agreement.",
+  "expected_hint": "Material Transfer Agreement",
+  "name_match": true,
+  "wall_ms": 3643.4,
+  "source_text_chars": 16058,
+  "source_clauses": 39,
+  "merged_fragments": []
+}

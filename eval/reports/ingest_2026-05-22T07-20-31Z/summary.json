@@ -1,0 +1,434 @@
+{
+  "ran_at": "2026-05-22T07:32:16.765568+00:00",
+  "node": "ingest",
+  "source_dir": "data/Contract Reviewer Agent/Redacted examples",
+  "n_files": 28,
+  "n_ok": 28,
+  "n_failed": 0,
+  "wall_seconds": 705.7,
+  "concurrency": 4,
+  "total_tokens": 510319,
+  "total_cost_usd": 2.329,
+  "results": [
+    {
+      "filename": "CDA example 1.pdf",
+      "ok": true,
+      "text_chars": 15674,
+      "n_clauses": 39,
+      "ingest_metrics": {
+        "n_calls": 3,
+        "input_tokens": 4725,
+        "output_tokens": 1423,
+        "latency_ms": 46268.5,
+        "total_cost_usd": 0.026042
+      },
+      "wall_ms": 29693.7,
+      "checkpoint": "CDA_example_1.json"
+    },
+    {
+      "filename": "CDA example 2.pdf",
+      "ok": true,
+      "text_chars": 9505,
+      "n_clauses": 19,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 3988,
+        "output_tokens": 2047,
+        "latency_ms": 76109.1,
+        "total_cost_usd": 0.03044
+      },
+      "wall_ms": 33914.6,
+      "checkpoint": "CDA_example_2.json"
+    },
+    {
+      "filename": "CDA example 3.pdf",
+      "ok": true,
+      "text_chars": 6139,
+      "n_clauses": 30,
+      "ingest_metrics": {
+        "n_calls": 1,
+        "input_tokens": 1284,
+        "output_tokens": 499,
+        "latency_ms": 9414.2,
+        "total_cost_usd": 0.0082
+      },
+      "wall_ms": 9501.7,
+      "checkpoint": "CDA_example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 1.pdf",
+      "ok": true,
+      "text_chars": 26394,
+      "n_clauses": 40,
+      "ingest_metrics": {
+        "n_calls": 11,
+        "input_tokens": 15652,
+        "output_tokens": 6112,
+        "latency_ms": 232988.1,
+        "total_cost_usd": 0.10025
+      },
+      "wall_ms": 40600.0,
+      "checkpoint": "Collaboration_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 2.pdf",
+      "ok": true,
+      "text_chars": 5943,
+      "n_clauses": 38,
+      "ingest_metrics": {
+        "n_calls": 3,
+        "input_tokens": 2705,
+        "output_tokens": 1144,
+        "latency_ms": 47273.3,
+        "total_cost_usd": 0.018202
+      },
+      "wall_ms": 35549.2,
+      "checkpoint": "Collaboration_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 3.pdf",
+      "ok": true,
+      "text_chars": 31877,
+      "n_clauses": 125,
+      "ingest_metrics": {
+        "n_calls": 13,
+        "input_tokens": 18760,
+        "output_tokens": 8573,
+        "latency_ms": 346461.5,
+        "total_cost_usd": 0.13263
+      },
+      "wall_ms": 60484.8,
+      "checkpoint": "Collaboration_Agreement_Example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 4.pdf",
+      "ok": true,
+      "text_chars": 42725,
+      "n_clauses": 40,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 12123,
+        "output_tokens": 2461,
+        "latency_ms": 79730.0,
+        "total_cost_usd": 0.054918
+      },
+      "wall_ms": 37648.7,
+      "checkpoint": "Collaboration_Agreement_Example_4.json"
+    },
+    {
+      "filename": "Consultancy Services Agreement Example.pdf",
+      "ok": true,
+      "text_chars": 56173,
+      "n_clauses": 41,
+      "ingest_metrics": {
+        "n_calls": 1,
+        "input_tokens": 11726,
+        "output_tokens": 244,
+        "latency_ms": 5000.5,
+        "total_cost_usd": 0.031755
+      },
+      "wall_ms": 6022.3,
+      "checkpoint": "Consultancy_Services_Agreement_Example.json"
+    },
+    {
+      "filename": "Contract Example 1.pdf",
+      "ok": true,
+      "text_chars": 43299,
+      "n_clauses": 41,
+      "ingest_metrics": {
+        "n_calls": 17,
+        "input_tokens": 21079,
+        "output_tokens": 9247,
+        "latency_ms": 343676.3,
+        "total_cost_usd": 0.145168
+      },
+      "wall_ms": 42720.8,
+      "checkpoint": "Contract_Example_1.json"
+    },
+    {
+      "filename": "Contract Example 2.pdf",
+      "ok": true,
+      "text_chars": 42436,
+      "n_clauses": 41,
+      "ingest_metrics": {
+        "n_calls": 18,
+        "input_tokens": 21484,
+        "output_tokens": 9693,
+        "latency_ms": 415666.9,
+        "total_cost_usd": 0.15064
+      },
+      "wall_ms": 47160.9,
+      "checkpoint": "Contract_Example_2.json"
+    },
+    {
+      "filename": "Contract Example 3.pdf",
+      "ok": true,
+      "text_chars": 16600,
+      "n_clauses": 56,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 5755,
+        "output_tokens": 4420,
+        "latency_ms": 176023.7,
+        "total_cost_usd": 0.058588
+      },
+      "wall_ms": 77056.8,
+      "checkpoint": "Contract_Example_3.json"
+    },
+    {
+      "filename": "Contract Example 4.pdf",
+      "ok": true,
+      "text_chars": 13249,
+      "n_clauses": 42,
+      "ingest_metrics": {
+        "n_calls": 3,
+        "input_tokens": 4227,
+        "output_tokens": 3499,
+        "latency_ms": 142370.6,
+        "total_cost_usd": 0.045558
+      },
+      "wall_ms": 85079.2,
+      "checkpoint": "Contract_Example_4.json"
+    },
+    {
+      "filename": "Contract Example 5.pdf",
+      "ok": true,
+      "text_chars": 47579,
+      "n_clauses": 71,
+      "ingest_metrics": {
+        "n_calls": 3,
+        "input_tokens": 11160,
+        "output_tokens": 1507,
+        "latency_ms": 38488.4,
+        "total_cost_usd": 0.04297
+      },
+      "wall_ms": 24775.7,
+      "checkpoint": "Contract_Example_5.json"
+    },
+    {
+      "filename": "Contract for Goods and Services Example.pdf",
+      "ok": true,
+      "text_chars": 214952,
+      "n_clauses": 213,
+      "ingest_metrics": {
+        "n_calls": 77,
+        "input_tokens": 127685,
+        "output_tokens": 54275,
+        "latency_ms": 3100518.2,
+        "total_cost_usd": 0.861962
+      },
+      "wall_ms": 214648.1,
+      "checkpoint": "Contract_for_Goods_and_Services_Example.json"
+    },
+    {
+      "filename": "Data Transfer Agreement Example.pdf",
+      "ok": true,
+      "text_chars": 19189,
+      "n_clauses": 41,
+      "ingest_metrics": {
+        "n_calls": 7,
+        "input_tokens": 8488,
+        "output_tokens": 4552,
+        "latency_ms": 192361.1,
+        "total_cost_usd": 0.06674
+      },
+      "wall_ms": 53151.9,
+      "checkpoint": "Data_Transfer_Agreement_Example.json"
+    },
+    {
+      "filename": "MTA Example 1.pdf",
+      "ok": true,
+      "text_chars": 16058,
+      "n_clauses": 39,
+      "ingest_metrics": {
+        "n_calls": 3,
+        "input_tokens": 5354,
+        "output_tokens": 1645,
+        "latency_ms": 44334.8,
+        "total_cost_usd": 0.029835
+      },
+      "wall_ms": 26181.0,
+      "checkpoint": "MTA_Example_1.json"
+    },
+    {
+      "filename": "MTA Example 2.pdf",
+      "ok": true,
+      "text_chars": 10312,
+      "n_clauses": 38,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 4331,
+        "output_tokens": 2673,
+        "latency_ms": 65757.3,
+        "total_cost_usd": 0.037558
+      },
+      "wall_ms": 28068.1,
+      "checkpoint": "MTA_Example_2.json"
+    },
+    {
+      "filename": "MTA Example 3.pdf",
+      "ok": true,
+      "text_chars": 23780,
+      "n_clauses": 71,
+      "ingest_metrics": {
+        "n_calls": 3,
+        "input_tokens": 6371,
+        "output_tokens": 2330,
+        "latency_ms": 62246.4,
+        "total_cost_usd": 0.039227
+      },
+      "wall_ms": 49899.9,
+      "checkpoint": "MTA_Example_3.json"
+    },
+    {
+      "filename": "MTA Example 4.pdf",
+      "ok": true,
+      "text_chars": 14027,
+      "n_clauses": 39,
+      "ingest_metrics": {
+        "n_calls": 6,
+        "input_tokens": 6433,
+        "output_tokens": 3389,
+        "latency_ms": 109630.6,
+        "total_cost_usd": 0.049973
+      },
+      "wall_ms": 36757.5,
+      "checkpoint": "MTA_Example_4.json"
+    },
+    {
+      "filename": "Master Services Agreement Example 1 (1).pdf",
+      "ok": true,
+      "text_chars": 125618,
+      "n_clauses": 79,
+      "ingest_metrics": {
+        "n_calls": 10,
+        "input_tokens": 35327,
+        "output_tokens": 4836,
+        "latency_ms": 636756.7,
+        "total_cost_usd": 0.136678
+      },
+      "wall_ms": 509533.5,
+      "checkpoint": "Master_Services_Agreement_Example_1__1.json"
+    },
+    {
+      "filename": "NDA example 1.pdf",
+      "ok": true,
+      "text_chars": 9029,
+      "n_clauses": 14,
+      "ingest_metrics": {
+        "n_calls": 2,
+        "input_tokens": 2895,
+        "output_tokens": 845,
+        "latency_ms": 31131.7,
+        "total_cost_usd": 0.015688
+      },
+      "wall_ms": 31255.2,
+      "checkpoint": "NDA_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 1.pdf",
+      "ok": true,
+      "text_chars": 7878,
+      "n_clauses": 54,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 3864,
+        "output_tokens": 2399,
+        "latency_ms": 82404.5,
+        "total_cost_usd": 0.03365
+      },
+      "wall_ms": 39281.5,
+      "checkpoint": "NDA_student_work_experience_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 2.pdf",
+      "ok": true,
+      "text_chars": 11803,
+      "n_clauses": 78,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 4656,
+        "output_tokens": 3564,
+        "latency_ms": 97454.1,
+        "total_cost_usd": 0.04728
+      },
+      "wall_ms": 57762.9,
+      "checkpoint": "NDA_student_work_experience_example_2.json"
+    },
+    {
+      "filename": "Service Provider Agreement Example.pdf",
+      "ok": true,
+      "text_chars": 24297,
+      "n_clauses": 42,
+      "ingest_metrics": {
+        "n_calls": 1,
+        "input_tokens": 5043,
+        "output_tokens": 687,
+        "latency_ms": 5057.2,
+        "total_cost_usd": 0.019477
+      },
+      "wall_ms": 5389.8,
+      "checkpoint": "Service_Provider_Agreement_Example.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 1.pdf",
+      "ok": true,
+      "text_chars": 33923,
+      "n_clauses": 40,
+      "ingest_metrics": {
+        "n_calls": 4,
+        "input_tokens": 10241,
+        "output_tokens": 3931,
+        "latency_ms": 141027.0,
+        "total_cost_usd": 0.064912
+      },
+      "wall_ms": 64292.7,
+      "checkpoint": "Student_Research_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 2.pdf",
+      "ok": true,
+      "text_chars": 16839,
+      "n_clauses": 39,
+      "ingest_metrics": {
+        "n_calls": 1,
+        "input_tokens": 3638,
+        "output_tokens": 527,
+        "latency_ms": 4514.9,
+        "total_cost_usd": 0.014365
+      },
+      "wall_ms": 4910.6,
+      "checkpoint": "Student_Research_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Subcontract Example 1.pdf",
+      "ok": true,
+      "text_chars": 28062,
+      "n_clauses": 187,
+      "ingest_metrics": {
+        "n_calls": 1,
+        "input_tokens": 5930,
+        "output_tokens": 3043,
+        "latency_ms": 17200.7,
+        "total_cost_usd": 0.045255
+      },
+      "wall_ms": 17520.8,
+      "checkpoint": "Subcontract_Example_1.json"
+    },
+    {
+      "filename": "Subcontract Example 2.pdf",
+      "ok": true,
+      "text_chars": 20314,
+      "n_clauses": 42,
+      "ingest_metrics": {
+        "n_calls": 2,
+        "input_tokens": 4972,
+        "output_tokens": 858,
+        "latency_ms": 20606.4,
+        "total_cost_usd": 0.02101
+      },
+      "wall_ms": 20940.3,
+      "checkpoint": "Subcontract_Example_2.json"
+    }
+  ]
+}

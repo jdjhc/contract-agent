@@ -1,0 +1,12 @@
+{
+  "filename": "Subcontract Example 2.pdf",
+  "predicted_type": "Commercial Research Contract",
+  "confidence": 0.9,
+  "rationale": "The document describes a formal agreement for research and development work between a university and a company, with clear deliverables, milestones, and intellectual property considerations. This aligns with the characteristics of a Commercial Research Contract, as it involves a business entity providing research services to a client for compensation.",
+  "expected_hint": "Research Subcontract",
+  "name_match": false,
+  "wall_ms": 2324.0,
+  "source_text_chars": 20314,
+  "source_clauses": 42,
+  "merged_fragments": []
+}

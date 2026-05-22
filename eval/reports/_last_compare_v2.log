@@ -1,0 +1,38 @@
+Comparing 28 contracts (deterministic — no LLM)
+→ eval/reports/compare_2026-05-22T07-38-43Z
+
+[ 1/28] OK  CDA example 1.pdf                                  R/A/G/B=0/18/0/21   20.1ms
+[ 2/28] OK  CDA example 2.pdf                                  R/A/G/B=0/13/2/4    8.9ms
+[ 3/28] OK  CDA example 3.pdf                                  R/A/G/B=0/24/0/6    8.0ms
+[ 4/28] OK  Collaboration Agreement Example 1.pdf              R/A/G/B=0/11/0/29   23.4ms
+[ 5/28] OK  Collaboration Agreement Example 2.pdf              R/A/G/B=0/5/0/33    7.5ms
+[ 6/28] OK  Collaboration Agreement Example 3.pdf              R/A/G/B=2/43/0/80   36.0ms
+[ 7/28] OK  Collaboration Agreement Example 4.pdf              R/A/G/B=0/11/0/29   34.9ms
+[ 8/28] OK  Consultancy Services Agreement Example.pdf         R/A/G/B=0/1/1/39   40.8ms
+[ 9/28] OK  Contract Example 1.pdf                             R/A/G/B=0/3/0/38   36.7ms
+[10/28] OK  Contract Example 2.pdf                             R/A/G/B=0/3/0/38   35.9ms
+[11/28] OK  Contract Example 3.pdf                             R/A/G/B=0/19/1/36   17.3ms
+[12/28] OK  Contract Example 4.pdf                             R/A/G/B=0/24/2/16   13.9ms
+[13/28] OK  Contract Example 5.pdf                             R/A/G/B=1/27/0/43   42.0ms
+[14/28] OK  Contract for Goods and Services Example.pdf        R/A/G/B=1/74/2/136  179.5ms
+[15/28] OK  Data Transfer Agreement Example.pdf                R/A/G/B=0/11/0/30   18.2ms
+[16/28] OK  MTA Example 1.pdf                                  R/A/G/B=2/10/0/27   15.9ms
+[17/28] OK  MTA Example 2.pdf                                  R/A/G/B=2/9/0/27   11.0ms
+[18/28] OK  MTA Example 3.pdf                                  R/A/G/B=0/20/0/51   25.7ms
+[19/28] OK  MTA Example 4.pdf                                  R/A/G/B=2/9/0/28   14.4ms
+[20/28] OK  Master Services Agreement Example 1 (1).pdf        R/A/G/B=0/21/0/58  100.5ms
+[21/28] OK  NDA example 1.pdf                                  R/A/G/B=1/7/3/3    8.2ms
+[22/28] OK  NDA student work experience example 1.pdf          R/A/G/B=0/24/0/30   10.2ms
+[23/28] OK  NDA student work experience example 2.pdf          R/A/G/B=0/37/1/40   15.8ms
+[24/28] OK  Service Provider Agreement Example.pdf             R/A/G/B=0/10/0/32   23.7ms
+[25/28] OK  Student Research Agreement Example 1.pdf           R/A/G/B=0/8/1/31   27.0ms
+[26/28] OK  Student Research Agreement Example 2.pdf           R/A/G/B=1/18/0/20   15.9ms
+[27/28] OK  Subcontract Example 1.pdf                          R/A/G/B=0/51/0/136   38.7ms
+[28/28] OK  Subcontract Example 2.pdf                          R/A/G/B=1/6/0/35   18.3ms
+
+=== Compare summary ===
+Files     : 28/28 OK
+Wall time : 0.86s
+Totals    : R=13 A=517 G=13 B=1096
+Checkpoints → eval/reports/compare_2026-05-22T07-38-43Z
+Summary     → eval/reports/compare_2026-05-22T07-38-43Z/summary.json

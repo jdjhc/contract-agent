@@ -1,0 +1,343 @@
+{
+  "filename": "Data Transfer Agreement Example.pdf",
+  "contract_type": "Data Transfer Agreement",
+  "n_clauses": 41,
+  "counts": {
+    "red": 0,
+    "amber": 11,
+    "green": 0,
+    "blue": 30
+  },
+  "n_flags": 41,
+  "wall_ms": 18.25,
+  "flags": [
+    {
+      "level": "amber",
+      "clause_id": "C",
+      "clause_title": "Confidentiality and Data Sharing Agreement",
+      "snippet": "Confidentiality and Data Sharing Agreement",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Date of agreement: [REDACTED]",
+      "snippet": "Date of agreement: [REDACTED]",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "BETWEEN",
+      "snippet": "BETWEEN [REDACTED] Australian Company Number [REDACTED] of [REDACTED] AND The University of Auckland of 22 Princes Street, Auckland, New Zealand (Recipient).",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "RECITALS",
+      "snippet": "RECITALS",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "A. The Discloser holds de-identified clinical data which it intends to",
+      "snippet": "A. The Discloser holds de-identified clinical data which it intends to provide to the Recipient for the Purpose.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "B__dup__2",
+      "clause_title": "B. The Discloser has agreed to disclose information to the Recipient on",
+      "snippet": "B. The Discloser has agreed to disclose information to the Recipient on the terms of this agreement.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "C__dup__2",
+      "clause_title": "C. The Recipient has agreed to keep confidential the information disclo",
+      "snippet": "C. The Recipient has agreed to keep confidential the information disclosed to it by the Discloser.",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "IT IS NOW AGREED:",
+      "snippet": "IT IS NOW AGREED:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1 DEFINITIONS",
+      "snippet": "1 DEFINITIONS In this agreement:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.1",
+      "clause_title": "1.1 Background Intellectual Property means Intellectual Property prepar",
+      "snippet": "1.1 Background Intellectual Property means Intellectual Property prepared or developed prior to the Execution Date by any party, and includes improvements to such Intellectual Property developed during the period of thi…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.2",
+      "clause_title": "1.2 Confidential Information means:",
+      "snippet": "1.2 Confidential Information means:",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "12",
+      "clause_title": "(a) de-identified clinical data and other information, records, contain",
+      "snippet": "(a) de-identified clinical data and other information, records, containing Intellectual Property;",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "(b) all de-identified Health Information, Personal Information, health",
+      "snippet": "(b) all de-identified Health Information, Personal Information, health records, radiological and medical images, health data, collected and owned by the Discloser irrespective of form;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "14",
+      "clause_title": "(c) all unpatented inventions (including those the subject of a patent",
+      "snippet": "(c) all unpatented inventions (including those the subject of a patent application), ideas, know-how, concepts, trade secrets, processes, techniques, software, products and all other intellectual property, financial and…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(d) all copies, notes and records and all related information generated",
+      "snippet": "(d) all copies, notes and records and all related information generated by the Recipient to the extent incorporating or derived from any information referred to in paragraphs (a), (b) and (c); and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "(e) any physical items, compounds, components or other materials,",
+      "snippet": "(e) any physical items, compounds, components or other materials,",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "(f) [REDACTED]",
+      "snippet": "(f) [REDACTED] disclosed by or on behalf of the Discloser before, on or after the Execution Date for the Purpose;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.3",
+      "clause_title": "1.3 Confidentiality Agreement has the meaning set out in clause 3.4(a)(",
+      "snippet": "1.3 Confidentiality Agreement has the meaning set out in clause 3.4(a)(ii);",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.4",
+      "clause_title": "1.4 Data Breach has the meaning set out in clause 5.7(b);",
+      "snippet": "1.4 Data Breach has the meaning set out in clause 5.7(b);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.5",
+      "clause_title": "1.5 Data Contravention has the meaning set out in clause 5.7(a);",
+      "snippet": "1.5 Data Contravention has the meaning set out in clause 5.7(a);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.6",
+      "clause_title": "1.6 Discloser means [REDACTED]",
+      "snippet": "1.6 Discloser means [REDACTED]",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.7",
+      "clause_title": "1.7 Execution Date means the date upon which this agreement is signed b",
+      "snippet": "1.7 Execution Date means the date upon which this agreement is signed by the parties; End date means the date upon which this Agreement will expire, is 2 years from the Execution Date, unless agreed otherwise by both pa…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.8",
+      "clause_title": "1.8 Health Act means the Health Act 1958 (NZ);",
+      "snippet": "1.8 Health Act means the Health Act 1958 (NZ);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.9",
+      "clause_title": "1.9 Health Information as the context so permits has the meaning as set",
+      "snippet": "1.9 Health Information as the context so permits has the meaning as set out in the:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "25",
+      "clause_title": "(a) Health Records Act; or",
+      "snippet": "(a) Health Records Act; or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "26",
+      "clause_title": "(b) Health Act;",
+      "snippet": "(b) Health Act;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.10",
+      "clause_title": "1.10 Health Records Act means the Health Records Act 2008 (Vic);",
+      "snippet": "1.10 Health Records Act means the Health Records Act 2008 (Vic);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.11",
+      "clause_title": "1.11 Health Services Act means the Health Services Act 1988 (Vic);",
+      "snippet": "1.11 Health Services Act means the Health Services Act 1988 (Vic);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.12",
+      "clause_title": "1.12 Intellectual Property means all intellectual and industrial proper",
+      "snippet": "1.12 Intellectual Property means all intellectual and industrial property rights and includes any patent, design, copyright, trade mark, plant breeders rights, technology, know-how, and Confidential Information, and all…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "30",
+      "clause_title": "other intellectual property as defined in Article 2 of the convention o",
+      "snippet": "other intellectual property as defined in Article 2 of the convention of 1967 establishing the World Intellectual Property Organisation;",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.13",
+      "clause_title": "1.13 Laws includes the applicable:",
+      "snippet": "1.13 Laws includes the applicable:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "32",
+      "clause_title": "(a) Health Act;",
+      "snippet": "(a) Health Act;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "33",
+      "clause_title": "(b) Health Records Act;",
+      "snippet": "(b) Health Records Act;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "(c) Health Services Act;",
+      "snippet": "(c) Health Services Act;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "35",
+      "clause_title": "(d) Privacy Act; and",
+      "snippet": "(d) Privacy Act; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "36",
+      "clause_title": "(e) Privacy and Data Protection Act;",
+      "snippet": "(e) Privacy and Data Protection Act;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.14",
+      "clause_title": "1.14 Licence has the meaning set out in clause 2;",
+      "snippet": "1.14 Licence has the meaning set out in clause 2;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.15",
+      "clause_title": "1.15 Loss of Data has the meaning set out in clause 5.7(c);",
+      "snippet": "1.15 Loss of Data has the meaning set out in clause 5.7(c);",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.16",
+      "clause_title": "1.16 Personal Information as the context so permits, has the meaning se",
+      "snippet": "1.16 Personal Information as the context so permits, has the meaning set out in the:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "40",
+      "clause_title": "(a) Privacy and Data Protection Act; or",
+      "snippet": "(a) Privacy and Data Protection Act; or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "41",
+      "clause_title": "(b) Privacy Act;",
+      "snippet": "(b) Privacy Act; 1.17 Purpose means solely for clinical research to be conducted by the Recipient and for no other purpose; 1.18 Principles means, as the context so permits the principles governing the collection, use, …",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    }
+  ]
+}

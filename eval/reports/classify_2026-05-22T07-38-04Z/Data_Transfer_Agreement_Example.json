@@ -1,0 +1,12 @@
+{
+  "filename": "Data Transfer Agreement Example.pdf",
+  "predicted_type": "Data Transfer Agreement",
+  "confidence": 0.95,
+  "rationale": "The document explicitly involves the transfer of de-identified clinical data for research purposes, with detailed provisions for confidentiality, data sharing, and compliance with privacy laws. While confidentiality is a key component, the primary focus is on the transfer and use of data, making it a Data Transfer Agreement rather than a Confidential Disclosure Agreement.",
+  "expected_hint": "Data Transfer Agreement",
+  "name_match": true,
+  "wall_ms": 6130.5,
+  "source_text_chars": 19189,
+  "source_clauses": 41,
+  "merged_fragments": []
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "Student Research Agreement Example 1.pdf",
+  "contract_type": "Student Research Agreement",
+  "flags_source": "augment",
+  "n_flags": 40,
+  "counts": {
+    "red": 1,
+    "amber": 5,
+    "green": 3,
+    "blue": 31
+  },
+  "summary": "The overall risk posture of this Student Research Agreement is moderate, with several clauses flagged for potential issues, particularly around Intellectual Property (IP), termination, and publication rights. Key concerns include unclear or incomplete drafting in some clauses, as well as IP-related provisions that require escalation to Auckland UniServices for review, as mandated by UoA Position #POS-IP. The next step is to escalate the flagged amber and red clauses to the appropriate UoA stakeholders, including the Senior Manager, Research Grants and Contracts, and the Head of IP, for further review and potential redrafting to ensure compliance with UoA policies and templates.",
+  "wall_ms": 4621.5
+}

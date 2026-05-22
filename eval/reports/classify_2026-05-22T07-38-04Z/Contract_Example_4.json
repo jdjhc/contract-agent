@@ -1,0 +1,12 @@
+{
+  "filename": "Contract Example 4.pdf",
+  "predicted_type": "Research Subcontract",
+  "confidence": 0.95,
+  "rationale": "The document explicitly refers to a 'Subcontractor' and 'Contractor' relationship, with the Subcontractor performing research and reporting to the Contractor. The terms of payment, intellectual property, and reporting align with a Research Subcontract. The keyword 'subcontract' is also directly mentioned multiple times, reinforcing this classification.",
+  "expected_hint": null,
+  "name_match": null,
+  "wall_ms": 5017.4,
+  "source_text_chars": 13249,
+  "source_clauses": 42,
+  "merged_fragments": []
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "Subcontract Example 1.pdf",
+  "contract_type": "Research Subcontract",
+  "flags_source": "augment",
+  "n_flags": 187,
+  "counts": {
+    "red": 13,
+    "amber": 28,
+    "green": 14,
+    "blue": 132
+  },
+  "summary": "The review of \"Subcontract Example 1.pdf\" indicates a generally low-risk posture, with most clauses falling outside the scope of the University of Auckland's Preferred Contracting Positions (blue flags). However, there are several amber and red flags requiring attention. Key issues include deviations from UoA's positions on termination rights, liability limitations, intellectual property, confidentiality, and taxation. Notably, the termination clauses introduce non-standard triggers and financial penalties, while the liability cap exceeds UoA's preferred limits. Intellectual property clauses require referral to Auckland UniServices Ltd for review, and the governing law clause specifies the courts of England, which is not an acceptable jurisdiction under UoA's guidelines. \n\nThe next step is to escalate the flagged clauses to the appropriate stakeholders, including the Senior Manager, Research Grants and Contracts, General Counsel, and the Tax and Compliance team, for further review and potential renegotiation. Additionally, the intellectual property clauses should be referred to Auckland UniServices Ltd for compliance with UoA's IP policies.",
+  "wall_ms": 6975.7
+}

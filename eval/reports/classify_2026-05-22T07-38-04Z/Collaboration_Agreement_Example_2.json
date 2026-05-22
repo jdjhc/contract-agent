@@ -1,0 +1,12 @@
+{
+  "filename": "Collaboration Agreement Example 2.pdf",
+  "predicted_type": "Collaboration Agreement",
+  "confidence": 0.98,
+  "rationale": "The document is explicitly titled 'Research Collaboration Agreement' and repeatedly emphasizes collaboration between the parties for research and development purposes. The clauses detail mutual responsibilities, confidentiality, and data protection, all of which align with a Collaboration Agreement.",
+  "expected_hint": "Collaboration Agreement",
+  "name_match": true,
+  "wall_ms": 3801.4,
+  "source_text_chars": 5943,
+  "source_clauses": 38,
+  "merged_fragments": []
+}

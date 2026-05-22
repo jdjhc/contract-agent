@@ -1,0 +1,749 @@
+{
+  "ran_at": "2026-05-22T07:41:14.741973+00:00",
+  "node": "augment",
+  "ingest_dir": "eval/reports/ingest_2026-05-22T07-20-31Z",
+  "classify_dir": "eval/reports/classify_2026-05-22T07-38-04Z",
+  "compare_dir": "eval/reports/compare_2026-05-22T07-38-43Z",
+  "n_files": 28,
+  "n_ok": 28,
+  "n_failed": 0,
+  "wall_seconds": 143.0,
+  "concurrency": 10,
+  "aggregate_level_changes": {
+    "amber→red": 95,
+    "amber→blue": 86,
+    "amber→green": 53,
+    "blue→green": 38,
+    "blue→amber": 17,
+    "blue→red": 10,
+    "green→blue": 4,
+    "red→amber": 3,
+    "red→green": 3,
+    "green→red": 2,
+    "green→amber": 1
+  },
+  "results": [
+    {
+      "filename": "CDA example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 39,
+      "n_augmented_flags": 39,
+      "seed_counts": {
+        "red": 0,
+        "amber": 18,
+        "green": 0,
+        "blue": 21
+      },
+      "augmented_counts": {
+        "red": 2,
+        "amber": 8,
+        "green": 7,
+        "blue": 22
+      },
+      "level_changes": {
+        "amber→red": 2,
+        "amber→blue": 4,
+        "blue→green": 3,
+        "amber→green": 4
+      },
+      "wall_ms": 19965.9,
+      "checkpoint": "CDA_example_1.json"
+    },
+    {
+      "filename": "CDA example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 19,
+      "n_augmented_flags": 19,
+      "seed_counts": {
+        "red": 0,
+        "amber": 13,
+        "green": 2,
+        "blue": 4
+      },
+      "augmented_counts": {
+        "red": 4,
+        "amber": 6,
+        "green": 3,
+        "blue": 6
+      },
+      "level_changes": {
+        "green→blue": 1,
+        "amber→blue": 2,
+        "amber→red": 4,
+        "amber→green": 1,
+        "blue→green": 1
+      },
+      "wall_ms": 27873.5,
+      "checkpoint": "CDA_example_2.json"
+    },
+    {
+      "filename": "CDA example 3.pdf",
+      "ok": true,
+      "n_seed_flags": 30,
+      "n_augmented_flags": 30,
+      "seed_counts": {
+        "red": 0,
+        "amber": 24,
+        "green": 0,
+        "blue": 6
+      },
+      "augmented_counts": {
+        "red": 13,
+        "amber": 8,
+        "green": 3,
+        "blue": 6
+      },
+      "level_changes": {
+        "amber→red": 13,
+        "amber→green": 2,
+        "blue→green": 1,
+        "amber→blue": 1
+      },
+      "wall_ms": 19159.5,
+      "checkpoint": "CDA_example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 40,
+      "n_augmented_flags": 40,
+      "seed_counts": {
+        "red": 0,
+        "amber": 11,
+        "green": 0,
+        "blue": 29
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 10,
+        "green": 2,
+        "blue": 27
+      },
+      "level_changes": {
+        "blue→amber": 3,
+        "amber→red": 1,
+        "amber→blue": 2,
+        "blue→green": 1,
+        "amber→green": 1
+      },
+      "wall_ms": 19577.4,
+      "checkpoint": "Collaboration_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 38,
+      "n_augmented_flags": 38,
+      "seed_counts": {
+        "red": 0,
+        "amber": 5,
+        "green": 0,
+        "blue": 33
+      },
+      "augmented_counts": {
+        "red": 2,
+        "amber": 2,
+        "green": 1,
+        "blue": 33
+      },
+      "level_changes": {
+        "amber→green": 1,
+        "amber→red": 2
+      },
+      "wall_ms": 17912.1,
+      "checkpoint": "Collaboration_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 3.pdf",
+      "ok": true,
+      "n_seed_flags": 125,
+      "n_augmented_flags": 125,
+      "seed_counts": {
+        "red": 2,
+        "amber": 43,
+        "green": 0,
+        "blue": 80
+      },
+      "augmented_counts": {
+        "red": 5,
+        "amber": 35,
+        "green": 10,
+        "blue": 75
+      },
+      "level_changes": {
+        "amber→blue": 1,
+        "blue→amber": 4,
+        "amber→red": 4,
+        "amber→green": 8,
+        "blue→green": 2,
+        "red→amber": 1
+      },
+      "wall_ms": 55305.6,
+      "checkpoint": "Collaboration_Agreement_Example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 4.pdf",
+      "ok": true,
+      "n_seed_flags": 40,
+      "n_augmented_flags": 40,
+      "seed_counts": {
+        "red": 0,
+        "amber": 11,
+        "green": 0,
+        "blue": 29
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 5,
+        "green": 0,
+        "blue": 34
+      },
+      "level_changes": {
+        "amber→red": 1,
+        "amber→blue": 5
+      },
+      "wall_ms": 19703.2,
+      "checkpoint": "Collaboration_Agreement_Example_4.json"
+    },
+    {
+      "filename": "Consultancy Services Agreement Example.pdf",
+      "ok": true,
+      "n_seed_flags": 41,
+      "n_augmented_flags": 41,
+      "seed_counts": {
+        "red": 0,
+        "amber": 1,
+        "green": 1,
+        "blue": 39
+      },
+      "augmented_counts": {
+        "red": 0,
+        "amber": 2,
+        "green": 0,
+        "blue": 39
+      },
+      "level_changes": {
+        "green→amber": 1
+      },
+      "wall_ms": 18572.7,
+      "checkpoint": "Consultancy_Services_Agreement_Example.json"
+    },
+    {
+      "filename": "Contract Example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 41,
+      "n_augmented_flags": 41,
+      "seed_counts": {
+        "red": 0,
+        "amber": 3,
+        "green": 0,
+        "blue": 38
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 1,
+        "green": 1,
+        "blue": 38
+      },
+      "level_changes": {
+        "amber→red": 1,
+        "blue→green": 1,
+        "amber→blue": 1
+      },
+      "wall_ms": 19860.1,
+      "checkpoint": "Contract_Example_1.json"
+    },
+    {
+      "filename": "Contract Example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 41,
+      "n_augmented_flags": 41,
+      "seed_counts": {
+        "red": 0,
+        "amber": 3,
+        "green": 0,
+        "blue": 38
+      },
+      "augmented_counts": {
+        "red": 0,
+        "amber": 1,
+        "green": 1,
+        "blue": 39
+      },
+      "level_changes": {
+        "amber→blue": 2,
+        "blue→green": 1
+      },
+      "wall_ms": 19414.1,
+      "checkpoint": "Contract_Example_2.json"
+    },
+    {
+      "filename": "Contract Example 3.pdf",
+      "ok": true,
+      "n_seed_flags": 56,
+      "n_augmented_flags": 57,
+      "seed_counts": {
+        "red": 0,
+        "amber": 19,
+        "green": 1,
+        "blue": 36
+      },
+      "augmented_counts": {
+        "red": 5,
+        "amber": 9,
+        "green": 3,
+        "blue": 40
+      },
+      "level_changes": {
+        "amber→red": 4,
+        "blue→red": 1,
+        "amber→blue": 5,
+        "amber→green": 2
+      },
+      "wall_ms": 24164.3,
+      "checkpoint": "Contract_Example_3.json"
+    },
+    {
+      "filename": "Contract Example 4.pdf",
+      "ok": true,
+      "n_seed_flags": 42,
+      "n_augmented_flags": 42,
+      "seed_counts": {
+        "red": 0,
+        "amber": 24,
+        "green": 2,
+        "blue": 16
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 15,
+        "green": 6,
+        "blue": 20
+      },
+      "level_changes": {
+        "green→red": 1,
+        "amber→green": 4,
+        "amber→blue": 5,
+        "blue→green": 1
+      },
+      "wall_ms": 21526.2,
+      "checkpoint": "Contract_Example_4.json"
+    },
+    {
+      "filename": "Contract Example 5.pdf",
+      "ok": true,
+      "n_seed_flags": 71,
+      "n_augmented_flags": 71,
+      "seed_counts": {
+        "red": 1,
+        "amber": 27,
+        "green": 0,
+        "blue": 43
+      },
+      "augmented_counts": {
+        "red": 8,
+        "amber": 13,
+        "green": 0,
+        "blue": 50
+      },
+      "level_changes": {
+        "amber→red": 7,
+        "amber→blue": 7
+      },
+      "wall_ms": 35009.7,
+      "checkpoint": "Contract_Example_5.json"
+    },
+    {
+      "filename": "Contract for Goods and Services Example.pdf",
+      "ok": true,
+      "n_seed_flags": 213,
+      "n_augmented_flags": 213,
+      "seed_counts": {
+        "red": 1,
+        "amber": 74,
+        "green": 2,
+        "blue": 136
+      },
+      "augmented_counts": {
+        "red": 8,
+        "amber": 55,
+        "green": 3,
+        "blue": 147
+      },
+      "level_changes": {
+        "amber→blue": 14,
+        "amber→green": 2,
+        "green→blue": 2,
+        "amber→red": 6,
+        "blue→amber": 3,
+        "blue→red": 1,
+        "blue→green": 1
+      },
+      "wall_ms": 122228.1,
+      "checkpoint": "Contract_for_Goods_and_Services_Example.json"
+    },
+    {
+      "filename": "Data Transfer Agreement Example.pdf",
+      "ok": true,
+      "n_seed_flags": 41,
+      "n_augmented_flags": 41,
+      "seed_counts": {
+        "red": 0,
+        "amber": 11,
+        "green": 0,
+        "blue": 30
+      },
+      "augmented_counts": {
+        "red": 2,
+        "amber": 5,
+        "green": 0,
+        "blue": 34
+      },
+      "level_changes": {
+        "amber→red": 2,
+        "amber→blue": 4
+      },
+      "wall_ms": 18193.7,
+      "checkpoint": "Data_Transfer_Agreement_Example.json"
+    },
+    {
+      "filename": "MTA Example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 39,
+      "n_augmented_flags": 39,
+      "seed_counts": {
+        "red": 2,
+        "amber": 10,
+        "green": 0,
+        "blue": 27
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 9,
+        "green": 5,
+        "blue": 24
+      },
+      "level_changes": {
+        "blue→green": 3,
+        "red→amber": 1,
+        "amber→green": 2
+      },
+      "wall_ms": 24016.0,
+      "checkpoint": "MTA_Example_1.json"
+    },
+    {
+      "filename": "MTA Example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 38,
+      "n_augmented_flags": 38,
+      "seed_counts": {
+        "red": 2,
+        "amber": 9,
+        "green": 0,
+        "blue": 27
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 9,
+        "green": 3,
+        "blue": 25
+      },
+      "level_changes": {
+        "blue→green": 1,
+        "blue→amber": 3,
+        "amber→blue": 2,
+        "red→green": 1,
+        "red→amber": 1,
+        "amber→red": 1,
+        "amber→green": 1
+      },
+      "wall_ms": 22295.4,
+      "checkpoint": "MTA_Example_2.json"
+    },
+    {
+      "filename": "MTA Example 3.pdf",
+      "ok": true,
+      "n_seed_flags": 71,
+      "n_augmented_flags": 71,
+      "seed_counts": {
+        "red": 0,
+        "amber": 20,
+        "green": 0,
+        "blue": 51
+      },
+      "augmented_counts": {
+        "red": 4,
+        "amber": 8,
+        "green": 3,
+        "blue": 56
+      },
+      "level_changes": {
+        "amber→red": 4,
+        "amber→blue": 5,
+        "amber→green": 3
+      },
+      "wall_ms": 28999.7,
+      "checkpoint": "MTA_Example_3.json"
+    },
+    {
+      "filename": "MTA Example 4.pdf",
+      "ok": true,
+      "n_seed_flags": 39,
+      "n_augmented_flags": 39,
+      "seed_counts": {
+        "red": 2,
+        "amber": 9,
+        "green": 0,
+        "blue": 28
+      },
+      "augmented_counts": {
+        "red": 3,
+        "amber": 8,
+        "green": 7,
+        "blue": 21
+      },
+      "level_changes": {
+        "blue→green": 5,
+        "blue→amber": 2,
+        "amber→red": 2,
+        "amber→green": 1,
+        "red→green": 1
+      },
+      "wall_ms": 24320.5,
+      "checkpoint": "MTA_Example_4.json"
+    },
+    {
+      "filename": "Master Services Agreement Example 1 (1).pdf",
+      "ok": true,
+      "n_seed_flags": 79,
+      "n_augmented_flags": 79,
+      "seed_counts": {
+        "red": 0,
+        "amber": 21,
+        "green": 0,
+        "blue": 58
+      },
+      "augmented_counts": {
+        "red": 11,
+        "amber": 7,
+        "green": 2,
+        "blue": 59
+      },
+      "level_changes": {
+        "amber→red": 9,
+        "amber→blue": 4,
+        "blue→red": 2,
+        "amber→green": 1,
+        "blue→green": 1
+      },
+      "wall_ms": 37724.2,
+      "checkpoint": "Master_Services_Agreement_Example_1__1.json"
+    },
+    {
+      "filename": "NDA example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 14,
+      "n_augmented_flags": 14,
+      "seed_counts": {
+        "red": 1,
+        "amber": 7,
+        "green": 3,
+        "blue": 3
+      },
+      "augmented_counts": {
+        "red": 4,
+        "amber": 5,
+        "green": 1,
+        "blue": 4
+      },
+      "level_changes": {
+        "green→red": 1,
+        "amber→red": 2,
+        "green→blue": 1
+      },
+      "wall_ms": 7327.0,
+      "checkpoint": "NDA_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 54,
+      "n_augmented_flags": 54,
+      "seed_counts": {
+        "red": 0,
+        "amber": 24,
+        "green": 0,
+        "blue": 30
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 15,
+        "green": 9,
+        "blue": 29
+      },
+      "level_changes": {
+        "blue→green": 4,
+        "amber→red": 1,
+        "amber→blue": 3,
+        "amber→green": 5
+      },
+      "wall_ms": 54656.7,
+      "checkpoint": "NDA_student_work_experience_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 78,
+      "n_augmented_flags": 78,
+      "seed_counts": {
+        "red": 0,
+        "amber": 37,
+        "green": 1,
+        "blue": 40
+      },
+      "augmented_counts": {
+        "red": 7,
+        "amber": 20,
+        "green": 8,
+        "blue": 43
+      },
+      "level_changes": {
+        "amber→blue": 5,
+        "amber→green": 5,
+        "amber→red": 7,
+        "blue→green": 2
+      },
+      "wall_ms": 36118.7,
+      "checkpoint": "NDA_student_work_experience_example_2.json"
+    },
+    {
+      "filename": "Service Provider Agreement Example.pdf",
+      "ok": true,
+      "n_seed_flags": 42,
+      "n_augmented_flags": 42,
+      "seed_counts": {
+        "red": 0,
+        "amber": 10,
+        "green": 0,
+        "blue": 32
+      },
+      "augmented_counts": {
+        "red": 2,
+        "amber": 9,
+        "green": 3,
+        "blue": 28
+      },
+      "level_changes": {
+        "blue→green": 2,
+        "amber→green": 1,
+        "blue→red": 2
+      },
+      "wall_ms": 21796.3,
+      "checkpoint": "Service_Provider_Agreement_Example.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 40,
+      "n_augmented_flags": 40,
+      "seed_counts": {
+        "red": 0,
+        "amber": 8,
+        "green": 1,
+        "blue": 31
+      },
+      "augmented_counts": {
+        "red": 1,
+        "amber": 5,
+        "green": 3,
+        "blue": 31
+      },
+      "level_changes": {
+        "amber→red": 1,
+        "amber→blue": 2,
+        "blue→green": 2
+      },
+      "wall_ms": 20322.8,
+      "checkpoint": "Student_Research_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 39,
+      "n_augmented_flags": 39,
+      "seed_counts": {
+        "red": 1,
+        "amber": 18,
+        "green": 0,
+        "blue": 20
+      },
+      "augmented_counts": {
+        "red": 9,
+        "amber": 5,
+        "green": 0,
+        "blue": 25
+      },
+      "level_changes": {
+        "amber→red": 8,
+        "amber→blue": 5
+      },
+      "wall_ms": 24982.2,
+      "checkpoint": "Student_Research_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Subcontract Example 1.pdf",
+      "ok": true,
+      "n_seed_flags": 187,
+      "n_augmented_flags": 187,
+      "seed_counts": {
+        "red": 0,
+        "amber": 51,
+        "green": 0,
+        "blue": 136
+      },
+      "augmented_counts": {
+        "red": 13,
+        "amber": 28,
+        "green": 14,
+        "blue": 132
+      },
+      "level_changes": {
+        "blue→green": 6,
+        "amber→green": 8,
+        "amber→blue": 6,
+        "amber→red": 11,
+        "blue→red": 2,
+        "blue→amber": 2
+      },
+      "wall_ms": 90813.5,
+      "checkpoint": "Subcontract_Example_1.json"
+    },
+    {
+      "filename": "Subcontract Example 2.pdf",
+      "ok": true,
+      "n_seed_flags": 42,
+      "n_augmented_flags": 42,
+      "seed_counts": {
+        "red": 1,
+        "amber": 6,
+        "green": 0,
+        "blue": 35
+      },
+      "augmented_counts": {
+        "red": 4,
+        "amber": 2,
+        "green": 2,
+        "blue": 34
+      },
+      "level_changes": {
+        "amber→red": 2,
+        "amber→blue": 1,
+        "blue→red": 2,
+        "red→green": 1,
+        "amber→green": 1
+      },
+      "wall_ms": 25231.3,
+      "checkpoint": "Subcontract_Example_2.json"
+    }
+  ]
+}

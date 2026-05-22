@@ -1,0 +1,12 @@
+{
+  "filename": "Collaboration Agreement Example 4.pdf",
+  "predicted_type": "Collaboration Agreement",
+  "confidence": 0.95,
+  "rationale": "The document explicitly refers to itself as a 'Research Collaboration Agreement' (RCA) multiple times, and the content focuses on joint research efforts, responsibilities, and collaboration terms among the parties. This aligns directly with the definition of a Collaboration Agreement.",
+  "expected_hint": "Collaboration Agreement",
+  "name_match": true,
+  "wall_ms": 5288.6,
+  "source_text_chars": 42725,
+  "source_clauses": 40,
+  "merged_fragments": []
+}

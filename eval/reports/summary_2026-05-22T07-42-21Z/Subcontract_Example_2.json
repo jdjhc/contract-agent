@@ -1,0 +1,14 @@
+{
+  "filename": "Subcontract Example 2.pdf",
+  "contract_type": "Commercial Research Contract",
+  "flags_source": "augment",
+  "n_flags": 42,
+  "counts": {
+    "red": 4,
+    "amber": 2,
+    "green": 2,
+    "blue": 34
+  },
+  "summary": "The overall risk posture of this commercial research contract is moderate, with key issues flagged in confidentiality, liability, and warranties. Notably, the confidentiality clause lacks critical exclusions and disclosure provisions, while the liability and warranty clauses deviate from UoA's preferred positions, potentially exposing the University to undue risk. The next step is to escalate these red-flagged clauses to the Senior Manager, Research Grants and Contracts for review and negotiation to ensure alignment with UoA's contracting policies.",
+  "wall_ms": 10052.8
+}

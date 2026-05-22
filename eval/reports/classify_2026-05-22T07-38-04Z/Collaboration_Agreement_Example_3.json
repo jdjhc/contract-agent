@@ -1,0 +1,12 @@
+{
+  "filename": "Collaboration Agreement Example 3.pdf",
+  "predicted_type": "Collaboration Agreement",
+  "confidence": 0.99,
+  "rationale": "The document is explicitly titled 'Collaboration Agreement' and repeatedly refers to itself as such. The content describes a multi-party research project with shared obligations and governance, which aligns with the definition of a Collaboration Agreement.",
+  "expected_hint": "Collaboration Agreement",
+  "name_match": true,
+  "wall_ms": 3688.9,
+  "source_text_chars": 31877,
+  "source_clauses": 125,
+  "merged_fragments": []
+}

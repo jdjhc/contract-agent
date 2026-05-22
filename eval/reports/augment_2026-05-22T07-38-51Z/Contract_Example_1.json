@@ -1,0 +1,684 @@
+{
+  "filename": "Contract Example 1.pdf",
+  "contract_type": "Public Research Contract",
+  "n_seed_flags": 41,
+  "n_augmented_flags": 41,
+  "seed_counts": {
+    "red": 0,
+    "amber": 3,
+    "green": 0,
+    "blue": 38
+  },
+  "augmented_counts": {
+    "red": 1,
+    "amber": 1,
+    "green": 1,
+    "blue": 38
+  },
+  "level_changes": {
+    "amber→red": 1,
+    "blue→green": 1,
+    "amber→blue": 1
+  },
+  "wall_ms": 19860.1,
+  "seed_flags": [
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SCHEDULE 2 – STANDARD TERMS AND CONDITIONS",
+      "snippet": "SCHEDULE 2 – STANDARD TERMS AND CONDITIONS",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Term",
+      "snippet": "1. Term",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 This Agreement commences on the Start Date and will end on the Completion",
+      "snippet": "1.1 This Agreement commences on the Start Date and will end on the Completion Date unless terminated earlier in accordance with clause 24 of this Agreement. The Parties' obligations",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. Parties' obligations",
+      "snippet": "2. Parties' obligations",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Each Party agrees to:",
+      "snippet": "2.1 Each Party agrees to:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "(a) act in good faith and honestly in their dealings with each other;",
+      "snippet": "(a) act in good faith and honestly in their dealings with each other;",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "(b) discuss matters affecting this Agreement or the Programme with the other,",
+      "snippet": "(b) discuss matters affecting this Agreement or the Programme with the other, whenever necessary;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "(c) notify each other promptly of any actual or anticipated issues that could:",
+      "snippet": "(c) notify each other promptly of any actual or anticipated issues that could:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "(i) significantly impact on the Programme or the Funding; or",
+      "snippet": "(i) significantly impact on the Programme or the Funding; or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "(ii) attract external attention (such as receiving media attention), or represen",
+      "snippet": "(ii) attract external attention (such as receiving media attention), or represent potential risk to the Government; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "(d) comply with all applicable laws and regulations.",
+      "snippet": "(d) comply with all applicable laws and regulations. The [redacted] obligations",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. Payment of Funding by the [redacted]",
+      "snippet": "3. Payment of Funding by the [redacted]",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 Subject to the terms of this Agreement, and the [redacted] receiving funding",
+      "snippet": "3.1 Subject to the terms of this Agreement, and the [redacted] receiving funding from [redacted] to cover the Funding under this Agreement, the [redacted] will:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "(a) provide Funding for the Programme up to the maximum amount shown in",
+      "snippet": "(a) provide Funding for the Programme up to the maximum amount shown in clause 7 of Schedule 1; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(b) subject to clause 3.2, pay the Funding to the Host Organisation in",
+      "snippet": "(b) subject to clause 3.2, pay the Funding to the Host Organisation in accordance with the payment details set out in clause 7 of Schedule 1.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 The [redacted] may withhold payments of Funding until the [redacted] has",
+      "snippet": "3.2 The [redacted] may withhold payments of Funding until the [redacted] has received all of the due reports specified in clause 6 of Schedule 1, and the [redacted] has determined that those reports have been completed …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4. Continue to meet Eligibility Criteria",
+      "snippet": "4. Continue to meet Eligibility Criteria",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4.1",
+      "clause_title": "4.1 If there are Eligibility Criteria, the Host Organisation must:",
+      "snippet": "4.1 If there are Eligibility Criteria, the Host Organisation must:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "(a) continue to meet the Eligibility Criteria to be a Host Organisation; and",
+      "snippet": "(a) continue to meet the Eligibility Criteria to be a Host Organisation; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "20",
+      "clause_title": "(b) ensure that the Key Contact Person continues to meet the applicable",
+      "snippet": "(b) ensure that the Key Contact Person continues to meet the applicable Eligibility Criteria. ```",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. Employing and supporting the Key Contact Person",
+      "snippet": "5. Employing and supporting the Key Contact Person",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.1",
+      "clause_title": "5.1 The Host Organisation must:",
+      "snippet": "5.1 The Host Organisation must:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "(a) employ the Key Contact Person for the duration of this Agreement, as",
+      "snippet": "(a) employ the Key Contact Person for the duration of this Agreement, as specified in Schedule 1;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "(b) provide such intellectual support, premises, equipment, consumables and",
+      "snippet": "(b) provide such intellectual support, premises, equipment, consumables and facilities as may be necessary to allow the Programme to be undertaken in accordance with this Agreement, and allow the Key Contact Person to c…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "25",
+      "clause_title": "(c) ensure that the terms and conditions of any agreements or other",
+      "snippet": "(c) ensure that the terms and conditions of any agreements or other arrangements that it enters into with the Key Contact Person are consistent with this Agreement, and will allow both parties to this Agreement to exerc…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6__dup__2",
+      "clause_title": "6. Key Personnel, staff and subcontractors",
+      "snippet": "6. Key Personnel, staff and subcontractors",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6.1",
+      "clause_title": "6.1 If there is a Budget, the Host Organisation must:",
+      "snippet": "6.1 If there is a Budget, the Host Organisation must:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "28",
+      "clause_title": "(a) assign all Other Key Personnel to the Programme for at least the amount",
+      "snippet": "(a) assign all Other Key Personnel to the Programme for at least the amount of time specified in the Budget, if applicable;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "(b) ensure that the applicable amount of time specified in the Budget for",
+      "snippet": "(b) ensure that the applicable amount of time specified in the Budget for those Other Key Personnel is reflected in any subcontracting and employment arrangements with those Other Key Personnel;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "30",
+      "clause_title": "(c) notify the [redacted] as soon as practicable of any proposal to change the",
+      "snippet": "(c) notify the [redacted] as soon as practicable of any proposal to change the involvement of any of the Other Key Personnel in the Programme from what is specified in the Budget (such a change requires the prior writte…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "31",
+      "clause_title": "(d) obtain written approval from the [redacted] before assigning any other",
+      "snippet": "(d) obtain written approval from the [redacted] before assigning any other person to work on the Programme as Key Personnel.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6.2",
+      "clause_title": "6.2 If the Host Organisation enters into a contract for services or a contract o",
+      "snippet": "6.2 If the Host Organisation enters into a contract for services or a contract of employment with a subcontractor or staff member involved in the Programme (including Key Personnel), the Host Organisation must ensure th…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "33",
+      "clause_title": "(a) each subcontractor or staff member understands that the [redacted] will",
+      "snippet": "(a) each subcontractor or staff member understands that the [redacted] will not directly meet any remuneration or other payments that are to be paid to them;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "(b) each subcontractor or staff member understands that there is no",
+      "snippet": "(b) each subcontractor or staff member understands that there is no contractual relationship between the [redacted] and the subcontractor or staff member; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "35",
+      "clause_title": "(c) each contract for services or employment agreement entered into by the",
+      "snippet": "(c) each contract for services or employment agreement entered into by the Host Organisation in relation to the Programme expressly states that the Host Organisation may terminate the contract for services or employment…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7__dup__2",
+      "clause_title": "7. Commencement and completion of the Programme",
+      "snippet": "7. Commencement and completion of the Programme",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.1",
+      "clause_title": "7.1 The Host Organisation must ensure that the Key Contact Person:",
+      "snippet": "7.1 The Host Organisation must ensure that the Key Contact Person: [Page 2 of 17] ```",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(a) commences the Programme by the date specified in clause 1 of Schedule 1;",
+      "snippet": "(a) commences the Programme by the date specified in clause 1 of Schedule 1;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "39",
+      "clause_title": "(b) uses their best endeavours to complete the Programme by the Completion",
+      "snippet": "(b) uses their best endeavours to complete the Programme by the Completion Date, and, if there is a Timeline, comply with that Timeline;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "40",
+      "clause_title": "(c) completes the Programme with due care, skill and diligence, and to an",
+      "snippet": "(c) completes the Programme with due care, skill and diligence, and to an appropriate professional standard;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "41",
+      "clause_title": "(d) complies with any standards and codes relevant to the type of research",
+      "snippet": "(d) complies with any standards and codes relevant to the type of research being undertaken; (e) subject to paragraph (f), applies for and obtains all consents, licences, permits, and approvals that are required, includ…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    }
+  ],
+  "augmented_flags": [
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SCHEDULE 2 – STANDARD TERMS AND CONDITIONS",
+      "snippet": "SCHEDULE 2 – STANDARD TERMS AND CONDITIONS",
+      "rationale": "The clause is a placeholder or heading for standard terms and conditions, but it does not provide substantive content to evaluate. The topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Term",
+      "snippet": "1. Term",
+      "rationale": "The topic of 'Term' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 This Agreement commences on the Start Date and will end on the Completion",
+      "snippet": "1.1 This Agreement commences on the Start Date and will end on the Completion Date unless terminated earlier in accordance with clause 24 of this Agreement. The Parties' obligations",
+      "rationale": "The clause addresses the commencement and completion of the agreement, which is not explicitly covered in the UoA Preferred Contracting Positions. As there is no specific guidance or template for this topic, it falls outside the scope of the Positions document.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. Parties' obligations",
+      "snippet": "2. Parties' obligations",
+      "rationale": "The clause addresses 'Parties' obligations,' which is not explicitly covered in the UoA Preferred Contracting Positions or tied to any specific policy. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Each Party agrees to:",
+      "snippet": "2.1 Each Party agrees to:",
+      "rationale": "The clause does not provide sufficient detail to determine its alignment with any specific UoA Preferred Contracting Position. The topic is not addressed in the UoA Positions document, and no UoA Standard Template exists for this contract type.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "(a) act in good faith and honestly in their dealings with each other;",
+      "snippet": "(a) act in good faith and honestly in their dealings with each other;",
+      "rationale": "The clause touches on the topic of good faith, which is relevant to UoA Position #POS-18 on Dispute Resolution. However, the clause does not explicitly address the full scope of the preferred or acceptable dispute resolution process (e.g., escalation to senior management, mediation, arbitration, or litigation). While the clause aligns with the general principle of good faith, it does not provide sufficient detail to confirm compliance with the preferred or acceptable tiers. This warrants further review by the Contract Manager to ensure alignment with UoA's dispute resolution framework.",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "(b) discuss matters affecting this Agreement or the Programme with the other,",
+      "snippet": "(b) discuss matters affecting this Agreement or the Programme with the other, whenever necessary;",
+      "rationale": "The clause addresses a general obligation to discuss matters affecting the Agreement or Programme, which is not explicitly covered by any UoA Preferred Contracting Positions or associated keywords. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "(c) notify each other promptly of any actual or anticipated issues that could:",
+      "snippet": "(c) notify each other promptly of any actual or anticipated issues that could:",
+      "rationale": "The clause addresses a topic (issue notification) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "(i) significantly impact on the Programme or the Funding; or",
+      "snippet": "(i) significantly impact on the Programme or the Funding; or",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the existing guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "(ii) attract external attention (such as receiving media attention), or represen",
+      "snippet": "(ii) attract external attention (such as receiving media attention), or represent potential risk to the Government; and",
+      "rationale": "The clause addresses a topic (external attention and potential risk to the Government) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "(d) comply with all applicable laws and regulations.",
+      "snippet": "(d) comply with all applicable laws and regulations. The [redacted] obligations",
+      "rationale": "The clause addresses compliance with applicable laws and regulations, which is not explicitly covered in the UoA Preferred Contracting Positions. As there is no specific guidance or template for this topic, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. Payment of Funding by the [redacted]",
+      "snippet": "3. Payment of Funding by the [redacted]",
+      "rationale": "The topic of 'Payment of Funding' is not explicitly addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 Subject to the terms of this Agreement, and the [redacted] receiving funding",
+      "snippet": "3.1 Subject to the terms of this Agreement, and the [redacted] receiving funding from [redacted] to cover the Funding under this Agreement, the [redacted] will:",
+      "rationale": "The clause addresses a topic (funding contingency) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of pre-defined guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "(a) provide Funding for the Programme up to the maximum amount shown in",
+      "snippet": "(a) provide Funding for the Programme up to the maximum amount shown in clause 7 of Schedule 1; and",
+      "rationale": "The clause pertains to funding obligations, which is not explicitly addressed in the UoA Preferred Contracting Positions. No specific guidance or template exists for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(b) subject to clause 3.2, pay the Funding to the Host Organisation in",
+      "snippet": "(b) subject to clause 3.2, pay the Funding to the Host Organisation in accordance with the payment details set out in clause 7 of Schedule 1.",
+      "rationale": "The clause addresses payment mechanics, which are not explicitly covered in the UoA Preferred Contracting Positions or tied to any specific policy. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 The [redacted] may withhold payments of Funding until the [redacted] has",
+      "snippet": "3.2 The [redacted] may withhold payments of Funding until the [redacted] has received all of the due reports specified in clause 6 of Schedule 1, and the [redacted] has determined that those reports have been completed \u0013",
+      "rationale": "The clause addresses the withholding of payments based on the satisfactory completion of reports, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4. Continue to meet Eligibility Criteria",
+      "snippet": "4. Continue to meet Eligibility Criteria",
+      "rationale": "The topic of 'Eligibility Criteria' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4.1",
+      "clause_title": "4.1 If there are Eligibility Criteria, the Host Organisation must:",
+      "snippet": "4.1 If there are Eligibility Criteria, the Host Organisation must:",
+      "rationale": "The clause addresses 'Eligibility Criteria,' a topic not covered in the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the documented policies and cannot be evaluated against them.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "(a) continue to meet the Eligibility Criteria to be a Host Organisation; and",
+      "snippet": "(a) continue to meet the Eligibility Criteria to be a Host Organisation; and",
+      "rationale": "The clause addresses a topic (Eligibility Criteria for Host Organisation) that is not covered in the UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "20",
+      "clause_title": "(b) ensure that the Key Contact Person continues to meet the applicable",
+      "snippet": "(b) ensure that the Key Contact Person continues to meet the applicable Eligibility Criteria.",
+      "rationale": "The clause addresses the requirement for a Key Contact Person to meet Eligibility Criteria, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. Employing and supporting the Key Contact Person",
+      "snippet": "5. Employing and supporting the Key Contact Person",
+      "rationale": "The topic of employing and supporting the Key Contact Person is not addressed in the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.1",
+      "clause_title": "5.1 The Host Organisation must:",
+      "snippet": "5.1 The Host Organisation must:",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "(a) employ the Key Contact Person for the duration of this Agreement, as",
+      "snippet": "(a) employ the Key Contact Person for the duration of this Agreement, as specified in Schedule 1;",
+      "rationale": "The clause pertains to the employment of a Key Contact Person, which is not addressed in the UoA Preferred Contracting Positions document. There is no applicable UoA Standard Template for this contract type to provide guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "(b) provide such intellectual support, premises, equipment, consumables and",
+      "snippet": "(b) provide such intellectual support, premises, equipment, consumables and facilities as may be necessary to allow the Programme to be undertaken in accordance with this Agreement, and allow the Key Contact Person to complete the Programme in accordance with this Agreement; and",
+      "rationale": "The clause addresses the provision of support, premises, equipment, consumables, and facilities necessary for the Programme, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "25",
+      "clause_title": "(c) ensure that the terms and conditions of any agreements or other",
+      "snippet": "(c) ensure that the terms and conditions of any agreements or other arrangements that it enters into with the Key Contact Person are consistent with this Agreement, and will allow both parties to this Agreement to exercise their rights and meet their obligations under this Agreement.",
+      "rationale": "The clause addresses a topic (ensuring consistency of terms with third-party agreements) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6__dup__2",
+      "clause_title": "6. Key Personnel, staff and subcontractors",
+      "snippet": "6. Key Personnel, staff and subcontractors",
+      "rationale": "The topic of 'Key Personnel, staff and subcontractors' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6.1",
+      "clause_title": "6.1 If there is a Budget, the Host Organisation must:",
+      "snippet": "6.1 If there is a Budget, the Host Organisation must:",
+      "rationale": "The clause addresses a topic that is not covered in the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the existing guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "28",
+      "clause_title": "(a) assign all Other Key Personnel to the Programme for at least the amount",
+      "snippet": "(a) assign all Other Key Personnel to the Programme for at least the amount of time specified in the Budget, if applicable;",
+      "rationale": "The clause addresses the assignment of personnel and their time allocation, which is not covered by any UoA Preferred Contracting Positions or associated policies. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "(b) ensure that the applicable amount of time specified in the Budget for",
+      "snippet": "(b) ensure that the applicable amount of time specified in the Budget for those Other Key Personnel is reflected in any subcontracting and employment arrangements with those Other Key Personnel;",
+      "rationale": "The clause addresses subcontracting and employment arrangements for key personnel, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "30",
+      "clause_title": "(c) notify the [redacted] as soon as practicable of any proposal to change the",
+      "snippet": "(c) notify the [redacted] as soon as practicable of any proposal to change the involvement of any of the Other Key Personnel in the Programme from what is specified in the Budget (such a change requires the prior writte…",
+      "rationale": "The clause addresses a topic (notification and approval for changes to key personnel) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "31",
+      "clause_title": "(d) obtain written approval from the [redacted] before assigning any other",
+      "snippet": "(d) obtain written approval from the [redacted] before assigning any other person to work on the Programme as Key Personnel.",
+      "rationale": "The clause addresses the assignment of Key Personnel, which is not covered in the UoA Preferred Contracting Positions. There is no applicable UoA Standard Template for this contract type, and the topic is not explicitly addressed in the Positions document.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6.2",
+      "clause_title": "6.2 If the Host Organisation enters into a contract for services or a contract o",
+      "snippet": "6.2 If the Host Organisation enters into a contract for services or a contract of employment with a subcontractor or staff member involved in the Programme (including Key Personnel), the Host Organisation must ensure th…",
+      "rationale": "The clause addresses subcontracting and employment arrangements involving the Host Organisation, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "33",
+      "clause_title": "(a) each subcontractor or staff member understands that the [redacted] will",
+      "snippet": "(a) each subcontractor or staff member understands that the [redacted] will not directly meet any remuneration or other payments that are to be paid to them;",
+      "rationale": "The clause addresses subcontractor or staff remuneration, which is not covered by any UoA Preferred Contracting Positions or standard template for this contract type. No escalation or pre-approved tier applies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "(b) each subcontractor or staff member understands that there is no",
+      "snippet": "(b) each subcontractor or staff member understands that there is no contractual relationship between the [redacted] and the subcontractor or staff member; and",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. It pertains to subcontractor or staff member relationships, which are outside the scope of the provided policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "35",
+      "clause_title": "(c) each contract for services or employment agreement entered into by the",
+      "snippet": "(c) each contract for services or employment agreement entered into by the Host Organisation in relation to the Programme expressly states that the Host Organisation may terminate the contract for services or employment agreement if funding provided by the [redacted] under this Agreement is reduced, suspended, or terminated for any reason.",
+      "rationale": "The clause introduces a termination mechanism tied to funding reduction, suspension, or termination, which is not aligned with UoA's Preferred or Acceptable positions on termination. UoA's Preferred position requires mutual two-way termination for material breach or insolvency, with accrued rights and benefits preserved, and termination costs paid by the client. Termination for convenience is only acceptable for Consulting contracts under strict conditions, which this clause does not meet. Additionally, the clause does not address termination costs or uncancellable obligations, which are critical under UoA's policy. Escalation to the Senior Manager, Research Grants and Contracts is required.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7__dup__2",
+      "clause_title": "7. Commencement and completion of the Programme",
+      "snippet": "7. Commencement and completion of the Programme",
+      "rationale": "The clause addresses the topic of programme commencement and completion, which is not covered by the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.1",
+      "clause_title": "7.1 The Host Organisation must ensure that the Key Contact Person:",
+      "snippet": "7.1 The Host Organisation must ensure that the Key Contact Person: [Page 2 of 17] ```",
+      "rationale": "The clause addresses a topic (Key Contact Person responsibilities) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(a) commences the Programme by the date specified in clause 1 of Schedule 1;",
+      "snippet": "(a) commences the Programme by the date specified in clause 1 of Schedule 1;",
+      "rationale": "The clause addresses a topic (programme commencement date) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "39",
+      "clause_title": "(b) uses their best endeavours to complete the Programme by the Completion",
+      "snippet": "(b) uses their best endeavours to complete the Programme by the Completion Date, and, if there is a Timeline, comply with that Timeline;",
+      "rationale": "The clause addresses the obligation to use 'best endeavours' to complete the Programme and comply with a Timeline, which is not covered by any UoA Preferred Contracting Positions or standard template. As such, it falls outside the scope of the documented policy.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "40",
+      "clause_title": "(c) completes the Programme with due care, skill and diligence, and to an",
+      "snippet": "(c) completes the Programme with due care, skill and diligence, and to an appropriate professional standard;",
+      "rationale": "The clause aligns with UoA Position POS-10 on Warranties, which states that the University warrants performance to a professional standard and usual good practice. This matches the preferred tier.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "41",
+      "clause_title": "(d) complies with any standards and codes relevant to the type of research",
+      "snippet": "(d) complies with any standards and codes relevant to the type of research being undertaken; (e) subject to paragraph (f), applies for and obtains all consents, licences, permits, and approvals that are required, includ...",
+      "rationale": "The clause primarily addresses compliance with standards, obtaining consents, and ethical approvals, which are operational requirements rather than contractual topics covered by UoA Preferred Contracting Positions. It does not directly relate to Dispute Resolution or any other defined UoA Position. As such, it falls outside the scope of the Positions document and does not align with any specific policy tier.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    }
+  ]
+}

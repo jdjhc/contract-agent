@@ -1,0 +1,46 @@
+Augmenting 28 contracts (LLM configured: True)
+Concurrency: 10  →  eval/reports/augment_2026-05-22T07-38-51Z
+
+[ 1/28] OK  Collaboration Agreement Example 2.pdf              seed→aug: R 0→2  A 5→2  G 0→1  B 33→33  17912ms
+[ 2/28] OK  Consultancy Services Agreement Example.pdf         seed→aug: R 0→0  A 1→2  G 1→0  B 39→39  18573ms
+[ 3/28] OK  CDA example 3.pdf                                  seed→aug: R 0→13  A 24→8  G 0→3  B 6→6  19160ms
+[ 4/28] OK  Contract Example 2.pdf                             seed→aug: R 0→0  A 3→1  G 0→1  B 38→39  19414ms
+[ 5/28] OK  Collaboration Agreement Example 1.pdf              seed→aug: R 0→1  A 11→10  G 0→2  B 29→27  19577ms
+[ 6/28] OK  Collaboration Agreement Example 4.pdf              seed→aug: R 0→1  A 11→5  G 0→0  B 29→34  19703ms
+[ 7/28] OK  Contract Example 1.pdf                             seed→aug: R 0→1  A 3→1  G 0→1  B 38→38  19860ms
+[ 8/28] OK  CDA example 1.pdf                                  seed→aug: R 0→2  A 18→8  G 0→7  B 21→22  19966ms
+[ 9/28] OK  CDA example 2.pdf                                  seed→aug: R 0→4  A 13→6  G 2→3  B 4→6  27874ms
+[10/28] OK  Data Transfer Agreement Example.pdf                seed→aug: R 0→2  A 11→5  G 0→0  B 30→34  18194ms
+[11/28] OK  Contract Example 4.pdf                             seed→aug: R 0→1  A 24→15  G 2→6  B 16→20  21526ms
+[12/28] OK  Contract Example 3.pdf                             seed→aug: R 0→5  A 19→9  G 1→3  B 36→40  24164ms
+[13/28] OK  MTA Example 2.pdf                                  seed→aug: R 2→1  A 9→9  G 0→3  B 27→25  22295ms
+[14/28] OK  MTA Example 1.pdf                                  seed→aug: R 2→1  A 10→9  G 0→5  B 27→24  24016ms
+[15/28] OK  NDA example 1.pdf                                  seed→aug: R 1→4  A 7→5  G 3→1  B 3→4   7327ms
+[16/28] OK  MTA Example 3.pdf                                  seed→aug: R 0→4  A 20→8  G 0→3  B 51→56  29000ms
+[17/28] OK  MTA Example 4.pdf                                  seed→aug: R 2→3  A 9→8  G 0→7  B 28→21  24320ms
+[18/28] OK  Contract Example 5.pdf                             seed→aug: R 1→8  A 27→13  G 0→0  B 43→50  35010ms
+[19/28] OK  Collaboration Agreement Example 3.pdf              seed→aug: R 2→5  A 43→35  G 0→10  B 80→75  55306ms
+[20/28] OK  Service Provider Agreement Example.pdf             seed→aug: R 0→2  A 10→9  G 0→3  B 32→28  21796ms
+[21/28] OK  Student Research Agreement Example 1.pdf           seed→aug: R 0→1  A 8→5  G 1→3  B 31→31  20323ms
+[22/28] OK  Student Research Agreement Example 2.pdf           seed→aug: R 1→9  A 18→5  G 0→0  B 20→25  24982ms
+[23/28] OK  Master Services Agreement Example 1 (1).pdf        seed→aug: R 0→11  A 21→7  G 0→2  B 58→59  37724ms
+[24/28] OK  NDA student work experience example 2.pdf          seed→aug: R 0→7  A 37→20  G 1→8  B 40→43  36119ms
+[25/28] OK  Subcontract Example 2.pdf                          seed→aug: R 1→4  A 6→2  G 0→2  B 35→34  25231ms
+[26/28] OK  NDA student work experience example 1.pdf          seed→aug: R 0→1  A 24→15  G 0→9  B 30→29  54657ms
+[27/28] OK  Contract for Goods and Services Example.pdf        seed→aug: R 1→8  A 74→55  G 2→3  B 136→147  122228ms
+[28/28] OK  Subcontract Example 1.pdf                          seed→aug: R 0→13  A 51→28  G 0→14  B 136→132  90814ms
+
+=== Augment summary ===
+Files     : 28/28 OK
+Wall time : 143.0s
+Level changes (top 8):
+  amber→red            95
+  amber→blue           86
+  amber→green          53
+  blue→green           38
+  blue→amber           17
+  blue→red             10
+  green→blue           4
+  red→amber            3
+Checkpoints → eval/reports/augment_2026-05-22T07-38-51Z
+Summary     → eval/reports/augment_2026-05-22T07-38-51Z/summary.json

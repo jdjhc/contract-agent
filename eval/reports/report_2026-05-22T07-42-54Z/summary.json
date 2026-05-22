@@ -1,0 +1,434 @@
+{
+  "ran_at": "2026-05-22T07:42:54.682562+00:00",
+  "node": "report",
+  "ingest_dir": "eval/reports/ingest_2026-05-22T07-20-31Z",
+  "classify_dir": "eval/reports/classify_2026-05-22T07-38-04Z",
+  "flags_dir": "eval/reports/augment_2026-05-22T07-38-51Z",
+  "summary_dir": "eval/reports/summary_2026-05-22T07-42-21Z",
+  "n_files": 28,
+  "n_ok": 28,
+  "n_failed": 0,
+  "wall_seconds": 0.01,
+  "results": [
+    {
+      "filename": "CDA example 1.pdf",
+      "ok": true,
+      "contract_type": "Confidential Disclosure Agreement",
+      "n_flags": 39,
+      "counts": {
+        "green": 7,
+        "amber": 8,
+        "red": 2,
+        "blue": 22
+      },
+      "summary_present": true,
+      "wall_ms": 0.52,
+      "checkpoint": "CDA_example_1.json"
+    },
+    {
+      "filename": "CDA example 2.pdf",
+      "ok": true,
+      "contract_type": "Confidential Disclosure Agreement",
+      "n_flags": 19,
+      "counts": {
+        "green": 3,
+        "amber": 6,
+        "red": 4,
+        "blue": 6
+      },
+      "summary_present": true,
+      "wall_ms": 0.25,
+      "checkpoint": "CDA_example_2.json"
+    },
+    {
+      "filename": "CDA example 3.pdf",
+      "ok": true,
+      "contract_type": "Confidential Disclosure Agreement",
+      "n_flags": 30,
+      "counts": {
+        "green": 3,
+        "amber": 8,
+        "red": 13,
+        "blue": 6
+      },
+      "summary_present": true,
+      "wall_ms": 0.26,
+      "checkpoint": "CDA_example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 1.pdf",
+      "ok": true,
+      "contract_type": "Collaboration Agreement",
+      "n_flags": 40,
+      "counts": {
+        "green": 2,
+        "amber": 10,
+        "red": 1,
+        "blue": 27
+      },
+      "summary_present": true,
+      "wall_ms": 0.27,
+      "checkpoint": "Collaboration_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 2.pdf",
+      "ok": true,
+      "contract_type": "Collaboration Agreement",
+      "n_flags": 38,
+      "counts": {
+        "green": 1,
+        "amber": 2,
+        "red": 2,
+        "blue": 33
+      },
+      "summary_present": true,
+      "wall_ms": 0.25,
+      "checkpoint": "Collaboration_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 3.pdf",
+      "ok": true,
+      "contract_type": "Collaboration Agreement",
+      "n_flags": 125,
+      "counts": {
+        "green": 10,
+        "amber": 35,
+        "red": 5,
+        "blue": 75
+      },
+      "summary_present": true,
+      "wall_ms": 0.66,
+      "checkpoint": "Collaboration_Agreement_Example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 4.pdf",
+      "ok": true,
+      "contract_type": "Collaboration Agreement",
+      "n_flags": 40,
+      "counts": {
+        "green": 0,
+        "amber": 5,
+        "red": 1,
+        "blue": 34
+      },
+      "summary_present": true,
+      "wall_ms": 0.27,
+      "checkpoint": "Collaboration_Agreement_Example_4.json"
+    },
+    {
+      "filename": "Consultancy Services Agreement Example.pdf",
+      "ok": true,
+      "contract_type": "Consultancy Services Agreement",
+      "n_flags": 41,
+      "counts": {
+        "green": 0,
+        "amber": 2,
+        "red": 0,
+        "blue": 39
+      },
+      "summary_present": true,
+      "wall_ms": 0.23,
+      "checkpoint": "Consultancy_Services_Agreement_Example.json"
+    },
+    {
+      "filename": "Contract Example 1.pdf",
+      "ok": true,
+      "contract_type": "Public Research Contract",
+      "n_flags": 41,
+      "counts": {
+        "green": 1,
+        "amber": 1,
+        "red": 1,
+        "blue": 38
+      },
+      "summary_present": true,
+      "wall_ms": 0.36,
+      "checkpoint": "Contract_Example_1.json"
+    },
+    {
+      "filename": "Contract Example 2.pdf",
+      "ok": true,
+      "contract_type": "Public Research Contract",
+      "n_flags": 41,
+      "counts": {
+        "green": 1,
+        "amber": 1,
+        "red": 0,
+        "blue": 39
+      },
+      "summary_present": true,
+      "wall_ms": 0.3,
+      "checkpoint": "Contract_Example_2.json"
+    },
+    {
+      "filename": "Contract Example 3.pdf",
+      "ok": true,
+      "contract_type": "Provision of Services Agreement",
+      "n_flags": 57,
+      "counts": {
+        "green": 3,
+        "amber": 9,
+        "red": 5,
+        "blue": 40
+      },
+      "summary_present": true,
+      "wall_ms": 0.38,
+      "checkpoint": "Contract_Example_3.json"
+    },
+    {
+      "filename": "Contract Example 4.pdf",
+      "ok": true,
+      "contract_type": "Research Subcontract",
+      "n_flags": 42,
+      "counts": {
+        "green": 6,
+        "amber": 15,
+        "red": 1,
+        "blue": 20
+      },
+      "summary_present": true,
+      "wall_ms": 0.31,
+      "checkpoint": "Contract_Example_4.json"
+    },
+    {
+      "filename": "Contract Example 5.pdf",
+      "ok": true,
+      "contract_type": "Collaboration Agreement",
+      "n_flags": 71,
+      "counts": {
+        "green": 0,
+        "amber": 13,
+        "red": 8,
+        "blue": 50
+      },
+      "summary_present": true,
+      "wall_ms": 0.41,
+      "checkpoint": "Contract_Example_5.json"
+    },
+    {
+      "filename": "Contract for Goods and Services Example.pdf",
+      "ok": true,
+      "contract_type": "Provision of Services Agreement",
+      "n_flags": 213,
+      "counts": {
+        "green": 3,
+        "amber": 55,
+        "red": 8,
+        "blue": 147
+      },
+      "summary_present": true,
+      "wall_ms": 1.09,
+      "checkpoint": "Contract_for_Goods_and_Services_Example.json"
+    },
+    {
+      "filename": "Data Transfer Agreement Example.pdf",
+      "ok": true,
+      "contract_type": "Data Transfer Agreement",
+      "n_flags": 41,
+      "counts": {
+        "green": 0,
+        "amber": 5,
+        "red": 2,
+        "blue": 34
+      },
+      "summary_present": true,
+      "wall_ms": 0.27,
+      "checkpoint": "Data_Transfer_Agreement_Example.json"
+    },
+    {
+      "filename": "MTA Example 1.pdf",
+      "ok": true,
+      "contract_type": "Material Transfer Agreement",
+      "n_flags": 39,
+      "counts": {
+        "green": 5,
+        "amber": 9,
+        "red": 1,
+        "blue": 24
+      },
+      "summary_present": true,
+      "wall_ms": 0.29,
+      "checkpoint": "MTA_Example_1.json"
+    },
+    {
+      "filename": "MTA Example 2.pdf",
+      "ok": true,
+      "contract_type": "Material Transfer Agreement",
+      "n_flags": 38,
+      "counts": {
+        "green": 3,
+        "amber": 9,
+        "red": 1,
+        "blue": 25
+      },
+      "summary_present": true,
+      "wall_ms": 0.28,
+      "checkpoint": "MTA_Example_2.json"
+    },
+    {
+      "filename": "MTA Example 3.pdf",
+      "ok": true,
+      "contract_type": "Data Transfer Agreement",
+      "n_flags": 71,
+      "counts": {
+        "green": 3,
+        "amber": 8,
+        "red": 4,
+        "blue": 56
+      },
+      "summary_present": true,
+      "wall_ms": 0.44,
+      "checkpoint": "MTA_Example_3.json"
+    },
+    {
+      "filename": "MTA Example 4.pdf",
+      "ok": true,
+      "contract_type": "Material Transfer Agreement",
+      "n_flags": 39,
+      "counts": {
+        "green": 7,
+        "amber": 8,
+        "red": 3,
+        "blue": 21
+      },
+      "summary_present": true,
+      "wall_ms": 0.29,
+      "checkpoint": "MTA_Example_4.json"
+    },
+    {
+      "filename": "Master Services Agreement Example 1 (1).pdf",
+      "ok": true,
+      "contract_type": "Provision of Services Agreement",
+      "n_flags": 79,
+      "counts": {
+        "green": 2,
+        "amber": 7,
+        "red": 11,
+        "blue": 59
+      },
+      "summary_present": true,
+      "wall_ms": 0.46,
+      "checkpoint": "Master_Services_Agreement_Example_1__1.json"
+    },
+    {
+      "filename": "NDA example 1.pdf",
+      "ok": true,
+      "contract_type": "Confidential Disclosure Agreement",
+      "n_flags": 14,
+      "counts": {
+        "green": 1,
+        "amber": 5,
+        "red": 4,
+        "blue": 4
+      },
+      "summary_present": true,
+      "wall_ms": 0.17,
+      "checkpoint": "NDA_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 1.pdf",
+      "ok": true,
+      "contract_type": "Student Research Agreement",
+      "n_flags": 54,
+      "counts": {
+        "green": 9,
+        "amber": 15,
+        "red": 1,
+        "blue": 29
+      },
+      "summary_present": true,
+      "wall_ms": 0.34,
+      "checkpoint": "NDA_student_work_experience_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 2.pdf",
+      "ok": true,
+      "contract_type": "Confidential Disclosure Agreement",
+      "n_flags": 78,
+      "counts": {
+        "green": 8,
+        "amber": 20,
+        "red": 7,
+        "blue": 43
+      },
+      "summary_present": true,
+      "wall_ms": 0.46,
+      "checkpoint": "NDA_student_work_experience_example_2.json"
+    },
+    {
+      "filename": "Service Provider Agreement Example.pdf",
+      "ok": true,
+      "contract_type": "Provision of Services Agreement",
+      "n_flags": 42,
+      "counts": {
+        "green": 3,
+        "amber": 9,
+        "red": 2,
+        "blue": 28
+      },
+      "summary_present": true,
+      "wall_ms": 0.28,
+      "checkpoint": "Service_Provider_Agreement_Example.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 1.pdf",
+      "ok": true,
+      "contract_type": "Student Research Agreement",
+      "n_flags": 40,
+      "counts": {
+        "green": 3,
+        "amber": 5,
+        "red": 1,
+        "blue": 31
+      },
+      "summary_present": true,
+      "wall_ms": 0.27,
+      "checkpoint": "Student_Research_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 2.pdf",
+      "ok": true,
+      "contract_type": "Student Research Agreement",
+      "n_flags": 39,
+      "counts": {
+        "green": 0,
+        "amber": 5,
+        "red": 9,
+        "blue": 25
+      },
+      "summary_present": true,
+      "wall_ms": 0.28,
+      "checkpoint": "Student_Research_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Subcontract Example 1.pdf",
+      "ok": true,
+      "contract_type": "Research Subcontract",
+      "n_flags": 187,
+      "counts": {
+        "green": 14,
+        "amber": 28,
+        "red": 13,
+        "blue": 132
+      },
+      "summary_present": true,
+      "wall_ms": 0.93,
+      "checkpoint": "Subcontract_Example_1.json"
+    },
+    {
+      "filename": "Subcontract Example 2.pdf",
+      "ok": true,
+      "contract_type": "Commercial Research Contract",
+      "n_flags": 42,
+      "counts": {
+        "green": 2,
+        "amber": 2,
+        "red": 4,
+        "blue": 34
+      },
+      "summary_present": true,
+      "wall_ms": 0.26,
+      "checkpoint": "Subcontract_Example_2.json"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "filename": "Student Research Agreement Example 1.pdf",
+  "contract_type": "Student Research Agreement",
+  "n_clauses": 40,
+  "counts": {
+    "red": 0,
+    "amber": 8,
+    "green": 1,
+    "blue": 31
+  },
+  "n_flags": 40,
+  "wall_ms": 27.0,
+  "flags": [
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Student Research Agreement",
+      "snippet": "Student Research Agreement",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S__dup__2",
+      "clause_title": "Schedule 2: Terms And Conditions",
+      "snippet": "Schedule 2: Terms And Conditions Funding upon the University providing a valid invoice under",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Definitions",
+      "snippet": "1. Definitions this Agreement.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.1",
+      "clause_title": "1.1 In this Agreement:",
+      "snippet": "1.1 In this Agreement: ” means the person appointed by “Affiliate” in relation to a Party means that Party’s directors, as the Project supervisor and named as such advisors, officers, employees, contractors, personnel a…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.21",
+      "clause_title": "2.21 must provide the Student with",
+      "snippet": "2.21 must provide the Student with by the Parties or the Student relating to or arising from the Specific Resources if described in Project that is not Pre-existing Intellectual Property. Schedule 1.",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.22",
+      "clause_title": "2.22 In addition to the Specific Resources,",
+      "snippet": "2.22 In addition to the Specific Resources, “Project Report” means any reports identified and must provide appropriate equipment, described in Schedule 1 that the Student must provide to knowledge, information, and mate…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.23",
+      "clause_title": "2.23 The Project will be undertaken by the Student at the",
+      "snippet": "2.23 The Project will be undertaken by the Student at the “Results” means all data, results, research findings, location(s) specified in Schedule 1 and must be inventions, discoveries, and reports arising from the Proje…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2.4",
+      "clause_title": "2.2.4 must pay to the University the Funding",
+      "snippet": "2.2.4 must pay to the University the Funding student in Schedule 1 who will be carrying out research for set out in Schedule 1 (if any) in accordance with the Project. clause 4. “Specific Resources” mean the resources d…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "23 University Obligations",
+      "snippet": "23 University Obligations Schedule 1 to be provided by the University and/or to the Student for carrying out the Project.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.31",
+      "clause_title": "2.31 The University must use all reasonable endeavours",
+      "snippet": "2.31 The University must use all reasonable endeavours to ensure the Student performs the Project in “University Supervisor” means the person appointed as accordance with the terms of this Agreement and supervisor in ac…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.32",
+      "clause_title": "2.32 The University must:",
+      "snippet": "2.32 The University must: “Working Day” means any day other than a Saturday,",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "(a) ensure the Student has achieved the",
+      "snippet": "(a) ensure the Student has achieved the Sunday, public holiday in New Zealand, and any day from 24 appropriate level of education and/or is December to 5 January inclusive in any year. enrolled in the required Courses a…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 In this Agreement:",
+      "snippet": "1.2 In this Agreement: with PHF Science;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.21",
+      "clause_title": "1.21 All monetary amounts are stated in New Zealand",
+      "snippet": "1.21 All monetary amounts are stated in New Zealand",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(b) appoint the University Supervisor who will",
+      "snippet": "(b) appoint the University Supervisor who will dollars and exclude GST, unless stated otherwise. provide the necessary support to the Student to undertake the Project; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.22",
+      "clause_title": "1.22 Where the context permits, the singular includes the",
+      "snippet": "1.22 Where the context permits, the singular includes the plural and vice versa.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "(c) ensure continuity of supervisory support",
+      "snippet": "(c) ensure continuity of supervisory support throughout the Term.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.23",
+      "clause_title": "1.23 References to a Party in this Agreement include",
+      "snippet": "1.23 References to a Party in this Agreement include successors, executors, administrators and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.33",
+      "clause_title": "2.33 At no cost to the University must",
+      "snippet": "2.33 At no cost to the University must permitted assignees (as the case may be) of that provide with one copy of any Party. Publication or any other substantial report resulting from the Project and any other outputs sp…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2.4",
+      "clause_title": "1.2.4 All references to legislation are references to New",
+      "snippet": "1.2.4 All references to legislation are references to New Schedule 1. Zealand legislation and include all subordinate",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.3.4",
+      "clause_title": "2.3.4 Where the Student is identified as the Funding",
+      "snippet": "2.3.4 Where the Student is identified as the Funding legislation, any re-enactment of, or amendment to, Recipient: that legislation and all legislation passed in",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "(a) the University must pay to the Student the full",
+      "snippet": "(a) the University must pay to the Student the full substitution for that legislation. amount of the corresponding Funding",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.25",
+      "clause_title": "1.25 References to clauses, schedules and attachments",
+      "snippet": "1.25 References to clauses, schedules and attachments specified in Schedule 1 provided by are to clauses in, and the schedules and ; and attachments to, this Agreement (unless stated",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "(b) the University will hold the corresponding",
+      "snippet": "(b) the University will hold the corresponding otherwise). Funding in trust and only distribute it to the Student in accordance with this clause and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2.6",
+      "clause_title": "1.2.6 “including” in this Agreement means “including,",
+      "snippet": "1.2.6 “including” in this Agreement means “including, Schedule 1. without limitation.”",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.35",
+      "clause_title": "2.35 If the Student is for any reason unable to continue",
+      "snippet": "2.35 If the Student is for any reason unable to continue",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. Party Obligations",
+      "snippet": "2. Party Obligations with or complete the Project, the University must immediately advise and:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Each Party must notify the other Party as soon as",
+      "snippet": "2.1 Each Party must notify the other Party as soon as reasonably practicable of any circumstances that could",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "(a) where the Funding Recipient is the Student,",
+      "snippet": "(a) where the Funding Recipient is the Student, negatively affect the Project and its obligations under this refund the portion of Funding paid by Agreement. that has not been paid to the Student under clause 2.3.4 from…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.2",
+      "clause_title": "2.2 Obligations",
+      "snippet": "2.2 Obligations Student’s termination;",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "31",
+      "clause_title": "(b) where the Funding Recipient is the University,",
+      "snippet": "(b) where the Funding Recipient is the University, refund any portion of Funding that has not Page 7 of 17 ``` already been applied by the University pursuant to Schedule 1 from the date of the Student’s termination; and",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "32",
+      "clause_title": "(c) submit to [redacted] a report on the work completed",
+      "snippet": "(c) submit to [redacted] a report on the work completed to date.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.3.6",
+      "clause_title": "2.3.6 The University must use reasonable endeavours to ensure the Student:",
+      "snippet": "2.3.6 The University must use reasonable endeavours to ensure the Student:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "(a) commences the Project on the Start Date and",
+      "snippet": "(a) commences the Project on the Start Date and diligently undertakes the Project to the standards and levels of competence expected of a student on the Course;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "35",
+      "clause_title": "(b) performs the research required for the Project and",
+      "snippet": "(b) performs the research required for the Project and delivers that research in a manner and in accordance with the Milestones and applicable due dates specified in Schedule 1;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "36",
+      "clause_title": "(c) submits to [redacted] any Project Reports specified",
+      "snippet": "(c) submits to [redacted] any Project Reports specified in Schedule 1 by the agreed report date;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "37",
+      "clause_title": "(d) complies with all relevant [redacted] rules and",
+      "snippet": "(d) complies with all relevant [redacted] rules and policies expected of an [redacted] employee operating at an equivalent level;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(e) complies with any laws, regulations, rules, or",
+      "snippet": "(e) complies with any laws, regulations, rules, or guidelines of any government or public authority that may be applicable to the research and any laws, regulations, or guidelines relating to health and safety or ethics…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "39",
+      "clause_title": "(f) complies with the University’s obligations under the",
+      "snippet": "(f) complies with the University’s obligations under the following clauses 5 (Intellectual Property), 6 (Confidential Information), 7 (Thesis and Publications) and 8 (Publicity) as if the Student were a Party to this Ag…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "green",
+      "clause_id": "3",
+      "clause_title": "3. Health and Safety",
+      "snippet": "3. Health and Safety 3.11 The Parties must comply with the Health and Safety at Work Act 2015 (‘HSW Act’), including any regulations, codes and guidance made under the HSW Act. 3.12 If the Student undertakes the Project…",
+      "rationale": "Aligns with UoA preferred position on Governing Law and Jurisdiction — matches \"New Zealand courts\". Preferred: New Zealand.",
+      "standard_ref": "UoA Position #POS-16"
+    }
+  ]
+}

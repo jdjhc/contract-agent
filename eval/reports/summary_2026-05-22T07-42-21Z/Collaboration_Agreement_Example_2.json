@@ -1,0 +1,14 @@
+{
+  "filename": "Collaboration Agreement Example 2.pdf",
+  "contract_type": "Collaboration Agreement",
+  "flags_source": "augment",
+  "n_flags": 38,
+  "counts": {
+    "red": 2,
+    "amber": 2,
+    "green": 1,
+    "blue": 33
+  },
+  "summary": "The overall risk posture of this Collaboration Agreement is moderate, with a mix of acceptable clauses, minor issues, and a few significant risks requiring escalation. Key concerns include an indefinite confidentiality obligation and jurisdiction provisions that fall outside the University of Auckland's acceptable positions, as well as liability limitations that lack a specified monetary cap. The next step is to escalate the flagged red and amber clauses to the appropriate stakeholders, including the Senior Manager, Research Grants and Contracts, and General Counsel, for review and potential renegotiation.",
+  "wall_ms": 3169.3
+}

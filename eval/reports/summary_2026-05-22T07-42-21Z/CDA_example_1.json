@@ -1,0 +1,14 @@
+{
+  "filename": "CDA example 1.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "flags_source": "augment",
+  "n_flags": 39,
+  "counts": {
+    "red": 2,
+    "amber": 8,
+    "green": 7,
+    "blue": 22
+  },
+  "summary": "The review of the Confidential Disclosure Agreement (CDA example 1.pdf) indicates a moderate risk posture, with several clauses requiring further attention to ensure compliance with the University of Auckland's (UoA) Preferred Contracting Positions. Key issues include insufficient detail in confidentiality provisions (e.g., exclusions for public or independently developed information, disclosure to agents and Affiliates, and duration of obligations) and incomplete termination terms, both of which necessitate escalation to the Senior Manager, Research Grants and Contracts. The next step is to address flagged clauses, particularly those marked red and amber, by seeking amendments or clarifications from the counterparty to align the agreement with UoA's standards.",
+  "wall_ms": 6131.5
+}

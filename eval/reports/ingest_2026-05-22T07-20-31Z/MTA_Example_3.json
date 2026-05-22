@@ -1,0 +1,372 @@
+{
+  "filename": "MTA Example 3.pdf",
+  "merged_fragments": [],
+  "text_chars": 23780,
+  "n_clauses": 71,
+  "ingest_metrics": {
+    "n_calls": 3,
+    "input_tokens": 6371,
+    "output_tokens": 2330,
+    "latency_ms": 62246.4,
+    "total_cost_usd": 0.039227
+  },
+  "wall_ms": 49899.9,
+  "text": "```\nDATA TRANSFER AGREEMENT\n\nThis Agreement is entered into between the Parties to govern the mutual transfer of the Data from Disclosing Party to Receiving Party.\n\nThis Agreement is made by and between:\n\nUniversity of Auckland, through its AUCKLAND BIOENGINEERING INSTITUTE (“Collaborator”) with address at: 22 Princes Street, Auckland, New Zealand\n\nContact information for administration:\n[REDACTED]\nPhysical Address: 22 Princes Street, Auckland 1010, New Zealand\nPostal Address: Private Bag 92019, Auckland 1142, New Zealand\nEmail: contracts@auckland.ac.nz\n\nand\n\n[REDACTED] with an address at 22 Princes Street, Auckland 1010, New Zealand (“Collaborating Investigator”)\n\nand\n\n[REDACTED] (“[REDACTED]”)\n\nContact information for administration\n[REDACTED]\n[REDACTED]\n[REDACTED]\n\nand\n\n[REDACTED], who holds an appointment at [REDACTED] with an address at [REDACTED] (“[REDACTED] Investigator\")\n\nThis Agreement is made pursuant to sections 44(5) and 44(6) of PHIPA.\n\n[REDACTED]\n\nWHEREAS, the Parties wish to transfer Data for the purposes of the Study;\n\nNOW THEREFORE, in consideration of the mutual covenants and agreements exchanged between the Parties and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:\n\n1. Definitions. As used in this Agreement, the term:\n```\n\na) “Applicable Law” means all applicable laws, regulations, guidelines and policies, including PHIPA and PIPEDA;  \n\nb) “Data” means all data that has been collected for the purpose of the Study pursuant to the Protocol by the Disclosing Party and is provided to the Receiving Party for the purpose of carrying out the Study;  \n\nc) “Disclosing Party” means the party or parties disclosing information under this Agreement, [redacted];  \n\nd) “Effective Date” means the date of the last signature on the signature page of this Agreement;  \n\ne) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [redacted] Investigator collectively;  \n\nf) “Party” means either Collaborator, Collaborating Investigator, [redacted], or [redacted] Investigator;  \n\ng) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004, c. 3;  \n\nh) “PHI” means “personal health information” as defined in PHIPA or “personal information” as defined in PIPEDA;  \n\ni) “PIPEDA” means *Personal Information Protection and Electronic Documents Act* (S.C. 2000, c. 5);  \n\nj) “Protocol” means all documents, including any protocols and informed consent forms, including any research plans that meet the requirements outlined in PHIPA, as approved by the REB attached by reference at Schedule “A” herein;  \n\nk) “REB” means research ethics board(s) authorized to approve the transfer of Data for research purposes;  \n\nl) “Receiving Party” means the party or parties receiving information under this Agreement, specifically Collaborator;  \n\nm) “Study” means [redacted] as described by the Protocol and as approved by all applicable REBs; and  \n\nn) “Study Staff” means internal personnel and/or agents of each Party who need access to the Data for the purposes herein and who are bound by the same confidentiality obligations herein.  \n\n2. **Compliance.** The Disclosing Party wishes to share Data for the above-referenced Study. In transferring the Data, the Parties shall comply with all Applicable Laws. The Disclosing Party represents that it has authorization to enter into and transfer the Data under Applicable Law. The Disclosing Party will prepare and furnish the Data in accordance with the Protocol including without limitation obtaining all applicable and appropriate consents. The parties hereto shall use a secure method of provision of the Data by Disclosing Party to Receiving Party in compliance with Applicable Laws. The Data will not be transferred until the Disclosing Party’s REB and, if applicable the Receiving Party’s REB, have approved the Protocol. The Disclosing Party retains the right to conduct audits of Receiving Party’s compliance with this Agreement upon reasonable advance written notice to Receiving Party and at mutually acceptable times. If there is a breach of the Agreement by Receiving Party, Receiving Party shall promptly provide notice to Disclosing Party. Disclosing Party may require that all Data be returned promptly to Disclosing Party or destroyed in a secure manner, at Disclosing Party’s option. The Disclosing Party retains the right, acting on reasonable grounds, to refuse the transfer of the Data requested hereunder. Where applicable, the Data will not be transferred until the Receiving Party provides evidence that the Receiving Party’s REB has approved the Protocol as attached in Schedule A.  \n\n2\n\n3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data only to its Study Staff. The\nReceiving Party agrees that it/he/she shall, and shall require its/his/her Study Staff, to:\na) maintain Data in confidence, and not disclose Data except as permitted by this Agreement and the\nProtocol;\nb) use Data solely for the purposes of the Study or other expressly consented purposes, in compliance with\nApplicable Law and with:\n(i) the Protocol as approved by the REB and as amended from time to time, provided\nthat amendments are approved by the REB;\n(ii) any written conditions imposed by the Disclosing Party’s or Receiving Party’s\nREB;\n(iii) the Study subject’s consent consistent as approved by the Disclosing Party’s REB\nor, if the requirement to obtain consent has been waived, or otherwise determined\nto be unnecessary, by the Disclosing Party’s REB, the waiver of consent given by\nthe Disclosing Party’s REB;\n(iv) any other conditions or restrictions imposed by Disclosing Party relating to the use,\nsecurity, disclosure, return or disposal of the Data as set out in this Agreement.\nc) not disclose, transfer, update, distribute, market, sell, or make any other use of the Data to any third\nparties without the prior written consent of the Disclosing Party. Notwithstanding the foregoing, the\nReceiving Party may transfer the Data:\n(i) to regulatory authorities, provided that the Receiving Party gives prior written\nnotice of such intended disclosure to the Disclosing Party;\n(ii) as otherwise permitted by the informed consent form or waiver of consent; or\n(iii) in order to comply with Applicable Law or judicial process, or with a court or\nregulatory order, provided that the Receiving Party gives prior written notice of\nsuch intended disclosure to the Disclosing Party and takes all lawful actions that\nare reasonable in the circumstances to minimize the extent of such disclosure and\nobtain confidential treatment for such disclosure.\nd) securely destroy the Data as required by the Protocol or instructed by the Disclosing Party and provide\na written confirmation of the manner of destruction in a form acceptable to Disclosing Party; and/or,\ne) in the event that the Receiving Party retains a third party to house or maintain the database or otherwise\ntransfers the Data to a third party, that Receiving Party will ensure that any such third party is\ncontractually bound by obligations of patient confidentiality, privacy, security and non-use with respect\nto the Data no less stringent than those contained herein.\n4. Safeguards and Notification. The Receiving Party shall use appropriate safeguards, but no less stringent\nsafeguards that Receiving Party employs to protect its own confidential and proprietary information\n(including without limitation with respect to encrypting identifying numbers, linking files, storing and\nretrieving files from secured locations) to prevent any unauthorized use or disclosure of the Data and shall\npromptly report to Disclosing Party any unauthorized use or disclosure of which Receiving Party becomes\naware. Such safeguards and protections shall be used by Receiving Party for all Data received from\nDisclosing Party. The above shall apply to any copies of the Data made by the Disclosing Party and kept at\ntheir premises. All PHI transferred or exchanged under this Agreement shall be done so in accordance with\nSchedule “B” herein. Receiving Party shall take appropriate care in the disposal or destruction of the\ninformation to prevent unauthorized parties from gaining access to it. The Parties shall make their employees\nand agents aware of the importance of maintaining the confidentiality of any collected or transferred PHI.\nThese obligations of confidentiality shall survive the expiration or earlier termination of this Agreement.\n5. Contact with Subjects/Individuals. The Receiving Party shall not make contact or attempt to make contact\nwith an individual or Study subject unless the Disclosing Party first obtains the individual’s consent or Study\nsubject’s consent to be contacted, except to the extent that the Receiving Party is otherwise the individual’s\nor Study subject’s health information custodian.\n3\n\n6. Intellectual Property/Ownership. Except as expressly provided herein, no right, title or interest in and to\nthe Data is granted to the Receiving Party or implied hereunder. The Receiving Party hereby specifically\ndisclaims any right, title or interest of any kind whatsoever to the Data, results, and any discovery or\ninvention arising out of the Study (as applicable). Patient medical records shall remain at all times the\nproperty of the Disclosing Party.\n7. Funding. Not Applicable\n8. Publication. Receiving Party shall have the right to use a) the analyzed, de-identified data derived from the\nuse of the Data; and b) information and results arising out of analysis of the Data, as part of a publication or\npresentation of the results of the Study. The Receiving Party shall not include any personally identifying\ninformation in any publication or presentation. Disclosing Party’s contribution to the Study shall be\nacknowledged appropriately in any such publication or presentation in accordance with academic standards.\nPrior written consent shall be obtained by the Disclosing Party before any such publication or presentation.\nAs applicable, Receiving Party agrees to share the Data and results arising from its analysis of the Data with\nDisclosing Party, which Disclosing Party may use for academic research, teaching and scientific and\nacademic publications purposes. The Parties agree that raw level Data may be published in accordance with\nfunding or publication requirements.\n9. Obligations/Liability: Each party shall be responsible and assume liability for any damage or loss to the\nextent that such damage or loss arises out of or as a result of its own negligence or willful misconduct or the\nnegligence or willful misconduct of those for whom in law it/he/she is responsible. No Party or its trustees,\ndirectors, officers, employees, and agents (the “First Party”) shall be liable to any other Party (the “Second\nParty”) for any costs, suits, or claims made by the Second Party or made against the Second Party except to\nthe extent caused by negligence or willful misconduct on the part of the First Party. The Parties shall\nmaintain reasonable insurance coverage for such liabilities. No Party shall be responsible for any lost profits,\nlost opportunities, or other indirect or consequential damages suffered by another Party.\n10. General Terms and Conditions.\na) Term: This Agreement shall become effective as of the Effective Date and shall expire upon termination\nor upon earlier completion of the Study. The term of this Agreement may be amended by an Amendment\nDocument, agreed to and signed by all Parties.\nb) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes no representations or\nwarranties, express or implied, with respect thereto. Receiving Party accepts that there are no\nrepresentations, warranties, conditions or liabilities expressed or implied herewith in relation to the Data by\nDisclosing Party or their respective trustees, directors, officers, affiliates, investigators, students, employees,\nservants, authorized representatives or agents.\nc) Assignment: This Agreement shall enure to the benefit of and be binding upon the Parties and their\nrespective successors and permitted assigns. No party shall be entitled to assign or transfer this Agreement\nor the rights and obligations hereunder to any third party without the prior written approval of the other\nParties.\nd) Entire Agreement: This Agreement including the attached Schedule(s) represents the entire Agreement\nbetween or among the Parties related to the Study and supersedes all previously or contemporaneously\nexecuted agreements related to the Study. If there are any conflicts between the terms of the Protocol and\nthe terms of this Agreement, the terms of the Protocol will govern with respect to scientific and medical\nmatters, and the terms of this Agreement will govern with respect to all other matters.\n4\n\ne) Amendments: This Agreement shall not be amended, modified, varied or supplemented except in writing\nsigned by each of the Parties.\nf) Delays: No failure or delay on the part of any party hereto to exercise any right or remedy under this\nAgreement shall be construed or operate as a waiver thereof.\ng) Independent Contractors: The Parties hereto are independent contractors. Nothing contained herein shall\nbe deemed or construed to create between or among the Parties hereto a partnership or joint venture or\nemployment or principal-agent relationship. No party shall have the authority to act on behalf of any other\nparty or to bind another party in any manner.\nh) Use of Name/Symbols: No party shall use, or authorize others to use, the name, symbols, or marks of\nanother party hereto or its staff for any endorsement purposes without prior written approval from the party\nwhose name, symbols or marks are to be used.\ni) Governing Law: This Agreement shall be governed, construed and interpreted pursuant to and in\naccordance with the laws of the Province of Ontario, and the laws of Canada applicable to the Province of\nOntario. The provincial or federal courts having jurisdiction in Canada shall have exclusive jurisdiction over\nall matters pertaining to this Agreement.\nj) Force Majeure Clause: Noncompliance by a party with the obligations of this Agreement due to force\nmajeure, including laws or regulations of any government, war, civil commotion, destruction of production\nfacilities and materials, fire, flood, earthquake or storm, labor disturbances, shortage of materials, disease,\nepidemic, public health crisis, failure of public utilities or common carriers, or any other causes beyond the\nreasonable control of the applicable party, shall not constitute breach of this Agreement and such party shall\nbe excused from performance hereunder to the extent and for the duration of such prevention, provided it\nfirst notifies the other Parties in writing of such prevention and that it uses reasonable efforts to cause the\nevent of the force majeure to terminate, be cured or otherwise ended.\nk) Counterparts: This Agreement may be executed by way of electronic signature and in any number of\ncounterparts with the same effect as if all Parties had signed the same document. All of these counterparts\nwill for all purposes constitute one Agreement, binding on the Parties, notwithstanding that all Parties are\nnot signatories to the same counterpart. A faxed or emailed PDF copy or photocopy of this Agreement\nexecuted by a party in counterpart or otherwise will constitute a properly executed, delivered and binding\nagreement or counterpart of the executing party.\nl) Termination: The Parties may terminate this Agreement by providing thirty (30) days prior written notice\nto the other Parties.\nm) Dispute Resolution: The Parties shall make reasonable efforts to amicably resolve any issues, claims,\ndisputes, controversy or inconsistencies involving this agreement or the protocol and to escalate the matter\nto senior management prior to the commencement of any legal proceedings.\nn) Third Party Beneficiaries: The Parties acknowledge that is a third party beneficiary\nto this Agreement with respect to any personal health information, as defined in PHIPA, that is disclosed\nby and as such may enforce any rights designated to in this Agreement.\nIN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed as follows:\n-(SIGNATURE PAGE FOLLOWS)-\n5\n\nSCHEDULE “B”\nPRIVACY ADDENDUM FOR TRANSFER OF PHI\n1. Prevailing Terms. In case of a conflict between the terms of this Schedule “B” and any other\nterms of this Agreement, the terms of this Schedule “B” shall prevail. Any undefined terms shall have the\nsame meaning as in the Agreement.\n2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA, a\n“health information custodian” and/or “agent” and has statutory obligations to safeguard its patients’ PHI.\n3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving Party may require\naccess to PHI from the DISCLOSING PARTY in the course of fulfilling its obligations under this\nAgreement. If the Receiving Party does obtain access to PHI while fulfilling the Agreement, the\nprovisions set in this Schedule “B” set out the obligations of the Receiving Party with respect to its\ncollection, use, disclosure, retention and disposal of such PHI.\n4. Receiving Party obligations under PHIPA. The parties acknowledge and agree that Receiving\nParty, when accessing PHI, and where applicable, does so solely with the explicit permission from the\nDISCLOSING PARTY’s Study Participants to enable the DISCLOSING PARTY to fulfill its obligations\nunder this Agreement. As such, the Receiving Party is a health information agent and is thus subject to all\nprovisions of and obligations under PHIPA.\n5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING PARTY for\nthe sole and exclusive purpose of fulfilling its obligations under this Agreement and in accordance with\nthe informed consent form, if applicable, and for no other purpose whatsoever.\n6. Obligations not Conditional. The Receiving Party’s obligations under this Schedule “B” stem\nfrom the obligations of both the DISCLOSING PARTY and the Receiving Party under PHIPA, and in\nlight of the foregoing, are not conditional on the DISCLOSING PARTY’s compliance with any of its\nobligations under this Agreement, including any obligation to pay the Receiving Party, provided that for\ngreater certainty these obligations shall only apply to the extent that the Receiving Party has custody or\ncontrol of personal information or PHI under this Agreement.\n7. Receiving Party Personnel. For the purposes of these Information Privacy and Security terms\nand conditions, “Personnel” includes Receiving Party’s investigators, employees, consultants,\nsubconsultants, and agents.\n8. Training of Personnel. Receiving Party represents and warrants to the DISCLOSING PARTY\nthat it has provided training to its Personnel with respect to Receiving Party’s legal obligations respecting\npersonal information under all applicable privacy legislation and will provide reasonably sufficient\nadditional training with respect to Receiving Party’s specific obligations to protect PHI under this\nAgreement. Receiving Party shall ensure that its Personnel are aware of and agree in writing to be bound\nby the provisions relating to PHI that are set out in this Agreement.\n9. Access by Personnel. Receiving Party shall give access to PHI only to those members of its\nPersonnel who have a legitimate need to access the PHI in order to fulfill Receiving Party’s obligations\nunder this Agreement.\n10. Removal of Personnel. In the event of a breach of these provisions by any of its Personnel, the\nDISCLOSING PARTY may require that personnel member to cease, and such member shall cease,\nproviding Service under this Agreement.\n8\n\n11. Compliance with Privacy Legislation. Receiving Party represents and warrants to the\nDISCLOSING PARTY that it:\na. has a privacy policy in compliance with applicable privacy legislation, addressing its practices\nrelating to the collection, use, disclosure, retention and disposal of personal information;\nb. shall monitor and enforce compliance with its own privacy policy;\nc. has an appointed privacy compliance officer who shall be given the responsibility for Receiving\nParty’s compliance with the terms and conditions under this Agreement; and\nd. has implemented effective administrative, technological and physical safeguards to stop theft,\nloss and unauthorized access, copying, modification, use, disclosure or disposal of personal\ninformation and that such safeguards are consistent with industry practice.\n12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party access to or\notherwise disclose the PHI in a secure method approved by the DISCLOSING PARTY. Receiving Party\nstates that it shall only store the PHI provided by the DISCLOSING PARTY in a manner and location\napproved by the DISCLOSING PARTY. All PHI shall be stored in Canada.\n13. Monitoring of its Activities. Receiving Party agrees that it shall monitor its activities to ensure\nthat its Personnel are complying with the terms and conditions of this Agreement. In particular, Receiving\nParty shall monitor and report to DISCLOSING PARTY, upon the reasonable request of the\nDISCLOSING PARTY, Receiving Party‘s access, use and disclosure of PHI under this Agreement.\n14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving Party becomes\naware that PHI has been stolen or lost, or a person has obtained unauthorized access to PHI, or Receiving\nParty has used, disclosed or disposed of the PHI other than as contemplated in this Agreement, Receiving\nParty shall promptly notify the DISCLOSING PARTY’s contact as stipulated under the Agreement, and\nshall not otherwise disclose to any third party such circumstances without the prior written consent of the\nDISCLOSING PARTY except as required by law.\n15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. The\nDISCLOSING PARTY may, upon reasonable notice, assess and review Receiving Party’s practices and\nprocedures for receiving and processing PHI under this Agreement, for the purposes of ensuring that the\nterms and conditions are being complied with. For these purposes, upon request Receiving Party shall\nprovide the DISCLOSING PARTY with reasonable access to the policies, procedures and protocols used\nfor purposes of fulfilling its obligations under this Agreement and any other documents that may be\nrelevant.\n16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperate with any\nprivacy assessment or audit conducted by the DISCLOSING PARTY or any third party retained by the\nDISCLOSING PARTY.\n17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY makes a\ncomplaint to Receiving Party in respect of Receiving Party’s compliance with this Agreement, the\nReceiving Party shall, within a commercially reasonable period of time from receipt of the complaint,\ninvestigate the matter and provide the DISCLOSING PARTY with an oral report stating the cause of the\ndeficiency, if any, and the steps taken to prevent a recurrence, if required. Within a further five business\ndays, Receiving Party shall provide the DISCLOSING PARTY with a written report documenting the\ncomplaint, investigation, deficiency, if any, and the steps taken to prevent a recurrence, if required.\n9\n\n18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall provide\nreasonable cooperation with the DISCLOSING PARTY in responding to any complaints about PHI that\nmay relate to Receiving Party’s obligations under this Agreement.\n19. Survival. Receiving Party’s obligations with respect to PHI shall survive the expiration or\ntermination of this Agreement for any reason.\n10",
+  "clauses": [
+    {
+      "id": "D",
+      "title": "DATA TRANSFER AGREEMENT",
+      "text": "DATA TRANSFER AGREEMENT\n\nThis Agreement is entered into between the Parties to govern the mutual transfer of the Data from Disclosing Party to Receiving Party.\n\nThis Agreement is made by and between:\n\nUniversity of Auckland, through its AUCKLAND BIOENGINEERING INSTITUTE (“Collaborator”) with address at: 22 Princes Street, Auckland, New Zealand\n\nContact information for administration:\n[REDACTED]\nPhysical Address: 22 Princes Street, Auckland 1010, New Zealand\nPostal Address: Private Bag 92019, Auckland 1142, New Zealand\nEmail: contracts@auckland.ac.nz\n\nand\n\n[REDACTED] with an address at 22 Princes Street, Auckland 1010, New Zealand (“Collaborating Investigator”)\n\nand\n\n[REDACTED] (“[REDACTED]”)\n\nContact information for administration\n[REDACTED]\n[REDACTED]\n[REDACTED]\n\nand\n\n[REDACTED], who holds an appointment at [REDACTED] with an address at [REDACTED] (“[REDACTED] Investigator\")\n\nThis Agreement is made pursuant to sections 44(5) and 44(6) of PHIPA.\n\n[REDACTED]\n\nWHEREAS, the Parties wish to transfer Data for the purposes of the Study;\n\nNOW THEREFORE, in consideration of the mutual covenants and agreements exchanged between the Parties and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:"
+    },
+    {
+      "id": "1",
+      "title": "1. Definitions. As used in this Agreement, the term:",
+      "text": "1. Definitions. As used in this Agreement, the term:\n```"
+    },
+    {
+      "id": "3",
+      "title": "a) “Applicable Law” means all applicable laws, regulations, guidelines and polic",
+      "text": "a) “Applicable Law” means all applicable laws, regulations, guidelines and policies, including PHIPA and PIPEDA;"
+    },
+    {
+      "id": "4",
+      "title": "b) “Data” means all data that has been collected for the purpose of the Study pu",
+      "text": "b) “Data” means all data that has been collected for the purpose of the Study pursuant to the Protocol by the Disclosing Party and is provided to the Receiving Party for the purpose of carrying out the Study;"
+    },
+    {
+      "id": "5",
+      "title": "c) “Disclosing Party” means the party or parties disclosing information under t",
+      "text": "c) “Disclosing Party” means the party or parties disclosing information under this Agreement, [redacted];"
+    },
+    {
+      "id": "6",
+      "title": "d) “Effective Date” means the date of the last signature on the signature page",
+      "text": "d) “Effective Date” means the date of the last signature on the signature page of this Agreement;"
+    },
+    {
+      "id": "7",
+      "title": "e) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [r",
+      "text": "e) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [redacted] Investigator collectively;"
+    },
+    {
+      "id": "8",
+      "title": "f) “Party” means either Collaborator, Collaborating Investigator, [redacted], o",
+      "text": "f) “Party” means either Collaborator, Collaborating Investigator, [redacted], or [redacted] Investigator;"
+    },
+    {
+      "id": "9",
+      "title": "g) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004,",
+      "text": "g) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004, c. 3;"
+    },
+    {
+      "id": "10",
+      "title": "h) “PHI” means “personal health information” as defined in PHIPA or “personal i",
+      "text": "h) “PHI” means “personal health information” as defined in PHIPA or “personal information” as defined in PIPEDA;"
+    },
+    {
+      "id": "11",
+      "title": "i) “PIPEDA” means *Personal Information Protection and Electronic Documents Act",
+      "text": "i) “PIPEDA” means *Personal Information Protection and Electronic Documents Act* (S.C. 2000, c. 5);"
+    },
+    {
+      "id": "12",
+      "title": "j) “Protocol” means all documents, including any protocols and informed consent",
+      "text": "j) “Protocol” means all documents, including any protocols and informed consent forms, including any research plans that meet the requirements outlined in PHIPA, as approved by the REB attached by reference at Schedule “A” herein;"
+    },
+    {
+      "id": "13",
+      "title": "k) “REB” means research ethics board(s) authorized to approve the transfer of D",
+      "text": "k) “REB” means research ethics board(s) authorized to approve the transfer of Data for research purposes;"
+    },
+    {
+      "id": "14",
+      "title": "l) “Receiving Party” means the party or parties receiving information under thi",
+      "text": "l) “Receiving Party” means the party or parties receiving information under this Agreement, specifically Collaborator;"
+    },
+    {
+      "id": "15",
+      "title": "m) “Study” means [redacted] as described by the Protocol and as approved by all",
+      "text": "m) “Study” means [redacted] as described by the Protocol and as approved by all applicable REBs; and"
+    },
+    {
+      "id": "16",
+      "title": "n) “Study Staff” means internal personnel and/or agents of each Party who need",
+      "text": "n) “Study Staff” means internal personnel and/or agents of each Party who need access to the Data for the purposes herein and who are bound by the same confidentiality obligations herein."
+    },
+    {
+      "id": "2",
+      "title": "2. **Compliance.** The Disclosing Party wishes to share Data for the above-ref",
+      "text": "2. **Compliance.** The Disclosing Party wishes to share Data for the above-referenced Study. In transferring the Data, the Parties shall comply with all Applicable Laws. The Disclosing Party represents that it has authorization to enter into and transfer the Data under Applicable Law. The Disclosing Party will prepare and furnish the Data in accordance with the Protocol including without limitation obtaining all applicable and appropriate consents. The parties hereto shall use a secure method of provision of the Data by Disclosing Party to Receiving Party in compliance with Applicable Laws. The Data will not be transferred until the Disclosing Party’s REB and, if applicable the Receiving Party’s REB, have approved the Protocol. The Disclosing Party retains the right to conduct audits of Receiving Party’s compliance with this Agreement upon reasonable advance written notice to Receiving Party and at mutually acceptable times. If there is a breach of the Agreement by Receiving Party, Receiving Party shall promptly provide notice to Disclosing Party. Disclosing Party may require that all Data be returned promptly to Disclosing Party or destroyed in a secure manner, at Disclosing Party’s option. The Disclosing Party retains the right, acting on reasonable grounds, to refuse the transfer of the Data requested hereunder. Where applicable, the Data will not be transferred until the Receiving Party provides evidence that the Receiving Party’s REB has approved the Protocol as attached in Schedule A.  \n\n2"
+    },
+    {
+      "id": "3__dup__2",
+      "title": "3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data o",
+      "text": "3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data only to its Study Staff. The\nReceiving Party agrees that it/he/she shall, and shall require its/his/her Study Staff, to:"
+    },
+    {
+      "id": "19",
+      "title": "a) maintain Data in confidence, and not disclose Data except as permitted by th",
+      "text": "a) maintain Data in confidence, and not disclose Data except as permitted by this Agreement and the\nProtocol;"
+    },
+    {
+      "id": "20",
+      "title": "b) use Data solely for the purposes of the Study or other expressly consented p",
+      "text": "b) use Data solely for the purposes of the Study or other expressly consented purposes, in compliance with\nApplicable Law and with:"
+    },
+    {
+      "id": "21",
+      "title": "(i) the Protocol as approved by the REB and as amended from time to time, provi",
+      "text": "(i) the Protocol as approved by the REB and as amended from time to time, provided\nthat amendments are approved by the REB;"
+    },
+    {
+      "id": "22",
+      "title": "(ii) any written conditions imposed by the Disclosing Party’s or Receiving Par",
+      "text": "(ii) any written conditions imposed by the Disclosing Party’s or Receiving Party’s\nREB;"
+    },
+    {
+      "id": "23",
+      "title": "(iii) the Study subject’s consent consistent as approved by the Disclosing Part",
+      "text": "(iii) the Study subject’s consent consistent as approved by the Disclosing Party’s REB\nor, if the requirement to obtain consent has been waived, or otherwise determined\nto be unnecessary, by the Disclosing Party’s REB, the waiver of consent given by\nthe Disclosing Party’s REB;"
+    },
+    {
+      "id": "24",
+      "title": "(iv) any other conditions or restrictions imposed by Disclosing Party relating",
+      "text": "(iv) any other conditions or restrictions imposed by Disclosing Party relating to the use,\nsecurity, disclosure, return or disposal of the Data as set out in this Agreement."
+    },
+    {
+      "id": "25",
+      "title": "c) not disclose, transfer, update, distribute, market, sell, or make any other",
+      "text": "c) not disclose, transfer, update, distribute, market, sell, or make any other use of the Data to any third\nparties without the prior written consent of the Disclosing Party. Notwithstanding the foregoing, the\nReceiving Party may transfer the Data:"
+    },
+    {
+      "id": "26",
+      "title": "(i) to regulatory authorities, provided that the Receiving Party gives prior wr",
+      "text": "(i) to regulatory authorities, provided that the Receiving Party gives prior written\nnotice of such intended disclosure to the Disclosing Party;"
+    },
+    {
+      "id": "27",
+      "title": "(ii) as otherwise permitted by the informed consent form or waiver of consent;",
+      "text": "(ii) as otherwise permitted by the informed consent form or waiver of consent; or"
+    },
+    {
+      "id": "28",
+      "title": "(iii) in order to comply with Applicable Law or judicial process, or with a cou",
+      "text": "(iii) in order to comply with Applicable Law or judicial process, or with a court or\nregulatory order, provided that the Receiving Party gives prior written notice of\nsuch intended disclosure to the Disclosing Party and takes all lawful actions that\nare reasonable in the circumstances to minimize the extent of such disclosure and\nobtain confidential treatment for such disclosure."
+    },
+    {
+      "id": "29",
+      "title": "d) securely destroy the Data as required by the Protocol or instructed by the D",
+      "text": "d) securely destroy the Data as required by the Protocol or instructed by the Disclosing Party and provide\na written confirmation of the manner of destruction in a form acceptable to Disclosing Party; and/or,"
+    },
+    {
+      "id": "30",
+      "title": "e) in the event that the Receiving Party retains a third party to house or main",
+      "text": "e) in the event that the Receiving Party retains a third party to house or maintain the database or otherwise\ntransfers the Data to a third party, that Receiving Party will ensure that any such third party is\ncontractually bound by obligations of patient confidentiality, privacy, security and non-use with respect\nto the Data no less stringent than those contained herein."
+    },
+    {
+      "id": "4__dup__2",
+      "title": "4. Safeguards and Notification. The Receiving Party shall use appropriate safeg",
+      "text": "4. Safeguards and Notification. The Receiving Party shall use appropriate safeguards, but no less stringent\nsafeguards that Receiving Party employs to protect its own confidential and proprietary information\n(including without limitation with respect to encrypting identifying numbers, linking files, storing and\nretrieving files from secured locations) to prevent any unauthorized use or disclosure of the Data and shall\npromptly report to Disclosing Party any unauthorized use or disclosure of which Receiving Party becomes\naware. Such safeguards and protections shall be used by Receiving Party for all Data received from\nDisclosing Party. The above shall apply to any copies of the Data made by the Disclosing Party and kept at\ntheir premises. All PHI transferred or exchanged under this Agreement shall be done so in accordance with\nSchedule “B” herein. Receiving Party shall take appropriate care in the disposal or destruction of the\ninformation to prevent unauthorized parties from gaining access to it. The Parties shall make their employees\nand agents aware of the importance of maintaining the confidentiality of any collected or transferred PHI.\nThese obligations of confidentiality shall survive the expiration or earlier termination of this Agreement."
+    },
+    {
+      "id": "5__dup__2",
+      "title": "5. Contact with Subjects/Individuals. The Receiving Party shall not make conta",
+      "text": "5. Contact with Subjects/Individuals. The Receiving Party shall not make contact or attempt to make contact\nwith an individual or Study subject unless the Disclosing Party first obtains the individual’s consent or Study\nsubject’s consent to be contacted, except to the extent that the Receiving Party is otherwise the individual’s\nor Study subject’s health information custodian.\n3"
+    },
+    {
+      "id": "6__dup__2",
+      "title": "6. Intellectual Property/Ownership. Except as expressly provided herein, no ri",
+      "text": "6. Intellectual Property/Ownership. Except as expressly provided herein, no right, title or interest in and to\nthe Data is granted to the Receiving Party or implied hereunder. The Receiving Party hereby specifically\ndisclaims any right, title or interest of any kind whatsoever to the Data, results, and any discovery or\ninvention arising out of the Study (as applicable). Patient medical records shall remain at all times the\nproperty of the Disclosing Party."
+    },
+    {
+      "id": "7__dup__2",
+      "title": "7. Funding. Not Applicable",
+      "text": "7. Funding. Not Applicable"
+    },
+    {
+      "id": "8__dup__2",
+      "title": "8. Publication. Receiving Party shall have the right to use a) the analyzed, de",
+      "text": "8. Publication. Receiving Party shall have the right to use a) the analyzed, de-identified data derived from the\nuse of the Data; and b) information and results arising out of analysis of the Data, as part of a publication or\npresentation of the results of the Study. The Receiving Party shall not include any personally identifying\ninformation in any publication or presentation. Disclosing Party’s contribution to the Study shall be\nacknowledged appropriately in any such publication or presentation in accordance with academic standards.\nPrior written consent shall be obtained by the Disclosing Party before any such publication or presentation.\nAs applicable, Receiving Party agrees to share the Data and results arising from its analysis of the Data with\nDisclosing Party, which Disclosing Party may use for academic research, teaching and scientific and\nacademic publications purposes. The Parties agree that raw level Data may be published in accordance with\nfunding or publication requirements."
+    },
+    {
+      "id": "9__dup__2",
+      "title": "9. Obligations/Liability: Each party shall be responsible and assume liability",
+      "text": "9. Obligations/Liability: Each party shall be responsible and assume liability for any damage or loss to the\nextent that such damage or loss arises out of or as a result of its own negligence or willful misconduct or the\nnegligence or willful misconduct of those for whom in law it/he/she is responsible. No Party or its trustees,\ndirectors, officers, employees, and agents (the “First Party”) shall be liable to any other Party (the “Second\nParty”) for any costs, suits, or claims made by the Second Party or made against the Second Party except to\nthe extent caused by negligence or willful misconduct on the part of the First Party. The Parties shall\nmaintain reasonable insurance coverage for such liabilities. No Party shall be responsible for any lost profits,\nlost opportunities, or other indirect or consequential damages suffered by another Party."
+    },
+    {
+      "id": "10__dup__2",
+      "title": "10. General Terms and Conditions.",
+      "text": "10. General Terms and Conditions."
+    },
+    {
+      "id": "38",
+      "title": "a) Term: This Agreement shall become effective as of the Effective Date and sha",
+      "text": "a) Term: This Agreement shall become effective as of the Effective Date and shall expire upon termination\nor upon earlier completion of the Study. The term of this Agreement may be amended by an Amendment\nDocument, agreed to and signed by all Parties."
+    },
+    {
+      "id": "39",
+      "title": "b) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes",
+      "text": "b) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes no representations or\nwarranties, express or implied, with respect thereto. Receiving Party accepts that there are no\nrepresentations, warranties, conditions or liabilities expressed or implied herewith in relation to the Data by\nDisclosing Party or their respective trustees, directors, officers, affiliates, investigators, students, employees,\nservants, authorized representatives or agents."
+    },
+    {
+      "id": "40",
+      "title": "c) Assignment: This Agreement shall enure to the benefit of and be binding upon",
+      "text": "c) Assignment: This Agreement shall enure to the benefit of and be binding upon the Parties and their\nrespective successors and permitted assigns. No party shall be entitled to assign or transfer this Agreement\nor the rights and obligations hereunder to any third party without the prior written approval of the other\nParties."
+    },
+    {
+      "id": "41",
+      "title": "d) Entire Agreement: This Agreement including the attached Schedule(s) represe",
+      "text": "d) Entire Agreement: This Agreement including the attached Schedule(s) represents the entire Agreement\nbetween or among the Parties related to the Study and supersedes all previously or contemporaneously\nexecuted agreements related to the Study. If there are any conflicts between the terms of the Protocol and\nthe terms of this Agreement, the terms of the Protocol will govern with respect to scientific and medical\nmatters, and the terms of this Agreement will govern with respect to all other matters.\n4"
+    },
+    {
+      "id": "42",
+      "title": "e) Amendments: This Agreement shall not be amended, modified, varied or supple",
+      "text": "e) Amendments: This Agreement shall not be amended, modified, varied or supplemented except in writing\nsigned by each of the Parties."
+    },
+    {
+      "id": "43",
+      "title": "f) Delays: No failure or delay on the part of any party hereto to exercise any",
+      "text": "f) Delays: No failure or delay on the part of any party hereto to exercise any right or remedy under this\nAgreement shall be construed or operate as a waiver thereof."
+    },
+    {
+      "id": "44",
+      "title": "g) Independent Contractors: The Parties hereto are independent contractors. No",
+      "text": "g) Independent Contractors: The Parties hereto are independent contractors. Nothing contained herein shall\nbe deemed or construed to create between or among the Parties hereto a partnership or joint venture or\nemployment or principal-agent relationship. No party shall have the authority to act on behalf of any other\nparty or to bind another party in any manner."
+    },
+    {
+      "id": "45",
+      "title": "h) Use of Name/Symbols: No party shall use, or authorize others to use, the nam",
+      "text": "h) Use of Name/Symbols: No party shall use, or authorize others to use, the name, symbols, or marks of\nanother party hereto or its staff for any endorsement purposes without prior written approval from the party\nwhose name, symbols or marks are to be used."
+    },
+    {
+      "id": "46",
+      "title": "i) Governing Law: This Agreement shall be governed, construed and interpreted p",
+      "text": "i) Governing Law: This Agreement shall be governed, construed and interpreted pursuant to and in\naccordance with the laws of the Province of Ontario, and the laws of Canada applicable to the Province of\nOntario. The provincial or federal courts having jurisdiction in Canada shall have exclusive jurisdiction over\nall matters pertaining to this Agreement."
+    },
+    {
+      "id": "47",
+      "title": "j) Force Majeure Clause: Noncompliance by a party with the obligations of this",
+      "text": "j) Force Majeure Clause: Noncompliance by a party with the obligations of this Agreement due to force\nmajeure, including laws or regulations of any government, war, civil commotion, destruction of production\nfacilities and materials, fire, flood, earthquake or storm, labor disturbances, shortage of materials, disease,\nepidemic, public health crisis, failure of public utilities or common carriers, or any other causes beyond the\nreasonable control of the applicable party, shall not constitute breach of this Agreement and such party shall\nbe excused from performance hereunder to the extent and for the duration of such prevention, provided it\nfirst notifies the other Parties in writing of such prevention and that it uses reasonable efforts to cause the\nevent of the force majeure to terminate, be cured or otherwise ended."
+    },
+    {
+      "id": "48",
+      "title": "k) Counterparts: This Agreement may be executed by way of electronic signature",
+      "text": "k) Counterparts: This Agreement may be executed by way of electronic signature and in any number of\ncounterparts with the same effect as if all Parties had signed the same document. All of these counterparts\nwill for all purposes constitute one Agreement, binding on the Parties, notwithstanding that all Parties are\nnot signatories to the same counterpart. A faxed or emailed PDF copy or photocopy of this Agreement\nexecuted by a party in counterpart or otherwise will constitute a properly executed, delivered and binding\nagreement or counterpart of the executing party."
+    },
+    {
+      "id": "49",
+      "title": "l) Termination: The Parties may terminate this Agreement by providing thirty (3",
+      "text": "l) Termination: The Parties may terminate this Agreement by providing thirty (30) days prior written notice\nto the other Parties."
+    },
+    {
+      "id": "50",
+      "title": "m) Dispute Resolution: The Parties shall make reasonable efforts to amicably re",
+      "text": "m) Dispute Resolution: The Parties shall make reasonable efforts to amicably resolve any issues, claims,\ndisputes, controversy or inconsistencies involving this agreement or the protocol and to escalate the matter\nto senior management prior to the commencement of any legal proceedings."
+    },
+    {
+      "id": "51",
+      "title": "n) Third Party Beneficiaries: The Parties acknowledge that is a third party ben",
+      "text": "n) Third Party Beneficiaries: The Parties acknowledge that is a third party beneficiary\nto this Agreement with respect to any personal health information, as defined in PHIPA, that is disclosed\nby and as such may enforce any rights designated to in this Agreement.\nIN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed as follows:\n-(SIGNATURE PAGE FOLLOWS)-\n5"
+    },
+    {
+      "id": "S",
+      "title": "SCHEDULE “B”",
+      "text": "SCHEDULE “B”\nPRIVACY ADDENDUM FOR TRANSFER OF PHI"
+    },
+    {
+      "id": "1__dup__2",
+      "title": "1. Prevailing Terms. In case of a conflict between the terms of this Schedule “",
+      "text": "1. Prevailing Terms. In case of a conflict between the terms of this Schedule “B” and any other\nterms of this Agreement, the terms of this Schedule “B” shall prevail. Any undefined terms shall have the\nsame meaning as in the Agreement."
+    },
+    {
+      "id": "2__dup__2",
+      "title": "2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA",
+      "text": "2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA, a\n“health information custodian” and/or “agent” and has statutory obligations to safeguard its patients’ PHI."
+    },
+    {
+      "id": "3__dup__3",
+      "title": "3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving",
+      "text": "3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving Party may require\naccess to PHI from the DISCLOSING PARTY in the course of fulfilling its obligations under this\nAgreement. If the Receiving Party does obtain access to PHI while fulfilling the Agreement, the\nprovisions set in this Schedule “B” set out the obligations of the Receiving Party with respect to its\ncollection, use, disclosure, retention and disposal of such PHI."
+    },
+    {
+      "id": "4__dup__3",
+      "title": "4. Receiving Party obligations under PHIPA. The parties acknowledge and agree",
+      "text": "4. Receiving Party obligations under PHIPA. The parties acknowledge and agree that Receiving\nParty, when accessing PHI, and where applicable, does so solely with the explicit permission from the\nDISCLOSING PARTY’s Study Participants to enable the DISCLOSING PARTY to fulfill its obligations\nunder this Agreement. As such, the Receiving Party is a health information agent and is thus subject to all\nprovisions of and obligations under PHIPA."
+    },
+    {
+      "id": "5__dup__3",
+      "title": "5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING",
+      "text": "5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING PARTY for\nthe sole and exclusive purpose of fulfilling its obligations under this Agreement and in accordance with\nthe informed consent form, if applicable, and for no other purpose whatsoever."
+    },
+    {
+      "id": "6__dup__3",
+      "title": "6. Obligations not Conditional. The Receiving Party’s obligations under this S",
+      "text": "6. Obligations not Conditional. The Receiving Party’s obligations under this Schedule “B” stem\nfrom the obligations of both the DISCLOSING PARTY and the Receiving Party under PHIPA, and in\nlight of the foregoing, are not conditional on the DISCLOSING PARTY’s compliance with any of its\nobligations under this Agreement, including any obligation to pay the Receiving Party, provided that for\ngreater certainty these obligations shall only apply to the extent that the Receiving Party has custody or\ncontrol of personal information or PHI under this Agreement."
+    },
+    {
+      "id": "7__dup__3",
+      "title": "7. Receiving Party Personnel. For the purposes of these Information Privacy and",
+      "text": "7. Receiving Party Personnel. For the purposes of these Information Privacy and Security terms\nand conditions, “Personnel” includes Receiving Party’s investigators, employees, consultants,\nsubconsultants, and agents."
+    },
+    {
+      "id": "8__dup__3",
+      "title": "8. Training of Personnel. Receiving Party represents and warrants to the DISCL",
+      "text": "8. Training of Personnel. Receiving Party represents and warrants to the DISCLOSING PARTY\nthat it has provided training to its Personnel with respect to Receiving Party’s legal obligations respecting\npersonal information under all applicable privacy legislation and will provide reasonably sufficient\nadditional training with respect to Receiving Party’s specific obligations to protect PHI under this\nAgreement. Receiving Party shall ensure that its Personnel are aware of and agree in writing to be bound\nby the provisions relating to PHI that are set out in this Agreement."
+    },
+    {
+      "id": "9__dup__3",
+      "title": "9. Access by Personnel. Receiving Party shall give access to PHI only to those",
+      "text": "9. Access by Personnel. Receiving Party shall give access to PHI only to those members of its\nPersonnel who have a legitimate need to access the PHI in order to fulfill Receiving Party’s obligations\nunder this Agreement."
+    },
+    {
+      "id": "10__dup__3",
+      "title": "10. Removal of Personnel. In the event of a breach of these provisions by any o",
+      "text": "10. Removal of Personnel. In the event of a breach of these provisions by any of its Personnel, the\nDISCLOSING PARTY may require that personnel member to cease, and such member shall cease,\nproviding Service under this Agreement.\n8"
+    },
+    {
+      "id": "11__dup__2",
+      "title": "11. Compliance with Privacy Legislation. Receiving Party represents and warrant",
+      "text": "11. Compliance with Privacy Legislation. Receiving Party represents and warrants to the\nDISCLOSING PARTY that it:\na. has a privacy policy in compliance with applicable privacy legislation, addressing its practices\nrelating to the collection, use, disclosure, retention and disposal of personal information;\nb. shall monitor and enforce compliance with its own privacy policy;\nc. has an appointed privacy compliance officer who shall be given the responsibility for Receiving\nParty’s compliance with the terms and conditions under this Agreement; and\nd. has implemented effective administrative, technological and physical safeguards to stop theft,\nloss and unauthorized access, copying, modification, use, disclosure or disposal of personal\ninformation and that such safeguards are consistent with industry practice."
+    },
+    {
+      "id": "12__dup__2",
+      "title": "12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party a",
+      "text": "12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party access to or\notherwise disclose the PHI in a secure method approved by the DISCLOSING PARTY. Receiving Party\nstates that it shall only store the PHI provided by the DISCLOSING PARTY in a manner and location\napproved by the DISCLOSING PARTY. All PHI shall be stored in Canada."
+    },
+    {
+      "id": "13__dup__2",
+      "title": "13. Monitoring of its Activities. Receiving Party agrees that it shall monitor",
+      "text": "13. Monitoring of its Activities. Receiving Party agrees that it shall monitor its activities to ensure\nthat its Personnel are complying with the terms and conditions of this Agreement. In particular, Receiving\nParty shall monitor and report to DISCLOSING PARTY, upon the reasonable request of the\nDISCLOSING PARTY, Receiving Party‘s access, use and disclosure of PHI under this Agreement."
+    },
+    {
+      "id": "14__dup__2",
+      "title": "14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving",
+      "text": "14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving Party becomes\naware that PHI has been stolen or lost, or a person has obtained unauthorized access to PHI, or Receiving\nParty has used, disclosed or disposed of the PHI other than as contemplated in this Agreement, Receiving\nParty shall promptly notify the DISCLOSING PARTY’s contact as stipulated under the Agreement, and\nshall not otherwise disclose to any third party such circumstances without the prior written consent of the\nDISCLOSING PARTY except as required by law."
+    },
+    {
+      "id": "15__dup__2",
+      "title": "15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. T",
+      "text": "15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. The\nDISCLOSING PARTY may, upon reasonable notice, assess and review Receiving Party’s practices and\nprocedures for receiving and processing PHI under this Agreement, for the purposes of ensuring that the\nterms and conditions are being complied with. For these purposes, upon request Receiving Party shall\nprovide the DISCLOSING PARTY with reasonable access to the policies, procedures and protocols used\nfor purposes of fulfilling its obligations under this Agreement and any other documents that may be\nrelevant."
+    },
+    {
+      "id": "16__dup__2",
+      "title": "16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperat",
+      "text": "16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperate with any\nprivacy assessment or audit conducted by the DISCLOSING PARTY or any third party retained by the\nDISCLOSING PARTY."
+    },
+    {
+      "id": "17",
+      "title": "17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY",
+      "text": "17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY makes a\ncomplaint to Receiving Party in respect of Receiving Party’s compliance with this Agreement, the\nReceiving Party shall, within a commercially reasonable period of time from receipt of the complaint,\ninvestigate the matter and provide the DISCLOSING PARTY with an oral report stating the cause of the\ndeficiency, if any, and the steps taken to prevent a recurrence, if required. Within a further five business\ndays, Receiving Party shall provide the DISCLOSING PARTY with a written report documenting the\ncomplaint, investigation, deficiency, if any, and the steps taken to prevent a recurrence, if required.\n9"
+    },
+    {
+      "id": "18",
+      "title": "18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall",
+      "text": "18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall provide\nreasonable cooperation with the DISCLOSING PARTY in responding to any complaints about PHI that\nmay relate to Receiving Party’s obligations under this Agreement."
+    },
+    {
+      "id": "19__dup__2",
+      "title": "19. Survival. Receiving Party’s obligations with respect to PHI shall survive t",
+      "text": "19. Survival. Receiving Party’s obligations with respect to PHI shall survive the expiration or\ntermination of this Agreement for any reason.\n10"
+    }
+  ]
+}

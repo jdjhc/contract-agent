@@ -1,0 +1,12 @@
+{
+  "filename": "CDA example 3.pdf",
+  "predicted_type": "Confidential Disclosure Agreement",
+  "confidence": 0.98,
+  "rationale": "The document explicitly identifies itself as a 'Confidentiality Agreement' and includes detailed provisions about the handling, use, and protection of confidential information, which aligns directly with the definition of a Confidential Disclosure Agreement.",
+  "expected_hint": "Confidential Disclosure Agreement",
+  "name_match": true,
+  "wall_ms": 4048.1,
+  "source_text_chars": 6139,
+  "source_clauses": 30,
+  "merged_fragments": []
+}

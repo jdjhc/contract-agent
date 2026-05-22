@@ -1,0 +1,40 @@
+Ingesting 28 files  (LLM configured: True)
+Skipping 1 fragment file(s); merged into parents.
+Concurrency: 4  →  eval/reports/ingest_2026-05-22T07-20-31Z
+
+[ 1/28] OK  CDA example 3.pdf                                  chars=  6139  clauses= 30    9502ms
+[ 2/28] OK  CDA example 1.pdf                                  chars= 15674  clauses= 39   29694ms
+[ 3/28] OK  CDA example 2.pdf                                  chars=  9505  clauses= 19   33915ms
+[ 4/28] OK  Collaboration Agreement Example 1.pdf              chars= 26394  clauses= 40   40600ms
+[ 5/28] OK  Collaboration Agreement Example 2.pdf              chars=  5943  clauses= 38   35549ms
+[ 6/28] OK  Consultancy Services Agreement Example.pdf         chars= 56173  clauses= 41    6022ms
+[ 7/28] OK  Collaboration Agreement Example 4.pdf              chars= 42725  clauses= 40   37649ms
+[ 8/28] OK  Contract Example 1.pdf                             chars= 43299  clauses= 41   42721ms
+[ 9/28] OK  Collaboration Agreement Example 3.pdf              chars= 31877  clauses=125   60485ms
+[10/28] OK  Contract Example 2.pdf                             chars= 42436  clauses= 41   47161ms
+[11/28] OK  Contract Example 5.pdf                             chars= 47579  clauses= 71   24776ms
+[12/28] OK  Contract Example 3.pdf                             chars= 16600  clauses= 56   77057ms
+[13/28] OK  Data Transfer Agreement Example.pdf                chars= 19189  clauses= 41   53152ms
+[14/28] OK  Contract Example 4.pdf                             chars= 13249  clauses= 42   85079ms
+[15/28] OK  MTA Example 1.pdf                                  chars= 16058  clauses= 39   26181ms
+[16/28] OK  MTA Example 2.pdf                                  chars= 10312  clauses= 38   28068ms
+[17/28] OK  MTA Example 4.pdf                                  chars= 14027  clauses= 39   36758ms
+[18/28] OK  MTA Example 3.pdf                                  chars= 23780  clauses= 71   49900ms
+[19/28] OK  NDA example 1.pdf                                  chars=  9029  clauses= 14   31255ms
+[20/28] OK  NDA student work experience example 1.pdf          chars=  7878  clauses= 54   39282ms
+[21/28] OK  Service Provider Agreement Example.pdf             chars= 24297  clauses= 42    5390ms
+[22/28] OK  NDA student work experience example 2.pdf          chars= 11803  clauses= 78   57763ms
+[23/28] OK  Student Research Agreement Example 2.pdf           chars= 16839  clauses= 39    4911ms
+[24/28] OK  Contract for Goods and Services Example.pdf        chars=214952  clauses=213  214648ms
+[25/28] OK  Subcontract Example 1.pdf                          chars= 28062  clauses=187   17521ms
+[26/28] OK  Subcontract Example 2.pdf                          chars= 20314  clauses= 42   20940ms
+[27/28] OK  Student Research Agreement Example 1.pdf           chars= 33923  clauses= 40   64293ms
+[28/28] OK  Master Services Agreement Example 1 (1).pdf        chars=125618  clauses= 79  509534ms
+
+=== Ingest summary ===
+Files     : 28/28 OK (0 failed)
+Wall time : 705.7s
+Tokens    : 510,319
+Est. cost : $2.3290
+Checkpoints → eval/reports/ingest_2026-05-22T07-20-31Z
+Summary     → eval/reports/ingest_2026-05-22T07-20-31Z/summary.json

@@ -1,0 +1,12 @@
+{
+  "filename": "Contract Example 2.pdf",
+  "predicted_type": "Public Research Contract",
+  "confidence": 0.95,
+  "rationale": "The document references funding from MBIE (Ministry of Business, Innovation and Employment), which is a government entity, and includes obligations related to government policies and directives. This strongly indicates a Public Research Contract.",
+  "expected_hint": null,
+  "name_match": null,
+  "wall_ms": 5074.5,
+  "source_text_chars": 42436,
+  "source_clauses": 41,
+  "merged_fragments": []
+}

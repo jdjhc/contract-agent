@@ -1,0 +1,14 @@
+{
+  "filename": "Contract for Goods and Services Example.pdf",
+  "contract_type": "Provision of Services Agreement",
+  "flags_source": "augment",
+  "n_flags": 213,
+  "counts": {
+    "red": 8,
+    "amber": 55,
+    "green": 3,
+    "blue": 147
+  },
+  "summary": "The review of the \"Contract for Goods and Services Example.pdf\" indicates a moderate risk posture, with a significant number of clauses flagged for further review or escalation. Key issues include deviations from UoA's Preferred Contracting Positions on intellectual property, confidentiality, liability limitations, and termination rights, with several clauses requiring referral to Auckland UniServices Ltd or senior management for compliance confirmation. The next step is to escalate flagged clauses, particularly those marked amber or red, to the appropriate UoA stakeholders for resolution and alignment with institutional policies.",
+  "wall_ms": 10518.9
+}

@@ -1,0 +1,12 @@
+{
+  "filename": "MTA Example 3.pdf",
+  "predicted_type": "Data Transfer Agreement",
+  "confidence": 0.98,
+  "rationale": "The document is explicitly titled 'DATA TRANSFER AGREEMENT' and repeatedly references the transfer of data between parties for a study, including compliance with applicable laws and confidentiality obligations. The content aligns directly with the definition of a Data Transfer Agreement.",
+  "expected_hint": "Material Transfer Agreement",
+  "name_match": false,
+  "wall_ms": 3053.1,
+  "source_text_chars": 23780,
+  "source_clauses": 71,
+  "merged_fragments": []
+}

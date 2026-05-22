@@ -1,0 +1,14 @@
+{
+  "filename": "CDA example 2.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "flags_source": "augment",
+  "n_flags": 19,
+  "counts": {
+    "red": 4,
+    "amber": 6,
+    "green": 3,
+    "blue": 6
+  },
+  "summary": "The review of \"CDA example 2.pdf\" reveals a mixed risk posture, with several clauses aligning with UoA's Preferred Positions but others requiring significant attention. Key issues include the absence of critical confidentiality exclusions, overly broad definitions of confidential information, and deviations from the preferred confidentiality duration of 5 years post-completion. Immediate next steps should involve escalating flagged red and amber clauses to the Senior Manager, Research Grants and Contracts, for further review and potential renegotiation to ensure compliance with UoA's standards.",
+  "wall_ms": 5470.3
+}

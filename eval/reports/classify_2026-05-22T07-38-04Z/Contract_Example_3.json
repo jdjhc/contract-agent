@@ -1,0 +1,12 @@
+{
+  "filename": "Contract Example 3.pdf",
+  "predicted_type": "Provision of Services Agreement",
+  "confidence": 0.9,
+  "rationale": "The document primarily outlines terms for the provision of services by a contractor, including payment, confidentiality, intellectual property, and liability. While 'Research Subcontract' was suggested, there is no explicit mention of research-specific activities or subcontracting, making 'Provision of Services Agreement' a better fit.",
+  "expected_hint": null,
+  "name_match": null,
+  "wall_ms": 3009.9,
+  "source_text_chars": 16600,
+  "source_clauses": 56,
+  "merged_fragments": []
+}

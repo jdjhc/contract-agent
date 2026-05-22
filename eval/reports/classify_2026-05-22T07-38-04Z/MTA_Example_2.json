@@ -1,0 +1,12 @@
+{
+  "filename": "MTA Example 2.pdf",
+  "predicted_type": "Material Transfer Agreement",
+  "confidence": 0.98,
+  "rationale": "The document explicitly defines terms such as 'Provider,' 'Recipient,' 'Original Material,' and 'Material,' which are standard in Material Transfer Agreements. Additionally, the terms and conditions focus on the transfer, use, and ownership of biological or research materials, further confirming this classification.",
+  "expected_hint": "Material Transfer Agreement",
+  "name_match": true,
+  "wall_ms": 2995.6,
+  "source_text_chars": 10312,
+  "source_clauses": 38,
+  "merged_fragments": []
+}

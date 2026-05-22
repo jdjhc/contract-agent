@@ -1,0 +1,53 @@
+Classifying 28 checkpoints from eval/reports/ingest_2026-05-22T07-20-31Z
+Concurrency: 4  →  eval/reports/classify_2026-05-22T07-38-04Z
+
+[ 1/28]  ✓ CDA example 2.pdf                                   → Confidential Disclosure Agreement      conf=0.98   clauses=19
+[ 2/28]  ✓ Collaboration Agreement Example 1.pdf               → Collaboration Agreement                conf=0.95   clauses=40
+[ 3/28]  ✓ CDA example 3.pdf                                   → Confidential Disclosure Agreement      conf=0.98   clauses=30
+[ 4/28]  ✓ CDA example 1.pdf                                   → Confidential Disclosure Agreement      conf=0.98   clauses=39
+[ 5/28]  ✓ Collaboration Agreement Example 2.pdf               → Collaboration Agreement                conf=0.98   clauses=38
+[ 6/28]  ✓ Collaboration Agreement Example 3.pdf               → Collaboration Agreement                conf=0.99   clauses=125
+[ 7/28]  ✓ Consultancy Services Agreement Example.pdf          → Consultancy Services Agreement         conf=0.98   clauses=41
+[ 8/28]  ✓ Collaboration Agreement Example 4.pdf               → Collaboration Agreement                conf=0.95   clauses=40
+[ 9/28]    Contract Example 3.pdf                              → Provision of Services Agreement        conf=0.9    clauses=56
+[10/28]    Contract Example 1.pdf                              → Public Research Contract               conf=0.95   clauses=41
+[11/28]    Contract Example 2.pdf                              → Public Research Contract               conf=0.95   clauses=41
+[12/28]    Contract Example 4.pdf                              → Research Subcontract                   conf=0.95   clauses=42
+[13/28]  ✓ Contract for Goods and Services Example.pdf         → Provision of Services Agreement        conf=0.85   clauses=213
+[14/28]    Contract Example 5.pdf                              → Collaboration Agreement                conf=0.95   clauses=71
+[15/28]  ✓ MTA Example 1.pdf                                   → Material Transfer Agreement            conf=0.98   clauses=39
+[16/28]  ✓ Data Transfer Agreement Example.pdf                 → Data Transfer Agreement                conf=0.95   clauses=41
+[17/28]  ✓ MTA Example 2.pdf                                   → Material Transfer Agreement            conf=0.98   clauses=38
+[18/28] ✗  MTA Example 3.pdf                                   → Data Transfer Agreement                conf=0.98   clauses=71
+[19/28]  ✓ MTA Example 4.pdf                                   → Material Transfer Agreement            conf=1.0    clauses=39
+[20/28] ✗  Master Services Agreement Example 1 (1).pdf         → Provision of Services Agreement        conf=0.85   clauses=79
+[21/28]  ✓ NDA example 1.pdf                                   → Confidential Disclosure Agreement      conf=0.98   clauses=14
+[22/28]  ✓ NDA student work experience example 2.pdf           → Confidential Disclosure Agreement      conf=0.98   clauses=78
+[23/28] ✗  NDA student work experience example 1.pdf           → Student Research Agreement             conf=0.85   clauses=54
+[24/28]  ✓ Service Provider Agreement Example.pdf              → Provision of Services Agreement        conf=0.9    clauses=42
+[25/28]  ✓ Subcontract Example 1.pdf                           → Research Subcontract                   conf=0.9    clauses=187
+[26/28] ✗  Subcontract Example 2.pdf                           → Commercial Research Contract           conf=0.9    clauses=42
+[27/28]  ✓ Student Research Agreement Example 1.pdf            → Student Research Agreement             conf=0.99   clauses=40
+[28/28]  ✓ Student Research Agreement Example 2.pdf            → Student Research Agreement             conf=0.95   clauses=39
+
+=== Classify summary ===
+Files       : 28/28 OK (0 failed)
+Wall time   : 31.3s
+Name match  : 19/23  (filename-vs-prediction)
+
+Name-hint mismatches (4):
+  MTA Example 3.pdf
+    expected=Material Transfer Agreement
+    predicted=Data Transfer Agreement  (conf 0.98)
+  Master Services Agreement Example 1 (1).pdf
+    expected=Master Services Agreement
+    predicted=Provision of Services Agreement  (conf 0.85)
+  NDA student work experience example 1.pdf
+    expected=Confidential Disclosure Agreement
+    predicted=Student Research Agreement  (conf 0.85)
+  Subcontract Example 2.pdf
+    expected=Research Subcontract
+    predicted=Commercial Research Contract  (conf 0.9)
+
+Checkpoints → eval/reports/classify_2026-05-22T07-38-04Z
+Summary     → eval/reports/classify_2026-05-22T07-38-04Z/summary.json

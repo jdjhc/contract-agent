@@ -1,0 +1,14 @@
+{
+  "filename": "Data Transfer Agreement Example.pdf",
+  "contract_type": "Data Transfer Agreement",
+  "flags_source": "augment",
+  "n_flags": 41,
+  "counts": {
+    "red": 2,
+    "amber": 5,
+    "green": 0,
+    "blue": 34
+  },
+  "summary": "The review of the Data Transfer Agreement reveals a moderate to high-risk posture due to critical deficiencies in confidentiality and intellectual property clauses. The confidentiality provisions lack essential exclusions, duration specifications, and alignment with UoA Position #POS-11, while multiple intellectual property clauses require referral to Auckland UniServices Ltd for compliance with UoA Position #POS-IP. Immediate escalation to the Senior Manager, Research Grants and Contracts, and Auckland UniServices Ltd is recommended to address these flagged issues and ensure the agreement aligns with institutional policies.",
+  "wall_ms": 15229.9
+}

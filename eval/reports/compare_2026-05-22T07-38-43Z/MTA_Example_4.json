@@ -1,0 +1,327 @@
+{
+  "filename": "MTA Example 4.pdf",
+  "contract_type": "Material Transfer Agreement",
+  "n_clauses": 39,
+  "counts": {
+    "red": 2,
+    "amber": 9,
+    "green": 0,
+    "blue": 28
+  },
+  "n_flags": 39,
+  "wall_ms": 14.37,
+  "flags": [
+    {
+      "level": "blue",
+      "clause_id": "M",
+      "clause_title": "MATERIAL TRANSFER AGREEMENT (OUTGOING)",
+      "snippet": "MATERIAL TRANSFER AGREEMENT (OUTGOING) This Material Transfer Agreement (“Agreement”), effective the later of the two dates executed by the parties below (the “Effective Date”), is by and between [REDACTED], a non-profi…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NOW, THEREFORE, the Parties hereto agree as follows:",
+      "snippet": "NOW, THEREFORE, the Parties hereto agree as follows:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Provider is the owner of the Material as specified herein;",
+      "snippet": "Provider is the owner of the Material as specified herein;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Recipient is conducting research, described herein as the Research Project;",
+      "snippet": "Recipient is conducting research, described herein as the Research Project;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P__dup__2",
+      "clause_title": "Provider desires to supply, and Recipient desires to obtain, samples of the Mate",
+      "snippet": "Provider desires to supply, and Recipient desires to obtain, samples of the Material solely for use in the Research Project; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "N__dup__2",
+      "clause_title": "NOW THEREFORE, to protect proprietary interests with respect to the Material and",
+      "snippet": "NOW THEREFORE, to protect proprietary interests with respect to the Material and to ensure compliance with certain federal regulations, Provider agrees to provide Material to Recipient under the following terms and cond…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Definitions:",
+      "snippet": "Definitions:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "“Material” shall mean the Original Material, Progeny, and Unmodified Derivatives",
+      "snippet": "“Material” shall mean the Original Material, Progeny, and Unmodified Derivatives.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "“Modifications” shall mean substances created by Recipient that contain or",
+      "snippet": "“Modifications” shall mean substances created by Recipient that contain or incorporate the Material.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "“Original Material” shall mean heart tissue (including adipose heart tissue) sam",
+      "snippet": "“Original Material” shall mean heart tissue (including adipose heart tissue) samples.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "“Progeny” shall mean unmodified descendants from the Material, such as virus fro",
+      "snippet": "“Progeny” shall mean unmodified descendants from the Material, such as virus from virus, cell from cell, or organism from organism.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "“Provider Scientist” shall mean [REDACTED], a professor employed by [REDACTED]",
+      "snippet": "“Provider Scientist” shall mean [REDACTED], a professor employed by [REDACTED] University.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "“Recipient Scientist” shall mean [REDACTED], a professor employed by the Recipie",
+      "snippet": "“Recipient Scientist” shall mean [REDACTED], a professor employed by the Recipient.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "“Research Purposes” shall mean to study, perform tests, evaluate, copy, propagat",
+      "snippet": "“Research Purposes” shall mean to study, perform tests, evaluate, copy, propagate, and otherwise use Material for the internal Research Project.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "“Research Project” shall mean [REDACTED].",
+      "snippet": "“Research Project” shall mean [REDACTED].",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "“Results” means shall mean the data, results and other information created throu",
+      "snippet": "“Results” means shall mean the data, results and other information created through the course of the Research Project.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "“Unmodified Derivatives” shall mean substances created by Recipient which",
+      "snippet": "“Unmodified Derivatives” shall mean substances created by Recipient which constitute an unmodified functional subunit or an expression product of the Original Material including, but not limited to, subclones or unmodif…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "Terms and Conditions:",
+      "snippet": "Terms and Conditions:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Material. Upon request for the Materials by Recipient, the Materials shall be",
+      "snippet": "1. Material. Upon request for the Materials by Recipient, the Materials shall be provided by Provider to Recipient, subject to availability of such Materials. The availability of such Materials shall be determined solel…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. Material Ownership. Provider retains title to the Material and Recipient shal",
+      "snippet": "2. Material Ownership. Provider retains title to the Material and Recipient shall not obtain any ownership rights in the Material or to Progeny or Unmodified Derivatives. The Material is to be used by Recipient solely f…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R__dup__2",
+      "clause_title": "RECIPIENT IS ADVISED THAT PATENT CLAIMS MAY HAVE BEEN FILED CLAIMING",
+      "snippet": "RECIPIENT IS ADVISED THAT PATENT CLAIMS MAY HAVE BEEN FILED CLAIMING THE COMPOSITION AND METHODS OF USE OF THE MATERIAL, THAT RIGHTS TO SUCH CLAIMS MAY HAVE BEEN GRANTED TO THIRD PARTIES, AND THAT ANY USE OF THE MATERIA…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. Third Party Transfer. Recipient agrees not to transfer the Material to anyone",
+      "snippet": "3. Third Party Transfer. Recipient agrees not to transfer the Material to anyone who does not work under the direct supervision of the Recipient Scientist at the Recipient’s place of business.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "4",
+      "clause_title": "4. Confidential Information. The term “Confidential Information” shall include a",
+      "snippet": "4. Confidential Information. The term “Confidential Information” shall include all Materials disclosed by [redacted] to Recipient and any other technical and non-technical information, in whatever form embodied, which i…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "C",
+      "clause_title": "Confidential Information shall not include information which (a) is or becomes",
+      "snippet": "Confidential Information shall not include information which (a) is or becomes public knowledge through no breach of this Agreement by Recipient; (b) is lawfully disclosed to the Recipient by a third party without oblig…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "I",
+      "clause_title": "In the event that Recipient is required, pursuant to applicable law, regulation,",
+      "snippet": "In the event that Recipient is required, pursuant to applicable law, regulation, court order, or other legal process, to provide [redacted] Confidential Information, the Recipient will immediately notify [redacted] of s…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "T__dup__2",
+      "clause_title": "The Recipient's obligations regarding the Confidential Information received",
+      "snippet": "The Recipient's obligations regarding the Confidential Information received pursuant to this Agreement will survive for seven (7) years from the date of disclosure.",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. **No Additional Rights.** Except as expressly granted to Recipient in this",
+      "snippet": "5. **No Additional Rights.** Except as expressly granted to Recipient in this Agreement, no rights are provided to Recipient under any patent, patent application, trade secret, or other proprietary right of Provider. In…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6. **No Commercial Use.** Recipient agrees not to use the Material or Modificati",
+      "snippet": "6. **No Commercial Use.** Recipient agrees not to use the Material or Modifications for commercial purposes without Provider’s express written consent. Recipient recognizes that use of the Material or Modifications for …",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "7. **Notification of Results.** Recipient will inform Provider of any research o",
+      "snippet": "7. **Notification of Results.** Recipient will inform Provider of any research or experimental results related to the Principal Investigator’s use or evaluation of the Material, by providing Provider a manuscript or rep…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "8__dup__2",
+      "clause_title": "8. **Publication.** Recipient agrees to submit any publication or press release",
+      "snippet": "8. **Publication.** Recipient agrees to submit any publication or press release containing the Research Results, whether oral or written, to Provider for review at least thirty (30) days prior to submission of the publi…",
+      "rationale": "Touches the UoA-sensitive topic of Publicity; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Neither party can use names or brands of the other or their personnel without prior written consent. | Escalation: University Marketing (brand@auckland.ac.nz).",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "amber",
+      "clause_id": "9__dup__2",
+      "clause_title": "9. **Intellectual Property.** Recipient understands that, as between Recipient a",
+      "snippet": "9. **Intellectual Property.** Recipient understands that, as between Recipient and Provider, any and all proprietary rights, including but not limited to intellectual property rights in and to the Material shall be and …",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "red",
+      "clause_id": "10__dup__2",
+      "clause_title": "10. Disclaimer. It is acknowledged and agreed by Recipient, that any Material",
+      "snippet": "10. Disclaimer. It is acknowledged and agreed by Recipient, that any Material delivered pursuant to this Agreement is provided “as is”, understood to be experimental in nature, and may have hazardous properties. PROVIDE…",
+      "rationale": "Conflicts with UoA position on Warranties — detected pattern \"MERCHANTAB\". Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "red",
+      "clause_id": "11__dup__2",
+      "clause_title": "11. Liability. Provider will not be liable to Recipient for any loss, claim, or ",
+      "snippet": "11. Liability. Provider will not be liable to Recipient for any loss, claim, or demand made by Recipient, or made against Recipient by any other party, due to or arising from the use of the Material by Recipient. To the…",
+      "rationale": "Conflicts with UoA position on Liability Limitations and Exclusions — detected pattern \"hold harmless\". Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14__dup__2",
+      "clause_title": "14. Material Fee. The Material is provided without a fee. However, Recipient agr",
+      "snippet": "14. Material Fee. The Material is provided without a fee. However, Recipient agrees to pay all shipping and handling costs associated with the Material if requested by Provider.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "15__dup__2",
+      "clause_title": "15. Termination. This Agreement will terminate on the earliest of the following",
+      "snippet": "15. Termination. This Agreement will terminate on the earliest of the following dates: (a) with thirty (30) days written notice of termination by either party to the other party, or (b) five (5) years from the Effective…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "16__dup__2",
+      "clause_title": "16. Assignment. This Agreement shall not be assigned or otherwise transferred by",
+      "snippet": "16. Assignment. This Agreement shall not be assigned or otherwise transferred by either Party in whole or in part without the express written consent of the other Party.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17__dup__2",
+      "clause_title": "17. Export Controls. Recipient agrees not to provide [REDACTED] with any Materia",
+      "snippet": "17. Export Controls. Recipient agrees not to provide [REDACTED] with any Material that may be subject to export control laws and regulations without first informing [REDACTED] in writing prior to any such disclosure and…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "18",
+      "clause_title": "18. Governing Law and Venue. The validity, construction and performance of this",
+      "snippet": "18. Governing Law and Venue. The validity, construction and performance of this Agreement and the legal relations between the Parties to this Agreement shall be governed by and construed in accordance with the laws of t…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "19. Severability. If any provision of this Agreement or the application of such",
+      "snippet": "19. Severability. If any provision of this Agreement or the application of such provision is invalid under any applicable statute or rule of law, the remaining provisions of this Agreement shall remain in full force and…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "document_id": "CDA_example_2_pdf",
+  "filename": "CDA example 2.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "contract_type_confidence": 0.98,
+  "summary": "The review of \"CDA example 2.pdf\" reveals a mixed risk posture, with several clauses aligning with UoA's Preferred Positions but others requiring significant attention. Key issues include the absence of critical confidentiality exclusions, overly broad definitions of confidential information, and deviations from the preferred confidentiality duration of 5 years post-completion. Immediate next steps should involve escalating flagged red and amber clauses to the Senior Manager, Research Grants and Contracts, for further review and potential renegotiation to ensure compliance with UoA's standards.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "1",
+      "clause_title": "1. For the purpose of this Agreement, \"Confidential Information\" shall mean",
+      "snippet": "1. For the purpose of this Agreement, \"Confidential Information\" shall mean any and all information whether in oral, written, graphic or electronic form, including but not limited to, data, know-how and any and all subj…",
+      "rationale": "The clause defines 'Confidential Information' broadly but does not explicitly exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed, as required by UoA's Preferred Position (POS-11). Additionally, it does not address UoA's ability to disclose to agents and Affiliates or limit the duration of confidentiality obligations to 5–7 years post-completion. These omissions materially deviate from UoA's Preferred and Acceptable tiers, requiring escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "red",
+      "clause_id": "3",
+      "clause_title": "3. Neither Party shall disclose to any third party any Confidential Information",
+      "snippet": "3. Neither Party shall disclose to any third party any Confidential Information received from the Disclosing Party hereunder, except under the provisions of paragraph 5 of this Agreement. Upon discovery of any loss or unauthorized disclosure of Confidential Information, the discovering Party shall immediately notify the other Party.",
+      "rationale": "The clause does not align with UoA's Preferred or Acceptable positions on confidentiality. It lacks key exclusions for information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not specify a time limit for confidentiality obligations (e.g., 5–7 years post-termination/expiry). UoA must also retain the ability to disclose to agents and Affiliates, which is not addressed here. This clause requires escalation to the Senior Manager, Research Grants and Contracts for review and potential amendment.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "6. Confidential Information shall not be reproduced in any form except as requir",
+      "snippet": "6. Confidential Information shall not be reproduced in any form except as required to accomplish the intent of this Agreement. Any reproduction of any Confidential Information of the Disclosing Party by the Receiving Pa…",
+      "rationale": "The clause does not align with UoA Position #POS-11 on Confidentiality. It lacks key exclusions for information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not specify a time limit for confidentiality obligations (e.g., 5–7 years post-termination/expiry). These omissions fall outside both the Preferred and Acceptable tiers, requiring escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "red",
+      "clause_id": "11",
+      "clause_title": "11. The disclosure of Confidential Information under this Agreement may commence",
+      "snippet": "11. The disclosure of Confidential Information under this Agreement may commence as of the Effective Date, but shall terminate one (1) year thereafter; provided, however, the termination of such disclosures under this A…",
+      "rationale": "The clause primarily addresses the duration of confidentiality obligations, not termination of the agreement itself. However, it imposes a confidentiality period of only one year, which is significantly shorter than the UoA Preferred Position of up to 5 years post-completion (POS-11). This falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts for review and potential renegotiation.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2",
+      "clause_title": "2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information",
+      "snippet": "2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information from the other Party (the \"Disclosing Party\"), shall use such Confidential Information for the sole purpose of discussions between the Part…",
+      "rationale": "The clause addresses the use of Confidential Information but does not explicitly align with UoA's Preferred Position under POS-11. Specifically, it does not define exclusions for information already public, independently developed, previously known, or legally required to be disclosed. It also does not address UoA's ability to disclose to agents and Affiliates or specify a duration for confidentiality obligations. While it does not contradict UoA's Acceptable Position, it lacks sufficient detail to confirm compliance. Escalation to the Senior Manager, Research Grants and Contracts, is recommended for further review.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4",
+      "clause_title": "4. The Receiving Party shall only disseminate Confidential Information to those",
+      "snippet": "4. The Receiving Party shall only disseminate Confidential Information to those employees with a special need to know such Confidential Information. The Receiving Party hereby warrants that such employees shall be infor…",
+      "rationale": "The clause addresses the dissemination of Confidential Information, which is a UoA-sensitive topic under Position #POS-11. While it includes reasonable restrictions on dissemination to employees with a 'special need to know' and requires those employees to be bound by confidentiality obligations, it does not explicitly address UoA's preferred exclusions for public, independently developed, or previously known information, nor does it mention the ability to disclose to agents and Affiliates. Additionally, the clause does not specify a time limit for confidentiality obligations. These omissions place the clause in the Acceptable tier, as it does not fully align with the Preferred position but does not fall outside acceptable bounds. Escalation to the Senior Manager, Research Grants and Contracts, is recommended for further review.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7. The Receiving Party agrees, upon request, to promptly return or confirm in",
+      "snippet": "7. The Receiving Party agrees, upon request, to promptly return or confirm in writing it has destroyed all tangible items relating to Confidential Information of the Disclosing Party, including but not limited to, all m…",
+      "rationale": "The clause addresses the handling of Confidential Information, specifically the return or destruction of tangible items. While it aligns with the general principles of confidentiality, it does not explicitly address the UoA Preferred Position requirements, such as the exclusion of public, independently developed, or previously known information, or the ability for UoA to disclose to agents and Affiliates. Additionally, the clause does not specify a time limit for confidentiality obligations, which is a key aspect of the UoA Position. As such, it falls within the Acceptable tier but requires confirmation that the broader confidentiality obligations in the agreement align with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "8",
+      "clause_title": "8. Nothing in this Agreement shall be construed as granting any license or right",
+      "snippet": "8. Nothing in this Agreement shall be construed as granting any license or right under any patent or other intellectual property rights, or representing any commitment by either Party to enter into any additional agreem…",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA's Preferred Contracting Positions. All IP-related clauses must be referred to Auckland UniServices (Head of IP) for review, as per UoA Position #POS-IP. This clause does not fall into the Preferred or Acceptable tiers and requires further review by UniServices.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "14",
+      "clause_title": "14. This Agreement shall be construed in accordance with the laws of the Austral",
+      "snippet": "14. This Agreement shall be construed in accordance with the laws of the Australia. To evidence their agreement to the foregoing, the Parties have, through duly authorized representatives, executed this Agreement.",
+      "rationale": "The clause specifies that the governing law is 'the laws of the Australia,' which appears to be a typographical error. Assuming the intended governing law is Australia, this falls within the Acceptable tier of UoA Position #POS-16, which allows for Australia as an acceptable jurisdiction. However, the typographical error should be corrected to ensure clarity. Escalation to General Counsel is not required unless the intended jurisdiction is unclear or outside the Acceptable tier.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "W",
+      "clause_title": "WHEREAS, Organization and Company are the owners of Confidential Information",
+      "snippet": "WHEREAS, Organization and Company are the owners of Confidential Information (as defined below) pertaining to research, development, processes, products, materials, inventions, technology and/or business plans, which they each consider to be information of value.",
+      "rationale": "The clause touches on the topic of Confidentiality but does not provide sufficient detail to confirm alignment with UoA's Preferred or Acceptable positions. Specifically, it does not address exclusions for public information, independently developed information, or information legally required to be disclosed, nor does it specify a time limit for confidentiality obligations. These are key elements of UoA Position #POS-11. While the clause does not directly conflict with UoA's positions, it requires further review to ensure compliance.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "9. This Agreement shall constitute the entire understanding between the Parties",
+      "snippet": "9. This Agreement shall constitute the entire understanding between the Parties with respect to the subject matter hereof and may be modified only in writing signed by both Parties. If any provision of this Agreement is determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.",
+      "rationale": "The clause addresses the concept of an 'entire agreement' and severability, which are not covered by any UoA Preferred Contracting Positions or escalation protocols. As such, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "10. This Agreement, and rights and obligations hereunder, shall not be assigned",
+      "snippet": "10. This Agreement, and rights and obligations hereunder, shall not be assigned or transferred, directly or indirectly, in whole or in part, by either Party, without the prior written consent of both Parties, which cons…",
+      "rationale": "The clause addresses assignment and injunctive relief, which are not covered by any UoA Preferred Contracting Position or Standard Template. While the deterministic comparator flagged it under Governing Law and Jurisdiction (POS-16), this clause does not explicitly address jurisdiction or governing law. Therefore, it falls outside the scope of the Positions document and is marked as blue.",
+      "standard_ref": "Not covered by UoA Positions or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "12. All notices or reports permitted or required under this Agreement shall be i",
+      "snippet": "12. All notices or reports permitted or required under this Agreement shall be in writing and shall be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return r…",
+      "rationale": "The clause addresses the topic of notices and delivery methods, which is not covered in the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the policy framework and cannot be evaluated against a specific tier.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "E",
+      "clause_title": "Effective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-",
+      "snippet": "Effective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-Disclosure Agreement (\"Agreement\") is made and entered into by and between the UNIVERSITY OF AUCKLAND, a university constituted under the Uni…",
+      "rationale": "The clause is introductory and establishes the parties to the agreement, their legal identities, and the effective date. It does not address substantive confidentiality obligations or exclusions, which are the focus of UoA Position #POS-11. As such, this clause does not fall under any specific UoA Preferred Contracting Position or template, and no substantive evaluation can be made.",
+      "standard_ref": "Not covered by UoA Positions or template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NOW THEREFORE, in consideration of the mutual promises and covenants herein",
+      "snippet": "NOW THEREFORE, in consideration of the mutual promises and covenants herein contained, the receipt and sufficiency of which the Parties hereby acknowledge, Organization and Company agree as follows:",
+      "rationale": "The clause is a standard preamble or recital clause that establishes the mutual agreement of the parties. This topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "WHEREAS, Organization and Company intend to disclose to each other certain",
+      "snippet": "WHEREAS, Organization and Company intend to disclose to each other certain of such Confidential Information as they deem necessary in order to evaluate a potential business collaboration(s) of mutual interest.",
+      "rationale": "The clause is a preamble or recital describing the intent to exchange confidential information for evaluating a potential business collaboration. It does not define confidentiality obligations, exclusions, or duration, which are the substantive elements covered under UoA Position #POS-11. As such, this clause falls outside the scope of the UoA Preferred Contracting Positions and does not directly align with any specific policy or template. It is therefore flagged as blue for being outside the policy framework.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "green",
+      "clause_id": "5",
+      "clause_title": "5. The Receiving Party’s duties and obligations to protect Confidential Informat",
+      "snippet": "5. The Receiving Party’s duties and obligations to protect Confidential Information disclosed under this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years; provided, …",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It limits the confidentiality obligations to a period of five years post-termination/expiration, which matches the Preferred tier. Additionally, it includes exclusions for information that is public, independently developed, previously known, or legally required to be disclosed, which are consistent with the Preferred definition of confidential information. No escalation is required.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "green",
+      "clause_id": "13",
+      "clause_title": "13. Each Party represents and warrants that it has the authority to undertake th",
+      "snippet": "13. Each Party represents and warrants that it has the authority to undertake the obligations set forth in this Agreement without breaching or violating any contractual or statutory obligation owed to another.",
+      "rationale": "The clause aligns with UoA Position POS-10 on Warranties, which states that the University should warrant it has the authority to enter into the contract. This clause matches the preferred tier as it includes the required warranty of authority without introducing additional warranties.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "green",
+      "clause_id": "M",
+      "clause_title": "MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT",
+      "snippet": "MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT",
+      "rationale": "The clause aligns with UoA's preferred position on Confidentiality as outlined in UoA Position #POS-11. The title 'MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT' suggests compliance with the preferred definition of confidential information, including exclusions for public, independently developed, previously known, or legally required disclosures. It also implies adherence to the preferred duration of up to 5 years post-completion of the confidentiality period.",
+      "standard_ref": "UoA Position #POS-11"
+    }
+  ],
+  "counts": {
+    "green": 3,
+    "amber": 6,
+    "red": 4,
+    "blue": 6
+  },
+  "generated_at": "2026-05-22T07:42:54.672186+00:00",
+  "metrics": {
+    "n_calls": 4,
+    "input_tokens": 3988,
+    "output_tokens": 2047,
+    "total_tokens": 6035,
+    "latency_ms": 76109.1,
+    "total_cost_usd": 0.03044,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ]
+}

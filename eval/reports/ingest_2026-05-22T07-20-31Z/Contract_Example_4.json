@@ -1,0 +1,227 @@
+{
+  "filename": "Contract Example 4.pdf",
+  "merged_fragments": [],
+  "text_chars": 13249,
+  "n_clauses": 42,
+  "ingest_metrics": {
+    "n_calls": 3,
+    "input_tokens": 4227,
+    "output_tokens": 3499,
+    "latency_ms": 142370.6,
+    "total_cost_usd": 0.045558
+  },
+  "wall_ms": 85079.2,
+  "text": "**Conditions of Engagement**\n\n**1 Term**  \n1.1 Despite the date of signing, this Agreement shall commence on the Start Date and, unless terminated earlier, shall end on the End Date. The term may be extended for such further period(s) as is/are agreed in writing between the Contractor and the Subcontractor.  \n\n**2 Fees and Expenses**  \n2.1 Subject to the Subcontractor providing the Research and reports in accordance with this Agreement, the Contractor shall pay the Subcontractor the Fee provided it has received funds from the Funding Agency.  \n\n2.2 The Subcontractor shall provide invoices to the Contractor as specified in the SOW.  \n\n2.3 Payment shall be made by the Contractor to the Subcontractor within thirty (30) days from the date of receipt by the Contractor of invoice(s) issued by or on behalf of the Subcontractor, provided that the milestones associated with payment have been met to the satisfaction of the Contractor.  \n\n2.4 The Contractor shall be liable only for payments outlined in the SOW.  \n\n**3 Reporting**  \n3.1 The Subcontractor shall provide to the Contractor reports on the Research according to the frequency specified in the SOW.  \n\n**4 Key Personnel**  \n4.1 The parties agree that if the Subcontractor's Principal Investigator or Subcontractor's Key Personnel become unavailable for the time specified in the SOW, the parties will notify each other in a reasonable time and endeavor to agree on a suitably competent substitute.  \n\n4.2 Subject to clause 4.1, in the event that both parties, the Funding Agency, agree that no suitable substitute is available, this Agreement may be terminated by the Contractor.  \n\n**5 Intellectual Property**  \n5.1 For the purposes of this clause, \"Intellectual Property\" shall mean all rights in patents (registered or unregistered); registered designs, trademarks, applications and rights to apply for any of the foregoing; copyright and registered designs; rights in software; rights in databases and multimedia applications; rights in the layout of integrated circuits, trade names, logos, and other unregistered trademarks; rights in inventions, know-how, confidential information, trade secrets and technical information, whether physically recorded or not; all rights or forms of protection having equivalent or similar effect to any of the foregoing which may subsist anywhere in the world.  \n\n5.2 All Intellectual Property which is owned by or licensed to a party at the date of this Agreement (\"the Background IP\") shall remain that party's Intellectual Property. Where one party (\"First Party\") requires the use of the other party's (\"Second Party\") Background IP in order to fulfill its obligations under this Agreement, then the Second Party will grant to the First Party a royalty-free, irrevocable license to use its Background IP for the purposes of the Project.  \n\n5.3 The ownership of Intellectual Property developed by the Subcontractor pursuant to this Agreement shall vest in the Contractor (\"Foreground IP\").  \n\n5.4 Subject to clauses 8 and 9, the Contractor grants the Subcontractor a royalty-free, irrevocable, non-exclusive, and perpetual license to use the Foreground IP for academic research and educational purposes.  \n\n5.5 To the extent that the Subcontractor incorporates or uses Background IP for the Research, the Subcontractor hereby grants to the Contractor and the Funding Agency a royalty-free, irrevocable, non-exclusive, transferable, sub-licensable, worldwide, and perpetual license to use such Background IP solely for the purpose of:  \n   (a) using or commercially exploiting the Foreground IP; and  \n   (b) filing, prosecuting, maintaining, defending, or enforcing protective applications for the Foreground IP  \n\nprovided that this clause 5.5 shall not apply to any of the Subcontractor's Background IP set out in the SOW in respect of which a separate license will be required. Such license shall be negotiated by the parties in good faith on a commercial arms-length basis with a view to ensuring the Contractor's access to the Subcontractor's Background IP for use in commercially exploiting the Foreground IP.  \n\n5.6 The Subcontractor agrees that it shall do all things necessary to give effect to the Contractor's ownership of Foreground IP (including procuring an assignment of any invention or appropriate application to the Contractor and/or the Funding Agency (as the case may be) if required).  \n\n**6 Performance and Liability**  \n6.1 The Subcontractor agrees to exercise all reasonable skill, care, and diligence in the performance of work under this Agreement and such work shall be performed to standards which are in accordance with those generally accepted professional worldwide. The Subcontractor will also apply and abide by any ethical approvals and obligations as notified by the Contractor.  \n\n6.2 The maximum aggregate liability of the Subcontractor to the Contractor relating to this Agreement is limited to an amount equal to the total amount paid by the Contractor to the Subcontractor under this Agreement up to the date of the first event giving rise to liability.  \n\n6.3 Neither party shall be liable for any loss of profit, loss of business, or consequential loss of the other party, howsoever caused.  \n\n6.4 The Subcontractor agrees to provide reasonable access and information to the Contractor or its authorized agents to allow the Contractor to monitor the Research and to establish to the Contractor's satisfaction that the Subcontractor is complying with the terms and conditions of this Agreement.  \n\n**7 Termination**  \n7.1 This Agreement may be terminated by either party on notice in writing to the other party if such other party is in breach of any condition of this Agreement and does not remedy the breach within thirty (30) days from the date of service of a notice in writing specifying the breach and requiring its remedy. Upon termination of this Agreement, the Subcontractor shall cease all work and, in accordance with clause 2, the Contractor shall pay the Subcontractor for all Research undertaken in accordance with this Agreement prior to the date of termination.  \n\n7.2 In the event that the Funding Agency terminates its agreement with the Contractor, then the Contractor shall also be entitled to terminate its relationship with the Subcontractor by giving notice to the Subcontractor.  \n\n**8 Confidentiality**  \n8.1 Subject to clause 9.1 and any obligations imposed on the Contractor by the Funding Agency, the parties agree that they will each keep secret and confidential the terms of this Agreement and all information of a secret, confidential, or proprietary nature concerning the business or affairs of the other firm and which may come into their knowledge as a result of performance under this Agreement, including the results of the Research.  \n\n8.2 Each party further undertakes that it will restrict access to the terms of this Agreement or other such information to their respective organizations on a strictly 'need to know' basis and will not make use, or seek to make use, of the existence of the terms of this Agreement or other such information, except for the purposes of this Agreement.  \n\n8.3 The obligation of confidentiality shall not, however, apply to information that:  \n   (a) is already known to the party to which it was disclosed;  \n\n---\n\n*Research Subcontract Version 1 May 2018*  \n*Page 2 of 7*\n\n```\n(c) is in, or becomes, part of the public domain without a breach of this Agreement;\n(d) is obtained from third parties which have no obligation to keep confidential to the contracting parties;\n(e) is agreed in writing between the parties not to be confidential; or\n(f) is required to be disclosed by law.\n\n9 Publication  \n9.1 Subject to compliance with the Analysis and Publication clauses in the head agreement between the Contractor and the Funding Agency signed on or about this date, The Subcontractor’s Principal Investigator and/or Key Personnel shall have the authority to publish the results of the Research and/or give addresses or present papers based upon the outputs of the Research at professional meetings.  \n9.2 Authorship of such publications will be determined in accordance with guidelines published by ICMJE.  \n9.3 Such publications will carry an acknowledgment of the Funding Agency’s support in the following form: “This research was supported (in part) by a contract from the named Funding Agency.”\n\n10 Publicity  \n10.1 Neither party will use the name or logo of the other party or the names of any staff or employees of the other party in relation to this Agreement, or in any endorsement, without the prior written permission of the other party. Consent shall not be unreasonably withheld.\n\n11 Insurance  \n11.1 The Subcontractor warrants that it has taken out or will take out, and shall maintain, all the relevant types and amounts of insurance cover to meet any and all of the Subcontractor’s obligations under this Agreement.\n\n12 Partnership or Agency  \n12.1 Nothing in this Agreement creates, or is intended to create, a partnership, agency, employer/employee, trust, or joint venture relationship between the parties.\n\n13 Amendments  \n13.1 All amendments to this Agreement must be in writing and signed by duly authorised representatives of each party.\n\n14 No Waiver  \n14.1 No waiver of any provision of this Agreement will serve as a waiver of any other provision, or as a continuing waiver, and the Contractor will not have waived or be deemed to have waived any provision(s) of this Agreement unless such waiver is in writing.\n\n15 Assignment  \n15.1 The Subcontractor shall not assign, transfer or sub-contract any of its rights or obligations under this Agreement without the prior written consent of the Contractor and, if required, the Funding Agency.\n\n16 Force Majeure  \n16.1 Neither party shall be responsible for any failure or delay in complying with the terms of this Agreement where such failure or delay results from events beyond its reasonable control. The frustrated party is to resume its obligations under this Agreement as soon as reasonably can after the force majeure event ceases. If such force majeure is not remedied within thirty (30) business days of its initial occurrence the other party may terminate this Agreement with immediate effect on written notice to the frustrated party.\n\n17 Dispute Resolution  \n17.1 If a dispute arising out of this Agreement occurs between the parties, then the parties will in good faith try to resolve that dispute. If the dispute is not resolved within ten (10) working days from the date the dispute was advised in writing then the dispute will be referred to each party’s nominee, who shall negotiate in order to achieve an acceptable resolution. If no resolution can be reached within a further ten (10) working days then the parties will mediate, using a Mediator appointed by the President of the New Zealand Law Society (“the Mediator”). The Mediation agreement will be final and binding on the parties.  \n17.2 In the event that the Contractor is involved in a dispute with the Funding Agency that results in arbitration being invoked by the Funding Agency or the Contractor as the dispute resolution process, then the Subcontractor agrees to participate in such arbitration process if required by the Contractor and/or the Funding Agency.  \n17.3 Nothing in this Agreement shall prevent either party, at any time, from seeking any urgent interlocutory relief from a court of competent jurisdiction as referred to in clause 22 in relation to any matter that arises under this Agreement.\n\n18 Notices  \n18.1 Notices under this Agreement shall be in writing and may be delivered by hand, sent by prepaid post or transmitted by facsimile, by one party to the other at the address showing on the attached SOW or such other address as notified in writing.  \n18.2 Notices are deemed served at the following times:  \n(a) when sent by post, three (3) business days after posting;  \n(b) when sent by registered mail or courier, upon delivery; or  \n(c) when sent by facsimile, upon receipt of the correct answerback or receipt code; and  \n(d) any notice received after 5:00 pm is deemed served on the next business day.\n\n19 Survival  \n19.1 Neither the termination nor expiry of this Agreement, nor the end of the Project, will affect the following clauses that will endure: clauses 3, 5, 6, 8, 9, 17.\n\n20 Severability  \n20.1 If any provision of this Agreement is found to be illegal, invalid or unenforceable, that provision shall be read down to the extent necessary and reasonable in the circumstances to give it a valid operation or partial character. If any provision cannot be so read down, that provision will be void and severable and the remaining provisions will not in any way be affected.\n\n21 Variations to Conditions of Engagement  \n21.1 These Conditions of Engagement will be read subject to any variations specified in the part of the Statement of Work entitled “Variation to Conditions of Engagement”.\n\n22 Law and Jurisdiction  \n22.1 The validity, construction and performance of this Agreement shall be governed by New Zealand law and shall be subject to the non-exclusive jurisdiction of the New Zealand courts to which the parties hereby submit.\n```",
+  "clauses": [
+    {
+      "id": "1.1",
+      "title": "1.1 Despite the date of signing, this Agreement shall commence on the Start",
+      "text": "1.1 Despite the date of signing, this Agreement shall commence on the Start Date and, unless terminated earlier, shall end on the End Date. The term may be extended for such further period(s) as is/are agreed in writing between the Contractor and the Subcontractor.  \n\n**2 Fees and Expenses**"
+    },
+    {
+      "id": "2.1",
+      "title": "2.1 Subject to the Subcontractor providing the Research and reports in accor",
+      "text": "2.1 Subject to the Subcontractor providing the Research and reports in accordance with this Agreement, the Contractor shall pay the Subcontractor the Fee provided it has received funds from the Funding Agency."
+    },
+    {
+      "id": "2.2",
+      "title": "2.2 The Subcontractor shall provide invoices to the Contractor as specified",
+      "text": "2.2 The Subcontractor shall provide invoices to the Contractor as specified in the SOW."
+    },
+    {
+      "id": "2.3",
+      "title": "2.3 Payment shall be made by the Contractor to the Subcontractor within thi",
+      "text": "2.3 Payment shall be made by the Contractor to the Subcontractor within thirty (30) days from the date of receipt by the Contractor of invoice(s) issued by or on behalf of the Subcontractor, provided that the milestones associated with payment have been met to the satisfaction of the Contractor."
+    },
+    {
+      "id": "2.4",
+      "title": "2.4 The Contractor shall be liable only for payments outlined in the SOW.",
+      "text": "2.4 The Contractor shall be liable only for payments outlined in the SOW.  \n\n**3 Reporting**"
+    },
+    {
+      "id": "3.1",
+      "title": "3.1 The Subcontractor shall provide to the Contractor reports on the Resear",
+      "text": "3.1 The Subcontractor shall provide to the Contractor reports on the Research according to the frequency specified in the SOW.  \n\n**4 Key Personnel**"
+    },
+    {
+      "id": "4.1",
+      "title": "4.1 The parties agree that if the Subcontractor's Principal Investigator or",
+      "text": "4.1 The parties agree that if the Subcontractor's Principal Investigator or Subcontractor's Key Personnel become unavailable for the time specified in the SOW, the parties will notify each other in a reasonable time and endeavor to agree on a suitably competent substitute."
+    },
+    {
+      "id": "4.2",
+      "title": "4.2 Subject to clause 4.1, in the event that both parties, the Funding Agen",
+      "text": "4.2 Subject to clause 4.1, in the event that both parties, the Funding Agency, agree that no suitable substitute is available, this Agreement may be terminated by the Contractor.  \n\n**5 Intellectual Property**"
+    },
+    {
+      "id": "5.1",
+      "title": "5.1 For the purposes of this clause, \"Intellectual Property\" shall mean al",
+      "text": "5.1 For the purposes of this clause, \"Intellectual Property\" shall mean all rights in patents (registered or unregistered); registered designs, trademarks, applications and rights to apply for any of the foregoing; copyright and registered designs; rights in software; rights in databases and multimedia applications; rights in the layout of integrated circuits, trade names, logos, and other unregistered trademarks; rights in inventions, know-how, confidential information, trade secrets and technical information, whether physically recorded or not; all rights or forms of protection having equivalent or similar effect to any of the foregoing which may subsist anywhere in the world."
+    },
+    {
+      "id": "5.2",
+      "title": "5.2 All Intellectual Property which is owned by or licensed to a party at t",
+      "text": "5.2 All Intellectual Property which is owned by or licensed to a party at the date of this Agreement (\"the Background IP\") shall remain that party's Intellectual Property. Where one party (\"First Party\") requires the use of the other party's (\"Second Party\") Background IP in order to fulfill its obligations under this Agreement, then the Second Party will grant to the First Party a royalty-free, irrevocable license to use its Background IP for the purposes of the Project."
+    },
+    {
+      "id": "5.3",
+      "title": "5.3 The ownership of Intellectual Property developed by the Subcontractor p",
+      "text": "5.3 The ownership of Intellectual Property developed by the Subcontractor pursuant to this Agreement shall vest in the Contractor (\"Foreground IP\")."
+    },
+    {
+      "id": "5.4",
+      "title": "5.4 Subject to clauses 8 and 9, the Contractor grants the Subcontractor a r",
+      "text": "5.4 Subject to clauses 8 and 9, the Contractor grants the Subcontractor a royalty-free, irrevocable, non-exclusive, and perpetual license to use the Foreground IP for academic research and educational purposes."
+    },
+    {
+      "id": "5.5",
+      "title": "5.5 To the extent that the Subcontractor incorporates or uses Background IP",
+      "text": "5.5 To the extent that the Subcontractor incorporates or uses Background IP for the Research, the Subcontractor hereby grants to the Contractor and the Funding Agency a royalty-free, irrevocable, non-exclusive, transferable, sub-licensable, worldwide, and perpetual license to use such Background IP solely for the purpose of:  \n   (a) using or commercially exploiting the Foreground IP; and  \n   (b) filing, prosecuting, maintaining, defending, or enforcing protective applications for the Foreground IP  \n\nprovided that this clause 5.5 shall not apply to any of the Subcontractor's Background IP set out in the SOW in respect of which a separate license will be required. Such license shall be negotiated by the parties in good faith on a commercial arms-length basis with a view to ensuring the Contractor's access to the Subcontractor's Background IP for use in commercially exploiting the Foreground IP."
+    },
+    {
+      "id": "5.6",
+      "title": "5.6 The Subcontractor agrees that it shall do all things necessary to give",
+      "text": "5.6 The Subcontractor agrees that it shall do all things necessary to give effect to the Contractor's ownership of Foreground IP (including procuring an assignment of any invention or appropriate application to the Contractor and/or the Funding Agency (as the case may be) if required).  \n\n**6 Performance and Liability**"
+    },
+    {
+      "id": "6.1",
+      "title": "6.1 The Subcontractor agrees to exercise all reasonable skill, care, and di",
+      "text": "6.1 The Subcontractor agrees to exercise all reasonable skill, care, and diligence in the performance of work under this Agreement and such work shall be performed to standards which are in accordance with those generally accepted professional worldwide. The Subcontractor will also apply and abide by any ethical approvals and obligations as notified by the Contractor."
+    },
+    {
+      "id": "6.2",
+      "title": "6.2 The maximum aggregate liability of the Subcontractor to the Contractor",
+      "text": "6.2 The maximum aggregate liability of the Subcontractor to the Contractor relating to this Agreement is limited to an amount equal to the total amount paid by the Contractor to the Subcontractor under this Agreement up to the date of the first event giving rise to liability."
+    },
+    {
+      "id": "6.3",
+      "title": "6.3 Neither party shall be liable for any loss of profit, loss of business,",
+      "text": "6.3 Neither party shall be liable for any loss of profit, loss of business, or consequential loss of the other party, howsoever caused."
+    },
+    {
+      "id": "6.4",
+      "title": "6.4 The Subcontractor agrees to provide reasonable access and information t",
+      "text": "6.4 The Subcontractor agrees to provide reasonable access and information to the Contractor or its authorized agents to allow the Contractor to monitor the Research and to establish to the Contractor's satisfaction that the Subcontractor is complying with the terms and conditions of this Agreement.  \n\n**7 Termination**"
+    },
+    {
+      "id": "7.1",
+      "title": "7.1 This Agreement may be terminated by either party on notice in writing t",
+      "text": "7.1 This Agreement may be terminated by either party on notice in writing to the other party if such other party is in breach of any condition of this Agreement and does not remedy the breach within thirty (30) days from the date of service of a notice in writing specifying the breach and requiring its remedy. Upon termination of this Agreement, the Subcontractor shall cease all work and, in accordance with clause 2, the Contractor shall pay the Subcontractor for all Research undertaken in accordance with this Agreement prior to the date of termination."
+    },
+    {
+      "id": "7.2",
+      "title": "7.2 In the event that the Funding Agency terminates its agreement with the",
+      "text": "7.2 In the event that the Funding Agency terminates its agreement with the Contractor, then the Contractor shall also be entitled to terminate its relationship with the Subcontractor by giving notice to the Subcontractor.  \n\n**8 Confidentiality**"
+    },
+    {
+      "id": "8.1",
+      "title": "8.1 Subject to clause 9.1 and any obligations imposed on the Contractor by",
+      "text": "8.1 Subject to clause 9.1 and any obligations imposed on the Contractor by the Funding Agency, the parties agree that they will each keep secret and confidential the terms of this Agreement and all information of a secret, confidential, or proprietary nature concerning the business or affairs of the other firm and which may come into their knowledge as a result of performance under this Agreement, including the results of the Research."
+    },
+    {
+      "id": "8.2",
+      "title": "8.2 Each party further undertakes that it will restrict access to the terms",
+      "text": "8.2 Each party further undertakes that it will restrict access to the terms of this Agreement or other such information to their respective organizations on a strictly 'need to know' basis and will not make use, or seek to make use, of the existence of the terms of this Agreement or other such information, except for the purposes of this Agreement."
+    },
+    {
+      "id": "8.3",
+      "title": "8.3 The obligation of confidentiality shall not, however, apply to informat",
+      "text": "8.3 The obligation of confidentiality shall not, however, apply to information that:  \n   (a) is already known to the party to which it was disclosed;  \n\n---\n\n*Research Subcontract Version 1 May 2018*  \n*Page 2 of 7*\n\n```\n(c) is in, or becomes, part of the public domain without a breach of this Agreement;\n(d) is obtained from third parties which have no obligation to keep confidential to the contracting parties;\n(e) is agreed in writing between the parties not to be confidential; or\n(f) is required to be disclosed by law.\n\n9 Publication"
+    },
+    {
+      "id": "9.1",
+      "title": "9.1 Subject to compliance with the Analysis and Publication clauses in the",
+      "text": "9.1 Subject to compliance with the Analysis and Publication clauses in the head agreement between the Contractor and the Funding Agency signed on or about this date, The Subcontractor’s Principal Investigator and/or Key Personnel shall have the authority to publish the results of the Research and/or give addresses or present papers based upon the outputs of the Research at professional meetings."
+    },
+    {
+      "id": "9.2",
+      "title": "9.2 Authorship of such publications will be determined in accordance with g",
+      "text": "9.2 Authorship of such publications will be determined in accordance with guidelines published by ICMJE."
+    },
+    {
+      "id": "9.3",
+      "title": "9.3 Such publications will carry an acknowledgment of the Funding Agency’s",
+      "text": "9.3 Such publications will carry an acknowledgment of the Funding Agency’s support in the following form: “This research was supported (in part) by a contract from the named Funding Agency.”\n\n10 Publicity"
+    },
+    {
+      "id": "10.1",
+      "title": "10.1 Neither party will use the name or logo of the other party or the name",
+      "text": "10.1 Neither party will use the name or logo of the other party or the names of any staff or employees of the other party in relation to this Agreement, or in any endorsement, without the prior written permission of the other party. Consent shall not be unreasonably withheld.\n\n11 Insurance"
+    },
+    {
+      "id": "11.1",
+      "title": "11.1 The Subcontractor warrants that it has taken out or will take out, and",
+      "text": "11.1 The Subcontractor warrants that it has taken out or will take out, and shall maintain, all the relevant types and amounts of insurance cover to meet any and all of the Subcontractor’s obligations under this Agreement.\n\n12 Partnership or Agency"
+    },
+    {
+      "id": "12.1",
+      "title": "12.1 Nothing in this Agreement creates, or is intended to create, a partner",
+      "text": "12.1 Nothing in this Agreement creates, or is intended to create, a partnership, agency, employer/employee, trust, or joint venture relationship between the parties.\n\n13 Amendments"
+    },
+    {
+      "id": "13.1",
+      "title": "13.1 All amendments to this Agreement must be in writing and signed by duly",
+      "text": "13.1 All amendments to this Agreement must be in writing and signed by duly authorised representatives of each party.\n\n14 No Waiver"
+    },
+    {
+      "id": "14.1",
+      "title": "14.1 No waiver of any provision of this Agreement will serve as a waiver of",
+      "text": "14.1 No waiver of any provision of this Agreement will serve as a waiver of any other provision, or as a continuing waiver, and the Contractor will not have waived or be deemed to have waived any provision(s) of this Agreement unless such waiver is in writing.\n\n15 Assignment"
+    },
+    {
+      "id": "15.1",
+      "title": "15.1 The Subcontractor shall not assign, transfer or sub-contract any of it",
+      "text": "15.1 The Subcontractor shall not assign, transfer or sub-contract any of its rights or obligations under this Agreement without the prior written consent of the Contractor and, if required, the Funding Agency.\n\n16 Force Majeure"
+    },
+    {
+      "id": "16.1",
+      "title": "16.1 Neither party shall be responsible for any failure or delay in complyi",
+      "text": "16.1 Neither party shall be responsible for any failure or delay in complying with the terms of this Agreement where such failure or delay results from events beyond its reasonable control. The frustrated party is to resume its obligations under this Agreement as soon as reasonably can after the force majeure event ceases. If such force majeure is not remedied within thirty (30) business days of its initial occurrence the other party may terminate this Agreement with immediate effect on written notice to the frustrated party.\n\n17 Dispute Resolution"
+    },
+    {
+      "id": "17.1",
+      "title": "17.1 If a dispute arising out of this Agreement occurs between the parties,",
+      "text": "17.1 If a dispute arising out of this Agreement occurs between the parties, then the parties will in good faith try to resolve that dispute. If the dispute is not resolved within ten (10) working days from the date the dispute was advised in writing then the dispute will be referred to each party’s nominee, who shall negotiate in order to achieve an acceptable resolution. If no resolution can be reached within a further ten (10) working days then the parties will mediate, using a Mediator appointed by the President of the New Zealand Law Society (“the Mediator”). The Mediation agreement will be final and binding on the parties."
+    },
+    {
+      "id": "17.2",
+      "title": "17.2 In the event that the Contractor is involved in a dispute with the Fun",
+      "text": "17.2 In the event that the Contractor is involved in a dispute with the Funding Agency that results in arbitration being invoked by the Funding Agency or the Contractor as the dispute resolution process, then the Subcontractor agrees to participate in such arbitration process if required by the Contractor and/or the Funding Agency."
+    },
+    {
+      "id": "17.3",
+      "title": "17.3 Nothing in this Agreement shall prevent either party, at any time, fro",
+      "text": "17.3 Nothing in this Agreement shall prevent either party, at any time, from seeking any urgent interlocutory relief from a court of competent jurisdiction as referred to in clause 22 in relation to any matter that arises under this Agreement.\n\n18 Notices"
+    },
+    {
+      "id": "18.1",
+      "title": "18.1 Notices under this Agreement shall be in writing and may be delivered",
+      "text": "18.1 Notices under this Agreement shall be in writing and may be delivered by hand, sent by prepaid post or transmitted by facsimile, by one party to the other at the address showing on the attached SOW or such other address as notified in writing."
+    },
+    {
+      "id": "18.2",
+      "title": "18.2 Notices are deemed served at the following times:",
+      "text": "18.2 Notices are deemed served at the following times:  \n(a) when sent by post, three (3) business days after posting;  \n(b) when sent by registered mail or courier, upon delivery; or  \n(c) when sent by facsimile, upon receipt of the correct answerback or receipt code; and  \n(d) any notice received after 5:00 pm is deemed served on the next business day.\n\n19 Survival"
+    },
+    {
+      "id": "19.1",
+      "title": "19.1 Neither the termination nor expiry of this Agreement, nor the end of t",
+      "text": "19.1 Neither the termination nor expiry of this Agreement, nor the end of the Project, will affect the following clauses that will endure: clauses 3, 5, 6, 8, 9, 17.\n\n20 Severability"
+    },
+    {
+      "id": "20.1",
+      "title": "20.1 If any provision of this Agreement is found to be illegal, invalid or",
+      "text": "20.1 If any provision of this Agreement is found to be illegal, invalid or unenforceable, that provision shall be read down to the extent necessary and reasonable in the circumstances to give it a valid operation or partial character. If any provision cannot be so read down, that provision will be void and severable and the remaining provisions will not in any way be affected.\n\n21 Variations to Conditions of Engagement"
+    },
+    {
+      "id": "21.1",
+      "title": "21.1 These Conditions of Engagement will be read subject to any variations",
+      "text": "21.1 These Conditions of Engagement will be read subject to any variations specified in the part of the Statement of Work entitled “Variation to Conditions of Engagement”.\n\n22 Law and Jurisdiction"
+    },
+    {
+      "id": "22.1",
+      "title": "22.1 The validity, construction and performance of this Agreement shall be",
+      "text": "22.1 The validity, construction and performance of this Agreement shall be governed by New Zealand law and shall be subject to the non-exclusive jurisdiction of the New Zealand courts to which the parties hereby submit.\n```"
+    }
+  ]
+}

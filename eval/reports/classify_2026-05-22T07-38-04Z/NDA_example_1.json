@@ -1,0 +1,12 @@
+{
+  "filename": "NDA example 1.pdf",
+  "predicted_type": "Confidential Disclosure Agreement",
+  "confidence": 0.98,
+  "rationale": "The document is explicitly titled 'Mutual Confidentiality and Non-Disclosure Agreement' and repeatedly emphasizes the exchange and protection of confidential information between the parties. The purpose and terms align directly with the definition of a Confidential Disclosure Agreement.",
+  "expected_hint": "Confidential Disclosure Agreement",
+  "name_match": true,
+  "wall_ms": 3970.8,
+  "source_text_chars": 9029,
+  "source_clauses": 14,
+  "merged_fragments": []
+}

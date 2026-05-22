@@ -1,0 +1,651 @@
+{
+  "filename": "Student Research Agreement Example 2.pdf",
+  "contract_type": "Student Research Agreement",
+  "n_seed_flags": 39,
+  "n_augmented_flags": 39,
+  "seed_counts": {
+    "red": 1,
+    "amber": 18,
+    "green": 0,
+    "blue": 20
+  },
+  "augmented_counts": {
+    "red": 9,
+    "amber": 5,
+    "green": 0,
+    "blue": 25
+  },
+  "level_changes": {
+    "amber→red": 8,
+    "amber→blue": 5
+  },
+  "wall_ms": 24982.2,
+  "seed_flags": [
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "TERMS AND CONDITIONS",
+      "snippet": "TERMS AND CONDITIONS Definitions",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "“Working Day” means any day of the week other than a",
+      "snippet": "“Working Day” means any day of the week other than a",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. In this Agreement:",
+      "snippet": "1. In this Agreement: Saturday or Sunday or regional holiday, on which the New Zealand trading banks are open for business. “Agreement” means this agreement and the Schedule to this agreement including the Research Plan…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2__dup__2",
+      "clause_title": "2. The Student agrees to undertake the Research in relation",
+      "snippet": "2. The Student agrees to undertake the Research in relation “Background Intellectual Property” means any Intellectual to the Project commencing on the Commencement Date Property belonging to a Party or which a Party may…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. The Student will perform the Research and fulfil all other",
+      "snippet": "3. The Student will perform the Research and fulfil all other Agreement, which is used in, or contrbuted to, the obligations relating to the Student as detailed in this Research. Agreement.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4. The availability of the Student to perform the Research is",
+      "snippet": "4. The availability of the Student to perform the Research is “Commencement Date” means the commencement date an essential term of this Agreement. of the Research set out in the Schedule.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. The Student must immediately notify the Supervisor",
+      "snippet": "5. The Student must immediately notify the Supervisor and the University Supervisor of any issues or changes “Completion Date” means the completion date of the that prevent the Student from working on or completing Rese…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6. The Research is to be primarily undertaken at the",
+      "snippet": "6. The Research is to be primarily undertaken at the “Confidential Information” means any information relating Location. to the business or financial affairs of the University, Obligations of the Student the existence a…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "7. In performing the Research the Student will:",
+      "snippet": "7. In performing the Research the Student will: information that arises in relation to this Agreement or the",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.1",
+      "clause_title": "7.1. Use their best endeavours to complete the",
+      "snippet": "7.1. Use their best endeavours to complete the Research. Research in accordance with the Milestones and time frame for the Research; “Fees” means the Student’s University course fees that",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.2",
+      "clause_title": "7.2. Exercise the degree of skill, care and diligence",
+      "snippet": "7.2. Exercise the degree of skill, care and diligence has agreed to pay on behalf of the Student as detailed reasonably expected of students in similar in the Schedule (if any). circumstances;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.3",
+      "clause_title": "7.3. Undertake the Research using proper and",
+      "snippet": "7.3. Undertake the Research using proper and “Intellectual Property” means any property right recognised scientific and research standards; constituted under the Patents Act 2013, the Designs Act",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.4",
+      "clause_title": "7.4. Observe the reasonable directions of",
+      "snippet": "7.4. Observe the reasonable directions of 1953, the Trade Marks Act 2002, the Copyright Act 1994,",
+      "rationale": "Touches the UoA-sensitive topic of Publicity; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Neither party can use names or brands of the other or their personnel without prior written consent. | Escalation: University Marketing (brand@auckland.ac.nz).",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.5",
+      "clause_title": "7.5. Comply with and work to any rules, regulations or",
+      "snippet": "7.5. Comply with and work to any rules, regulations or the Plant Variety Rights Act 2022, as well as any like right guidelines relating to health and safety issued by constituted by any rule of law or by legislation, ei…",
+      "rationale": "Touches the UoA-sensitive topic of Publicity; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Neither party can use names or brands of the other or their personnel without prior written consent. | Escalation: University Marketing (brand@auckland.ac.nz).",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.6",
+      "clause_title": "7.6. Operate any equipment or machinery at the",
+      "snippet": "7.6. Operate any equipment or machinery at the “Location” means the location set out in the Schedule. Location (if premises) in accordance with the operating instructions and procedures given by “Milestones” means the m…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.7",
+      "clause_title": "7.7. Carry out the Research during the research",
+      "snippet": "7.7. Carry out the Research during the research “Payment Dates” means the dates for payment of the Fees timeframe subject to the rules and policies of the and/or Stipend as set out in the Schedule (if any). University a…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.8",
+      "clause_title": "7.8. Comply with all laws, regulations and rules of any",
+      "snippet": "7.8. Comply with all laws, regulations and rules of any government, local or public authority that may be “ Supervisor” means the supervisor named in the applicable to the Research. Schedule. Obligations of “Publication…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "8. agrees to provide the:",
+      "snippet": "8. agrees to provide the: material of any kind, including but not limited to e-mails,",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "8.1",
+      "clause_title": "8.1. Necessary resources to enable the Student to meet",
+      "snippet": "8.1. Necessary resources to enable the Student to meet reports, papers, articles, posters, graphics, audio and their obligations in respect of the Research, such as visual presentations or interactions and communication…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "blue",
+      "clause_id": "8.2",
+      "clause_title": "8.2. Supervisor to jointly supervise the Student with",
+      "snippet": "8.2. Supervisor to jointly supervise the Student with “Reporting Dates” means the reporting dates set out in the the University Supervisor, in accordance with the Schedule. University’s course regulations. “Research” me…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "9. The University agrees to use its best endeavours to",
+      "snippet": "9. The University agrees to use its best endeavours to Research Plan. ensure that the Student completes the Research in accordance with the Milestones and the Completion Date. “Research Plan” means the research plan for…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "10. The University shall notify of any changes within the",
+      "snippet": "10. The University shall notify of any changes within the Research which is set out in the Schedule. University that affect the ability of the Student to carry out or complete the Research. “Results” means the results o…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "11. The Supervisor will meet with the Student on the",
+      "snippet": "11. The Supervisor will meet with the Student on the “Schedule” means a schedule to this Agreement. Reporting Dates to review the Student’s progress in undertaking the Research. “Stipend” means the stipend that has agre…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "12",
+      "clause_title": "12. The Student will keep accurate and systematic records",
+      "snippet": "12. The Student will keep accurate and systematic records the Student as detailed in the Schedule (if any). and provide progress reports relating to the Research as reasonably requested by the Supervisor. “Thesis” means…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "13. Upon completion of the Research, and no later than the",
+      "snippet": "13. Upon completion of the Research, and no later than the final Reporting Date specified in the Schedule, the Student “University Supervisor” means the University supervisor shall deliver to a final written report on t…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "14",
+      "clause_title": "14. The Stipend (if any) and the Fees (if any) shall be paid as",
+      "snippet": "14. The Stipend (if any) and the Fees (if any) shall be paid as embargo of the Thesis will be reviewed every two years set out in the Schedule. and will cease where it is no longer reasonable to require continued embarg…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "amber",
+      "clause_id": "15",
+      "clause_title": "15. and the University shall continue to own all rights in",
+      "snippet": "15. and the University shall continue to own all rights in University examination process. their respective Background Intellectual Property. 29. The Student shall retain copyright in the Thesis, provided",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "16",
+      "clause_title": "16. The Student and the University acknowledge and agree",
+      "snippet": "16. The Student and the University acknowledge and agree the Student: that it is a condition of the Student’s involvement in the 29.1. Grants to a royalty-free, non-exclusive right to Project that the Results, including…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "amber",
+      "clause_id": "17",
+      "clause_title": "17. Subject to clause 29, the Student and the University agree",
+      "snippet": "17. Subject to clause 29, the Student and the University agree Publication on the Research is produced by the Student. to sign all documents and do all things reasonably 31. will not withhold permission for the Student …",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "amber",
+      "clause_id": "18",
+      "clause_title": "18. If exploitation of the Results by requires access to the",
+      "snippet": "18. If exploitation of the Results by requires access to the arising from the Project; University’s Background Intellectual Property, then 31.2. The Student or the University, as the case may be, and the University agre…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "amber",
+      "clause_id": "19",
+      "clause_title": "19. The Parties will keep confidential, and will not use, or",
+      "snippet": "19. The Parties will keep confidential, and will not use, or alternations or deletions to the Publication as permit to be used, any Confidential Information that is requested by prior to submitting the Publication. disc…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "20",
+      "clause_title": "20. The Parties shall continue to keep the Confidential",
+      "snippet": "20. The Parties shall continue to keep the Confidential Student by name where the Student has contributed Information confidential following the expiry or termination materially to the research being published. of this …",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "21",
+      "clause_title": "21. To protect option of seeking protection for any",
+      "snippet": "21. To protect option of seeking protection for any commence or continue due to any reasonable grounds, Intellectual Property generated or created in the course of including but not limited to, loss or lack of financial…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "22",
+      "clause_title": "22. Discussions between the Student and the University",
+      "snippet": "22. Discussions between the Student and the University is unable to provide another suitable research project Supervisor regarding the Research are expressly for the Student, then may terminate this Agreement authorised…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "23. The Student shall be entitled to submit a report on the",
+      "snippet": "23. The Student shall be entitled to submit a report on the Working Days’ notice in writing in the event that: results of the Research to the University for review 34.1. Either the Student or the University: provided th…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23.1",
+      "clause_title": "23.1. prior written approval is obtained before any",
+      "snippet": "23.1. prior written approval is obtained before any this Agreement; report is submitted for examination; 34.1.2. Commits a breach of this Agreement that is",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23.2",
+      "clause_title": "23.2. The Student provides with a copy of the",
+      "snippet": "23.2. The Student provides with a copy of the capable of being remedied and has not proposed report at least fourteen (14) Working Days remedied the breach within fourteen (14) prior to the date of submission; and Worki…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "23.3",
+      "clause_title": "23.3. The Student makes all reasonable changes to the",
+      "snippet": "23.3. The Student makes all reasonable changes to the to do so; or report as requested by 34.1.3. Commits an act of serious misconduct which, in reasonable opinion, brings, Thesis or may bring, the Research, the Project…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "red",
+      "clause_id": "24",
+      "clause_title": "24. The Student shall provide with a copy of the Thesis in",
+      "snippet": "24. The Student shall provide with a copy of the Thesis in into disrepute. the form the Student intends to submit for examination at 34.2. The Student: least twenty (20) Working Days prior to the due date for 34.2.1. Fa…",
+      "rationale": "Conflicts with UoA position on Governing Law and Jurisdiction — detected pattern \"governed by the laws of \". Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    }
+  ],
+  "augmented_flags": [
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "TERMS AND CONDITIONS",
+      "snippet": "TERMS AND CONDITIONS Definitions",
+      "rationale": "The clause addresses definitions, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template. Definitions are typically standard and do not require specific policy alignment unless they conflict with other clauses.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "“Working Day” means any day of the week other than a",
+      "snippet": "“Working Day” means any day of the week other than a",
+      "rationale": "The clause defines 'Working Day,' which is not a topic addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. In this Agreement:",
+      "snippet": "1. In this Agreement: Saturday or Sunday or regional holiday, on which the New Zealand trading banks are open for business. “Agreement” means this agreement and the Schedule to this agreement including the Research Plan.",
+      "rationale": "The clause defines terms and interpretation specifics, which are not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "2__dup__2",
+      "clause_title": "2. The Student agrees to undertake the Research in relation",
+      "snippet": "2. The Student agrees to undertake the Research in relation “Background Intellectual Property” means any Intellectual to the Project commencing on the Commencement Date Property belonging to a Party or which a Party may...",
+      "rationale": "The clause addresses Intellectual Property (IP) by defining 'Background Intellectual Property.' UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices (Head of IP) for review, as UoA does not set IP positions independently. This clause falls under the Acceptable tier for IP clauses, requiring referral.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. The Student will perform the Research and fulfil all other",
+      "snippet": "3. The Student will perform the Research and fulfil all other Agreement, which is used in, or contrbuted to, the obligations relating to the Student as detailed in this Research. Agreement.",
+      "rationale": "The clause appears to address the obligations of the Student in performing the Research, but the wording is unclear and contains typographical errors ('contrbuted' and 'Research. Agreement.'). The topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4. The availability of the Student to perform the Research is",
+      "snippet": "4. The availability of the Student to perform the Research is “Commencement Date” means the commencement date an essential term of this Agreement. of the Research set out in the Schedule.",
+      "rationale": "The clause addresses the availability of the Student and the definition of the 'Commencement Date,' which is not explicitly covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. The Student must immediately notify the Supervisor",
+      "snippet": "5. The Student must immediately notify the Supervisor and the University Supervisor of any issues or changes “Completion Date” means the completion date of the that prevent the Student from working on or completing any aspect of the Research.",
+      "rationale": "The clause addresses the obligation of the Student to notify the Supervisor and University Supervisor of issues or changes affecting their ability to complete the Research. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined policy and template references.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "6. The Research is to be primarily undertaken at the",
+      "snippet": "6. The Research is to be primarily undertaken at the “Confidential Information” means any information relating Location. to the business or financial affairs of the University, Obligations of the Student the existence a…",
+      "rationale": "The clause text appears to be incomplete and conflates two unrelated topics: the location of research and the definition of Confidential Information. This creates ambiguity and does not align with UoA's Preferred or Acceptable positions on either topic. For Confidentiality, the clause does not clearly exclude public, independently developed, or previously known information, nor does it specify a duration for confidentiality obligations. For the location of research, it does not specify whether the research is to be conducted in New Zealand or an acceptable alternative jurisdiction. Both issues require escalation for clarification and redrafting.",
+      "standard_ref": "UoA Position #POS-11 (Confidentiality) and #POS-01 (Insurance — Location of Project Delivery)"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "7. In performing the Research the Student will:",
+      "snippet": "7. In performing the Research the Student will: information that arises in relation to this Agreement or the",
+      "rationale": "The clause appears incomplete and does not align with any specific topic or guidance in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.1",
+      "clause_title": "7.1. Use their best endeavours to complete the",
+      "snippet": "7.1. Use their best endeavours to complete the Research. Research in accordance with the Milestones and time frame for the Research; “Fees” means the Student’s University course fees that",
+      "rationale": "The clause addresses the obligation to use 'best endeavours' to complete the Research in accordance with milestones and timeframes, but this topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.2",
+      "clause_title": "7.2. Exercise the degree of skill, care and diligence",
+      "snippet": "7.2. Exercise the degree of skill, care and diligence has agreed to pay on behalf of the Student as detailed reasonably expected of students in similar in the Schedule (if any). circumstances;",
+      "rationale": "The clause addresses the standard of skill, care, and diligence expected of students, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.3",
+      "clause_title": "7.3. Undertake the Research using proper and",
+      "snippet": "7.3. Undertake the Research using proper and \u001cIntellectual Property\u001d means any property right recognised scientific and research standards; constituted under the Patents Act 2013, the Designs Act",
+      "rationale": "The clause references 'Intellectual Property,' which falls under UoA Position #POS-IP. UoA Contracting Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices Ltd (Head of IP) for review, regardless of wording. This clause is flagged as AMBER because it requires referral to UniServices for compliance verification.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.4",
+      "clause_title": "7.4. Observe the reasonable directions of",
+      "snippet": "7.4. Observe the reasonable directions of 1953, the Trade Marks Act 2002, the Copyright Act 1994,",
+      "rationale": "The clause text does not clearly align with any specific UoA Preferred Contracting Position or the UoA Standard Template. While the comparator suggests a potential link to Publicity (POS-14), the clause itself appears incomplete and does not explicitly address the use of names, brands, or logos. It is unclear whether this clause pertains to Publicity or another topic entirely. Further clarification or context is required to determine its relevance.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.5",
+      "clause_title": "7.5. Comply with and work to any rules, regulations or",
+      "snippet": "7.5. Comply with and work to any rules, regulations or the Plant Variety Rights Act 2022, as well as any like right guidelines relating to health and safety issued by constituted by any rule of law or by legislation, ei…",
+      "rationale": "The clause primarily addresses compliance with health and safety regulations and intellectual property rights, including the Plant Variety Rights Act 2022. It does not directly relate to the topic of Publicity (UoA Position #POS-14) or any other specific UoA Preferred Contracting Position. The clause's content falls outside the scope of the provided UoA Positions and template, and no escalation is required.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.6",
+      "clause_title": "7.6. Operate any equipment or machinery at the",
+      "snippet": "7.6. Operate any equipment or machinery at the “Location” means the location set out in the Schedule. Location (if premises) in accordance with the operating instructions and procedures given by “Milestones” means the m…",
+      "rationale": "The clause addresses the operation of equipment or machinery at a specified location, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.7",
+      "clause_title": "7.7. Carry out the Research during the research",
+      "snippet": "7.7. Carry out the Research during the research “Payment Dates” means the dates for payment of the Fees timeframe subject to the rules and policies of the and/or Stipend as set out in the Schedule (if any). University and in accordance with the terms and conditions of this Agreement; and “Project” means the project detailed in the Schedule.",
+      "rationale": "The clause does not align with any specific topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. It appears to define terms related to payment dates and project scope, but these are not explicitly addressed in the provided policy or template references.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.8",
+      "clause_title": "7.8. Comply with all laws, regulations and rules of any",
+      "snippet": "7.8. Comply with all laws, regulations and rules of any government, local or public authority that may be \u001c Supervisor\u001d means the supervisor named in the applicable to the Research. Schedule. Obligations of \u001cPublication\u001d\u001d.",
+      "rationale": "The clause addresses compliance with laws, regulations, and rules applicable to the Research. This topic is not covered by any UoA Preferred Contracting Position or the UoA Standard Template for Student Research Agreements. The reference to 'Publication' appears to be a drafting error or misplaced text and does not substantively relate to the clause's intent. No escalation is required.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "8. agrees to provide the:",
+      "snippet": "8. agrees to provide the: material of any kind, including but not limited to e-mails,",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. No specific policy or template reference applies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8.1",
+      "clause_title": "8.1. Necessary resources to enable the Student to meet",
+      "snippet": "8.1. Necessary resources to enable the Student to meet reports, papers, articles, posters, graphics, audio and their obligations in respect of the Research, such as visual presentations or interactions and communications office space, laboratory space and associated facilities and equipment; and",
+      "rationale": "The clause primarily addresses the provision of resources necessary for the Student to meet their obligations in respect of the Research. While it mentions outputs like reports, papers, and presentations, it does not explicitly address publication rights or restrictions, nor does it align directly with UoA Position #POS-12 on Publication. The clause's topic is not covered by any specific UoA Preferred Contracting Position or the UoA Standard Template for Student Research Agreements, and therefore falls outside the scope of the comparator's flagged rationale.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "8.2",
+      "clause_title": "8.2. Supervisor to jointly supervise the Student with",
+      "snippet": "8.2. Supervisor to jointly supervise the Student with “Reporting Dates” means the reporting dates set out in the the University Supervisor, in accordance with the Schedule. University’s course regulations.",
+      "rationale": "The clause addresses the joint supervision of the Student, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "9. The University agrees to use its best endeavours to",
+      "snippet": "9. The University agrees to use its best endeavours to Research Plan. ensure that the Student completes the Research in accordance with the Milestones and the Completion Date. “Research Plan” means the research plan for…",
+      "rationale": "The clause addresses the University's obligation to use its best endeavours to ensure the Student completes the Research in accordance with the Milestones and Completion Date. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "10. The University shall notify of any changes within the",
+      "snippet": "10. The University shall notify of any changes within the Research which is set out in the Schedule. University that affect the ability of the Student to carry out or complete the Research. “Results” means the results o…",
+      "rationale": "The clause addresses a notification obligation regarding changes in the Research that affect the Student's ability to carry out or complete the Research. This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy tiers and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "11. The Supervisor will meet with the Student on the",
+      "snippet": "11. The Supervisor will meet with the Student on the “Schedule” means a schedule to this Agreement. Reporting Dates to review the Student’s progress in undertaking the Research. “Stipend” means the stipend that has agreed to pay to",
+      "rationale": "The clause addresses the Supervisor's obligation to meet with the Student on specified reporting dates to review progress. This topic is not covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "12. The Student will keep accurate and systematic records",
+      "snippet": "12. The Student will keep accurate and systematic records the Student as detailed in the Schedule (if any). and provide progress reports relating to the Research as reasonably requested by the Supervisor. “Thesis” means the Student’s thesis.",
+      "rationale": "The clause primarily addresses record-keeping and progress reporting, which are administrative and procedural matters. While the term 'Thesis' is mentioned, the clause does not explicitly address publication rights or restrictions, nor does it align directly with UoA Position #POS-12 on Publication. This clause falls outside the scope of the UoA Preferred Contracting Positions and the UoA Standard Template, and does not trigger escalation.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "13. Upon completion of the Research, and no later than the",
+      "snippet": "13. Upon completion of the Research, and no later than the final Reporting Date specified in the Schedule, the Student “University Supervisor” means the University supervisor shall deliver to a final written report on the Research.",
+      "rationale": "The clause addresses the delivery of a final written report by the Student upon completion of the Research. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "14",
+      "clause_title": "14. The Stipend (if any) and the Fees (if any) shall be paid as",
+      "snippet": "14. The Stipend (if any) and the Fees (if any) shall be paid as embargo of the Thesis will be reviewed every two years set out in the Schedule. and will cease where it is no longer reasonable to require continued embargo.",
+      "rationale": "The clause addresses the embargo of a thesis, which directly impacts the UoA-sensitive topic of Publication. UoA's Preferred Position (POS-12) allows students to retain publication rights for their thesis or academic publication, including commercially sensitive content, with a reasonable patent stand-down of no more than 60 days. The Acceptable Position permits embargoes for commercially sensitive content for a maximum of 12 months. However, this clause introduces a two-year review cycle for the embargo, which implies a potential embargo duration exceeding 12 months. This materially deviates from the Acceptable Position and requires escalation to the School of Graduate Studies for review and approval.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "amber",
+      "clause_id": "15",
+      "clause_title": "15. and the University shall continue to own all rights in",
+      "snippet": "15. and the University shall continue to own all rights in University examination process. their respective Background Intellectual Property. 29. The Student shall retain copyright in the Thesis, provided",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly excluded from UoA Contracting Positions and must be referred to Auckland UniServices (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "red",
+      "clause_id": "16",
+      "clause_title": "16. The Student and the University acknowledge and agree",
+      "snippet": "16. The Student and the University acknowledge and agree the Student: that it is a condition of the Student’s involvement in the 29.1. Grants to a royalty-free, non-exclusive right to Project that the Results, including…",
+      "rationale": "This clause appears to assign exclusive ownership of all Intellectual Property (IP) created by the Student to the Client, which conflicts with UoA's IP policy. UoA Positions explicitly state that IP matters must be referred to Auckland UniServices Ltd (POS-IP). Additionally, the clause touches on publication rights but does not clearly preserve the Student's right to publish their thesis or academic work, which is a critical requirement under UoA Position #POS-12. This clause requires escalation to Auckland UniServices Ltd for IP review and to the Senior Manager, Research Grants and Contracts for publication rights review.",
+      "standard_ref": "UoA Position #POS-IP and UoA Position #POS-12"
+    },
+    {
+      "level": "red",
+      "clause_id": "17",
+      "clause_title": "17. Subject to clause 29, the Student and the University agree",
+      "snippet": "17. Subject to clause 29, the Student and the University agree Publication on the Research is produced by the Student. to sign all documents and do all things reasonably 31. will not withhold permission for the Student or the University to publish any Publication provided that: 31.1. The Publication does not in any way interfere, hinder or damage commercial interests, or prevent from protecting any Intellectual Property rights.",
+      "rationale": "The clause materially deviates from UoA Position #POS-12 on Publication. While it acknowledges the Student's right to publish, it imposes conditions that could hinder academic freedom, such as requiring publications to not interfere with commercial interests or IP protection. This conflicts with the Preferred Position, which ensures students retain publication rights for theses or academic publications, including commercially sensitive content, and limits embargoes to a maximum of 12 months. The clause's ambiguity and potential for extended restrictions necessitate escalation to the Senior Manager, Research Grants and Contracts for review.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "red",
+      "clause_id": "18",
+      "clause_title": "18. If exploitation of the Results by requires access to the",
+      "snippet": "18. If exploitation of the Results by requires access to the arising from the Project; University’s Background Intellectual Property, then 31.2. The Student or the University, as the case may be, and the University agree to negotiate in good faith with the provides with a copy of the proposed aim of reaching agreement on a licence to use the Publication at least twenty (20) Working Days prior to the date of submission for publication; and 31.3. The Student or the University, as the case may be, Confidentiality makes all reasonable changes, amendments,",
+      "rationale": "The clause text is incoherent and appears to conflate multiple topics, including Background Intellectual Property licensing, publication review timelines, and confidentiality obligations. This creates ambiguity and potential misalignment with UoA's Preferred Positions. Specifically, Background IP licensing must be referred to Auckland UniServices Ltd (POS-IP), and publication review timelines must align with POS-12 (30 days for review, 60 days for patent stand-down). The clause does not clearly adhere to these standards and requires escalation to both UniServices (for IP) and the Senior Manager, Research Grants and Contracts (for publication).",
+      "standard_ref": "UoA Position #POS-IP and #POS-12"
+    },
+    {
+      "level": "red",
+      "clause_id": "19",
+      "clause_title": "19. The Parties will keep confidential, and will not use, or",
+      "snippet": "19. The Parties will keep confidential, and will not use, or alternations or deletions to the Publication as permit to be used, any Confidential Information that is requested by prior to submitting the Publication. disc…",
+      "rationale": "The clause appears to address confidentiality but is poorly drafted, making its intent unclear. It does not align with UoA's Preferred Position #POS-11, which requires a clear definition of confidential information, exclusions for public or independently developed information, and a time limit (up to 5 years post-completion). The clause also seems to conflate confidentiality with publication, which is a separate topic under UoA Position #POS-12. This ambiguity and lack of alignment with UoA's Preferred or Acceptable tiers necessitate escalation to the Senior Manager, Research Grants and Contracts for clarification and potential redrafting.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "20",
+      "clause_title": "20. The Parties shall continue to keep the Confidential",
+      "snippet": "20. The Parties shall continue to keep the Confidential Student by name where the Student has contributed Information confidential following the expiry or termination materially to the research being published. of this Agreement, until such time as the Confidential Information lawfully enters the public domain.",
+      "rationale": "The clause addresses confidentiality obligations but does not specify a time limit for the confidentiality period, which is a key requirement under UoA Position #POS-11. The Preferred Position requires a defined duration (up to 5 years post-completion), and the Acceptable Position allows for 5–7 years. The absence of a time limit makes this clause fall outside the Preferred and Acceptable tiers, requiring escalation to the Senior Manager, Research Grants and Contracts for review.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "21",
+      "clause_title": "21. To protect option of seeking protection for any",
+      "snippet": "21. To protect option of seeking protection for any commence or continue due to any reasonable grounds, Intellectual Property generated or created in the course of including but not limited to, loss or lack of financial…",
+      "rationale": "The clause addresses Intellectual Property, which is outside the scope of UoA Contracting Positions. All IP clauses must be referred to Auckland UniServices (Head of IP) for review, as per UoA Position #POS-IP.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "red",
+      "clause_id": "22",
+      "clause_title": "22. Discussions between the Student and the University",
+      "snippet": "22. Discussions between the Student and the University is unable to provide another suitable research project Supervisor regarding the Research are expressly for the Student, then may terminate this Agreement authorised…",
+      "rationale": "The clause text is incomplete and incoherent, making it impossible to determine whether it aligns with UoA's Preferred or Acceptable positions on Confidentiality (POS-11). The clause also appears to mix topics (termination and confidentiality) in a way that is not standard or clear. This requires escalation to the Senior Manager, Research Grants and Contracts for clarification and redrafting.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "23. The Student shall be entitled to submit a report on the",
+      "snippet": "23. The Student shall be entitled to submit a report on the Working Days’ notice in writing in the event that: results of the Research to the University for review 34.1. Either the Student or the University: provided th…",
+      "rationale": "The clause appears to address a topic related to the submission of reports by the Student, but it is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23.1",
+      "clause_title": "23.1. prior written approval is obtained before any",
+      "snippet": "23.1. prior written approval is obtained before any this Agreement; report is submitted for examination; 34.1.2. Commits a breach of this Agreement that is",
+      "rationale": "The clause appears to address a topic not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. The content is unclear and does not align with any established UoA policy or template wording.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23.2",
+      "clause_title": "23.2. The Student provides with a copy of the",
+      "snippet": "23.2. The Student provides with a copy of the capable of being remedied and has not proposed report at least fourteen (14) Working Days remedied the breach within fourteen (14) prior to the date of submission; and Worki…",
+      "rationale": "The clause appears to address a procedural requirement for the Student to provide a report prior to submission. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "23.3",
+      "clause_title": "23.3. The Student makes all reasonable changes to the",
+      "snippet": "23.3. The Student makes all reasonable changes to the to do so; or report as requested by 34.1.3. Commits an act of serious misconduct which, in reasonable opinion, brings, Thesis or may bring, the Research, the Project",
+      "rationale": "The clause text is incomplete, incoherent, and appears to conflate multiple topics, including publication rights and misconduct. This creates ambiguity and potential misalignment with UoA Position #POS-12 on Publication, which requires clear preservation of the student's right to publish their thesis or academic work. The clause also lacks clarity on the scope of 'reasonable changes' and the process for addressing misconduct, which could lead to disputes. Escalation to the Senior Manager, Research Grants and Contracts is required to ensure compliance with UoA's publication policies and to address the clause's deficiencies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "red",
+      "clause_id": "24",
+      "clause_title": "24. The Student shall provide with a copy of the Thesis in",
+      "snippet": "24. The Student shall provide with a copy of the Thesis in into disrepute. the form the Student intends to submit for examination at 34.2. The Student: least twenty (20) Working Days prior to the due date for 34.2.1. Fa…",
+      "rationale": "The clause conflicts with UoA Position #POS-16 on Governing Law and Jurisdiction. The preferred governing law is New Zealand, with acceptable alternatives being Australia, the United Kingdom, Common European countries, or Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. This clause does not specify the governing law or jurisdiction, creating ambiguity and potential misalignment with UoA's preferred and acceptable positions. Escalation to General Counsel is required.",
+      "standard_ref": "UoA Position #POS-16"
+    }
+  ]
+}

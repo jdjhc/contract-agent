@@ -1,0 +1,14 @@
+{
+  "filename": "Contract Example 5.pdf",
+  "contract_type": "Collaboration Agreement",
+  "flags_source": "augment",
+  "n_flags": 71,
+  "counts": {
+    "red": 8,
+    "amber": 13,
+    "green": 0,
+    "blue": 50
+  },
+  "summary": "The review of \"Contract Example 5.pdf,\" a Collaboration Agreement, indicates a moderate risk posture with several flagged clauses requiring further attention. Key issues include deviations from UoA's preferred positions on liability limitations, indemnities, publicity, termination, and governing law, with red flags for clauses imposing broad indemnification obligations, exclusive jurisdiction in Japan, and insufficient liability caps. Amber flags highlight areas needing clarification, such as confidentiality, intellectual property, and publicity provisions. Immediate next steps include escalating red-flagged clauses to the appropriate UoA teams (e.g., General Counsel, University Marketing, and Research Grants and Contracts) for review and negotiation to ensure alignment with UoA's policies and risk tolerance.",
+  "wall_ms": 6263.8
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "Master Services Agreement Example 1 (1).pdf",
+  "contract_type": "Provision of Services Agreement",
+  "flags_source": "augment",
+  "n_flags": 79,
+  "counts": {
+    "red": 11,
+    "amber": 7,
+    "green": 2,
+    "blue": 59
+  },
+  "summary": "The overall risk posture of this Provision of Services Agreement is moderate, with several clauses flagged for potential misalignment with the University of Auckland's Preferred Contracting Positions. Key issues include governing law and jurisdiction defaulting to South Australia (acceptable but requiring confirmation), broad confidentiality terms lacking key exclusions, and multiple termination provisions that deviate from UoA's preferred mutuality and safeguards. Immediate escalation to the Senior Manager, Research Grants and Contracts, and General Counsel is recommended to address termination clauses, governing law, and indemnity concerns, ensuring compliance with UoA's policy framework.",
+  "wall_ms": 6486.7
+}

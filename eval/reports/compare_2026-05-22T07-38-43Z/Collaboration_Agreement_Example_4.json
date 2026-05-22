@@ -1,0 +1,335 @@
+{
+  "filename": "Collaboration Agreement Example 4.pdf",
+  "contract_type": "Collaboration Agreement",
+  "n_clauses": 40,
+  "counts": {
+    "red": 0,
+    "amber": 11,
+    "green": 0,
+    "blue": 29
+  },
+  "n_flags": 40,
+  "wall_ms": 34.85,
+  "flags": [
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "(B) Under the Grant T&Cs, [REDACTED] is named as the Host Institution where",
+      "snippet": "(B) Under the Grant T&Cs, [REDACTED] is named as the Host Institution whereas [REDACTED] and [REDACTED] are named as the Partner Institutions.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "(C) The Parties wish to collaborate and undertake the Research on the terms",
+      "snippet": "(C) The Parties wish to collaborate and undertake the Research on the terms and conditions hereinafter set out in this RCA. NOW THEREFORE the Parties agree as follows:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1__dup__2",
+      "clause_title": "1. DEFINITIONS",
+      "snippet": "1. DEFINITIONS",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 All capitalised terms which are used in this RCA and in the Schedules and",
+      "snippet": "1.1 All capitalised terms which are used in this RCA and in the Schedules and Annexes but which are not otherwise defined herein shall have the same meaning as the definitions under clause 1 of the Grant T&Cs as annexed…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "\"Cash Contribution\" means actual monetary transfer from a Party to the other;",
+      "snippet": "\"Cash Contribution\" means actual monetary transfer from a Party to the other;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "\"Confidential Information\" means any information or material disclosed by one",
+      "snippet": "\"Confidential Information\" means any information or material disclosed by one Party to the other Party that is marked at the time of disclosure as confidential (or other words of similar import). Where the information i…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "\"Final Research Data\" (or the final dataset) means a set of data that has reache",
+      "snippet": "\"Final Research Data\" (or the final dataset) means a set of data that has reached the last stage of its lifecycle, where researchers have stopped making any further changes or adjustments to it;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "8",
+      "clause_title": "\"Inventive Contribution\" means any intellectual contribution which brings about",
+      "snippet": "\"Inventive Contribution\" means any intellectual contribution which brings about the creation of Intellectual Property, whether patentable or not, made or to be made by a Party for the Research in accordance with this RC…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "9",
+      "clause_title": "\"IP Application\" means any patent application, division and all applications for",
+      "snippet": "\"IP Application\" means any patent application, division and all applications for registration of copyrights, designs, semi-conductor layout designs, trade names, trademarks, service marks, and any other IP registration …",
+      "rationale": "Touches the UoA-sensitive topic of Publicity; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Neither party can use names or brands of the other or their personnel without prior written consent. | Escalation: University Marketing (brand@auckland.ac.nz).",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "amber",
+      "clause_id": "10",
+      "clause_title": "\"Know-how\" means any method, technique, process, discovery, invention, innov",
+      "snippet": "\"Know-how\" means any method, technique, process, discovery, invention, innovation, unpatentable process, specification, recipe, formula, material, molecule, gene, protein, regulatory element, design, plan, documentation…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 In this RCA:",
+      "snippet": "1.2 In this RCA:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "(a) A statutory provision shall include that provision and any regulations made",
+      "snippet": "(a) A statutory provision shall include that provision and any regulations made pursuant to it, as from time to time modified or re-enacted whether before or after the date of this RCA;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "(b) “month” refers to a period starting on one day in a calendar month and end",
+      "snippet": "(b) “month” refers to a period starting on one day in a calendar month and ending on the day before the numerically corresponding day in the next calendar month;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "(c) The Schedules and Annexes form part of this RCA. Where there is conflict",
+      "snippet": "(c) The Schedules and Annexes form part of this RCA. Where there is conflict between the terms of the RCA and the Schedules, the conflicts will be resolved in the following order of priority: (i) the terms of the Grant …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(d) Words importing the singular only shall also include the plural and vice ve",
+      "snippet": "(d) Words importing the singular only shall also include the plural and vice versa where the context requires.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2__dup__2",
+      "clause_title": "2. RELATIONSHIP AMONGST THE PARTIES",
+      "snippet": "2. RELATIONSHIP AMONGST THE PARTIES",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Except as stated in this RCA, no relationship of agency, joint venture or pa",
+      "snippet": "2.1 Except as stated in this RCA, no relationship of agency, joint venture or partnership shall exist or be deemed to exist amongst the Parties.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2",
+      "clause_title": "2.2 Nothing in this RCA shall prevent a Party from carrying out its usual course",
+      "snippet": "2.2 Nothing in this RCA shall prevent a Party from carrying out its usual course of business.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. RESPONSIBILITIES OF EACH PARTY IN THE RESEARCH",
+      "snippet": "3. RESPONSIBILITIES OF EACH PARTY IN THE RESEARCH Collaboration on the Research",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 The Parties intend to collaborate and work together on the Research, which",
+      "snippet": "3.1 The Parties intend to collaborate and work together on the Research, which is as set forth in Section 2 of Schedule 1.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 The Parties agree to use their reasonable efforts to complete the Research i",
+      "snippet": "3.2 The Parties agree to use their reasonable efforts to complete the Research in accordance with the terms and conditions of this RCA.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.3",
+      "clause_title": "3.3 The Parties recognise that the Research is research and/or innovative in nat",
+      "snippet": "3.3 The Parties recognise that the Research is research and/or innovative in nature and 4 Confidential hence completion within the period of performance indicated in this RCA, or within the limits of financial support a…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.3__dup__2",
+      "clause_title": "3.3A The Research may be revised and amended by the Parties by written agreemen",
+      "snippet": "3.3A The Research may be revised and amended by the Parties by written agreement, subject to the Parties’ compliance with the relevant requirements in the Grant Documents, which may provide that the Grantor’s prior writ…",
+      "rationale": "Touches the UoA-sensitive topic of Variations and Extensions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: All variations negotiated and executed in writing prior to expiry of the current Agreement, in accordance with funder guidelines. | Acceptable: Extensions negotiated and executed in writing only if the current Agreement has itself expired. Extensions may cover changes beyond just an end date.",
+      "standard_ref": "UoA Position #POS-21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.4",
+      "clause_title": "3.4 The Research shall be managed by the Principal Investigator (“PI”) named in",
+      "snippet": "3.4 The Research shall be managed by the Principal Investigator (“PI”) named in *Schedule 3*, who will be assisted by the Co-Principal Investigator(s) (“Co-PI(s)”) and Collaborators named in *Schedule 3*.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.5",
+      "clause_title": "3.5 Each Party shall inform the other of any change to the PI, Co-PI(s) or Colla",
+      "snippet": "3.5 Each Party shall inform the other of any change to the PI, Co-PI(s) or Collaborator(s) (as the case may be) no later than two (2) weeks before such change is due to take place.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.6",
+      "clause_title": "3.6 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall mee",
+      "snippet": "3.6 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall meet at agreed intervals from time to time to review the implementation of the Research. Each Party shall bear its own costs and expenses rela…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.7",
+      "clause_title": "3.7 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall mai",
+      "snippet": "3.7 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall maintain records of the progress of the Research, including but not limited to all expenditure incurred for or in connection with the Research…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.8",
+      "clause_title": "3.8 The Parties shall ensure that the Final Research Data is complete and legibl",
+      "snippet": "3.8 The Parties shall ensure that the Final Research Data is complete and legible, and allows traceability and validation of the Research findings should the need arise.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.9",
+      "clause_title": "3.9 Each Party shall be responsible for the acts and/or omissions of its employe",
+      "snippet": "3.9 Each Party shall be responsible for the acts and/or omissions of its employees, agents and/or sub-contractors that carry out any part of the Research.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.10",
+      "clause_title": "3.10 Each Party agrees that while its representatives are on the other Party’s p",
+      "snippet": "3.10 Each Party agrees that while its representatives are on the other Party’s premises, its representatives shall adhere, at all times, to all applicable rules, regulations, policies and procedures, including, but not …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.11",
+      "clause_title": "3.11 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) carry ou",
+      "snippet": "3.11 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) carry out the Research in accordance with all applicable laws, regulations, codes and guidelines.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.12",
+      "clause_title": "3.12 The Parties are committed to maintaining the highest standards of research ",
+      "snippet": "3.12 The Parties are committed to maintaining the highest standards of research integrity and the responsible conduct of research as defined in the Singapore Statement on Research Integrity. The Parties agree to coopera…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.13",
+      "clause_title": "3.13 The Cash Contribution by the Parties towards the Research, and the Parties’",
+      "snippet": "3.13 The Cash Contribution by the Parties towards the Research, and the Parties’ in-kind contributions to the Research, are as set forth in Schedule 2.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.13__dup__2",
+      "clause_title": "3.13A If [xxx] is not an entity incorporated or registered in Singapore, all app",
+      "snippet": "3.13A If [xxx] is not an entity incorporated or registered in Singapore, all applicable taxes and bank charges incurred in processing payment to (whether for Cash Contribution, licence fee or funding disbursement) shall…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.14",
+      "clause_title": "3.14 For Cash Contribution by a Party towards the Research, upon completion of t",
+      "snippet": "3.14 For Cash Contribution by a Party towards the Research, upon completion of the respective deliverable, the receiving Party shall complete and submit the Acknowledgement of Project Deliverables Form (“Form”) as set f…",
+      "rationale": "Touches the UoA-sensitive topic of Taxation; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: NZ contracts: costs presented as 'excluding GST'. Overseas contracts: costs 'excluding any applicable taxes and duties, payable by the Client on any taxable supplies'. | Escalation: Tax and Compliance team (where offshore Client requires UoA to incorporate offshore tax).",
+      "standard_ref": "UoA Position #POS-06"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.15",
+      "clause_title": "3.15 The Parties agree that the PI is allowed to vire the amounts between the ca",
+      "snippet": "3.15 The Parties agree that the PI is allowed to vire the amounts between the categories within its employer’s own budget without requiring the approval of the other Party, provided that the total budget of such employe…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.16",
+      "clause_title": "3.16 The Parties agree that students may be involved in the Research as part of ",
+      "snippet": "3.16 The Parties agree that students may be involved in the Research as part of their 6 Confidential learning and/or to fulfil coursework requirements of the students’ degree programmes. Compliance with Grant Documents",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.18",
+      "clause_title": "3.18 The Parties acknowledge that the use of the Grant and the performance of th",
+      "snippet": "3.18 The Parties acknowledge that the use of the Grant and the performance of the Research is subject to the terms and conditions stipulated in the Grant Documents. Each Party confirms that it has received a copy of the…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.19",
+      "clause_title": "3.19 The Parties agrees to cooperate with in good faith and do all things reason",
+      "snippet": "3.19 The Parties agrees to cooperate with in good faith and do all things reasonably necessary to enable to comply with the Grant Documents and to administer and coordinate all matters relating to the Grant, including b…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.20",
+      "clause_title": "3.20 The Parties shall comply with and fulfil all terms of the Grant Documents a",
+      "snippet": "3.20 The Parties shall comply with and fulfil all terms of the Grant Documents and do all things reasonably necessary to enable compliance and fulfilment by of its obligations to the Grantor under the Grant Documents. W…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    }
+  ]
+}

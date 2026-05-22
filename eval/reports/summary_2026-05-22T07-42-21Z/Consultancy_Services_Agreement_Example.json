@@ -1,0 +1,14 @@
+{
+  "filename": "Consultancy Services Agreement Example.pdf",
+  "contract_type": "Consultancy Services Agreement",
+  "flags_source": "augment",
+  "n_flags": 41,
+  "counts": {
+    "red": 0,
+    "amber": 2,
+    "green": 0,
+    "blue": 39
+  },
+  "summary": "The overall risk posture of this Consultancy Services Agreement is low to moderate, with the majority of flagged clauses falling outside the scope of the University of Auckland's Preferred Contracting Positions and requiring independent assessment. The headline issues include the need for clarity on the \"Extension of Term\" clause to ensure compliance with UoA Position #POS-21 and the referral of the \"Intellectual Property\" clause to Auckland UniServices Ltd for review, as it involves a sensitive and critical area. The recommended next step is to engage with UniServices for a detailed review of the IP clause and confirm the full wording of the \"Extension of Term\" clause to ensure alignment with UoA's standards.",
+  "wall_ms": 3551.5
+}

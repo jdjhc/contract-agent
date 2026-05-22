@@ -1,0 +1,14 @@
+{
+  "filename": "Service Provider Agreement Example.pdf",
+  "contract_type": "Provision of Services Agreement",
+  "flags_source": "augment",
+  "n_flags": 42,
+  "counts": {
+    "red": 2,
+    "amber": 9,
+    "green": 3,
+    "blue": 28
+  },
+  "summary": "The review of the \"Service Provider Agreement Example.pdf\" indicates a moderate risk posture, with several amber and red flags requiring attention. Key issues include overly broad indemnity obligations (red flag, POS-08), a disrepute clause that fails to preserve academic freedoms (red flag, POS-20), and gaps in confidentiality, intellectual property, termination, and taxation clauses (amber flags, POS-11, POS-IP, POS-19, POS-06). The next step is to escalate the flagged clauses to the appropriate UoA teams, including Research Contract Delegations, Auckland UniServices Ltd, and the Tax and Compliance team, for further review and alignment with UoA's contracting positions.",
+  "wall_ms": 3826.3
+}

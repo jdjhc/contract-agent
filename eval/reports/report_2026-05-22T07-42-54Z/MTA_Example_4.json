@@ -1,0 +1,343 @@
+{
+  "document_id": "MTA_Example_4_pdf",
+  "filename": "MTA Example 4.pdf",
+  "contract_type": "Material Transfer Agreement",
+  "contract_type_confidence": 1.0,
+  "summary": "The review of \"MTA Example 4.pdf\" indicates a moderate risk posture, with several clauses flagged for escalation or further review. Key issues include deviations from UoA's preferred positions on confidentiality, intellectual property, liability, and termination, with specific clauses requiring escalation to Auckland UniServices Ltd or the Senior Manager, Research Grants and Contracts. To address these concerns, the next step is to escalate flagged clauses for negotiation and ensure alignment with UoA's policies, particularly on IP, liability caps, and confidentiality obligations.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "4",
+      "clause_title": "4. Confidential Information. The term “Confidential Information” shall include a",
+      "snippet": "4. Confidential Information. The term “Confidential Information” shall include all Materials disclosed by [redacted] to Recipient and any other technical and non-technical information, in whatever form embodied, which is disclosed by, or to which access is provided by, [redacted] or its affiliates, agents, employees, Medical Affiliates [redacted] and its hospitals and clinics where [redacted] may conduct some of its research, (“Representatives”) to the Recipient or its employees, agents, representatives, and independent contractors (“Affiliates”). “Confidential Information” shall also include any documents or material created by or at the direction of the Recipient containing Confidential Information disclosed by [redacted] or its Representatives.",
+      "rationale": "The clause does not align with UoA's Preferred or Acceptable positions on confidentiality (UoA Position #POS-11). Specifically, the clause does not explicitly exclude information that is already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, the clause does not specify a time limit for confidentiality obligations (e.g., 5–7 years post-termination/expiry/disclosure). Furthermore, the clause does not explicitly allow UoA to disclose confidential information to its agents and Affiliates, which is a key requirement under UoA's Preferred position. This clause requires escalation to the Senior Manager, Research Grants and Contracts for review and potential negotiation.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "red",
+      "clause_id": "11",
+      "clause_title": "11. Liability. Provider will not be liable to Recipient for any loss, claim, or ",
+      "snippet": "11. Liability. Provider will not be liable to Recipient for any loss, claim, or demand made by Recipient, or made against Recipient by any other party, due to or arising from the use of the Material by Recipient. To the extent permitted by law, Recipient agrees to indemnify, defend and hold harmless Provider, its employees, agents, and contractors for any loss, claim, or demand made by Recipient, or made against Recipient by any other party, due to or arising from the use, storage or handling of the Material by Recipient. The maximum aggregate liability of the Recipient to the Provider in relation to this Agreement is limited to an amount equal to the cost of resupplying the Materials. Neither party will be liable to the other party in relation to this Agreement for any loss of profit, revenue, savings, business or goodwill, or for any consequential, indirect, incidental or special damage or loss of any kind. Despite any other provision of this Agreement, the Recipient will not be liable (including under any indemnity) for any loss, damage, cost or expense arising in relation to any claim that the Materials infringe any intellectual property rights or as a result of any breach of law or breach of this Agreement (including any warranty) by the Provider or its personnel.",
+      "rationale": "This clause conflicts with UoA Position #POS-07 on Liability Limitations and Exclusions. The clause includes a 'hold harmless' provision, which is explicitly excluded under the Preferred tier. Additionally, the liability cap for the Recipient is limited to the cost of resupplying the Materials, which is significantly lower than the UoA's preferred cap of NZD$500,000 or the contract value. While the clause excludes indirect and consequential losses, the inclusion of 'hold harmless' and the lack of alignment with UoA's liability cap requirements necessitate escalation. Escalation is required to the Research Grants and Contracts Delegations and potentially the Portfolio Manager for further review.",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "red",
+      "clause_id": "15",
+      "clause_title": "15. Termination. This Agreement will terminate on the earliest of the following",
+      "snippet": "15. Termination. This Agreement will terminate on the earliest of the following dates: (a) with thirty (30) days written notice of termination by either party to the other party, or (b) five (5) years from the Effective Date of this Agreement.",
+      "rationale": "The clause allows for termination for convenience by either party with 30 days' notice, which is not aligned with UoA's Preferred Position for termination. UoA's Preferred Position requires mutual two-way termination for material breach or insolvency, with clear rights for UoA to terminate for non-payment and provisions for the client to pay termination costs. Termination for convenience is only acceptable for Consulting contracts under specific conditions, which are not met here. This clause materially deviates from UoA's Preferred and Acceptable Positions and requires escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2",
+      "clause_title": "2. Material Ownership. Provider retains title to the Material and Recipient shal",
+      "snippet": "2. Material Ownership. Provider retains title to the Material and Recipient shall not obtain any ownership rights in the Material or to Progeny or Unmodified Derivatives. The Material is to be used by Recipient solely for Research Purposes defined above as the Research Project. The Material may not be used for commercial purposes. The Research Project shall be conducted entirely at Recipient’s place of business and only under the direction of Recipient Scientist. Recipient agrees not to make or have made any Modifications without obtaining the prior, written approval of the Provider.",
+      "rationale": "This clause addresses intellectual property (IP) ownership and restrictions on use, which falls under the topic of 'Intellectual Property'. UoA Preferred Contracting Positions defer all IP matters to Auckland UniServices Ltd. As such, this clause must be referred to UniServices for review. The clause does not conflict with UoA's general IP principles but requires further assessment by UniServices to ensure alignment with UoA's IP policies.",
+      "standard_ref": "UoA Position POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6. **No Commercial Use.** Recipient agrees not to use the Material or Modificati",
+      "snippet": "6. **No Commercial Use.** Recipient agrees not to use the Material or Modifications for commercial purposes without Provider’s express written consent. Recipient recognizes that use of the Material or Modifications for commercial purposes will require a license from Provider and that Provider has no obligation to grant a license in its ownership interest in the Material incorporated in the Modification or to its pre-existing patent rights governing uses of the Material or Modifications.",
+      "rationale": "This clause pertains to Intellectual Property (IP) and restricts the commercial use of the Material or Modifications without the Provider's consent. UoA Contracting Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices (Head of IP) for review, as UoA does not set IP positions independently. The clause falls under the 'amber' tier because it requires further review by UniServices to ensure alignment with UoA's IP policies.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "8",
+      "clause_title": "8. **Publication.** Recipient agrees to submit any publication or press release",
+      "snippet": "8. **Publication.** Recipient agrees to submit any publication or press release containing the Research Results, whether oral or written, to Provider for review at least thirty (30) days prior to submission of the publi…",
+      "rationale": "This clause addresses the topic of publication, which is a UoA-sensitive area. While it aligns with the UoA Preferred Position (POS-12) in allowing a 30-day review period and a maximum 60-day delay for patent protection, it also includes a requirement to remove Confidential Information at the Provider's request. This is consistent with the UoA Template for Material Transfer Agreements. However, the clause also mentions press releases, which touches on the topic of Publicity (POS-14). Publicity clauses require prior written consent for the use of names or brands, and this aspect is not explicitly addressed in the clause. Contract Manager should confirm alignment with UoA Position #POS-14.",
+      "standard_ref": "UoA Position #POS-12 and POS-14"
+    },
+    {
+      "level": "amber",
+      "clause_id": "9",
+      "clause_title": "“Modifications” shall mean substances created by Recipient that contain or",
+      "snippet": "“Modifications” shall mean substances created by Recipient that contain or incorporate the Material.",
+      "rationale": "The clause relates to Intellectual Property, specifically the definition of 'Modifications,' which is a standard term in Material Transfer Agreements. Intellectual Property clauses are governed by Auckland UniServices Ltd and must be referred to them for review. This clause does not match the UoA Preferred Contracting Positions directly but falls under the IP category, which is pre-approved as amber for referral.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "9",
+      "clause_title": "9. **Intellectual Property.** Recipient understands that, as between Recipient a",
+      "snippet": "9. **Intellectual Property.** Recipient understands that, as between Recipient and Provider, any and all proprietary rights, including but not limited to intellectual property rights in and to the Material shall be and …",
+      "rationale": "The clause addresses Intellectual Property, which is outside the scope of UoA's Preferred Contracting Positions and must be referred to Auckland UniServices (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "18",
+      "clause_title": "18. Governing Law and Venue. The validity, construction and performance of this",
+      "snippet": "18. Governing Law and Venue. The validity, construction and performance of this Agreement and the legal relations between the Parties to this Agreement shall be governed by and construed in accordance with the laws of the State of Illinois without regard to conflict of laws principles. In the event of a dispute the Parties agree to submit to the non-exclusive jurisdiction of the state or federal courts sitting in the State of Illinois.",
+      "rationale": "The clause addresses the topic of Governing Law and Jurisdiction, which is covered under UoA Position #POS-16. While the clause specifies the laws of the State of Illinois and non-exclusive jurisdiction of Illinois courts, this falls within the 'acceptable' tier for US-based clients, as non-exclusive jurisdiction of a specific US state is explicitly permitted. However, it is flagged as amber because it deviates from the preferred position of New Zealand law and requires confirmation that the client is US-based.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "C",
+      "clause_title": "Confidential Information shall not include information which (a) is or becomes",
+      "snippet": "Confidential Information shall not include information which (a) is or becomes public knowledge through no breach of this Agreement by Recipient; (b) is lawfully disclosed to the Recipient by a third party without obligation of confidentiality; (c) Recipient can prove by competent written evidence was developed independently without use of or reference to [redacted] Confidential Information; or (d) is approved for release by written authorization from [redacted].",
+      "rationale": "The clause addresses exclusions to the definition of Confidential Information, which aligns with UoA Position #POS-11's preferred tier in part (e.g., public knowledge, independently developed information, and third-party disclosures without confidentiality obligations). However, it does not explicitly include the UoA's requirement for the ability to disclose to agents and Affiliates, nor does it address the duration of confidentiality obligations (up to 5 years post-completion). These omissions place the clause in the acceptable tier, but it requires confirmation from the Senior Manager, Research Grants and Contracts to ensure compliance with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "T",
+      "clause_title": "The Recipient's obligations regarding the Confidential Information received",
+      "snippet": "The Recipient's obligations regarding the Confidential Information received pursuant to this Agreement will survive for seven (7) years from the date of disclosure.",
+      "rationale": "The clause addresses the duration of confidentiality obligations, which is a UoA-sensitive topic. According to UoA Position #POS-11, the preferred position is a duration of up to 5 years post-completion of the confidentiality period. However, the acceptable tier allows for confidentiality obligations limited to 5–7 years post-termination/expiry/disclosure. This clause specifies a 7-year duration from the date of disclosure, which falls within the acceptable tier. No escalation is required unless further deviations are identified.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Material. Upon request for the Materials by Recipient, the Materials shall be",
+      "snippet": "1. Material. Upon request for the Materials by Recipient, the Materials shall be provided by Provider to Recipient, subject to availability of such Materials. The availability of such Materials shall be determined solely by Provider.",
+      "rationale": "The clause addresses the provision of materials subject to availability, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined positions and templates.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. Third Party Transfer. Recipient agrees not to transfer the Material to anyone",
+      "snippet": "3. Third Party Transfer. Recipient agrees not to transfer the Material to anyone who does not work under the direct supervision of the Recipient Scientist at the Recipient’s place of business.",
+      "rationale": "The clause addresses restrictions on third-party transfer of materials, which is not covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. **No Additional Rights.** Except as expressly granted to Recipient in this",
+      "snippet": "5. **No Additional Rights.** Except as expressly granted to Recipient in this Agreement, no rights are provided to Recipient under any patent, patent application, trade secret, or other proprietary right of Provider. In particular, and without limitation, Provider grants no license to Recipient to use the Material to modify or create new Material which contains or incorporates any fractionated subsets of the Material or for profit-making or commercial purposes, such as sale of the Material or use of the Material in manufacturing or provision of a service to a third party.",
+      "rationale": "The clause addresses restrictions on the use of materials and intellectual property rights, which is not explicitly covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the defined policy and template references.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "7. **Notification of Results.** Recipient will inform Provider of any research o",
+      "snippet": "7. **Notification of Results.** Recipient will inform Provider of any research or experimental results related to the Principal Investigator’s use or evaluation of the Material, by providing Provider a manuscript or report describing the results of such research or experimentation within sixty (60) days after completion of Principal Investigator’s experimentation or evaluation, as described in the Purpose. Provider may utilize the results for any internal research and educational purpose.",
+      "rationale": "The clause addresses a topic (notification of results and sharing of research outcomes) that is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined positions and requires independent review.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "“Provider Scientist” shall mean [REDACTED], a professor employed by [REDACTED]",
+      "snippet": "“Provider Scientist” shall mean [REDACTED], a professor employed by [REDACTED] University.",
+      "rationale": "The clause defines a term ('Provider Scientist') specific to the agreement but does not address any topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the policy and template references.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "“Recipient Scientist” shall mean [REDACTED], a professor employed by the Recipie",
+      "snippet": "“Recipient Scientist” shall mean [REDACTED], a professor employed by the Recipient.",
+      "rationale": "The clause defines a term ('Recipient Scientist') that is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. This topic is outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "“Research Purposes” shall mean to study, perform tests, evaluate, copy, propagat",
+      "snippet": "“Research Purposes” shall mean to study, perform tests, evaluate, copy, propagate, and otherwise use Material for the internal Research Project.",
+      "rationale": "The clause defines 'Research Purposes' in a manner that is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined positions and requires independent assessment.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "14. Material Fee. The Material is provided without a fee. However, Recipient agr",
+      "snippet": "14. Material Fee. The Material is provided without a fee. However, Recipient agrees to pay all shipping and handling costs associated with the Material if requested by Provider.",
+      "rationale": "The topic of material fees, including shipping and handling costs, is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, this clause falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "“Research Project” shall mean [REDACTED].",
+      "snippet": "“Research Project” shall mean [REDACTED].",
+      "rationale": "The clause defines 'Research Project,' which is not a topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. Definitions of terms like 'Research Project' are typically context-specific and do not fall under any pre-approved policy or template.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "“Results” means shall mean the data, results and other information created throu",
+      "snippet": "“Results” means shall mean the data, results and other information created through the course of the Research Project.",
+      "rationale": "The definition of 'Results' is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. Definitions of terms like 'Results' are typically context-specific and do not fall under pre-approved policy tiers.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "“Unmodified Derivatives” shall mean substances created by Recipient which",
+      "snippet": "“Unmodified Derivatives” shall mean substances created by Recipient which constitute an unmodified functional subunit or an expression product of the Original Material including, but not limited to, subclones or unmodif…",
+      "rationale": "The clause defines 'Unmodified Derivatives,' which is specific to the Material Transfer Agreement context and not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. No escalation is required as this topic falls outside the scope of UoA policy guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "17. Export Controls. Recipient agrees not to provide [REDACTED] with any Materia",
+      "snippet": "17. Export Controls. Recipient agrees not to provide [REDACTED] with any Material that may be subject to export control laws and regulations without first informing [REDACTED] in writing prior to any such disclosure and\u0006",
+      "rationale": "The topic of export controls is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, this clause falls outside the scope of pre-defined positions and requires independent assessment.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Definitions:",
+      "snippet": "Definitions:",
+      "rationale": "The clause pertains to definitions, which is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. Definitions are typically standard and necessary for contract interpretation but fall outside the scope of specific policy tiers.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "M",
+      "clause_title": "MATERIAL TRANSFER AGREEMENT (OUTGOING)",
+      "snippet": "MATERIAL TRANSFER AGREEMENT (OUTGOING) This Material Transfer Agreement (\u001cAgreement\u001d), effective the later of the two dates executed by the parties below (the \u001cEffective Date\u001d), is by and between [REDACTED], a non-profi\u001f\u001d",
+      "rationale": "The clause introduces the Material Transfer Agreement (Outgoing) and defines the parties involved, including the effective date. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the provided references.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NOW, THEREFORE, the Parties hereto agree as follows:",
+      "snippet": "NOW, THEREFORE, the Parties hereto agree as follows:",
+      "rationale": "This clause is a formal introductory statement and does not address any substantive contractual topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template. It is standard legal phrasing used to transition into the agreement terms.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NOW THEREFORE, to protect proprietary interests with respect to the Material and",
+      "snippet": "NOW THEREFORE, to protect proprietary interests with respect to the Material and to ensure compliance with certain federal regulations, Provider agrees to provide Material to Recipient under the following terms and conditions:",
+      "rationale": "The clause introduces a general statement about protecting proprietary interests and compliance with federal regulations, which is not specifically addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Provider is the owner of the Material as specified herein;",
+      "snippet": "Provider is the owner of the Material as specified herein;",
+      "rationale": "The clause addresses ownership of the Material, which is not explicitly covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. Ownership of materials is typically implied or addressed indirectly under Intellectual Property clauses, but this specific statement is not precluded or governed by any UoA policy.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Provider desires to supply, and Recipient desires to obtain, samples of the Mate",
+      "snippet": "Provider desires to supply, and Recipient desires to obtain, samples of the Material solely for use in the Research Project; and",
+      "rationale": "The clause outlines the intent of the Provider to supply and the Recipient to obtain materials for a specific research project. This topic is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Recipient is conducting research, described herein as the Research Project;",
+      "snippet": "Recipient is conducting research, described herein as the Research Project;",
+      "rationale": "The clause introduces the concept of the 'Research Project,' which is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. It does not conflict with any established positions or templates, and its inclusion appears neutral.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "RECIPIENT IS ADVISED THAT PATENT CLAIMS MAY HAVE BEEN FILED CLAIMING",
+      "snippet": "RECIPIENT IS ADVISED THAT PATENT CLAIMS MAY HAVE BEEN FILED CLAIMING THE COMPOSITION AND METHODS OF USE OF THE MATERIAL, THAT RIGHTS TO SUCH CLAIMS MAY HAVE BEEN GRANTED TO THIRD PARTIES, AND THAT ANY USE OF THE MATERIAL FOR ANY PURPOSE OTHER THAN RECIPIENT’S RESEARCH PROJECT REQUIRES PRIOR, EXPRESS, WRITTEN CONSENT FROM PROVIDER.",
+      "rationale": "The clause addresses patent claims and restrictions on the use of materials, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "Terms and Conditions:",
+      "snippet": "Terms and Conditions:",
+      "rationale": "The clause 'Terms and Conditions:' is a generic heading without substantive content. It does not align with any specific UoA Preferred Contracting Position or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the policy and template references.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "8",
+      "clause_title": "“Material” shall mean the Original Material, Progeny, and Unmodified Derivatives",
+      "snippet": "“Material” shall mean the Original Material, Progeny, and Unmodified Derivatives.",
+      "rationale": "The clause aligns with the UoA Standard Template for Material Transfer Agreements, which defines 'Materials' in the same way. This is standard terminology for MTAs and does not require escalation.",
+      "standard_ref": "UoA-Material_Transfer_Agreement incoming-Aug 2024.docx"
+    },
+    {
+      "level": "green",
+      "clause_id": "10",
+      "clause_title": "“Original Material” shall mean heart tissue (including adipose heart tissue) sam",
+      "snippet": "“Original Material” shall mean heart tissue (including adipose heart tissue) samples.",
+      "rationale": "The clause defines 'Original Material' as heart tissue samples, which aligns with the UoA Standard Template for Material Transfer Agreements. The template includes a similar definition for 'Original Materials' as 'the materials described in the Contract Details.' This clause is consistent with the template and does not deviate from UoA's standard practices.",
+      "standard_ref": "UoA-Material_Transfer_Agreement incoming-Aug 2024.docx"
+    },
+    {
+      "level": "green",
+      "clause_id": "10",
+      "clause_title": "10. Disclaimer. It is acknowledged and agreed by Recipient, that any Material",
+      "snippet": "10. Disclaimer. It is acknowledged and agreed by Recipient, that any Material delivered pursuant to this Agreement is provided “as is”, understood to be experimental in nature, and may have hazardous properties. PROVIDER MAKES NO REPRESENTATIONS AND EXTENDS NO WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. THERE ARE NO EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THAT THE USE OF THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK, OR OTHER PROPRIETARY RIGHTS.",
+      "rationale": "The clause aligns with UoA Position #POS-10 on Warranties. It explicitly excludes all warranties, including implied warranties of merchantability and fitness for a particular purpose, which matches the preferred position. The clause does not introduce any additional warranties or obligations that would conflict with UoA's policy.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "green",
+      "clause_id": "11",
+      "clause_title": "“Progeny” shall mean unmodified descendants from the Material, such as virus fro",
+      "snippet": "“Progeny” shall mean unmodified descendants from the Material, such as virus from virus, cell from cell, or organism from organism.",
+      "rationale": "The clause matches the definition of 'Progeny' as provided in the UoA Standard Template for both incoming and outgoing Material Transfer Agreements. This definition is consistent with the template and does not deviate.",
+      "standard_ref": "UoA-Material_Transfer_Agreement incoming-Aug 2024.docx / UoA-Material_Transfer_Agreement outgoing_Aug 2024.docx"
+    },
+    {
+      "level": "green",
+      "clause_id": "16",
+      "clause_title": "16. Assignment. This Agreement shall not be assigned or otherwise transferred by",
+      "snippet": "16. Assignment. This Agreement shall not be assigned or otherwise transferred by either Party in whole or in part without the express written consent of the other Party.",
+      "rationale": "The clause matches the UoA Standard Template for Material Transfer Agreements, which includes a similar assignment restriction requiring express written consent from both parties. This aligns with standard practice for such agreements.",
+      "standard_ref": "UoA-Material_Transfer_Agreement incoming-Aug 2024.docx"
+    },
+    {
+      "level": "green",
+      "clause_id": "19",
+      "clause_title": "19. Severability. If any provision of this Agreement or the application of such",
+      "snippet": "19. Severability. If any provision of this Agreement or the application of such provision is invalid under any applicable statute or rule of law, the remaining provisions of this Agreement shall remain in full force and effect.",
+      "rationale": "The clause aligns with standard severability provisions commonly included in contracts to ensure enforceability of remaining terms if a specific provision is invalid. While the topic is not explicitly addressed in the UoA Preferred Contracting Positions, the clause matches the severability wording found in the UoA Standard Template for Material Transfer Agreements, confirming its compliance.",
+      "standard_ref": "UoA-Material_Transfer_Agreement incoming-Aug 2024.docx"
+    },
+    {
+      "level": "green",
+      "clause_id": "I",
+      "clause_title": "In the event that Recipient is required, pursuant to applicable law, regulation,",
+      "snippet": "In the event that Recipient is required, pursuant to applicable law, regulation, court order, or other legal process, to provide [redacted] Confidential Information, the Recipient will immediately notify [redacted] of such request so that [redacted] may take steps to seek an appropriate protective order or otherwise resist such request. Recipient will disclose only the portion of the Confidential Information which Recipient is advised by its legal counsel is legally required by the request.",
+      "rationale": "This clause addresses the disclosure of Confidential Information under legal compulsion and includes safeguards such as notifying the disclosing party and limiting disclosure to what is legally required. It aligns with UoA's confidentiality requirements under Position #POS-11, which allows for disclosure of confidential information when required by law. The clause does not directly address governing law or jurisdiction, and the comparator's flag is not applicable here.",
+      "standard_ref": "UoA Position #POS-11"
+    }
+  ],
+  "counts": {
+    "green": 7,
+    "amber": 8,
+    "red": 3,
+    "blue": 21
+  },
+  "generated_at": "2026-05-22T07:42:54.678774+00:00",
+  "metrics": {
+    "n_calls": 6,
+    "input_tokens": 6433,
+    "output_tokens": 3389,
+    "total_tokens": 9822,
+    "latency_ms": 109630.6,
+    "total_cost_usd": 0.049973,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)",
+    "UoA Template — UoA-Material_Transfer_Agreement incoming-Aug 2024.docx",
+    "UoA Template — UoA-Material_Transfer_Agreement_outgoing_Aug 2024.docx"
+  ]
+}

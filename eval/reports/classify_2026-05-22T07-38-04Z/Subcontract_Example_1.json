@@ -1,0 +1,12 @@
+{
+  "filename": "Subcontract Example 1.pdf",
+  "predicted_type": "Research Subcontract",
+  "confidence": 0.9,
+  "rationale": "The document explicitly refers to itself as a 'Subcontractor Agreement' and mentions terms like 'Subcontractor Investigator,' 'Funder Agreement,' and 'Research Project,' which strongly indicate that this is a Research Subcontract. While the keyword baseline suggested 'Master Services Agreement,' the context and terminology in the document align more closely with a Research Subcontract.",
+  "expected_hint": "Research Subcontract",
+  "name_match": true,
+  "wall_ms": 2316.0,
+  "source_text_chars": 28062,
+  "source_clauses": 187,
+  "merged_fragments": []
+}

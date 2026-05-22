@@ -1,0 +1,167 @@
+{
+  "filename": "CDA example 2.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "n_clauses": 19,
+  "counts": {
+    "red": 0,
+    "amber": 13,
+    "green": 2,
+    "blue": 4
+  },
+  "n_flags": 19,
+  "wall_ms": 8.92,
+  "flags": [
+    {
+      "level": "green",
+      "clause_id": "M",
+      "clause_title": "MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT",
+      "snippet": "MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT",
+      "rationale": "Aligns with UoA preferred position on Confidentiality — matches \"MUTUAL CONFIDENTIALITY\". Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "green",
+      "clause_id": "E",
+      "clause_title": "Effective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-",
+      "snippet": "Effective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-Disclosure Agreement (\"Agreement\") is made and entered into by and between the UNIVERSITY OF AUCKLAND, a university constituted under the Uni…",
+      "rationale": "Aligns with UoA preferred position on Confidentiality — matches \"Mutual Confidentiality\". Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "W",
+      "clause_title": "WHEREAS, Organization and Company are the owners of Confidential Information",
+      "snippet": "WHEREAS, Organization and Company are the owners of Confidential Information (as defined below) pertaining to research, development, processes, products, materials, inventions, technology and/or business plans, which th…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "W__dup__2",
+      "clause_title": "WHEREAS, Organization and Company intend to disclose to each other certain",
+      "snippet": "WHEREAS, Organization and Company intend to disclose to each other certain of such Confidential Information as they deem necessary in order to evaluate a potential business collaboration(s) of mutual interest.",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NOW THEREFORE, in consideration of the mutual promises and covenants herein",
+      "snippet": "NOW THEREFORE, in consideration of the mutual promises and covenants herein contained, the receipt and sufficiency of which the Parties hereby acknowledge, Organization and Company agree as follows:",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "1",
+      "clause_title": "1. For the purpose of this Agreement, \"Confidential Information\" shall mean",
+      "snippet": "1. For the purpose of this Agreement, \"Confidential Information\" shall mean any and all information whether in oral, written, graphic or electronic form, including but not limited to, data, know-how and any and all subj…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2",
+      "clause_title": "2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information",
+      "snippet": "2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information from the other Party (the \"Disclosing Party\"), shall use such Confidential Information for the sole purpose of discussions between the Part…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3",
+      "clause_title": "3. Neither Party shall disclose to any third party any Confidential Information",
+      "snippet": "3. Neither Party shall disclose to any third party any Confidential Information received from the Disclosing Party hereunder, except under the provisions of paragraph 5 of this Agreement. Upon discovery of any loss or u…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4",
+      "clause_title": "4. The Receiving Party shall only disseminate Confidential Information to those",
+      "snippet": "4. The Receiving Party shall only disseminate Confidential Information to those employees with a special need to know such Confidential Information. The Receiving Party hereby warrants that such employees shall be infor…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "5",
+      "clause_title": "5. The Receiving Party’s duties and obligations to protect Confidential Informat",
+      "snippet": "5. The Receiving Party’s duties and obligations to protect Confidential Information disclosed under this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years; provided, …",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6. Confidential Information shall not be reproduced in any form except as requir",
+      "snippet": "6. Confidential Information shall not be reproduced in any form except as required to accomplish the intent of this Agreement. Any reproduction of any Confidential Information of the Disclosing Party by the Receiving Pa…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7. The Receiving Party agrees, upon request, to promptly return or confirm in",
+      "snippet": "7. The Receiving Party agrees, upon request, to promptly return or confirm in writing it has destroyed all tangible items relating to Confidential Information of the Disclosing Party, including but not limited to, all m…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "8",
+      "clause_title": "8. Nothing in this Agreement shall be construed as granting any license or right",
+      "snippet": "8. Nothing in this Agreement shall be construed as granting any license or right under any patent or other intellectual property rights, or representing any commitment by either Party to enter into any additional agreem…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "9. This Agreement shall constitute the entire understanding between the Parties",
+      "snippet": "9. This Agreement shall constitute the entire understanding between the Parties with respect to the subject matter hereof and may be modified only in writing signed by both Parties. If any provision of this Agreement is…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "10",
+      "clause_title": "10. This Agreement, and rights and obligations hereunder, shall not be assigned",
+      "snippet": "10. This Agreement, and rights and obligations hereunder, shall not be assigned or transferred, directly or indirectly, in whole or in part, by either Party, without the prior written consent of both Parties, which cons…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "11",
+      "clause_title": "11. The disclosure of Confidential Information under this Agreement may commence",
+      "snippet": "11. The disclosure of Confidential Information under this Agreement may commence as of the Effective Date, but shall terminate one (1) year thereafter; provided, however, the termination of such disclosures under this A…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "12. All notices or reports permitted or required under this Agreement shall be i",
+      "snippet": "12. All notices or reports permitted or required under this Agreement shall be in writing and shall be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return r…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "13. Each Party represents and warrants that it has the authority to undertake th",
+      "snippet": "13. Each Party represents and warrants that it has the authority to undertake the obligations set forth in this Agreement without breaching or violating any contractual or statutory obligation owed to another.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "14",
+      "clause_title": "14. This Agreement shall be construed in accordance with the laws of the Austral",
+      "snippet": "14. This Agreement shall be construed in accordance with the laws of the Australia. To evidence their agreement to the foregoing, the Parties have, through duly authorized representatives, executed this Agreement. ```",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    }
+  ]
+}

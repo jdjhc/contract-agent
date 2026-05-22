@@ -1,0 +1,12 @@
+{
+  "filename": "Contract for Goods and Services Example.pdf",
+  "predicted_type": "Provision of Services Agreement",
+  "confidence": 0.85,
+  "rationale": "The document primarily outlines terms for the supply of goods and services, including performance, milestones, and subcontractor management. While 'subcontract' is mentioned, the focus is on service provision rather than a research-specific subcontract.",
+  "expected_hint": "Provision of Services Agreement",
+  "name_match": true,
+  "wall_ms": 4950.0,
+  "source_text_chars": 214952,
+  "source_clauses": 213,
+  "merged_fragments": []
+}

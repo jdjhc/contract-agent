@@ -1,0 +1,952 @@
+{
+  "filename": "Subcontract Example 1.pdf",
+  "merged_fragments": [],
+  "text_chars": 28062,
+  "n_clauses": 187,
+  "ingest_metrics": {
+    "n_calls": 1,
+    "input_tokens": 5930,
+    "output_tokens": 3043,
+    "latency_ms": 17200.7,
+    "total_cost_usd": 0.045255
+  },
+  "wall_ms": 17520.8,
+  "text": "GENERAL TERMS\n1. DEFINITIONS AND INTERPRETATION\n1.1 In this Agreement:\nAccepted or Acceptance as used below refers to compliance with the terms of the agreement and the\nperformance of this statement of work outlined in Schedule 1.\nAffiliate of a party means any person that controls or is controlled by that party, or is under common\ncontrol with that party.\nAgreement means this Subcontractor Agreement, including the Contract Details, these General Terms\n(as may be varied in the Contract Details) and any Schedules.\nBackground IP of a party means intellectual property, information, materials and other items of that\nparty (or its licensors) existing prior to the date of this Agreement or developed independently of this\nAgreement and includes the specific Background IP of that party identified in the Contract Details (if\nany).\nBusiness Day means:\n(a) in clause 19.3, a day of the week, excluding Saturdays, Sundays and public holidays observed in\nthe location of the intended recipient; or\n(b) in any other case, a day of the week, excluding Saturdays, Sundays and public holidays observed\nin Auckland, New Zealand.\nConfidential Information. Neither Party anticipates the exchange of Confidential Information during\ntheir performance of this Agreement. However, should any such exchange take place, the following\nshall apply: “Confidential Information” shall mean all information clearly marked as “Confidential”,\nregardless of its nature, in both tangible and intangible form (e.g., orally or visually disclosed), provided\nthat oral or visual disclosures are reduced to writing within thirty (30) days of disclosure, but excludes\ninformation to the extent it:\n(c) is or becomes public knowledge, other than as a result of any fault of the Recipient or its permitted\ndisclosees;\n(d) is developed independently of this Agreement and any information of the Disclosing Party; or\n(e) is received by the Recipient from a third party without restriction and without any breach of any\nobligation of confidentiality.\nContract Details means the agreement-specific details set out at the front of this Agreement.\nEnd Date means the end date set out in the Contract Details.\nExport Controls has the meaning given in clause 13.2.\nFees means the fees and expenses (if any) set out in Schedule 2.\nForce Majeure Event means an event beyond the reasonable control of a party.\nFunder means the funder set out in the Contract Details.\nFunder Agreement means the agreement between the University and the Funder for the delivery of\nthe Research Project.\nGST means Goods and Services Tax as defined in the Goods and Services Tax Act 1985 or any goods\nand services, value added, sales or equivalent tax in any relevant jurisdiction.\nInsolvency Event means, in relation to a party, that the party (other than for the purposes of a solvent\nrestructuring) ceases or threatens to cease to carry on business, or (where the party is the\nSubcontractor) is subject to any form of insolvency proceedings, commits an act of bankruptcy or has\nbeen adjudicated bankrupt, has any of its assets seized by a creditor, enters into any arrangement for\nthe benefit of its creditors, has a receiver, liquidator, administrator, statutory manager or similar official\nappointed, becomes insolvent or is deemed by law to be so, or suffers any analogous event under the\nlaws of any relevant jurisdiction.\nIntellectual Property Rights means any and all rights to and interests in or protecting (anywhere in\nthe world) any industrial or intellectual property of any kind, whether or not in a material form, including\ncopyright, trade marks, design rights, patents (or similar), all rights relating to know-how, confidential\ninformation, names, brands, inventions, discoveries, works, data, databases, designs, circuit layouts,\n\nany right to apply for registration of any such rights, any right to claim priority under international\nconvention for any such applications and all rights conferred by such applications or registrations.\nKey Personnel means the personnel so named in the Contract Details, as may be updated from time\nto time in accordance with clause 5.2.\nPrincipal Investigator means the person so named in the Contract Details.\nRequirements means the requirements for the Services set out in Schedule 1, and as otherwise\nreasonably required by the University from time to time.\nResearch Project means the research project described in the Contract Details.\nResults means all data, information, research findings, discoveries, deliverables, reports and other\nresults arising from the performance of the Services.\nServices mean the services described in the Contract Details.\nStart Date means the start date set out in the Contract Details.\nSubcontractor Investigator means the person so named in the Contract Details, as may be updated\nfrom time to time in accordance with clause 5.2.\nUniversity Input means the materials, resources and other items set out in the Contract Details (if\nany).\n1.2 In this Agreement:\n(a) clause and other headings are for ease of reference only and do not affect its interpretation;\n(b) unless the context requires otherwise, the singular includes the plural and vice versa;\n(c) references to legislation include all subordinate legislation, any amendment to, and all legislation\npassed in substitution for that legislation;\n(d) references to a party includes that party’s successors and permitted assigns;\n(e) references to a party’s personnel include its employees, agents, and contractors acting in relation\nto this Agreement;\n(f) all monetary amounts are in New Zealand dollars unless stated otherwise; and\n(g) including and like terms mean including, without limitation.\n2. TERM\n2.1 This Agreement is effective on the Start Date and ends on the End Date, unless terminated earlier in\naccordance with its terms.\n3. APPOINTMENT AND SERVICES\n3.1 Each party acknowledges that the engagement under this Agreement is on a non-exclusive basis.\n3.2 In providing the Services and performing its other obligations under this Agreement, the Subcontractor\nmust:\n(a) exercise all due care, diligence and skill;\n(b) conform to the highest standards reasonably expected of professional persons providing services of\nthe type described in this Agreement;\n(c) meet required timeframes;\n(d) comply with all reasonable directions given by the University in relation to the Services.\n(e) comply with:\n(i) all applicable laws and regulatory (including ethics) requirements; and\n(ii) all relevant policies of the University, as advised to the Subcontractor from time to time\nreasonably in advance;\n(f) ensure that the Services meet the Requirements;\n(g) subject to clause 11 provide the University with all Results as they become available;\n\n(h) except for any University Input, provide all personnel, facilities, information, materials and other\nitems required by it to provide the Services and perform its other obligations under this Agreement;\n(i) ensure it has all necessary consents, permissions and approvals to provide the Services and Results\nfor use as contemplated by this Agreement;\n(j) comply with any applicable terms and conditions for any third party tools supplied by the University;\n(k) promptly notify the University on becoming aware of an issue that might reasonably be expected\nto adversely impact the delivery of the Services in accordance with this Agreement; and\n(l) do all things reasonably required to co-ordinate the provision of the Services with the provision of\ngoods and/or services by other persons engaged by the University in connection with the Research\nProject and not do anything that may unreasonably impede the provision of those other goods\nand/or services.\n3.3 The Subcontractor must use the Fees only to carry out the Services in accordance with this Agreement.\n3.4 The University will provide the Subcontractor with the University Input by any stated dates set out in\nthe Contract Details and all information and other assistance reasonably required to enable the\nSubcontractor to carry out the Services.\n3.5 The Subcontractor must provide the University with progress reports (if any) at the frequency and/or\ntimes set out in Schedule 1 and other reasonably requested reports on the progress of the Services.\n3.6 Each party will ensure that its designated personnel attend meetings (if any) at the times set out in\nSchedule 1.\n3.7 The Subcontractor is responsible for the acts and omissions of its subcontractors as if they were the\nacts and omissions of the Subcontractor.\n4. CONFLICT OF INTEREST\n4.1 As at the Start Date the Subcontractor certifies it has no actual or potential conflicts of interest related\nto this Agreement.\n4.2 During the term of this Agreement, the Subcontractor will promptly advise the University of any actual\nor potential conflicts of interest related to this Agreement.\n4.3 The Subcontractor will follow any mitigation plan reasonably required by the University to manage any\nconflicts of interest related to this Agreement.\n4.4 The University may terminate this Agreement immediately on notice if it reasonably considers a\nSubcontractor’s conflict of interest:\n(a) has a material adverse impact on the Subcontractor’s ability to provide the Services or the\nUniversity’s other legitimate interests; and\n(b) cannot be sufficiently mitigated or managed.\n4.5 Either party may terminate this Agreement immediately on notice to the other party where the parties\ncannot agree a mitigation plan under clause 4.3.\n5. KEY PERSONNEL\n5.1 The Subcontractor must:\n(a) ensure that the Services are at all times carried out under the direction and supervision of the\nSubcontractor Investigator; and\n(b) perform the Services using the Key Personnel for the roles stated in the Contract Details.\n5.2 The Subcontractor must notify the University of any changes in the level of active involvement of any\nof the Key Personnel in carrying out the Services, including any temporary absences. If any member\nof the Key Personnel is, or is likely to become, unavailable to provide the Services, the Subcontractor\nwill notify the University as soon as practicable and discuss in good faith a replacement or other\nappropriate steps to take.\n5.3 The University may terminate this Agreement on notice to the Subcontractor if the parties fail to agree\na replacement or other appropriate steps, within 30 days of the University’s receipt of the\nSubcontractor’s notice under clause 5.2.\n\n6. ACCEPTANCE\n6.1 The Subcontractor acknowledges that under the Funder Agreement all results provided under the\nFunder Agreement need to be accepted by the Funder.\n6.2 Where all or any part of the Results must be accepted by the Funder as part of the Research Project:\n(a) those Results will not be treated as complete until accepted by the Funder;\n(b) the Subcontractor must provide all reasonable assistance requested by the University for the\npurpose of obtaining the Funder’s acceptance including re-performing at its cost the relevant\nServices to the requirements of the Funder; and\n(c) the University will act promptly and reasonably to the extent that the requirements and\nresponsiveness of the Funder permit.\n7. HEALTH AND SAFETY\n7.1 Each party, where applicable, must comply with its obligations under the Health and Safety at Work Act\n2015 (HSW Act).\n7.2 If a party (first party) is or will be on the other party’s (Site party’s) premises or controlled site (Site)\nin relation to the Services:\n(a) each party will consult, cooperate and coordinate with the other party on:\n(i) the parties’ mutual obligations under the HSW Act; and\n(ii) what is reasonably required of each party and its personnel to assist the other party with its\nHSW Act compliance;\n(b) the Site party will provide in advance a Site induction and safety briefing to the first party’s\npersonnel and copies of the health and safety policies and management plan for the Site;\n(c) each party will ensure its personnel follow the Site party’s health and safety policies and\nmanagement plan and any other reasonable safe working directions, and wear any specified safety\ngear while on the Site;\n(d) each party will notify the other party as soon as possible of any health and safety hazards, issues,\nNotifiable Events (within the meaning of the HSW Act or other applicable legislation), and any\ncontact by any regulatory agency in relation to any health, safety or environmental matter relating\nto this Agreement or any Services.\n8. FEES AND PAYMENT\n8.1 Subject to clause 8.3, the University must pay the Subcontractor the Fees for Services properly provided\nin accordance with this Agreement as set out in Schedule 2 and this clause 8.\n8.2 Unless stated otherwise in Schedule 2, the Fees:\n(a) exclude GST, which the University must pay in addition to the Fees where applicable; and\n(b) include all costs, expenses and disbursements incurred by the Subcontractor in providing the\nServices.\n8.3 The Subcontractor must invoice the University on or after the dates set out in Schedule 2 or, if none\nare stated, monthly for Services provided in the previous month. Each invoice must:\n(a) be a valid invoice; and\n(b) include sufficient identifying details of the Services (including deliverables or milestones) to which\nthe invoice relates and the dates of supply or any other information reasonably requested by the\nUniversity.\n8.4 The Subcontractor must keep accurate and up-to-date financial records and documents of time and\nresources used in providing the Services, and provide copies of all such records to the University on\nrequest.\n9. TAXATION\n9.1 The Subcontractor is solely responsible for any duties, levies, ACC, GST and taxation in connection with\nthe Fees, including other payments which may be payable in respect of the payments or benefits\nprovided by the University under this Agreement.\n\n9.2 The University will make no deduction on account of tax and any other imposition except that which\nthe University is required by law to make. To avoid doubt, the Subcontractor acknowledges that where\nthe Services are of a type covered by Schedule 4 of the Income Tax Act 2007 the University may deduct\ntax from the Fees at the applicable rate(s) prescribed in that Schedule 4. The University may decide,\nin its sole discretion, whether or not the Services are of a type covered by that Schedule 4.\n9.3 The Subcontractor will indemnify and keep indemnified the University for the payment of taxes, fees,\nduties, levies, penalties or other charges whatsoever imposed on the University or the Subcontractor\nby any governmental authority arising out of or in relation to this Agreement.\n9.4 In the event that the New Zealand Inland Revenue Department makes a request in writing to the\nUniversity to pay, deduct or withhold any tax in respect of payments made under this Agreement after\nsuch payments have been paid to the Subcontractor, the Subcontractor agrees to refund to the\nUniversity that amount of tax within 14 Business Days of the University notifying the Subcontractor of\nthe written request.\n10. CONFIDENTIALITY\n10.1 Neither Party anticipates the exchange of Confidential Information during their performance of this\nAgreement. Each party must keep Confidential Information of the other party secure and confidential\nand, except with the prior consent of the other party, not:\n(a) use it for any purpose other than as required to perform its obligations or exercise its rights under\nthis Agreement; or\n(b) disclose it to any person other than:\n(i) as permitted under this Agreement;\n(ii) to its or its Affiliates’ personnel who have a need-to-know to give effect to this Agreement, or\nto its professional advisors, provided that the recipient is under obligations of confidentiality\nequivalent to those in this clause 10; or\n(iii) in the case of the University, to the Funder to the extent reasonably required to give effect to\nthe Funder Agreement, provided that the Funder is under obligations of confidentiality\nequivalent to those in this clause 10.\n10.2 The obligations of confidentiality do not apply to the extent any information that it is required to be\ndisclosed by law (including under the rules of any recognised stock exchange).\n10.3 Neither party may use the names, logos or trade marks of the other party, its Affiliates or their personnel\nwithout the other party’s prior written consent.\n10.4 The Subcontractor acknowledges that the University:\n(a) is subject to the Official Information Act 1982 which recognises a right of the public to access official\ninformation; and\n(b) may disclose the following, in accordance with that Act, without further consultation with the\nSubcontractor:\n(i) the name of the Subcontractor;\n(ii) the subject matter of this Agreement (e.g. that the Subcontractor provided services related to\na named research project); and\n(iii) Fees paid or payable under this Agreement either in total or for a given period\n11. INTELLECTUAL PROPERTY\n11.1 Each party (or its licensors) retains ownership of all rights, title and interest (including Intellectual\nProperty Rights) in its Background IP.\n11.2 Subject to clause 11.1, ownership of the Results vests automatically on creation in the parties (or their\nassignees) jointly as tenants in common in proportions relative to each party’s respective contribution\nto the Project\n11.3 Each party grants the other party a non-exclusive, royalty-free, perpetual and irrevocable licence to\nuse, and to permit its personnel to use, the Results (including any Intellectual Property Rights subsisting\nin the Results) for the purposes of that party’s internal teaching and academic research.\n\n11.4 Except as expressly provided otherwise in this Agreement, a party must not commercially exploit or\notherwise use the Results (including Intellectual Property Rights subsisting in the Results) without the\nwritten consent of the other party.\n11.5 The parties will discuss and agree each party’s responsibilities and proportionate costs of any patent\napplications in relation to jointly owned Results, prior to submitting any such application.\n11.6 Each party will, at the other party’s cost, provide reasonable information and assistance and do or\nprocure any further acts, including the execution of any document, where necessary to give effect to\nclauses 11.1 and 11.2.\n11.7 Each party grants the other party a non-exclusive, royalty-free worldwide licence to use its Background\nIP that it has contributed to the Research as reasonably required by the other party to carry out the\nResearch in accordance with this Agreement.\n11.8 Except as expressly provided otherwise, this Agreement does not grant any licence or other rights to a\nparty to use the other party’s Background IP.\n12. CERTIFICATIONS\n12.1 Each party certifies that it has full power and authority to enter into and perform its obligations under\nthis Agreement.\n12.2 To the extent permitted by law, each party’s certifications are limited to those expressly set out in this\nAgreement and all implied conditions (including any under Part 3 of the Contract and Commercial Law\nAct 2017) are excluded.\n13. SANCTIONS AND IMPORT/EXPORT CONTROLS\n13.1 Each party certifies that it is not subject to any United Nations’ or other sanctions that would prohibit\na party from entering into or performing this Agreement.\n13.2 The parties acknowledge that export controls may require permission from a government or other\nregulatory agency in the location of a party to enable the transfer of information, materials or other\nitems from one party to the other party or the Funder (as the case may be) (Export Controls).\n13.3 Each party:\n(a) will use reasonable efforts to obtain in a timely manner (and may disclose Confidential Information\nof the other party strictly for the purposes of) any required permissions under Export Controls to\ngive effect to this Agreement; but\n(b) excludes all representations and warranties that any required permissions will be obtained or will\nbe obtained within an acceptable timeframe or only on conditions acceptable to a party.\n13.4 A party must promptly provide all information requested by the other party or a relevant government\nor other regulatory agency relating to sanctions, sensitive research or Export Controls, including:\n(a) any end-user certificate or similar undertaking; and\n(b) any information requested for the purposes of any special terms included in the Contract Details.\n13.5 A party bears all risk and responsibility for obtaining any required permissions from a government or\nother regulatory agency in its location to enable it to import information, materials or other items from\nthe other party under this Agreement (Import Controls). Each party will provide to the other party\nor a government or other regulatory agency in the other party’s location reasonable information\nrequested in relation to Import Controls.\n13.6 Subject to its compliance with this clause 13 and any related special terms in the Contract Details, each\nparty excludes all liability for any inability to give effect to this Agreement as a result of compliance\nwith sanctions, sensitive research, Export Controls or Import Controls (including any decision or delay\nin decision-making by any relevant government or other regulatory agency).\n14. INDEMNITY\n14.1 Not used.\n15. LIABILITY\n15.1 The maximum aggregate liability of each party to the other party under or in relation to this Agreement\nis limited to an amount equal to 3x the total amount of Fees payable by the University to the\nSubcontractor under this Agreement.\n\n15.2 Neither party will be liable to the other party under or in relation to this Agreement for any\nconsequential, indirect, incidental or special damage or loss of any kind.\n15.3 Clauses 15.1 and 15.2 do not apply to limit any liability for:\n(a) fraud or wilful misconduct.\n15.4 Each party must maintain adequate public liability and professional indemnity insurance sufficient to\ncover its risks under this Agreement, for the term of this Agreement and a period of two years following\nits expiry or termination.\n16. TERMINATION\n16.1 Either party may terminate this Agreement on 14 days’ notice if any dependency stated in the Contract\nDetails fails to be satisfied by the stated date or having been satisfied then fails.\n16.2 A party (first party) may terminate this Agreement immediately on notice to the other party if:\n(a) the other party commits a material breach of this Agreement and either the breach is incapable of\nremedy or the other party fails to remedy that breach within 14 days of the first party notifying it\nof the breach;\n(b) the other party is subject to an Insolvency Event; or\n(c) subject to the first party’s compliance with clause 13 and any related special terms in the Contract\nDetails, either party is unable reasonably to give effect to this Agreement as a result of compliance\nwith sanctions, sensitive research, Export Controls or Import Controls.\n16.3 The University may terminate this Agreement immediately on notice to the Subcontractor, if the\nSubcontractor has:\n(a) misused or misappropriated any Fees; or\n(b) given any information, representation, or statement to the University in relation to the Services or\nthis Agreement that is misleading or inaccurate in any material respect.\n16.4 Termination or expiry of this Agreement does not affect a party’s rights or obligations that have accrued\nbefore termination or expiry.\n16.5 On termination or expiry of this Agreement:\n(a) The University may (without limiting any of its other rights or remedies):\n(i) require the Subcontractor to return all Fees not spent or for which contractual liabilities have\nnot been incurred by the Subcontractor at the date of termination; or\n(ii) if terminated under clauses 16.2(a) or 16.3, require the Subcontractor to return all Fees paid\nup to the date of termination, together with interest at the University’s overdraft rate applicable\nas at the termination date plus 2% per annum, and compounded monthly, from the termination\ndate to the date returned;\n(b) clauses 8, 9, 10, 11, 13.6, 14, 15, 16.4, 16.5, 18, 19.8 and any other clauses intended to survive\ntermination or expiry, continue in force; and\n(c) each party, on request, must promptly return to the other all documents, materials and other items\nbelonging to the other party and in its possession or control at the time of termination or expiry.\n17. FORCE MAJEURE\n17.1 A party will not be liable for any failure or delay in the performance of its obligations under this\nAgreement to the extent such failure or delay is due to a Force Majeure Event.\n18. DISPUTES\n18.1 Each party must use all reasonable efforts to meet and discuss in good faith any dispute arising in\nrelation to this Agreement. A party must not issue any legal proceedings (other than for urgent\ninterlocutory and/or injunctive relief) in respect of any dispute in connection with this Agreement,\nunless it has complied with this clause 18.\n18.2 In the event of a dispute as to any amount payable to the Subcontractor, the University must continue\nto pay any undisputed portion of any invoice.\n\n19. GENERAL\n19.1 Governing law and jurisdiction: This Agreement is governed by and interpreted in accordance with\nthe laws of New Zealand. The parties submit to the non-exclusive jurisdiction of the courts of England.\n19.2 Assignment: This Agreement must not be assigned, subcontracted or otherwise delegated by a party\n(in whole or in part) without the prior written consent of the other party.\n19.3 Notices: Any notice given under this Agreement must be in writing and may be delivered in person\n(including courier), by prepaid post or email (provided that in the case of email the sender does not\nreceive any notice of non-delivery) to that party’s address in the Contract Details (or as may be updated\nby that party by notice from time to time). Any notice sent by prepaid post is deemed received 2\nBusiness Days from the date of posting (or 7 Business Days from the date of posting if sent to or from\na place outside New Zealand). Any notice delivered in person or by email on a non-Business Day or\nafter 5pm on a Business Day is deemed received on the next Business Day.\n19.4 Cumulative remedies: The rights and remedies of each party under this Agreement are cumulative\nand are not exclusive of any other rights and remedies under this Agreement or at law.\n19.5 Waiver and variation: No waiver of any right under this Agreement is effective unless in writing and\nsigned by the waiving party. Except as expressly set out otherwise in this Agreement, no variation to\nthis Agreement (including a material variation to the Requirements) is effective unless in writing and\nsigned by each party.\n19.6 Parties’ relationship: The parties are independent contracting parties and no other relationship (e.g.\nemployment) arises between them under this Agreement. Neither party is authorised to act as agent\nfor or to bind the other party for any purpose and must not make any contrary representation to any\nperson.\n19.7 Severability: If any provision of this Agreement is or becomes invalid or unenforceable, the provision\nis deemed to be modified to the extent required to remedy the invalidity or unenforceability. If such\nmodification is not possible, the provision is deemed to be severed and will not affect the validity or\nenforceability of the other provisions of this Agreement.\n19.8 Entire agreement: To the extent permitted by law, each party acknowledges and agrees that:\n(a) this Agreement sets out the entire understanding between the parties and supersedes any prior\noral or written agreement or understanding between the parties relating to its subject matter; and\n(b) no representations made by the other party have been relied on by it in entering into this\nAgreement, other than those expressly set out in this Agreement.\n19.9 Counterparts: This Agreement may be executed in 2 or more counterparts, each of which is deemed\nan original and all of which constitute the same Agreement. A party may enter this Agreement by\nsigning (including electronically) and sending (including by email) a counterpart copy to the other party.",
+  "clauses": [
+    {
+      "id": "G",
+      "title": "GENERAL TERMS",
+      "text": "GENERAL TERMS"
+    },
+    {
+      "id": "1",
+      "title": "1. DEFINITIONS AND INTERPRETATION",
+      "text": "1. DEFINITIONS AND INTERPRETATION"
+    },
+    {
+      "id": "1.1",
+      "title": "1.1 In this Agreement:",
+      "text": "1.1 In this Agreement:"
+    },
+    {
+      "id": "A",
+      "title": "Accepted or Acceptance as used below refers to compliance with the terms of",
+      "text": "Accepted or Acceptance as used below refers to compliance with the terms of the agreement and the\nperformance of this statement of work outlined in Schedule 1."
+    },
+    {
+      "id": "A__dup__2",
+      "title": "Affiliate of a party means any person that controls or is controlled by that par",
+      "text": "Affiliate of a party means any person that controls or is controlled by that party, or is under common\ncontrol with that party."
+    },
+    {
+      "id": "A__dup__3",
+      "title": "Agreement means this Subcontractor Agreement, including the Contract Details,",
+      "text": "Agreement means this Subcontractor Agreement, including the Contract Details, these General Terms\n(as may be varied in the Contract Details) and any Schedules."
+    },
+    {
+      "id": "B",
+      "title": "Background IP of a party means intellectual property, information, materials",
+      "text": "Background IP of a party means intellectual property, information, materials and other items of that\nparty (or its licensors) existing prior to the date of this Agreement or developed independently of this\nAgreement and includes the specific Background IP of that party identified in the Contract Details (if\nany)."
+    },
+    {
+      "id": "B__dup__2",
+      "title": "Business Day means:",
+      "text": "Business Day means:"
+    },
+    {
+      "id": "9",
+      "title": "(a) in clause 19.3, a day of the week, excluding Saturdays, Sundays and public",
+      "text": "(a) in clause 19.3, a day of the week, excluding Saturdays, Sundays and public holidays observed in\nthe location of the intended recipient; or"
+    },
+    {
+      "id": "10",
+      "title": "(b) in any other case, a day of the week, excluding Saturdays, Sundays and publi",
+      "text": "(b) in any other case, a day of the week, excluding Saturdays, Sundays and public holidays observed\nin Auckland, New Zealand."
+    },
+    {
+      "id": "C",
+      "title": "Confidential Information. Neither Party anticipates the exchange of Confidential",
+      "text": "Confidential Information. Neither Party anticipates the exchange of Confidential Information during\ntheir performance of this Agreement. However, should any such exchange take place, the following\nshall apply: “Confidential Information” shall mean all information clearly marked as “Confidential”,\nregardless of its nature, in both tangible and intangible form (e.g., orally or visually disclosed), provided\nthat oral or visual disclosures are reduced to writing within thirty (30) days of disclosure, but excludes\ninformation to the extent it:"
+    },
+    {
+      "id": "12",
+      "title": "(c) is or becomes public knowledge, other than as a result of any fault of the",
+      "text": "(c) is or becomes public knowledge, other than as a result of any fault of the Recipient or its permitted\ndisclosees;"
+    },
+    {
+      "id": "13",
+      "title": "(d) is developed independently of this Agreement and any information of the",
+      "text": "(d) is developed independently of this Agreement and any information of the Disclosing Party; or"
+    },
+    {
+      "id": "14",
+      "title": "(e) is received by the Recipient from a third party without restriction and with",
+      "text": "(e) is received by the Recipient from a third party without restriction and without any breach of any\nobligation of confidentiality."
+    },
+    {
+      "id": "C__dup__2",
+      "title": "Contract Details means the agreement-specific details set out at the front of th",
+      "text": "Contract Details means the agreement-specific details set out at the front of this Agreement."
+    },
+    {
+      "id": "E",
+      "title": "End Date means the end date set out in the Contract Details.",
+      "text": "End Date means the end date set out in the Contract Details."
+    },
+    {
+      "id": "E__dup__2",
+      "title": "Export Controls has the meaning given in clause 13.2.",
+      "text": "Export Controls has the meaning given in clause 13.2."
+    },
+    {
+      "id": "F",
+      "title": "Fees means the fees and expenses (if any) set out in Schedule 2.",
+      "text": "Fees means the fees and expenses (if any) set out in Schedule 2."
+    },
+    {
+      "id": "F__dup__2",
+      "title": "Force Majeure Event means an event beyond the reasonable control of a party.",
+      "text": "Force Majeure Event means an event beyond the reasonable control of a party."
+    },
+    {
+      "id": "F__dup__3",
+      "title": "Funder means the funder set out in the Contract Details.",
+      "text": "Funder means the funder set out in the Contract Details."
+    },
+    {
+      "id": "F__dup__4",
+      "title": "Funder Agreement means the agreement between the University and the Funder",
+      "text": "Funder Agreement means the agreement between the University and the Funder for the delivery of\nthe Research Project."
+    },
+    {
+      "id": "G__dup__2",
+      "title": "GST means Goods and Services Tax as defined in the Goods and Services Tax Act",
+      "text": "GST means Goods and Services Tax as defined in the Goods and Services Tax Act 1985 or any goods\nand services, value added, sales or equivalent tax in any relevant jurisdiction."
+    },
+    {
+      "id": "I",
+      "title": "Insolvency Event means, in relation to a party, that the party (other than for t",
+      "text": "Insolvency Event means, in relation to a party, that the party (other than for the purposes of a solvent\nrestructuring) ceases or threatens to cease to carry on business, or (where the party is the\nSubcontractor) is subject to any form of insolvency proceedings, commits an act of bankruptcy or has\nbeen adjudicated bankrupt, has any of its assets seized by a creditor, enters into any arrangement for\nthe benefit of its creditors, has a receiver, liquidator, administrator, statutory manager or similar official\nappointed, becomes insolvent or is deemed by law to be so, or suffers any analogous event under the\nlaws of any relevant jurisdiction."
+    },
+    {
+      "id": "I__dup__2",
+      "title": "Intellectual Property Rights means any and all rights to and interests in or",
+      "text": "Intellectual Property Rights means any and all rights to and interests in or protecting (anywhere in\nthe world) any industrial or intellectual property of any kind, whether or not in a material form, including\ncopyright, trade marks, design rights, patents (or similar), all rights relating to know-how, confidential\ninformation, names, brands, inventions, discoveries, works, data, databases, designs, circuit layouts,\n\nany right to apply for registration of any such rights, any right to claim priority under international\nconvention for any such applications and all rights conferred by such applications or registrations."
+    },
+    {
+      "id": "K",
+      "title": "Key Personnel means the personnel so named in the Contract Details, as may be",
+      "text": "Key Personnel means the personnel so named in the Contract Details, as may be updated from time\nto time in accordance with clause 5.2."
+    },
+    {
+      "id": "P",
+      "title": "Principal Investigator means the person so named in the Contract Details.",
+      "text": "Principal Investigator means the person so named in the Contract Details."
+    },
+    {
+      "id": "R",
+      "title": "Requirements means the requirements for the Services set out in Schedule 1, and",
+      "text": "Requirements means the requirements for the Services set out in Schedule 1, and as otherwise\nreasonably required by the University from time to time."
+    },
+    {
+      "id": "R__dup__2",
+      "title": "Research Project means the research project described in the Contract Details.",
+      "text": "Research Project means the research project described in the Contract Details."
+    },
+    {
+      "id": "R__dup__3",
+      "title": "Results means all data, information, research findings, discoveries, deliverable",
+      "text": "Results means all data, information, research findings, discoveries, deliverables, reports and other\nresults arising from the performance of the Services."
+    },
+    {
+      "id": "S",
+      "title": "Services mean the services described in the Contract Details.",
+      "text": "Services mean the services described in the Contract Details."
+    },
+    {
+      "id": "S__dup__2",
+      "title": "Start Date means the start date set out in the Contract Details.",
+      "text": "Start Date means the start date set out in the Contract Details."
+    },
+    {
+      "id": "S__dup__3",
+      "title": "Subcontractor Investigator means the person so named in the Contract Details,",
+      "text": "Subcontractor Investigator means the person so named in the Contract Details, as may be updated\nfrom time to time in accordance with clause 5.2."
+    },
+    {
+      "id": "U",
+      "title": "University Input means the materials, resources and other items set out in the",
+      "text": "University Input means the materials, resources and other items set out in the Contract Details (if\nany)."
+    },
+    {
+      "id": "1.2",
+      "title": "1.2 In this Agreement:",
+      "text": "1.2 In this Agreement:"
+    },
+    {
+      "id": "35",
+      "title": "(a) clause and other headings are for ease of reference only and do not affect",
+      "text": "(a) clause and other headings are for ease of reference only and do not affect its interpretation;"
+    },
+    {
+      "id": "36",
+      "title": "(b) unless the context requires otherwise, the singular includes the plural and",
+      "text": "(b) unless the context requires otherwise, the singular includes the plural and vice versa;"
+    },
+    {
+      "id": "37",
+      "title": "(c) references to legislation include all subordinate legislation, any amendment",
+      "text": "(c) references to legislation include all subordinate legislation, any amendment to, and all legislation\npassed in substitution for that legislation;"
+    },
+    {
+      "id": "38",
+      "title": "(d) references to a party includes that party’s successors and permitted assigns",
+      "text": "(d) references to a party includes that party’s successors and permitted assigns;"
+    },
+    {
+      "id": "39",
+      "title": "(e) references to a party’s personnel include its employees, agents, and",
+      "text": "(e) references to a party’s personnel include its employees, agents, and contractors acting in relation\nto this Agreement;"
+    },
+    {
+      "id": "40",
+      "title": "(f) all monetary amounts are in New Zealand dollars unless stated otherwise;",
+      "text": "(f) all monetary amounts are in New Zealand dollars unless stated otherwise; and"
+    },
+    {
+      "id": "41",
+      "title": "(g) including and like terms mean including, without limitation.",
+      "text": "(g) including and like terms mean including, without limitation."
+    },
+    {
+      "id": "2",
+      "title": "2. TERM",
+      "text": "2. TERM"
+    },
+    {
+      "id": "2.1",
+      "title": "2.1 This Agreement is effective on the Start Date and ends on the End Date, unle",
+      "text": "2.1 This Agreement is effective on the Start Date and ends on the End Date, unless terminated earlier in\naccordance with its terms."
+    },
+    {
+      "id": "3",
+      "title": "3. APPOINTMENT AND SERVICES",
+      "text": "3. APPOINTMENT AND SERVICES"
+    },
+    {
+      "id": "3.1",
+      "title": "3.1 Each party acknowledges that the engagement under this Agreement is on a",
+      "text": "3.1 Each party acknowledges that the engagement under this Agreement is on a non-exclusive basis."
+    },
+    {
+      "id": "3.2",
+      "title": "3.2 In providing the Services and performing its other obligations under this",
+      "text": "3.2 In providing the Services and performing its other obligations under this Agreement, the Subcontractor\nmust:"
+    },
+    {
+      "id": "47",
+      "title": "(a) exercise all due care, diligence and skill;",
+      "text": "(a) exercise all due care, diligence and skill;"
+    },
+    {
+      "id": "48",
+      "title": "(b) conform to the highest standards reasonably expected of professional persons",
+      "text": "(b) conform to the highest standards reasonably expected of professional persons providing services of\nthe type described in this Agreement;"
+    },
+    {
+      "id": "49",
+      "title": "(c) meet required timeframes;",
+      "text": "(c) meet required timeframes;"
+    },
+    {
+      "id": "50",
+      "title": "(d) comply with all reasonable directions given by the University in relation to",
+      "text": "(d) comply with all reasonable directions given by the University in relation to the Services."
+    },
+    {
+      "id": "51",
+      "title": "(e) comply with:",
+      "text": "(e) comply with:"
+    },
+    {
+      "id": "52",
+      "title": "(i) all applicable laws and regulatory (including ethics) requirements; and",
+      "text": "(i) all applicable laws and regulatory (including ethics) requirements; and"
+    },
+    {
+      "id": "53",
+      "title": "(ii) all relevant policies of the University, as advised to the Subcontractor fr",
+      "text": "(ii) all relevant policies of the University, as advised to the Subcontractor from time to time\nreasonably in advance;"
+    },
+    {
+      "id": "54",
+      "title": "(f) ensure that the Services meet the Requirements;",
+      "text": "(f) ensure that the Services meet the Requirements;"
+    },
+    {
+      "id": "55",
+      "title": "(g) subject to clause 11 provide the University with all Results as they become",
+      "text": "(g) subject to clause 11 provide the University with all Results as they become available;"
+    },
+    {
+      "id": "56",
+      "title": "(h) except for any University Input, provide all personnel, facilities, informat",
+      "text": "(h) except for any University Input, provide all personnel, facilities, information, materials and other\nitems required by it to provide the Services and perform its other obligations under this Agreement;"
+    },
+    {
+      "id": "57",
+      "title": "(i) ensure it has all necessary consents, permissions and approvals to provide t",
+      "text": "(i) ensure it has all necessary consents, permissions and approvals to provide the Services and Results\nfor use as contemplated by this Agreement;"
+    },
+    {
+      "id": "58",
+      "title": "(j) comply with any applicable terms and conditions for any third party tools",
+      "text": "(j) comply with any applicable terms and conditions for any third party tools supplied by the University;"
+    },
+    {
+      "id": "59",
+      "title": "(k) promptly notify the University on becoming aware of an issue that might",
+      "text": "(k) promptly notify the University on becoming aware of an issue that might reasonably be expected\nto adversely impact the delivery of the Services in accordance with this Agreement; and"
+    },
+    {
+      "id": "60",
+      "title": "(l) do all things reasonably required to co-ordinate the provision of the Servic",
+      "text": "(l) do all things reasonably required to co-ordinate the provision of the Services with the provision of\ngoods and/or services by other persons engaged by the University in connection with the Research\nProject and not do anything that may unreasonably impede the provision of those other goods\nand/or services."
+    },
+    {
+      "id": "3.3",
+      "title": "3.3 The Subcontractor must use the Fees only to carry out the Services in accord",
+      "text": "3.3 The Subcontractor must use the Fees only to carry out the Services in accordance with this Agreement."
+    },
+    {
+      "id": "3.4",
+      "title": "3.4 The University will provide the Subcontractor with the University Input by a",
+      "text": "3.4 The University will provide the Subcontractor with the University Input by any stated dates set out in\nthe Contract Details and all information and other assistance reasonably required to enable the\nSubcontractor to carry out the Services."
+    },
+    {
+      "id": "3.5",
+      "title": "3.5 The Subcontractor must provide the University with progress reports (if any)",
+      "text": "3.5 The Subcontractor must provide the University with progress reports (if any) at the frequency and/or\ntimes set out in Schedule 1 and other reasonably requested reports on the progress of the Services."
+    },
+    {
+      "id": "3.6",
+      "title": "3.6 Each party will ensure that its designated personnel attend meetings (if any",
+      "text": "3.6 Each party will ensure that its designated personnel attend meetings (if any) at the times set out in\nSchedule 1."
+    },
+    {
+      "id": "3.7",
+      "title": "3.7 The Subcontractor is responsible for the acts and omissions of its subcontra",
+      "text": "3.7 The Subcontractor is responsible for the acts and omissions of its subcontractors as if they were the\nacts and omissions of the Subcontractor."
+    },
+    {
+      "id": "4",
+      "title": "4. CONFLICT OF INTEREST",
+      "text": "4. CONFLICT OF INTEREST"
+    },
+    {
+      "id": "4.1",
+      "title": "4.1 As at the Start Date the Subcontractor certifies it has no actual or potenti",
+      "text": "4.1 As at the Start Date the Subcontractor certifies it has no actual or potential conflicts of interest related\nto this Agreement."
+    },
+    {
+      "id": "4.2",
+      "title": "4.2 During the term of this Agreement, the Subcontractor will promptly advise th",
+      "text": "4.2 During the term of this Agreement, the Subcontractor will promptly advise the University of any actual\nor potential conflicts of interest related to this Agreement."
+    },
+    {
+      "id": "4.3",
+      "title": "4.3 The Subcontractor will follow any mitigation plan reasonably required by the",
+      "text": "4.3 The Subcontractor will follow any mitigation plan reasonably required by the University to manage any\nconflicts of interest related to this Agreement."
+    },
+    {
+      "id": "4.4",
+      "title": "4.4 The University may terminate this Agreement immediately on notice if it",
+      "text": "4.4 The University may terminate this Agreement immediately on notice if it reasonably considers a\nSubcontractor’s conflict of interest:"
+    },
+    {
+      "id": "71",
+      "title": "(a) has a material adverse impact on the Subcontractor’s ability to provide the",
+      "text": "(a) has a material adverse impact on the Subcontractor’s ability to provide the Services or the\nUniversity’s other legitimate interests; and"
+    },
+    {
+      "id": "72",
+      "title": "(b) cannot be sufficiently mitigated or managed.",
+      "text": "(b) cannot be sufficiently mitigated or managed."
+    },
+    {
+      "id": "4.5",
+      "title": "4.5 Either party may terminate this Agreement immediately on notice to the other",
+      "text": "4.5 Either party may terminate this Agreement immediately on notice to the other party where the parties\ncannot agree a mitigation plan under clause 4.3."
+    },
+    {
+      "id": "5",
+      "title": "5. KEY PERSONNEL",
+      "text": "5. KEY PERSONNEL"
+    },
+    {
+      "id": "5.1",
+      "title": "5.1 The Subcontractor must:",
+      "text": "5.1 The Subcontractor must:"
+    },
+    {
+      "id": "76",
+      "title": "(a) ensure that the Services are at all times carried out under the direction an",
+      "text": "(a) ensure that the Services are at all times carried out under the direction and supervision of the\nSubcontractor Investigator; and"
+    },
+    {
+      "id": "77",
+      "title": "(b) perform the Services using the Key Personnel for the roles stated in the",
+      "text": "(b) perform the Services using the Key Personnel for the roles stated in the Contract Details."
+    },
+    {
+      "id": "5.2",
+      "title": "5.2 The Subcontractor must notify the University of any changes in the level of ",
+      "text": "5.2 The Subcontractor must notify the University of any changes in the level of active involvement of any\nof the Key Personnel in carrying out the Services, including any temporary absences. If any member\nof the Key Personnel is, or is likely to become, unavailable to provide the Services, the Subcontractor\nwill notify the University as soon as practicable and discuss in good faith a replacement or other\nappropriate steps to take."
+    },
+    {
+      "id": "5.3",
+      "title": "5.3 The University may terminate this Agreement on notice to the Subcontractor i",
+      "text": "5.3 The University may terminate this Agreement on notice to the Subcontractor if the parties fail to agree\na replacement or other appropriate steps, within 30 days of the University’s receipt of the\nSubcontractor’s notice under clause 5.2."
+    },
+    {
+      "id": "6",
+      "title": "6. ACCEPTANCE",
+      "text": "6. ACCEPTANCE"
+    },
+    {
+      "id": "6.1",
+      "title": "6.1 The Subcontractor acknowledges that under the Funder Agreement all results",
+      "text": "6.1 The Subcontractor acknowledges that under the Funder Agreement all results provided under the\nFunder Agreement need to be accepted by the Funder."
+    },
+    {
+      "id": "6.2",
+      "title": "6.2 Where all or any part of the Results must be accepted by the Funder as part ",
+      "text": "6.2 Where all or any part of the Results must be accepted by the Funder as part of the Research Project:"
+    },
+    {
+      "id": "83",
+      "title": "(a) those Results will not be treated as complete until accepted by the Funder;",
+      "text": "(a) those Results will not be treated as complete until accepted by the Funder;"
+    },
+    {
+      "id": "84",
+      "title": "(b) the Subcontractor must provide all reasonable assistance requested by the",
+      "text": "(b) the Subcontractor must provide all reasonable assistance requested by the University for the\npurpose of obtaining the Funder’s acceptance including re-performing at its cost the relevant\nServices to the requirements of the Funder; and"
+    },
+    {
+      "id": "85",
+      "title": "(c) the University will act promptly and reasonably to the extent that the",
+      "text": "(c) the University will act promptly and reasonably to the extent that the requirements and\nresponsiveness of the Funder permit."
+    },
+    {
+      "id": "7",
+      "title": "7. HEALTH AND SAFETY",
+      "text": "7. HEALTH AND SAFETY"
+    },
+    {
+      "id": "7.1",
+      "title": "7.1 Each party, where applicable, must comply with its obligations under the Hea",
+      "text": "7.1 Each party, where applicable, must comply with its obligations under the Health and Safety at Work Act\n2015 (HSW Act)."
+    },
+    {
+      "id": "7.2",
+      "title": "7.2 If a party (first party) is or will be on the other party’s (Site party’s) p",
+      "text": "7.2 If a party (first party) is or will be on the other party’s (Site party’s) premises or controlled site (Site)\nin relation to the Services:"
+    },
+    {
+      "id": "89",
+      "title": "(a) each party will consult, cooperate and coordinate with the other party on:",
+      "text": "(a) each party will consult, cooperate and coordinate with the other party on:"
+    },
+    {
+      "id": "90",
+      "title": "(i) the parties’ mutual obligations under the HSW Act; and",
+      "text": "(i) the parties’ mutual obligations under the HSW Act; and"
+    },
+    {
+      "id": "91",
+      "title": "(ii) what is reasonably required of each party and its personnel to assist the",
+      "text": "(ii) what is reasonably required of each party and its personnel to assist the other party with its\nHSW Act compliance;"
+    },
+    {
+      "id": "92",
+      "title": "(b) the Site party will provide in advance a Site induction and safety briefing ",
+      "text": "(b) the Site party will provide in advance a Site induction and safety briefing to the first party’s\npersonnel and copies of the health and safety policies and management plan for the Site;"
+    },
+    {
+      "id": "93",
+      "title": "(c) each party will ensure its personnel follow the Site party’s health and safe",
+      "text": "(c) each party will ensure its personnel follow the Site party’s health and safety policies and\nmanagement plan and any other reasonable safe working directions, and wear any specified safety\ngear while on the Site;"
+    },
+    {
+      "id": "94",
+      "title": "(d) each party will notify the other party as soon as possible of any health and",
+      "text": "(d) each party will notify the other party as soon as possible of any health and safety hazards, issues,\nNotifiable Events (within the meaning of the HSW Act or other applicable legislation), and any\ncontact by any regulatory agency in relation to any health, safety or environmental matter relating\nto this Agreement or any Services."
+    },
+    {
+      "id": "8",
+      "title": "8. FEES AND PAYMENT",
+      "text": "8. FEES AND PAYMENT"
+    },
+    {
+      "id": "8.1",
+      "title": "8.1 Subject to clause 8.3, the University must pay the Subcontractor the Fees fo",
+      "text": "8.1 Subject to clause 8.3, the University must pay the Subcontractor the Fees for Services properly provided\nin accordance with this Agreement as set out in Schedule 2 and this clause 8."
+    },
+    {
+      "id": "8.2",
+      "title": "8.2 Unless stated otherwise in Schedule 2, the Fees:",
+      "text": "8.2 Unless stated otherwise in Schedule 2, the Fees:"
+    },
+    {
+      "id": "98",
+      "title": "(a) exclude GST, which the University must pay in addition to the Fees where",
+      "text": "(a) exclude GST, which the University must pay in addition to the Fees where applicable; and"
+    },
+    {
+      "id": "99",
+      "title": "(b) include all costs, expenses and disbursements incurred by the Subcontractor",
+      "text": "(b) include all costs, expenses and disbursements incurred by the Subcontractor in providing the\nServices."
+    },
+    {
+      "id": "8.3",
+      "title": "8.3 The Subcontractor must invoice the University on or after the dates set out ",
+      "text": "8.3 The Subcontractor must invoice the University on or after the dates set out in Schedule 2 or, if none\nare stated, monthly for Services provided in the previous month. Each invoice must:"
+    },
+    {
+      "id": "101",
+      "title": "(a) be a valid invoice; and",
+      "text": "(a) be a valid invoice; and"
+    },
+    {
+      "id": "102",
+      "title": "(b) include sufficient identifying details of the Services (including deliverabl",
+      "text": "(b) include sufficient identifying details of the Services (including deliverables or milestones) to which\nthe invoice relates and the dates of supply or any other information reasonably requested by the\nUniversity."
+    },
+    {
+      "id": "8.4",
+      "title": "8.4 The Subcontractor must keep accurate and up-to-date financial records and",
+      "text": "8.4 The Subcontractor must keep accurate and up-to-date financial records and documents of time and\nresources used in providing the Services, and provide copies of all such records to the University on\nrequest."
+    },
+    {
+      "id": "9__dup__2",
+      "title": "9. TAXATION",
+      "text": "9. TAXATION"
+    },
+    {
+      "id": "9.1",
+      "title": "9.1 The Subcontractor is solely responsible for any duties, levies, ACC, GST and",
+      "text": "9.1 The Subcontractor is solely responsible for any duties, levies, ACC, GST and taxation in connection with\nthe Fees, including other payments which may be payable in respect of the payments or benefits\nprovided by the University under this Agreement."
+    },
+    {
+      "id": "9.2",
+      "title": "9.2 The University will make no deduction on account of tax and any other imposi",
+      "text": "9.2 The University will make no deduction on account of tax and any other imposition except that which\nthe University is required by law to make. To avoid doubt, the Subcontractor acknowledges that where\nthe Services are of a type covered by Schedule 4 of the Income Tax Act 2007 the University may deduct\ntax from the Fees at the applicable rate(s) prescribed in that Schedule 4. The University may decide,\nin its sole discretion, whether or not the Services are of a type covered by that Schedule 4."
+    },
+    {
+      "id": "9.3",
+      "title": "9.3 The Subcontractor will indemnify and keep indemnified the University for the",
+      "text": "9.3 The Subcontractor will indemnify and keep indemnified the University for the payment of taxes, fees,\nduties, levies, penalties or other charges whatsoever imposed on the University or the Subcontractor\nby any governmental authority arising out of or in relation to this Agreement."
+    },
+    {
+      "id": "9.4",
+      "title": "9.4 In the event that the New Zealand Inland Revenue Department makes a request",
+      "text": "9.4 In the event that the New Zealand Inland Revenue Department makes a request in writing to the\nUniversity to pay, deduct or withhold any tax in respect of payments made under this Agreement after\nsuch payments have been paid to the Subcontractor, the Subcontractor agrees to refund to the\nUniversity that amount of tax within 14 Business Days of the University notifying the Subcontractor of\nthe written request."
+    },
+    {
+      "id": "10__dup__2",
+      "title": "10. CONFIDENTIALITY",
+      "text": "10. CONFIDENTIALITY"
+    },
+    {
+      "id": "10.1",
+      "title": "10.1 Neither Party anticipates the exchange of Confidential Information during t",
+      "text": "10.1 Neither Party anticipates the exchange of Confidential Information during their performance of this\nAgreement. Each party must keep Confidential Information of the other party secure and confidential\nand, except with the prior consent of the other party, not:"
+    },
+    {
+      "id": "111",
+      "title": "(a) use it for any purpose other than as required to perform its obligations or",
+      "text": "(a) use it for any purpose other than as required to perform its obligations or exercise its rights under\nthis Agreement; or"
+    },
+    {
+      "id": "112",
+      "title": "(b) disclose it to any person other than:",
+      "text": "(b) disclose it to any person other than:"
+    },
+    {
+      "id": "113",
+      "title": "(i) as permitted under this Agreement;",
+      "text": "(i) as permitted under this Agreement;"
+    },
+    {
+      "id": "114",
+      "title": "(ii) to its or its Affiliates’ personnel who have a need-to-know to give effect ",
+      "text": "(ii) to its or its Affiliates’ personnel who have a need-to-know to give effect to this Agreement, or\nto its professional advisors, provided that the recipient is under obligations of confidentiality\nequivalent to those in this clause 10; or"
+    },
+    {
+      "id": "115",
+      "title": "(iii) in the case of the University, to the Funder to the extent reasonably",
+      "text": "(iii) in the case of the University, to the Funder to the extent reasonably required to give effect to\nthe Funder Agreement, provided that the Funder is under obligations of confidentiality\nequivalent to those in this clause 10."
+    },
+    {
+      "id": "10.2",
+      "title": "10.2 The obligations of confidentiality do not apply to the extent any informati",
+      "text": "10.2 The obligations of confidentiality do not apply to the extent any information that it is required to be\ndisclosed by law (including under the rules of any recognised stock exchange)."
+    },
+    {
+      "id": "10.3",
+      "title": "10.3 Neither party may use the names, logos or trade marks of the other party, i",
+      "text": "10.3 Neither party may use the names, logos or trade marks of the other party, its Affiliates or their personnel\nwithout the other party’s prior written consent."
+    },
+    {
+      "id": "10.4",
+      "title": "10.4 The Subcontractor acknowledges that the University:",
+      "text": "10.4 The Subcontractor acknowledges that the University:"
+    },
+    {
+      "id": "119",
+      "title": "(a) is subject to the Official Information Act 1982 which recognises a right of ",
+      "text": "(a) is subject to the Official Information Act 1982 which recognises a right of the public to access official\ninformation; and"
+    },
+    {
+      "id": "120",
+      "title": "(b) may disclose the following, in accordance with that Act, without further",
+      "text": "(b) may disclose the following, in accordance with that Act, without further consultation with the\nSubcontractor:"
+    },
+    {
+      "id": "121",
+      "title": "(i) the name of the Subcontractor;",
+      "text": "(i) the name of the Subcontractor;"
+    },
+    {
+      "id": "122",
+      "title": "(ii) the subject matter of this Agreement (e.g. that the Subcontractor provided",
+      "text": "(ii) the subject matter of this Agreement (e.g. that the Subcontractor provided services related to\na named research project); and"
+    },
+    {
+      "id": "123",
+      "title": "(iii) Fees paid or payable under this Agreement either in total or for a given",
+      "text": "(iii) Fees paid or payable under this Agreement either in total or for a given period"
+    },
+    {
+      "id": "11",
+      "title": "11. INTELLECTUAL PROPERTY",
+      "text": "11. INTELLECTUAL PROPERTY"
+    },
+    {
+      "id": "11.1",
+      "title": "11.1 Each party (or its licensors) retains ownership of all rights, title and in",
+      "text": "11.1 Each party (or its licensors) retains ownership of all rights, title and interest (including Intellectual\nProperty Rights) in its Background IP."
+    },
+    {
+      "id": "11.2",
+      "title": "11.2 Subject to clause 11.1, ownership of the Results vests automatically on cre",
+      "text": "11.2 Subject to clause 11.1, ownership of the Results vests automatically on creation in the parties (or their\nassignees) jointly as tenants in common in proportions relative to each party’s respective contribution\nto the Project"
+    },
+    {
+      "id": "11.3",
+      "title": "11.3 Each party grants the other party a non-exclusive, royalty-free, perpetual ",
+      "text": "11.3 Each party grants the other party a non-exclusive, royalty-free, perpetual and irrevocable licence to\nuse, and to permit its personnel to use, the Results (including any Intellectual Property Rights subsisting\nin the Results) for the purposes of that party’s internal teaching and academic research."
+    },
+    {
+      "id": "11.4",
+      "title": "11.4 Except as expressly provided otherwise in this Agreement, a party must not",
+      "text": "11.4 Except as expressly provided otherwise in this Agreement, a party must not commercially exploit or\notherwise use the Results (including Intellectual Property Rights subsisting in the Results) without the\nwritten consent of the other party."
+    },
+    {
+      "id": "11.5",
+      "title": "11.5 The parties will discuss and agree each party’s responsibilities and propor",
+      "text": "11.5 The parties will discuss and agree each party’s responsibilities and proportionate costs of any patent\napplications in relation to jointly owned Results, prior to submitting any such application."
+    },
+    {
+      "id": "11.6",
+      "title": "11.6 Each party will, at the other party’s cost, provide reasonable information ",
+      "text": "11.6 Each party will, at the other party’s cost, provide reasonable information and assistance and do or\nprocure any further acts, including the execution of any document, where necessary to give effect to\nclauses 11.1 and 11.2."
+    },
+    {
+      "id": "11.7",
+      "title": "11.7 Each party grants the other party a non-exclusive, royalty-free worldwide l",
+      "text": "11.7 Each party grants the other party a non-exclusive, royalty-free worldwide licence to use its Background\nIP that it has contributed to the Research as reasonably required by the other party to carry out the\nResearch in accordance with this Agreement."
+    },
+    {
+      "id": "11.8",
+      "title": "11.8 Except as expressly provided otherwise, this Agreement does not grant any",
+      "text": "11.8 Except as expressly provided otherwise, this Agreement does not grant any licence or other rights to a\nparty to use the other party’s Background IP."
+    },
+    {
+      "id": "12__dup__2",
+      "title": "12. CERTIFICATIONS",
+      "text": "12. CERTIFICATIONS"
+    },
+    {
+      "id": "12.1",
+      "title": "12.1 Each party certifies that it has full power and authority to enter into and",
+      "text": "12.1 Each party certifies that it has full power and authority to enter into and perform its obligations under\nthis Agreement."
+    },
+    {
+      "id": "12.2",
+      "title": "12.2 To the extent permitted by law, each party’s certifications are limited to ",
+      "text": "12.2 To the extent permitted by law, each party’s certifications are limited to those expressly set out in this\nAgreement and all implied conditions (including any under Part 3 of the Contract and Commercial Law\nAct 2017) are excluded."
+    },
+    {
+      "id": "13__dup__2",
+      "title": "13. SANCTIONS AND IMPORT/EXPORT CONTROLS",
+      "text": "13. SANCTIONS AND IMPORT/EXPORT CONTROLS"
+    },
+    {
+      "id": "13.1",
+      "title": "13.1 Each party certifies that it is not subject to any United Nations’ or other",
+      "text": "13.1 Each party certifies that it is not subject to any United Nations’ or other sanctions that would prohibit\na party from entering into or performing this Agreement."
+    },
+    {
+      "id": "13.2",
+      "title": "13.2 The parties acknowledge that export controls may require permission from a",
+      "text": "13.2 The parties acknowledge that export controls may require permission from a government or other\nregulatory agency in the location of a party to enable the transfer of information, materials or other\nitems from one party to the other party or the Funder (as the case may be) (Export Controls)."
+    },
+    {
+      "id": "13.3",
+      "title": "13.3 Each party:",
+      "text": "13.3 Each party:"
+    },
+    {
+      "id": "140",
+      "title": "(a) will use reasonable efforts to obtain in a timely manner (and may disclose",
+      "text": "(a) will use reasonable efforts to obtain in a timely manner (and may disclose Confidential Information\nof the other party strictly for the purposes of) any required permissions under Export Controls to\ngive effect to this Agreement; but"
+    },
+    {
+      "id": "141",
+      "title": "(b) excludes all representations and warranties that any required permissions",
+      "text": "(b) excludes all representations and warranties that any required permissions will be obtained or will\nbe obtained within an acceptable timeframe or only on conditions acceptable to a party."
+    },
+    {
+      "id": "13.4",
+      "title": "13.4 A party must promptly provide all information requested by the other party ",
+      "text": "13.4 A party must promptly provide all information requested by the other party or a relevant government\nor other regulatory agency relating to sanctions, sensitive research or Export Controls, including:"
+    },
+    {
+      "id": "143",
+      "title": "(a) any end-user certificate or similar undertaking; and",
+      "text": "(a) any end-user certificate or similar undertaking; and"
+    },
+    {
+      "id": "144",
+      "title": "(b) any information requested for the purposes of any special terms included in",
+      "text": "(b) any information requested for the purposes of any special terms included in the Contract Details."
+    },
+    {
+      "id": "13.5",
+      "title": "13.5 A party bears all risk and responsibility for obtaining any required permis",
+      "text": "13.5 A party bears all risk and responsibility for obtaining any required permissions from a government or\nother regulatory agency in its location to enable it to import information, materials or other items from\nthe other party under this Agreement (Import Controls). Each party will provide to the other party\nor a government or other regulatory agency in the other party’s location reasonable information\nrequested in relation to Import Controls."
+    },
+    {
+      "id": "13.6",
+      "title": "13.6 Subject to its compliance with this clause 13 and any related special terms",
+      "text": "13.6 Subject to its compliance with this clause 13 and any related special terms in the Contract Details, each\nparty excludes all liability for any inability to give effect to this Agreement as a result of compliance\nwith sanctions, sensitive research, Export Controls or Import Controls (including any decision or delay\nin decision-making by any relevant government or other regulatory agency)."
+    },
+    {
+      "id": "14__dup__2",
+      "title": "14. INDEMNITY",
+      "text": "14. INDEMNITY"
+    },
+    {
+      "id": "14.1",
+      "title": "14.1 Not used.",
+      "text": "14.1 Not used."
+    },
+    {
+      "id": "15",
+      "title": "15. LIABILITY",
+      "text": "15. LIABILITY"
+    },
+    {
+      "id": "15.1",
+      "title": "15.1 The maximum aggregate liability of each party to the other party under or i",
+      "text": "15.1 The maximum aggregate liability of each party to the other party under or in relation to this Agreement\nis limited to an amount equal to 3x the total amount of Fees payable by the University to the\nSubcontractor under this Agreement."
+    },
+    {
+      "id": "15.2",
+      "title": "15.2 Neither party will be liable to the other party under or in relation to thi",
+      "text": "15.2 Neither party will be liable to the other party under or in relation to this Agreement for any\nconsequential, indirect, incidental or special damage or loss of any kind."
+    },
+    {
+      "id": "15.3",
+      "title": "15.3 Clauses 15.1 and 15.2 do not apply to limit any liability for:",
+      "text": "15.3 Clauses 15.1 and 15.2 do not apply to limit any liability for:"
+    },
+    {
+      "id": "153",
+      "title": "(a) fraud or wilful misconduct.",
+      "text": "(a) fraud or wilful misconduct."
+    },
+    {
+      "id": "15.4",
+      "title": "15.4 Each party must maintain adequate public liability and professional indemni",
+      "text": "15.4 Each party must maintain adequate public liability and professional indemnity insurance sufficient to\ncover its risks under this Agreement, for the term of this Agreement and a period of two years following\nits expiry or termination."
+    },
+    {
+      "id": "16",
+      "title": "16. TERMINATION",
+      "text": "16. TERMINATION"
+    },
+    {
+      "id": "16.1",
+      "title": "16.1 Either party may terminate this Agreement on 14 days’ notice if any depende",
+      "text": "16.1 Either party may terminate this Agreement on 14 days’ notice if any dependency stated in the Contract\nDetails fails to be satisfied by the stated date or having been satisfied then fails."
+    },
+    {
+      "id": "16.2",
+      "title": "16.2 A party (first party) may terminate this Agreement immediately on notice to",
+      "text": "16.2 A party (first party) may terminate this Agreement immediately on notice to the other party if:"
+    },
+    {
+      "id": "158",
+      "title": "(a) the other party commits a material breach of this Agreement and either the",
+      "text": "(a) the other party commits a material breach of this Agreement and either the breach is incapable of\nremedy or the other party fails to remedy that breach within 14 days of the first party notifying it\nof the breach;"
+    },
+    {
+      "id": "159",
+      "title": "(b) the other party is subject to an Insolvency Event; or",
+      "text": "(b) the other party is subject to an Insolvency Event; or"
+    },
+    {
+      "id": "160",
+      "title": "(c) subject to the first party’s compliance with clause 13 and any related speci",
+      "text": "(c) subject to the first party’s compliance with clause 13 and any related special terms in the Contract\nDetails, either party is unable reasonably to give effect to this Agreement as a result of compliance\nwith sanctions, sensitive research, Export Controls or Import Controls."
+    },
+    {
+      "id": "16.3",
+      "title": "16.3 The University may terminate this Agreement immediately on notice to the",
+      "text": "16.3 The University may terminate this Agreement immediately on notice to the Subcontractor, if the\nSubcontractor has:"
+    },
+    {
+      "id": "162",
+      "title": "(a) misused or misappropriated any Fees; or",
+      "text": "(a) misused or misappropriated any Fees; or"
+    },
+    {
+      "id": "163",
+      "title": "(b) given any information, representation, or statement to the University in",
+      "text": "(b) given any information, representation, or statement to the University in relation to the Services or\nthis Agreement that is misleading or inaccurate in any material respect."
+    },
+    {
+      "id": "16.4",
+      "title": "16.4 Termination or expiry of this Agreement does not affect a party’s rights or",
+      "text": "16.4 Termination or expiry of this Agreement does not affect a party’s rights or obligations that have accrued\nbefore termination or expiry."
+    },
+    {
+      "id": "16.5",
+      "title": "16.5 On termination or expiry of this Agreement:",
+      "text": "16.5 On termination or expiry of this Agreement:"
+    },
+    {
+      "id": "166",
+      "title": "(a) The University may (without limiting any of its other rights or remedies):",
+      "text": "(a) The University may (without limiting any of its other rights or remedies):"
+    },
+    {
+      "id": "167",
+      "title": "(i) require the Subcontractor to return all Fees not spent or for which",
+      "text": "(i) require the Subcontractor to return all Fees not spent or for which contractual liabilities have\nnot been incurred by the Subcontractor at the date of termination; or"
+    },
+    {
+      "id": "168",
+      "title": "(ii) if terminated under clauses 16.2(a) or 16.3, require the Subcontractor to",
+      "text": "(ii) if terminated under clauses 16.2(a) or 16.3, require the Subcontractor to return all Fees paid\nup to the date of termination, together with interest at the University’s overdraft rate applicable\nas at the termination date plus 2% per annum, and compounded monthly, from the termination\ndate to the date returned;"
+    },
+    {
+      "id": "169",
+      "title": "(b) clauses 8, 9, 10, 11, 13.6, 14, 15, 16.4, 16.5, 18, 19.8 and any other claus",
+      "text": "(b) clauses 8, 9, 10, 11, 13.6, 14, 15, 16.4, 16.5, 18, 19.8 and any other clauses intended to survive\ntermination or expiry, continue in force; and"
+    },
+    {
+      "id": "170",
+      "title": "(c) each party, on request, must promptly return to the other all documents,",
+      "text": "(c) each party, on request, must promptly return to the other all documents, materials and other items\nbelonging to the other party and in its possession or control at the time of termination or expiry."
+    },
+    {
+      "id": "17",
+      "title": "17. FORCE MAJEURE",
+      "text": "17. FORCE MAJEURE"
+    },
+    {
+      "id": "17.1",
+      "title": "17.1 A party will not be liable for any failure or delay in the performance of i",
+      "text": "17.1 A party will not be liable for any failure or delay in the performance of its obligations under this\nAgreement to the extent such failure or delay is due to a Force Majeure Event."
+    },
+    {
+      "id": "18",
+      "title": "18. DISPUTES",
+      "text": "18. DISPUTES"
+    },
+    {
+      "id": "18.1",
+      "title": "18.1 Each party must use all reasonable efforts to meet and discuss in good fait",
+      "text": "18.1 Each party must use all reasonable efforts to meet and discuss in good faith any dispute arising in\nrelation to this Agreement. A party must not issue any legal proceedings (other than for urgent\ninterlocutory and/or injunctive relief) in respect of any dispute in connection with this Agreement,\nunless it has complied with this clause 18."
+    },
+    {
+      "id": "18.2",
+      "title": "18.2 In the event of a dispute as to any amount payable to the Subcontractor, th",
+      "text": "18.2 In the event of a dispute as to any amount payable to the Subcontractor, the University must continue\nto pay any undisputed portion of any invoice."
+    },
+    {
+      "id": "19",
+      "title": "19. GENERAL",
+      "text": "19. GENERAL"
+    },
+    {
+      "id": "19.1",
+      "title": "19.1 Governing law and jurisdiction: This Agreement is governed by and interpret",
+      "text": "19.1 Governing law and jurisdiction: This Agreement is governed by and interpreted in accordance with\nthe laws of New Zealand. The parties submit to the non-exclusive jurisdiction of the courts of England."
+    },
+    {
+      "id": "19.2",
+      "title": "19.2 Assignment: This Agreement must not be assigned, subcontracted or otherwise",
+      "text": "19.2 Assignment: This Agreement must not be assigned, subcontracted or otherwise delegated by a party\n(in whole or in part) without the prior written consent of the other party."
+    },
+    {
+      "id": "19.3",
+      "title": "19.3 Notices: Any notice given under this Agreement must be in writing and may b",
+      "text": "19.3 Notices: Any notice given under this Agreement must be in writing and may be delivered in person\n(including courier), by prepaid post or email (provided that in the case of email the sender does not\nreceive any notice of non-delivery) to that party’s address in the Contract Details (or as may be updated\nby that party by notice from time to time). Any notice sent by prepaid post is deemed received 2\nBusiness Days from the date of posting (or 7 Business Days from the date of posting if sent to or from\na place outside New Zealand). Any notice delivered in person or by email on a non-Business Day or\nafter 5pm on a Business Day is deemed received on the next Business Day."
+    },
+    {
+      "id": "19.4",
+      "title": "19.4 Cumulative remedies: The rights and remedies of each party under this",
+      "text": "19.4 Cumulative remedies: The rights and remedies of each party under this Agreement are cumulative\nand are not exclusive of any other rights and remedies under this Agreement or at law."
+    },
+    {
+      "id": "19.5",
+      "title": "19.5 Waiver and variation: No waiver of any right under this Agreement is effect",
+      "text": "19.5 Waiver and variation: No waiver of any right under this Agreement is effective unless in writing and\nsigned by the waiving party. Except as expressly set out otherwise in this Agreement, no variation to\nthis Agreement (including a material variation to the Requirements) is effective unless in writing and\nsigned by each party."
+    },
+    {
+      "id": "19.6",
+      "title": "19.6 Parties’ relationship: The parties are independent contracting parties and ",
+      "text": "19.6 Parties’ relationship: The parties are independent contracting parties and no other relationship (e.g.\nemployment) arises between them under this Agreement. Neither party is authorised to act as agent\nfor or to bind the other party for any purpose and must not make any contrary representation to any\nperson."
+    },
+    {
+      "id": "19.7",
+      "title": "19.7 Severability: If any provision of this Agreement is or becomes invalid or",
+      "text": "19.7 Severability: If any provision of this Agreement is or becomes invalid or unenforceable, the provision\nis deemed to be modified to the extent required to remedy the invalidity or unenforceability. If such\nmodification is not possible, the provision is deemed to be severed and will not affect the validity or\nenforceability of the other provisions of this Agreement."
+    },
+    {
+      "id": "19.8",
+      "title": "19.8 Entire agreement: To the extent permitted by law, each party acknowledges a",
+      "text": "19.8 Entire agreement: To the extent permitted by law, each party acknowledges and agrees that:"
+    },
+    {
+      "id": "185",
+      "title": "(a) this Agreement sets out the entire understanding between the parties and",
+      "text": "(a) this Agreement sets out the entire understanding between the parties and supersedes any prior\noral or written agreement or understanding between the parties relating to its subject matter; and"
+    },
+    {
+      "id": "186",
+      "title": "(b) no representations made by the other party have been relied on by it in",
+      "text": "(b) no representations made by the other party have been relied on by it in entering into this\nAgreement, other than those expressly set out in this Agreement."
+    },
+    {
+      "id": "19.9",
+      "title": "19.9 Counterparts: This Agreement may be executed in 2 or more counterparts, eac",
+      "text": "19.9 Counterparts: This Agreement may be executed in 2 or more counterparts, each of which is deemed\nan original and all of which constitute the same Agreement. A party may enter this Agreement by\nsigning (including electronically) and sending (including by email) a counterpart copy to the other party."
+    }
+  ]
+}

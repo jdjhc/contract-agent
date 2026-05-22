@@ -1,0 +1,12 @@
+{
+  "filename": "Student Research Agreement Example 2.pdf",
+  "predicted_type": "Student Research Agreement",
+  "confidence": 0.95,
+  "rationale": "The document explicitly refers to a 'Student' undertaking 'Research' as part of a 'Project,' with obligations tied to a 'Thesis,' 'Supervisor,' and 'University.' These terms strongly align with the definition of a Student Research Agreement.",
+  "expected_hint": "Student Research Agreement",
+  "name_match": true,
+  "wall_ms": 5473.5,
+  "source_text_chars": 16839,
+  "source_clauses": 39,
+  "merged_fragments": []
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "CDA example 3.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "flags_source": "augment",
+  "n_flags": 30,
+  "counts": {
+    "red": 13,
+    "amber": 8,
+    "green": 3,
+    "blue": 6
+  },
+  "summary": "The review of \"CDA example 3.pdf\" reveals a moderate to high-risk posture, with several clauses flagged as amber and red due to non-compliance with UoA's Preferred or Acceptable Contracting Positions. Key issues include insufficient definitions of confidential information, lack of clarity on disclosure rights to agents and affiliates, and the absence of specified durations for confidentiality obligations. Additionally, problematic language around document destruction, governing law, and dispute resolution requires immediate attention. It is recommended to escalate this agreement to the Senior Manager, Research Grants and Contracts for a detailed review and redrafting to ensure alignment with UoA standards.",
+  "wall_ms": 2946.3
+}

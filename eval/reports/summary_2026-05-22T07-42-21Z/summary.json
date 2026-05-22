@@ -1,0 +1,237 @@
+{
+  "ran_at": "2026-05-22T07:42:46.150119+00:00",
+  "node": "summary",
+  "classify_dir": "eval/reports/classify_2026-05-22T07-38-04Z",
+  "flags_dir": "eval/reports/augment_2026-05-22T07-38-51Z",
+  "n_files": 28,
+  "n_ok": 28,
+  "n_failed": 0,
+  "wall_seconds": 25.1,
+  "concurrency": 10,
+  "results": [
+    {
+      "filename": "CDA example 1.pdf",
+      "ok": true,
+      "n_flags": 39,
+      "summary": "The review of the Confidential Disclosure Agreement (CDA example 1.pdf) indicates a moderate risk posture, with several clauses requiring further attention to ensure compliance with the University of Auckland's (UoA) Preferred Contracting Positions. Key issues include insufficient detail in confidentiality provisions (e.g., exclusions for public or independently developed information, disclosure to agents and Affiliates, and duration of obligations) and incomplete termination terms, both of which necessitate escalation to the Senior Manager, Research Grants and Contracts. The next step is to address flagged clauses, particularly those marked red and amber, by seeking amendments or clarifications from the counterparty to align the agreement with UoA's standards.",
+      "wall_ms": 6131.5,
+      "checkpoint": "CDA_example_1.json"
+    },
+    {
+      "filename": "CDA example 2.pdf",
+      "ok": true,
+      "n_flags": 19,
+      "summary": "The review of \"CDA example 2.pdf\" reveals a mixed risk posture, with several clauses aligning with UoA's Preferred Positions but others requiring significant attention. Key issues include the absence of critical confidentiality exclusions, overly broad definitions of confidential information, and deviations from the preferred confidentiality duration of 5 years post-completion. Immediate next steps should involve escalating flagged red and amber clauses to the Senior Manager, Research Grants and Contracts, for further review and potential renegotiation to ensure compliance with UoA's standards.",
+      "wall_ms": 5470.3,
+      "checkpoint": "CDA_example_2.json"
+    },
+    {
+      "filename": "CDA example 3.pdf",
+      "ok": true,
+      "n_flags": 30,
+      "summary": "The review of \"CDA example 3.pdf\" reveals a moderate to high-risk posture, with several clauses flagged as amber and red due to non-compliance with UoA's Preferred or Acceptable Contracting Positions. Key issues include insufficient definitions of confidential information, lack of clarity on disclosure rights to agents and affiliates, and the absence of specified durations for confidentiality obligations. Additionally, problematic language around document destruction, governing law, and dispute resolution requires immediate attention. It is recommended to escalate this agreement to the Senior Manager, Research Grants and Contracts for a detailed review and redrafting to ensure alignment with UoA standards.",
+      "wall_ms": 2946.3,
+      "checkpoint": "CDA_example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 1.pdf",
+      "ok": true,
+      "n_flags": 40,
+      "summary": "The review of the Collaboration Agreement indicates a moderate risk posture, with several clauses flagged for further review, particularly those related to intellectual property (IP) and confidentiality. Key issues include the need for referral of all IP-related clauses to Auckland UniServices Ltd for compliance with UoA Position #POS-IP and a red-flagged confidentiality clause that deviates from UoA Position #POS-11, requiring escalation to the Senior Manager, Research Grants and Contracts. The next step is to escalate the flagged clauses to the appropriate UoA stakeholders, including UniServices for IP matters and the Senior Manager for confidentiality concerns, to ensure alignment with institutional policies.",
+      "wall_ms": 8783.0,
+      "checkpoint": "Collaboration_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 2.pdf",
+      "ok": true,
+      "n_flags": 38,
+      "summary": "The overall risk posture of this Collaboration Agreement is moderate, with a mix of acceptable clauses, minor issues, and a few significant risks requiring escalation. Key concerns include an indefinite confidentiality obligation and jurisdiction provisions that fall outside the University of Auckland's acceptable positions, as well as liability limitations that lack a specified monetary cap. The next step is to escalate the flagged red and amber clauses to the appropriate stakeholders, including the Senior Manager, Research Grants and Contracts, and General Counsel, for review and potential renegotiation.",
+      "wall_ms": 3169.3,
+      "checkpoint": "Collaboration_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 3.pdf",
+      "ok": true,
+      "n_flags": 125,
+      "summary": "The review of the collaboration agreement indicates a moderate risk posture, with several clauses flagged for further review or escalation. Key issues include deviations from UoA's Preferred Positions on Intellectual Property (POS-IP), Indemnities (POS-08), Publication (POS-12), and Termination (POS-19). Notably, broad indemnities, restrictive publication rights, and termination without cause provisions require immediate attention. The next step is to escalate flagged clauses to the Senior Manager, Research Grants and Contracts, and Auckland UniServices Ltd for IP-related clauses, ensuring alignment with UoA's policies and mitigating potential risks.",
+      "wall_ms": 10722.8,
+      "checkpoint": "Collaboration_Agreement_Example_3.json"
+    },
+    {
+      "filename": "Collaboration Agreement Example 4.pdf",
+      "ok": true,
+      "n_flags": 40,
+      "summary": "The review of \"Collaboration Agreement Example 4.pdf\" indicates a generally low-risk posture, with most clauses flagged as blue, signifying topics outside the scope of the University of Auckland's Preferred Contracting Positions. However, there are notable exceptions: a red flag for the confidentiality clause, which deviates materially from UoA Position #POS-11, and several amber flags for intellectual property and financial clauses requiring further review by UniServices and the Tax and Compliance team. The next step is to escalate the red and amber clauses to the appropriate stakeholders for resolution, ensuring alignment with UoA's policies and risk tolerance.",
+      "wall_ms": 6386.3,
+      "checkpoint": "Collaboration_Agreement_Example_4.json"
+    },
+    {
+      "filename": "Consultancy Services Agreement Example.pdf",
+      "ok": true,
+      "n_flags": 41,
+      "summary": "The overall risk posture of this Consultancy Services Agreement is low to moderate, with the majority of flagged clauses falling outside the scope of the University of Auckland's Preferred Contracting Positions and requiring independent assessment. The headline issues include the need for clarity on the \"Extension of Term\" clause to ensure compliance with UoA Position #POS-21 and the referral of the \"Intellectual Property\" clause to Auckland UniServices Ltd for review, as it involves a sensitive and critical area. The recommended next step is to engage with UniServices for a detailed review of the IP clause and confirm the full wording of the \"Extension of Term\" clause to ensure alignment with UoA's standards.",
+      "wall_ms": 3551.5,
+      "checkpoint": "Consultancy_Services_Agreement_Example.json"
+    },
+    {
+      "filename": "Contract Example 1.pdf",
+      "ok": true,
+      "n_flags": 41,
+      "summary": "The overall risk posture of this public research contract is moderate, with most clauses flagged as \"blue\" for falling outside the scope of the University of Auckland's Preferred Contracting Positions, indicating no significant alignment or misalignment. However, one \"red\" flag was identified in a clause allowing termination of subcontractor or employment agreements based on funding changes, which conflicts with UoA Position #POS-19 on termination provisions. The recommended next step is to escalate the flagged \"red\" clause to the Senior Manager, Research Grants and Contracts for review and potential renegotiation to ensure compliance with UoA's termination policies.",
+      "wall_ms": 6747.3,
+      "checkpoint": "Contract_Example_1.json"
+    },
+    {
+      "filename": "Contract Example 2.pdf",
+      "ok": true,
+      "n_flags": 41,
+      "summary": "The review of \"Contract Example 2.pdf,\" a public research contract, indicates a low-risk posture overall, with all flagged clauses either falling outside the scope of the University of Auckland's Preferred Contracting Positions or aligning with acceptable standards. The headline issue is the prevalence of clauses flagged as \"blue,\" which signifies topics not explicitly addressed by UoA policies or templates, such as funding dependencies, eligibility criteria, and personnel obligations. As a next step, it is recommended to escalate the single \"amber\" clause related to termination provisions to the Senior Manager, Research Grants and Contracts, for further evaluation and potential alignment with UoA's termination policies.",
+      "wall_ms": 3593.5,
+      "checkpoint": "Contract_Example_2.json"
+    },
+    {
+      "filename": "Contract Example 3.pdf",
+      "ok": true,
+      "n_flags": 57,
+      "summary": "The review of \"Contract Example 3.pdf\" reveals a generally moderate risk posture, with a mix of clauses flagged as blue, amber, and red. Key issues include deviations from UoA's preferred positions on liability, indemnities, intellectual property, and termination rights, which require escalation to relevant stakeholders for compliance review. Immediate next steps should involve referring the flagged red and amber clauses to the appropriate teams, such as the Research Grants and Contracts Delegations, Tax and Compliance, and Auckland UniServices, to ensure alignment with UoA's policies and mitigate potential risks.",
+      "wall_ms": 5587.7,
+      "checkpoint": "Contract_Example_3.json"
+    },
+    {
+      "filename": "Contract Example 4.pdf",
+      "ok": true,
+      "n_flags": 42,
+      "summary": "The review of \"Contract Example 4.pdf\" identifies a moderate risk posture, with key issues flagged in areas such as variations and extensions, intellectual property, liability limitations, confidentiality, and dispute resolution. Notably, the contract deviates from UoA's preferred positions in clauses related to IP ownership and licensing, liability carve-outs, and publication rights, requiring escalation to Auckland UniServices Ltd and senior management for further review. The next step is to address flagged clauses with the relevant stakeholders, ensuring alignment with UoA's contracting policies and obtaining necessary approvals or amendments.",
+      "wall_ms": 5453.9,
+      "checkpoint": "Contract_Example_4.json"
+    },
+    {
+      "filename": "Contract Example 5.pdf",
+      "ok": true,
+      "n_flags": 71,
+      "summary": "The review of \"Contract Example 5.pdf,\" a Collaboration Agreement, indicates a moderate risk posture with several flagged clauses requiring further attention. Key issues include deviations from UoA's preferred positions on liability limitations, indemnities, publicity, termination, and governing law, with red flags for clauses imposing broad indemnification obligations, exclusive jurisdiction in Japan, and insufficient liability caps. Amber flags highlight areas needing clarification, such as confidentiality, intellectual property, and publicity provisions. Immediate next steps include escalating red-flagged clauses to the appropriate UoA teams (e.g., General Counsel, University Marketing, and Research Grants and Contracts) for review and negotiation to ensure alignment with UoA's policies and risk tolerance.",
+      "wall_ms": 6263.8,
+      "checkpoint": "Contract_Example_5.json"
+    },
+    {
+      "filename": "Contract for Goods and Services Example.pdf",
+      "ok": true,
+      "n_flags": 213,
+      "summary": "The review of the \"Contract for Goods and Services Example.pdf\" indicates a moderate risk posture, with a significant number of clauses flagged for further review or escalation. Key issues include deviations from UoA's Preferred Contracting Positions on intellectual property, confidentiality, liability limitations, and termination rights, with several clauses requiring referral to Auckland UniServices Ltd or senior management for compliance confirmation. The next step is to escalate flagged clauses, particularly those marked amber or red, to the appropriate UoA stakeholders for resolution and alignment with institutional policies.",
+      "wall_ms": 10518.9,
+      "checkpoint": "Contract_for_Goods_and_Services_Example.json"
+    },
+    {
+      "filename": "Data Transfer Agreement Example.pdf",
+      "ok": true,
+      "n_flags": 41,
+      "summary": "The review of the Data Transfer Agreement reveals a moderate to high-risk posture due to critical deficiencies in confidentiality and intellectual property clauses. The confidentiality provisions lack essential exclusions, duration specifications, and alignment with UoA Position #POS-11, while multiple intellectual property clauses require referral to Auckland UniServices Ltd for compliance with UoA Position #POS-IP. Immediate escalation to the Senior Manager, Research Grants and Contracts, and Auckland UniServices Ltd is recommended to address these flagged issues and ensure the agreement aligns with institutional policies.",
+      "wall_ms": 15229.9,
+      "checkpoint": "Data_Transfer_Agreement_Example.json"
+    },
+    {
+      "filename": "MTA Example 1.pdf",
+      "ok": true,
+      "n_flags": 39,
+      "summary": "The review of \"MTA Example 1.pdf\" reveals a generally moderate risk posture, with most flagged clauses falling outside the scope of the University of Auckland's (UoA) Preferred Contracting Positions or Standard Templates. Key issues include uncapped indemnity obligations (Clause 8, red flag), liability limitations that deviate from UoA's preferred positions (Clauses 4 and 7, amber flags), and jurisdictional exclusivity under English law (Clause 24, amber flag). The recommended next step is to escalate the red- and amber-flagged clauses to the appropriate UoA authorities, including the Research Grants and Contracts Delegations and General Counsel, for further review and negotiation to ensure compliance with UoA's risk tolerance and policy framework.",
+      "wall_ms": 5950.2,
+      "checkpoint": "MTA_Example_1.json"
+    },
+    {
+      "filename": "MTA Example 2.pdf",
+      "ok": true,
+      "n_flags": 38,
+      "summary": "The overall risk posture of this Material Transfer Agreement is moderate, with most flagged clauses falling into the \"blue\" category, indicating they are outside the scope of UoA's Preferred Contracting Positions but do not pose immediate compliance concerns. However, several \"amber\" clauses, particularly those related to intellectual property (e.g., ownership of Modifications and patent rights) and termination provisions, require referral to Auckland UniServices Ltd or the Senior Manager, Research Grants and Contracts for further review. The \"red\" termination clause introduces significant risk by allowing termination for convenience without adequate safeguards, necessitating immediate escalation. The next step is to escalate the flagged \"amber\" and \"red\" clauses to the appropriate stakeholders for resolution and ensure alignment with UoA's policies before finalizing the agreement.",
+      "wall_ms": 6819.6,
+      "checkpoint": "MTA_Example_2.json"
+    },
+    {
+      "filename": "MTA Example 3.pdf",
+      "ok": true,
+      "n_flags": 71,
+      "summary": "The review of \"MTA Example 3.pdf,\" a Data Transfer Agreement, reveals a moderate to high-risk posture due to several flagged issues, including governing law, publication rights, and termination provisions. Notably, the agreement specifies Canadian law (Ontario) as the governing jurisdiction, which deviates from UoA's Preferred and Acceptable tiers, and imposes prior consent requirements for publication, conflicting with UoA's academic freedom standards. Additionally, the termination clause allows for termination for convenience, which is inconsistent with UoA's preferred termination framework. Immediate escalation to General Counsel and the Senior Manager, Research Grants and Contracts, is recommended to address these critical deviations and negotiate alignment with UoA's policies.",
+      "wall_ms": 10078.9,
+      "checkpoint": "MTA_Example_3.json"
+    },
+    {
+      "filename": "MTA Example 4.pdf",
+      "ok": true,
+      "n_flags": 39,
+      "summary": "The review of \"MTA Example 4.pdf\" indicates a moderate risk posture, with several clauses flagged for escalation or further review. Key issues include deviations from UoA's preferred positions on confidentiality, intellectual property, liability, and termination, with specific clauses requiring escalation to Auckland UniServices Ltd or the Senior Manager, Research Grants and Contracts. To address these concerns, the next step is to escalate flagged clauses for negotiation and ensure alignment with UoA's policies, particularly on IP, liability caps, and confidentiality obligations.",
+      "wall_ms": 6122.1,
+      "checkpoint": "MTA_Example_4.json"
+    },
+    {
+      "filename": "Master Services Agreement Example 1 (1).pdf",
+      "ok": true,
+      "n_flags": 79,
+      "summary": "The overall risk posture of this Provision of Services Agreement is moderate, with several clauses flagged for potential misalignment with the University of Auckland's Preferred Contracting Positions. Key issues include governing law and jurisdiction defaulting to South Australia (acceptable but requiring confirmation), broad confidentiality terms lacking key exclusions, and multiple termination provisions that deviate from UoA's preferred mutuality and safeguards. Immediate escalation to the Senior Manager, Research Grants and Contracts, and General Counsel is recommended to address termination clauses, governing law, and indemnity concerns, ensuring compliance with UoA's policy framework.",
+      "wall_ms": 6486.7,
+      "checkpoint": "Master_Services_Agreement_Example_1__1.json"
+    },
+    {
+      "filename": "NDA example 1.pdf",
+      "ok": true,
+      "n_flags": 14,
+      "summary": "The review of \"NDA example 1.pdf\" reveals a high-risk posture due to multiple red-flagged clauses that deviate materially from the University of Auckland's (UoA) preferred contracting positions. Key issues include the lack of alignment with UoA's confidentiality standards (e.g., indefinite obligations, mandatory destruction of information without retention rights), the inclusion of intellectual property terms requiring referral to UniServices, and the governing law being set to Iceland, which is outside UoA's acceptable jurisdictions. Immediate escalation to the Senior Manager, Research Grants and Contracts, and General Counsel is recommended to negotiate amendments addressing these critical deviations.",
+      "wall_ms": 6442.5,
+      "checkpoint": "NDA_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 1.pdf",
+      "ok": true,
+      "n_flags": 54,
+      "summary": "The review of the Student Research Agreement reveals a moderate risk posture, with several clauses requiring further clarification or escalation. Key issues include incomplete or misaligned confidentiality provisions, particularly around the definition, exclusions, and duration of obligations, as well as intellectual property and liability terms that fall outside the scope of standard guidance. The next step is to escalate flagged clauses, particularly those related to confidentiality, intellectual property, and liability, to the Senior Manager, Research Grants and Contracts, and Auckland UniServices for detailed review and alignment with University of Auckland policies.",
+      "wall_ms": 4901.9,
+      "checkpoint": "NDA_student_work_experience_example_1.json"
+    },
+    {
+      "filename": "NDA student work experience example 2.pdf",
+      "ok": true,
+      "n_flags": 78,
+      "summary": "The overall risk posture of this Confidential Disclosure Agreement is moderate, with several clauses flagged as amber or red due to misalignment with UoA's Preferred Position #POS-11 on Confidentiality. Key issues include the lack of exclusions for public, independently developed, or previously known information, the absence of time limits on confidentiality obligations, and overly broad definitions of confidential information. The recommended next step is to escalate the flagged clauses, particularly those marked red, to the Senior Manager, Research Grants and Contracts for review and negotiation to ensure compliance with UoA's confidentiality standards.",
+      "wall_ms": 5596.7,
+      "checkpoint": "NDA_student_work_experience_example_2.json"
+    },
+    {
+      "filename": "Service Provider Agreement Example.pdf",
+      "ok": true,
+      "n_flags": 42,
+      "summary": "The review of the \"Service Provider Agreement Example.pdf\" indicates a moderate risk posture, with several amber and red flags requiring attention. Key issues include overly broad indemnity obligations (red flag, POS-08), a disrepute clause that fails to preserve academic freedoms (red flag, POS-20), and gaps in confidentiality, intellectual property, termination, and taxation clauses (amber flags, POS-11, POS-IP, POS-19, POS-06). The next step is to escalate the flagged clauses to the appropriate UoA teams, including Research Contract Delegations, Auckland UniServices Ltd, and the Tax and Compliance team, for further review and alignment with UoA's contracting positions.",
+      "wall_ms": 3826.3,
+      "checkpoint": "Service_Provider_Agreement_Example.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 1.pdf",
+      "ok": true,
+      "n_flags": 40,
+      "summary": "The overall risk posture of this Student Research Agreement is moderate, with several clauses flagged for potential issues, particularly around Intellectual Property (IP), termination, and publication rights. Key concerns include unclear or incomplete drafting in some clauses, as well as IP-related provisions that require escalation to Auckland UniServices for review, as mandated by UoA Position #POS-IP. The next step is to escalate the flagged amber and red clauses to the appropriate UoA stakeholders, including the Senior Manager, Research Grants and Contracts, and the Head of IP, for further review and potential redrafting to ensure compliance with UoA policies and templates.",
+      "wall_ms": 4621.5,
+      "checkpoint": "Student_Research_Agreement_Example_1.json"
+    },
+    {
+      "filename": "Student Research Agreement Example 2.pdf",
+      "ok": true,
+      "n_flags": 39,
+      "summary": "The review of the *Student Research Agreement Example 2.pdf* indicates a moderate risk posture, with several clauses requiring attention. Key issues include misalignment with UoA policies on Intellectual Property (POS-IP), confidentiality (POS-11), and publication rights (POS-12), as well as incomplete or ambiguous drafting in critical areas. Notably, clauses addressing IP ownership, thesis embargoes, and publication restrictions deviate from UoA's preferred positions, necessitating escalation to Auckland UniServices Ltd and the Senior Manager, Research Grants and Contracts for resolution. The next step is to prioritize redrafting flagged clauses, ensuring compliance with UoA policies and clarity in contractual obligations.",
+      "wall_ms": 5269.1,
+      "checkpoint": "Student_Research_Agreement_Example_2.json"
+    },
+    {
+      "filename": "Subcontract Example 1.pdf",
+      "ok": true,
+      "n_flags": 187,
+      "summary": "The review of \"Subcontract Example 1.pdf\" indicates a generally low-risk posture, with most clauses falling outside the scope of the University of Auckland's Preferred Contracting Positions (blue flags). However, there are several amber and red flags requiring attention. Key issues include deviations from UoA's positions on termination rights, liability limitations, intellectual property, confidentiality, and taxation. Notably, the termination clauses introduce non-standard triggers and financial penalties, while the liability cap exceeds UoA's preferred limits. Intellectual property clauses require referral to Auckland UniServices Ltd for review, and the governing law clause specifies the courts of England, which is not an acceptable jurisdiction under UoA's guidelines. \n\nThe next step is to escalate the flagged clauses to the appropriate stakeholders, including the Senior Manager, Research Grants and Contracts, General Counsel, and the Tax and Compliance team, for further review and potential renegotiation. Additionally, the intellectual property clauses should be referred to Auckland UniServices Ltd for compliance with UoA's IP policies.",
+      "wall_ms": 6975.7,
+      "checkpoint": "Subcontract_Example_1.json"
+    },
+    {
+      "filename": "Subcontract Example 2.pdf",
+      "ok": true,
+      "n_flags": 42,
+      "summary": "The overall risk posture of this commercial research contract is moderate, with key issues flagged in confidentiality, liability, and warranties. Notably, the confidentiality clause lacks critical exclusions and disclosure provisions, while the liability and warranty clauses deviate from UoA's preferred positions, potentially exposing the University to undue risk. The next step is to escalate these red-flagged clauses to the Senior Manager, Research Grants and Contracts for review and negotiation to ensure alignment with UoA's contracting policies.",
+      "wall_ms": 10052.8,
+      "checkpoint": "Subcontract_Example_2.json"
+    }
+  ]
+}

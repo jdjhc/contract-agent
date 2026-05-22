@@ -1,0 +1,14 @@
+{
+  "filename": "Student Research Agreement Example 2.pdf",
+  "contract_type": "Student Research Agreement",
+  "flags_source": "augment",
+  "n_flags": 39,
+  "counts": {
+    "red": 9,
+    "amber": 5,
+    "green": 0,
+    "blue": 25
+  },
+  "summary": "The review of the *Student Research Agreement Example 2.pdf* indicates a moderate risk posture, with several clauses requiring attention. Key issues include misalignment with UoA policies on Intellectual Property (POS-IP), confidentiality (POS-11), and publication rights (POS-12), as well as incomplete or ambiguous drafting in critical areas. Notably, clauses addressing IP ownership, thesis embargoes, and publication restrictions deviate from UoA's preferred positions, necessitating escalation to Auckland UniServices Ltd and the Senior Manager, Research Grants and Contracts for resolution. The next step is to prioritize redrafting flagged clauses, ensuring compliance with UoA policies and clarity in contractual obligations.",
+  "wall_ms": 5269.1
+}

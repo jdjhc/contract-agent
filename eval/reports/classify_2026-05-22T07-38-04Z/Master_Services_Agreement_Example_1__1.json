@@ -1,0 +1,12 @@
+{
+  "filename": "Master Services Agreement Example 1 (1).pdf",
+  "predicted_type": "Provision of Services Agreement",
+  "confidence": 0.85,
+  "rationale": "The document describes an agreement where the University of Auckland is engaged as a 'Service Provider' to deliver specific services. The repeated references to 'Services,' 'Work Orders,' and the obligations of the Service Provider align with the characteristics of a Provision of Services Agreement. While the term 'subcontract' appears, it is used in the context of approved subcontractors and does not indicate that this is a Research Subcontract.",
+  "expected_hint": "Master Services Agreement",
+  "name_match": false,
+  "wall_ms": 4602.1,
+  "source_text_chars": 125618,
+  "source_clauses": 79,
+  "merged_fragments": []
+}

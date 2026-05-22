@@ -1,0 +1,14 @@
+{
+  "filename": "MTA Example 4.pdf",
+  "contract_type": "Material Transfer Agreement",
+  "flags_source": "augment",
+  "n_flags": 39,
+  "counts": {
+    "red": 3,
+    "amber": 8,
+    "green": 7,
+    "blue": 21
+  },
+  "summary": "The review of \"MTA Example 4.pdf\" indicates a moderate risk posture, with several clauses flagged for escalation or further review. Key issues include deviations from UoA's preferred positions on confidentiality, intellectual property, liability, and termination, with specific clauses requiring escalation to Auckland UniServices Ltd or the Senior Manager, Research Grants and Contracts. To address these concerns, the next step is to escalate flagged clauses for negotiation and ensure alignment with UoA's policies, particularly on IP, liability caps, and confidentiality obligations.",
+  "wall_ms": 6122.1
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "NDA student work experience example 1.pdf",
+  "contract_type": "Student Research Agreement",
+  "flags_source": "augment",
+  "n_flags": 54,
+  "counts": {
+    "red": 1,
+    "amber": 15,
+    "green": 9,
+    "blue": 29
+  },
+  "summary": "The review of the Student Research Agreement reveals a moderate risk posture, with several clauses requiring further clarification or escalation. Key issues include incomplete or misaligned confidentiality provisions, particularly around the definition, exclusions, and duration of obligations, as well as intellectual property and liability terms that fall outside the scope of standard guidance. The next step is to escalate flagged clauses, particularly those related to confidentiality, intellectual property, and liability, to the Senior Manager, Research Grants and Contracts, and Auckland UniServices for detailed review and alignment with University of Auckland policies.",
+  "wall_ms": 4901.9
+}

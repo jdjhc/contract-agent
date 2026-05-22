@@ -1,0 +1,14 @@
+{
+  "filename": "NDA example 1.pdf",
+  "contract_type": "Confidential Disclosure Agreement",
+  "flags_source": "augment",
+  "n_flags": 14,
+  "counts": {
+    "red": 4,
+    "amber": 5,
+    "green": 1,
+    "blue": 4
+  },
+  "summary": "The review of \"NDA example 1.pdf\" reveals a high-risk posture due to multiple red-flagged clauses that deviate materially from the University of Auckland's (UoA) preferred contracting positions. Key issues include the lack of alignment with UoA's confidentiality standards (e.g., indefinite obligations, mandatory destruction of information without retention rights), the inclusion of intellectual property terms requiring referral to UniServices, and the governing law being set to Iceland, which is outside UoA's acceptable jurisdictions. Immediate escalation to the Senior Manager, Research Grants and Contracts, and General Counsel is recommended to negotiate amendments addressing these critical deviations.",
+  "wall_ms": 6442.5
+}

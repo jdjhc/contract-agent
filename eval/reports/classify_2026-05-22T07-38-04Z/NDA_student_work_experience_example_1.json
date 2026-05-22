@@ -1,0 +1,12 @@
+{
+  "filename": "NDA student work experience example 1.pdf",
+  "predicted_type": "Student Research Agreement",
+  "confidence": 0.85,
+  "rationale": "The agreement explicitly involves students participating in a real-world project as part of their course requirements, with the University providing academic oversight. This aligns closely with the definition of a Student Research Agreement, as it pertains to student involvement in research or work experience projects.",
+  "expected_hint": "Confidential Disclosure Agreement",
+  "name_match": false,
+  "wall_ms": 5002.8,
+  "source_text_chars": 7878,
+  "source_clauses": 54,
+  "merged_fragments": []
+}

@@ -1,0 +1,207 @@
+{
+  "filename": "MTA Example 2.pdf",
+  "merged_fragments": [],
+  "text_chars": 10312,
+  "n_clauses": 38,
+  "ingest_metrics": {
+    "n_calls": 4,
+    "input_tokens": 4331,
+    "output_tokens": 2673,
+    "latency_ms": 65757.3,
+    "total_cost_usd": 0.037558
+  },
+  "wall_ms": 28068.1,
+  "text": "Exhibit A  \nStandard Terms  \n\nI. DEFINITIONS:  \n\n1. **Provider**: Organization providing the Original Material. The name and address of this party is specified on page 1 of this Agreement.  \n\n2. **Provider Scientist**: The name and address of this party is specified on page 1 of this Agreement.  \n\n3. **Recipient**: Organization receiving the Original Material. The name and address of this party is specified on page 1 of this Agreement.  \n\n4. **Recipient Scientist**: The name and address of this party is specified on page 1 of this Agreement.  \n\n5. **Original Material**: The description of the Material being transferred is specified on page 1 of this Agreement.  \n\n6. **Material**: Original Material, Progeny, and Unmodified Derivatives. The Material shall not include: (a) Modifications, or (b) other substances created by the Recipient through the use of the Material which are not Modifications, Progeny, or Unmodified Derivatives.  \n\n7. **Progeny**: Unmodified descendant from the Material, such as virus from virus, cell from cell, or organism from organism.  \n\n8. **Unmodified Derivatives**: Substances created by the Recipient which constitute an unmodified functional subunit or product expressed by the Original Material. Some examples include: subclones of unmodified cell lines, purified or fractionated subsets of the Original Material, proteins expressed by DNA/RNA supplied by the Provider, or monoclonal antibodies secreted by a hybridoma cell line.  \n\n9. **Modifications**: Substances created by the Recipient which contain/incorporate the Material.  \n\n10. **Commercial Purposes**: The sale, lease, license, or other transfer of the Material or Modifications to a for-profit organization. Commercial Purposes shall also include uses of the Material or Modifications by any organization, including Recipient, to perform contract research, to produce or manufacture products for general sale, or to conduct research activities that result in any sale, lease, license, or transfer of the Material or Modifications to a for-profit organization. However, industrially sponsored academic research shall not be considered a use of the Material or Modifications for Commercial Purposes per se, unless any of the above conditions of this definition are met.  \n\n11. **Nonprofit Organization(s)**: A university or other institution of higher education or a not-for-profit organization officially recognized or qualified under the laws of the country in which it is organized or located, or any nonprofit scientific or educational organization qualified under a federal, state or local jurisdiction’s nonprofit organization statute. As used herein, the term also includes national, state or local government agencies.  \n\n---\n\nII. TERMS AND CONDITIONS OF THIS AGREEMENT:  \n\n1. The Provider retains ownership of the Material, including any Material contained or incorporated in Modifications.  \n\n2. The Recipient retains ownership of: (a) Modifications (except that, the Provider retains ownership rights to the Material included therein), and (b) those substances created through the use of the Material or Modifications, but which are not Progeny, Unmodified Derivatives or Modifications (i.e., do not contain the Original Material, Progeny, Unmodified Derivatives). If either 2 (a) or 2 (b) results from the collaborative efforts of the Provider and the Recipient, joint ownership may be negotiated.  \n\nPage 2\n\n```\n3. The Recipient and the Recipient Scientist agree that the Material:\n\n   (a) is to be used solely for teaching and academic research purposes;\n\n   (b) will not be used in human subjects, in clinical trials, or for diagnostic purposes involving \n       human subjects without the written consent of the Provider;\n\n   (c) is to be used only at the Recipient organization and only in the Recipient Scientist laboratory \n       under the direction of the Recipient Scientist or others working under his/her direct supervision;\n\n   (d) will not be transferred to anyone else within the Recipient organization without the prior \n       written consent of the Provider.\n\n4. The Recipient and the Recipient Scientist agree to refer to the Provider any request for the Material \n   from anyone other than those persons working under the Recipient Scientist’s direct supervision. To \n   the extent supplies are available, the Provider or the Provider Scientist agrees to make the Material \n   available, under an agreement having terms consistent with the terms of this Agreement, to other \n   scientists (at least those at Nonprofit Organization(s)) who wish to replicate the Recipient Scientist’s \n   research; provided that such other scientists reimburse the Provider for any costs relating to the \n   preparation and distribution of the Material.\n\n5. (a) The Recipient and/or the Recipient Scientist shall have the right, without restriction, to distribute \n       substances created by the Recipient through the use of the Original Material only if those substances \n       are not Progeny, Unmodified Derivatives, or Modifications.\n\n   (b) Under an agreement at least as protective of the Provider’s rights as this Agreement, the Recipient \n       may distribute Modifications to Nonprofit Organization(s) for research and teaching purposes only.\n\n   (c) Without written consent from the Provider, the Recipient and/or the Recipient Scientist may NOT \n       provide Modifications for Commercial Purposes. It is recognized by the Recipient that such \n       Commercial Purposes may require a commercial license from the Provider and the Provider has no \n       obligation to grant a commercial license to its ownership interest in the Material incorporated in the \n       Modifications. Nothing in this paragraph, however, shall prevent the Recipient from granting \n       commercial licenses under the Recipient’s intellectual property rights claiming such Modifications, or \n       methods of their manufacture or their use.\n\n6. The Recipient acknowledges that the Material is or may be the subject of a patent application. Except \n   as provided in this Agreement, no express or implied licenses or other rights are provided to the \n   Recipient under any patents, patent applications, trade secrets or other proprietary rights of the \n   Provider, including any altered forms of the Material made by the Provider. In particular, no express \n   or implied licenses or other rights are provided to use the Material, Modifications, or any related patents \n   of the Provider for Commercial Purposes.\n\n7. If the Recipient desires to use or license the Material or Modifications for Commercial Purposes, the \n   Recipient agrees, in advance of such use, to negotiate in good faith with the Provider to establish the \n   terms of a commercial license. It is understood by the Recipient that the Provider shall have no \n   obligation to grant such a license to the Recipient, and may grant exclusive or non-exclusive \n   commercial licenses to others, or sell or assign all or part of the rights in the Material to any third \n   party(ies), subject to any pre-existing rights held by others.\n\n8. The Recipient is free to file patent application(s) claiming inventions made by the Recipient through \n   the use of the Material but agrees to notify the Provider upon filing a patent application claiming \n   Modifications or method(s) of manufacture or use(s) of the Material.\n\n9. Any Material delivered pursuant to this Agreement is understood to be experimental in nature and may \n   have hazardous properties. THE PROVIDER MAKES NO REPRESENTATIONS AND EXTENDS \n   NO WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED. THERE ARE NO \n   EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A\n```\n\n```\nPARTICULAR PURPOSE, OR THAT THE USE OF THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK, OR OTHER PROPRIETARY RIGHTS.\n\n10. Except to the extent prohibited by law, the Recipient assumes all liability for damages which may arise from its use, storage or disposal of the Material. The Provider will not be liable to the Recipient for any loss, claim or demand made by the Recipient, or made against the Recipient by any other party, due to or arising from the use of the Material by the Recipient, except to the extent permitted by law when caused by the gross negligence or willful misconduct of the Provider.\n\n11. This Agreement shall not be interpreted to prevent or delay publication of research findings resulting from the use of the Material or the Modifications. The Recipient Scientist agrees to provide appropriate acknowledgment of the source of the Material in all publications.\n\n12. The Recipient agrees to use the Material in compliance with all applicable statutes and governmental regulations and guidelines such as, for example, those relating to research involving the use of animals or recombinant DNA.\n\n13. This Agreement will terminate on the earliest of the following dates: (a) on completion of the Recipient’s current research with the Material, or (b) on thirty (30) days written notice by either party to the other, or (c) on the date specified in Exhibit B, provided that:\n\n(i) if termination should occur under 13(a) or (c) above, the Recipient will discontinue its use of the Material and will, upon direction of the Provider, return or destroy any remaining Material. The Recipient, at its discretion, will also either destroy the Modifications or remain bound by the terms of this agreement as they apply to Modifications;\n\nand\n\n(ii) in the event the Provider terminates this Agreement under 13(b) other than for breach of this Agreement or for cause such as an imminent health risk or patent infringement, the Provider will defer the effective date of termination for a period of up to one year, upon request from the Recipient, to permit completion of research in progress. Upon the effective date of termination, or if requested, the deferred effective date of termination, Recipient will discontinue its use of the Material and will, upon direction of the Provider, return or destroy any remaining Material. The Recipient, at its discretion, will also either destroy the Modifications or remain bound by the terms of this agreement as they apply to Modifications.\n\n14. Paragraphs 6, 9, and 10 shall survive termination.\n\nPage 4\n```",
+  "clauses": [
+    {
+      "id": "E",
+      "title": "Exhibit A",
+      "text": "Exhibit A"
+    },
+    {
+      "id": "S",
+      "title": "Standard Terms",
+      "text": "Standard Terms"
+    },
+    {
+      "id": "I",
+      "title": "I. DEFINITIONS:",
+      "text": "I. DEFINITIONS:"
+    },
+    {
+      "id": "1",
+      "title": "1. **Provider**: Organization providing the Original Material. The name and",
+      "text": "1. **Provider**: Organization providing the Original Material. The name and address of this party is specified on page 1 of this Agreement."
+    },
+    {
+      "id": "2",
+      "title": "2. **Provider Scientist**: The name and address of this party is specified",
+      "text": "2. **Provider Scientist**: The name and address of this party is specified on page 1 of this Agreement."
+    },
+    {
+      "id": "3",
+      "title": "3. **Recipient**: Organization receiving the Original Material. The name and",
+      "text": "3. **Recipient**: Organization receiving the Original Material. The name and address of this party is specified on page 1 of this Agreement."
+    },
+    {
+      "id": "4",
+      "title": "4. **Recipient Scientist**: The name and address of this party is specified",
+      "text": "4. **Recipient Scientist**: The name and address of this party is specified on page 1 of this Agreement."
+    },
+    {
+      "id": "5",
+      "title": "5. **Original Material**: The description of the Material being transferred",
+      "text": "5. **Original Material**: The description of the Material being transferred is specified on page 1 of this Agreement."
+    },
+    {
+      "id": "6",
+      "title": "6. **Material**: Original Material, Progeny, and Unmodified Derivatives. The",
+      "text": "6. **Material**: Original Material, Progeny, and Unmodified Derivatives. The Material shall not include: (a) Modifications, or (b) other substances created by the Recipient through the use of the Material which are not Modifications, Progeny, or Unmodified Derivatives."
+    },
+    {
+      "id": "7",
+      "title": "7. **Progeny**: Unmodified descendant from the Material, such as virus from",
+      "text": "7. **Progeny**: Unmodified descendant from the Material, such as virus from virus, cell from cell, or organism from organism."
+    },
+    {
+      "id": "8",
+      "title": "8. **Unmodified Derivatives**: Substances created by the Recipient which",
+      "text": "8. **Unmodified Derivatives**: Substances created by the Recipient which constitute an unmodified functional subunit or product expressed by the Original Material. Some examples include: subclones of unmodified cell lines, purified or fractionated subsets of the Original Material, proteins expressed by DNA/RNA supplied by the Provider, or monoclonal antibodies secreted by a hybridoma cell line."
+    },
+    {
+      "id": "9",
+      "title": "9. **Modifications**: Substances created by the Recipient which",
+      "text": "9. **Modifications**: Substances created by the Recipient which contain/incorporate the Material."
+    },
+    {
+      "id": "10",
+      "title": "10. **Commercial Purposes**: The sale, lease, license, or other transfer of",
+      "text": "10. **Commercial Purposes**: The sale, lease, license, or other transfer of the Material or Modifications to a for-profit organization. Commercial Purposes shall also include uses of the Material or Modifications by any organization, including Recipient, to perform contract research, to produce or manufacture products for general sale, or to conduct research activities that result in any sale, lease, license, or transfer of the Material or Modifications to a for-profit organization. However, industrially sponsored academic research shall not be considered a use of the Material or Modifications for Commercial Purposes per se, unless any of the above conditions of this definition are met."
+    },
+    {
+      "id": "11",
+      "title": "11. **Nonprofit Organization(s)**: A university or other institution of",
+      "text": "11. **Nonprofit Organization(s)**: A university or other institution of higher education or a not-for-profit organization officially recognized or qualified under the laws of the country in which it is organized or located, or any nonprofit scientific or educational organization qualified under a federal, state or local jurisdiction’s nonprofit organization statute. As used herein, the term also includes national, state or local government agencies.  \n\n---"
+    },
+    {
+      "id": "I__dup__2",
+      "title": "II. TERMS AND CONDITIONS OF THIS AGREEMENT:",
+      "text": "II. TERMS AND CONDITIONS OF THIS AGREEMENT:"
+    },
+    {
+      "id": "1__dup__2",
+      "title": "1. The Provider retains ownership of the Material, including any Material",
+      "text": "1. The Provider retains ownership of the Material, including any Material contained or incorporated in Modifications."
+    },
+    {
+      "id": "2__dup__2",
+      "title": "2. The Recipient retains ownership of: (a) Modifications (except that, the",
+      "text": "2. The Recipient retains ownership of: (a) Modifications (except that, the Provider retains ownership rights to the Material included therein), and (b) those substances created through the use of the Material or Modifications, but which are not Progeny, Unmodified Derivatives or Modifications (i.e., do not contain the Original Material, Progeny, Unmodified Derivatives). If either 2 (a) or 2 (b) results from the collaborative efforts of the Provider and the Recipient, joint ownership may be negotiated.  \n\nPage 2\n\n```"
+    },
+    {
+      "id": "3__dup__2",
+      "title": "3. The Recipient and the Recipient Scientist agree that the Material:",
+      "text": "3. The Recipient and the Recipient Scientist agree that the Material:"
+    },
+    {
+      "id": "19",
+      "title": "(a) is to be used solely for teaching and academic research purposes;",
+      "text": "(a) is to be used solely for teaching and academic research purposes;"
+    },
+    {
+      "id": "20",
+      "title": "(b) will not be used in human subjects, in clinical trials, or for diagnostic",
+      "text": "(b) will not be used in human subjects, in clinical trials, or for diagnostic purposes involving \n       human subjects without the written consent of the Provider;"
+    },
+    {
+      "id": "21",
+      "title": "(c) is to be used only at the Recipient organization and only in the",
+      "text": "(c) is to be used only at the Recipient organization and only in the Recipient Scientist laboratory \n       under the direction of the Recipient Scientist or others working under his/her direct supervision;"
+    },
+    {
+      "id": "22",
+      "title": "(d) will not be transferred to anyone else within the Recipient organization",
+      "text": "(d) will not be transferred to anyone else within the Recipient organization without the prior \n       written consent of the Provider."
+    },
+    {
+      "id": "4__dup__2",
+      "title": "4. The Recipient and the Recipient Scientist agree to refer to the Provider",
+      "text": "4. The Recipient and the Recipient Scientist agree to refer to the Provider any request for the Material \n   from anyone other than those persons working under the Recipient Scientist’s direct supervision. To \n   the extent supplies are available, the Provider or the Provider Scientist agrees to make the Material \n   available, under an agreement having terms consistent with the terms of this Agreement, to other \n   scientists (at least those at Nonprofit Organization(s)) who wish to replicate the Recipient Scientist’s \n   research; provided that such other scientists reimburse the Provider for any costs relating to the \n   preparation and distribution of the Material."
+    },
+    {
+      "id": "5__dup__2",
+      "title": "5. (a) The Recipient and/or the Recipient Scientist shall have the right,",
+      "text": "5. (a) The Recipient and/or the Recipient Scientist shall have the right, without restriction, to distribute \n       substances created by the Recipient through the use of the Original Material only if those substances \n       are not Progeny, Unmodified Derivatives, or Modifications."
+    },
+    {
+      "id": "25",
+      "title": "(b) Under an agreement at least as protective of the Provider’s rights as",
+      "text": "(b) Under an agreement at least as protective of the Provider’s rights as this Agreement, the Recipient \n       may distribute Modifications to Nonprofit Organization(s) for research and teaching purposes only."
+    },
+    {
+      "id": "26",
+      "title": "(c) Without written consent from the Provider, the Recipient and/or the",
+      "text": "(c) Without written consent from the Provider, the Recipient and/or the Recipient Scientist may NOT \n       provide Modifications for Commercial Purposes. It is recognized by the Recipient that such \n       Commercial Purposes may require a commercial license from the Provider and the Provider has no \n       obligation to grant a commercial license to its ownership interest in the Material incorporated in the \n       Modifications. Nothing in this paragraph, however, shall prevent the Recipient from granting \n       commercial licenses under the Recipient’s intellectual property rights claiming such Modifications, or \n       methods of their manufacture or their use."
+    },
+    {
+      "id": "6__dup__2",
+      "title": "6. The Recipient acknowledges that the Material is or may be the subject of",
+      "text": "6. The Recipient acknowledges that the Material is or may be the subject of a patent application. Except \n   as provided in this Agreement, no express or implied licenses or other rights are provided to the \n   Recipient under any patents, patent applications, trade secrets or other proprietary rights of the \n   Provider, including any altered forms of the Material made by the Provider. In particular, no express \n   or implied licenses or other rights are provided to use the Material, Modifications, or any related patents \n   of the Provider for Commercial Purposes."
+    },
+    {
+      "id": "7__dup__2",
+      "title": "7. If the Recipient desires to use or license the Material or Modifications",
+      "text": "7. If the Recipient desires to use or license the Material or Modifications for Commercial Purposes, the \n   Recipient agrees, in advance of such use, to negotiate in good faith with the Provider to establish the \n   terms of a commercial license. It is understood by the Recipient that the Provider shall have no \n   obligation to grant such a license to the Recipient, and may grant exclusive or non-exclusive \n   commercial licenses to others, or sell or assign all or part of the rights in the Material to any third \n   party(ies), subject to any pre-existing rights held by others."
+    },
+    {
+      "id": "8__dup__2",
+      "title": "8. The Recipient is free to file patent application(s) claiming inventions",
+      "text": "8. The Recipient is free to file patent application(s) claiming inventions made by the Recipient through \n   the use of the Material but agrees to notify the Provider upon filing a patent application claiming \n   Modifications or method(s) of manufacture or use(s) of the Material."
+    },
+    {
+      "id": "9__dup__2",
+      "title": "9. Any Material delivered pursuant to this Agreement is understood to be",
+      "text": "9. Any Material delivered pursuant to this Agreement is understood to be experimental in nature and may \n   have hazardous properties. THE PROVIDER MAKES NO REPRESENTATIONS AND EXTENDS \n   NO WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED. THERE ARE NO \n   EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A\n```\n\n```"
+    },
+    {
+      "id": "P",
+      "title": "PARTICULAR PURPOSE, OR THAT THE USE OF THE MATERIAL WILL NOT INFRINGE ANY",
+      "text": "PARTICULAR PURPOSE, OR THAT THE USE OF THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK, OR OTHER PROPRIETARY RIGHTS."
+    },
+    {
+      "id": "10__dup__2",
+      "title": "10. Except to the extent prohibited by law, the Recipient assumes all",
+      "text": "10. Except to the extent prohibited by law, the Recipient assumes all liability for damages which may arise from its use, storage or disposal of the Material. The Provider will not be liable to the Recipient for any loss, claim or demand made by the Recipient, or made against the Recipient by any other party, due to or arising from the use of the Material by the Recipient, except to the extent permitted by law when caused by the gross negligence or willful misconduct of the Provider."
+    },
+    {
+      "id": "11__dup__2",
+      "title": "11. This Agreement shall not be interpreted to prevent or delay publication",
+      "text": "11. This Agreement shall not be interpreted to prevent or delay publication of research findings resulting from the use of the Material or the Modifications. The Recipient Scientist agrees to provide appropriate acknowledgment of the source of the Material in all publications."
+    },
+    {
+      "id": "12",
+      "title": "12. The Recipient agrees to use the Material in compliance with all",
+      "text": "12. The Recipient agrees to use the Material in compliance with all applicable statutes and governmental regulations and guidelines such as, for example, those relating to research involving the use of animals or recombinant DNA."
+    },
+    {
+      "id": "13",
+      "title": "13. This Agreement will terminate on the earliest of the following dates:",
+      "text": "13. This Agreement will terminate on the earliest of the following dates: (a) on completion of the Recipient’s current research with the Material, or (b) on thirty (30) days written notice by either party to the other, or (c) on the date specified in Exhibit B, provided that:"
+    },
+    {
+      "id": "36",
+      "title": "(i) if termination should occur under 13(a) or (c) above, the Recipient will",
+      "text": "(i) if termination should occur under 13(a) or (c) above, the Recipient will discontinue its use of the Material and will, upon direction of the Provider, return or destroy any remaining Material. The Recipient, at its discretion, will also either destroy the Modifications or remain bound by the terms of this agreement as they apply to Modifications;\n\nand"
+    },
+    {
+      "id": "37",
+      "title": "(ii) in the event the Provider terminates this Agreement under 13(b) other",
+      "text": "(ii) in the event the Provider terminates this Agreement under 13(b) other than for breach of this Agreement or for cause such as an imminent health risk or patent infringement, the Provider will defer the effective date of termination for a period of up to one year, upon request from the Recipient, to permit completion of research in progress. Upon the effective date of termination, or if requested, the deferred effective date of termination, Recipient will discontinue its use of the Material and will, upon direction of the Provider, return or destroy any remaining Material. The Recipient, at its discretion, will also either destroy the Modifications or remain bound by the terms of this agreement as they apply to Modifications."
+    },
+    {
+      "id": "14",
+      "title": "14. Paragraphs 6, 9, and 10 shall survive termination.",
+      "text": "14. Paragraphs 6, 9, and 10 shall survive termination.\n\nPage 4\n```"
+    }
+  ]
+}

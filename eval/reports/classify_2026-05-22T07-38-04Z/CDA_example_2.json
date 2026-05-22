@@ -1,0 +1,12 @@
+{
+  "filename": "CDA example 2.pdf",
+  "predicted_type": "Confidential Disclosure Agreement",
+  "confidence": 0.98,
+  "rationale": "The document is explicitly titled 'Mutual Confidentiality & Non-Disclosure Agreement' and repeatedly references the protection and non-disclosure of confidential information between the parties. The purpose and obligations outlined align directly with the scope of a Confidential Disclosure Agreement.",
+  "expected_hint": "Confidential Disclosure Agreement",
+  "name_match": true,
+  "wall_ms": 3763.3,
+  "source_text_chars": 9505,
+  "source_clauses": 19,
+  "merged_fragments": []
+}

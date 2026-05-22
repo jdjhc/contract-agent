@@ -1,0 +1,12 @@
+{
+  "filename": "Contract Example 5.pdf",
+  "predicted_type": "Collaboration Agreement",
+  "confidence": 0.95,
+  "rationale": "The document explicitly references 'Collaboration Agreement' multiple times and outlines terms for collaboration among partners, including the University of Auckland as the Designated Development Partner. The focus is on joint efforts and shared responsibilities for a project, which aligns with the definition of a Collaboration Agreement.",
+  "expected_hint": null,
+  "name_match": null,
+  "wall_ms": 6046.8,
+  "source_text_chars": 47579,
+  "source_clauses": 71,
+  "merged_fragments": []
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "Contract Example 1.pdf",
+  "contract_type": "Public Research Contract",
+  "flags_source": "augment",
+  "n_flags": 41,
+  "counts": {
+    "red": 1,
+    "amber": 1,
+    "green": 1,
+    "blue": 38
+  },
+  "summary": "The overall risk posture of this public research contract is moderate, with most clauses flagged as \"blue\" for falling outside the scope of the University of Auckland's Preferred Contracting Positions, indicating no significant alignment or misalignment. However, one \"red\" flag was identified in a clause allowing termination of subcontractor or employment agreements based on funding changes, which conflicts with UoA Position #POS-19 on termination provisions. The recommended next step is to escalate the flagged \"red\" clause to the Senior Manager, Research Grants and Contracts for review and potential renegotiation to ensure compliance with UoA's termination policies.",
+  "wall_ms": 6747.3
+}

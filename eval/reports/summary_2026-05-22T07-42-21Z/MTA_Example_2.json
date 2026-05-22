@@ -1,0 +1,14 @@
+{
+  "filename": "MTA Example 2.pdf",
+  "contract_type": "Material Transfer Agreement",
+  "flags_source": "augment",
+  "n_flags": 38,
+  "counts": {
+    "red": 1,
+    "amber": 9,
+    "green": 3,
+    "blue": 25
+  },
+  "summary": "The overall risk posture of this Material Transfer Agreement is moderate, with most flagged clauses falling into the \"blue\" category, indicating they are outside the scope of UoA's Preferred Contracting Positions but do not pose immediate compliance concerns. However, several \"amber\" clauses, particularly those related to intellectual property (e.g., ownership of Modifications and patent rights) and termination provisions, require referral to Auckland UniServices Ltd or the Senior Manager, Research Grants and Contracts for further review. The \"red\" termination clause introduces significant risk by allowing termination for convenience without adequate safeguards, necessitating immediate escalation. The next step is to escalate the flagged \"amber\" and \"red\" clauses to the appropriate stakeholders for resolution and ensure alignment with UoA's policies before finalizing the agreement.",
+  "wall_ms": 6819.6
+}

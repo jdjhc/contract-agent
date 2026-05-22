@@ -1,0 +1,207 @@
+{
+  "filename": "Collaboration Agreement Example 2.pdf",
+  "merged_fragments": [],
+  "text_chars": 5943,
+  "n_clauses": 38,
+  "ingest_metrics": {
+    "n_calls": 3,
+    "input_tokens": 2705,
+    "output_tokens": 1144,
+    "latency_ms": 47273.3,
+    "total_cost_usd": 0.018202
+  },
+  "wall_ms": 35549.2,
+  "text": "```\nResearch Collaboration Agreement  \nBetween [REDACTED] and  \nUniversity of Auckland  \n\nSan Francisco, Aug 29, 2024  \n\nON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS “[REDACTED]”  \nREPRESENTED BY [REDACTED] ACTING ON BEHALF  \nREGISTERED IN [REDACTED];  \n\nOTHER SIDE, THE RESEARCHER University of Auckland  \na university constituted under the University of Auckland Act 1961 AT  \nUniversity of Auckland;  \n\nIN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS.  \n\nSTATEMENTS:  \n\nI. The parties are institutions with full capacity to engage, and whose essential purposes are research and development.  \n\nII. The parties coincide in the interest of promoting teaching, research, and development, the reason for which it is their will to endorse the present agreement in the clauses and conditions established below:  \n```\n\nCLAUSES:\nFIRST. The present aggreement seeks to establish the bases and criteria upon which\nand will establish a collaboration.\nSECOND.The parties declare their interest in collaboration in relation to the provision of\nAssessment Licenses by to the University of Auckland.\nTHIRD. The parties agree that the specific development, activities, responsibilities of\neach party, and the budget for the activity programs resulting from this agreement will be\ndetailed and added as annexes to this agreement.\nFOURTH. The parties will designate members of their personnel to be responsible for\nmonitoring this agreement and all the specific ones that are signed.\nFIFTH. A party must not use the names, logos or trade marks of the other party or its\npersonnel in any publicity or marketing without the other party’s prior written consent.\nSIXTH. The personnel designated in each party for the implementation of any joint action\nwill depend exclusively on the institution with which they have established their labor\nrelationship.\nSEVENTH. The present agreement will be effective for three years from the date of\nsigning.\nEIGHTH. Both parties agree to treat any scientific and technical information received\nfrom the other party during the collaboration as confidential, ensuring limited circulation\nof said information and assuming responsibility for this obligation being fulfilled by all\npersonnel who require access under this agreement. Additionally, co-investigators from\npartner universities will be allowed to access data produced by and utilize the\nresearcher portal to manage their participants at each site and data collection.\nThis duty of confidentiality will persist indefinitely following the termination of this\ncontract.\nNINTH. The parties undertake to fully comply with the data protection obligations\ncontained in the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE\nCOUNCIL on the protection of natural persons about the processing of personal data\nand the free movement of such data and repealing Directive 95/46 / EC (GDPR). The\nparties are informed that their data will be processed by each other for the management\nof the planned collaboration and the payment of the economic conditions, if applicable.\nThe basis of this treatment is the execution of the agreement, so the provision of data\nfor this purpose is mandatory and would prevent compliance otherwise.\nThe data will be kept for that purpose during the entire time the agreement is in force\nand, even afterward, for the entire time required by the applicable legislation and until\nthe possible responsibilities derived from it expire.\n\nThe parties have the right to request access to their personal data, rectification or deletion, as well as the limitation of its treatment, to oppose it and the portability of their data.\n\nTENTH. The parties expressly accept the content and ethical values established in the Code of Conduct and Anticorruption Policy of the other party, whose content they know, formally committing to putting it into practice in each one of the decisions, processes, and activities developed in collaboration with the party, as well as not carrying out any practice that in any way may lead to a violation of applicable laws or regulations related to corruption.\n\nLikewise, the enforcement of this Code and Policy is mandatory for all third parties involved on their own in all activities developed jointly.\n\nFailure to comply with the provisions of this clause, as well as any unethical behavior that may arise during the relationship of the parties must be reported immediately, will be cause for resolution, and, where appropriate, will result in demanding lawful compensation for damages that may arise.\n\nELEVENTH. The collaboration relationship provided for in this agreement excludes any employment relationship between the parties.\n\nThe parties undertake to resolve amicably any disagreement that may arise in the development of this Collaboration Agreement. In case of divergences in the interpretation and fulfillment of the same or the specific agreements or contracts that result, the Courts and Tribunals of the parties' headquarters will be the only ones with competency, the parties expressly waiving to any other jurisdiction that may correspond.\n\nThe maximum aggregate liability of one party to the other under or in connection with this Agreement shall be limited to an amount equal to ______. Neither party shall be liable to the other for any loss of profits, revenue, savings, business, goodwill, or for any consequential, indirect, incidental, or special damages of any kind under or in connection with this Agreement.\n\nRead and understood by the parties, it is signed in two copies.\n\nThe parties hereto have caused this agreement to be executed by their respective authorized representatives as of the day, month and year entered above.\n\nFor ___________________________  \nSigned by: _____________________  \n[signature]  \nTitle: __________________________  \n\nFor University of Auckland  \nSigned by: University of Auckland  \n[signature]  \nTitle: a university constituted under the University of Auckland Act 1961",
+  "clauses": [
+    {
+      "id": "R",
+      "title": "Research Collaboration Agreement",
+      "text": "Research Collaboration Agreement"
+    },
+    {
+      "id": "B",
+      "title": "Between [REDACTED] and",
+      "text": "Between [REDACTED] and"
+    },
+    {
+      "id": "U",
+      "title": "University of Auckland",
+      "text": "University of Auckland"
+    },
+    {
+      "id": "S",
+      "title": "San Francisco, Aug 29, 2024",
+      "text": "San Francisco, Aug 29, 2024"
+    },
+    {
+      "id": "O",
+      "title": "ON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS",
+      "text": "ON ONE SIDE [REDACTED] HEREAFTER REFERRED TO AS “[REDACTED]”"
+    },
+    {
+      "id": "R__dup__2",
+      "title": "REPRESENTED BY [REDACTED] ACTING ON BEHALF",
+      "text": "REPRESENTED BY [REDACTED] ACTING ON BEHALF"
+    },
+    {
+      "id": "R__dup__3",
+      "title": "REGISTERED IN [REDACTED];",
+      "text": "REGISTERED IN [REDACTED];"
+    },
+    {
+      "id": "O__dup__2",
+      "title": "OTHER SIDE, THE RESEARCHER University of Auckland",
+      "text": "OTHER SIDE, THE RESEARCHER University of Auckland"
+    },
+    {
+      "id": "9",
+      "title": "a university constituted under the University of Auckland Act 1961 AT",
+      "text": "a university constituted under the University of Auckland Act 1961 AT  \nUniversity of Auckland;"
+    },
+    {
+      "id": "I",
+      "title": "IN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS.",
+      "text": "IN LINE WITH THE FOLLOWING CLAUSES AND STATEMENTS."
+    },
+    {
+      "id": "S__dup__2",
+      "title": "STATEMENTS:",
+      "text": "STATEMENTS:"
+    },
+    {
+      "id": "I__dup__2",
+      "title": "I. The parties are institutions with full capacity to engage, and whose",
+      "text": "I. The parties are institutions with full capacity to engage, and whose essential purposes are research and development."
+    },
+    {
+      "id": "I__dup__3",
+      "title": "II. The parties coincide in the interest of promoting teaching, research,",
+      "text": "II. The parties coincide in the interest of promoting teaching, research, and development, the reason for which it is their will to endorse the present agreement in the clauses and conditions established below:  \n```\n\nCLAUSES:"
+    },
+    {
+      "id": "F",
+      "title": "FIRST. The present aggreement seeks to establish the bases and criteria",
+      "text": "FIRST. The present aggreement seeks to establish the bases and criteria upon which\nand will establish a collaboration."
+    },
+    {
+      "id": "S__dup__3",
+      "title": "SECOND.The parties declare their interest in collaboration in relation to",
+      "text": "SECOND.The parties declare their interest in collaboration in relation to the provision of\nAssessment Licenses by to the University of Auckland."
+    },
+    {
+      "id": "T",
+      "title": "THIRD. The parties agree that the specific development, activities,",
+      "text": "THIRD. The parties agree that the specific development, activities, responsibilities of\neach party, and the budget for the activity programs resulting from this agreement will be\ndetailed and added as annexes to this agreement."
+    },
+    {
+      "id": "F__dup__2",
+      "title": "FOURTH. The parties will designate members of their personnel to be",
+      "text": "FOURTH. The parties will designate members of their personnel to be responsible for\nmonitoring this agreement and all the specific ones that are signed."
+    },
+    {
+      "id": "F__dup__3",
+      "title": "FIFTH. A party must not use the names, logos or trade marks of the other",
+      "text": "FIFTH. A party must not use the names, logos or trade marks of the other party or its\npersonnel in any publicity or marketing without the other party’s prior written consent."
+    },
+    {
+      "id": "S__dup__4",
+      "title": "SIXTH. The personnel designated in each party for the implementation of",
+      "text": "SIXTH. The personnel designated in each party for the implementation of any joint action\nwill depend exclusively on the institution with which they have established their labor\nrelationship."
+    },
+    {
+      "id": "S__dup__5",
+      "title": "SEVENTH. The present agreement will be effective for three years from",
+      "text": "SEVENTH. The present agreement will be effective for three years from the date of\nsigning."
+    },
+    {
+      "id": "E",
+      "title": "EIGHTH. Both parties agree to treat any scientific and technical",
+      "text": "EIGHTH. Both parties agree to treat any scientific and technical information received\nfrom the other party during the collaboration as confidential, ensuring limited circulation\nof said information and assuming responsibility for this obligation being fulfilled by all\npersonnel who require access under this agreement. Additionally, co-investigators from\npartner universities will be allowed to access data produced by and utilize the\nresearcher portal to manage their participants at each site and data collection."
+    },
+    {
+      "id": "T__dup__2",
+      "title": "This duty of confidentiality will persist indefinitely following the",
+      "text": "This duty of confidentiality will persist indefinitely following the termination of this\ncontract."
+    },
+    {
+      "id": "N",
+      "title": "NINTH. The parties undertake to fully comply with the data protection",
+      "text": "NINTH. The parties undertake to fully comply with the data protection obligations\ncontained in the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE\nCOUNCIL on the protection of natural persons about the processing of personal data\nand the free movement of such data and repealing Directive 95/46 / EC (GDPR). The\nparties are informed that their data will be processed by each other for the management\nof the planned collaboration and the payment of the economic conditions, if applicable.\nThe basis of this treatment is the execution of the agreement, so the provision of data\nfor this purpose is mandatory and would prevent compliance otherwise.\nThe data will be kept for that purpose during the entire time the agreement is in force\nand, even afterward, for the entire time required by the applicable legislation and until\nthe possible responsibilities derived from it expire."
+    },
+    {
+      "id": "T__dup__3",
+      "title": "The parties have the right to request access to their personal data,",
+      "text": "The parties have the right to request access to their personal data, rectification or deletion, as well as the limitation of its treatment, to oppose it and the portability of their data."
+    },
+    {
+      "id": "T__dup__4",
+      "title": "TENTH. The parties expressly accept the content and ethical values",
+      "text": "TENTH. The parties expressly accept the content and ethical values established in the Code of Conduct and Anticorruption Policy of the other party, whose content they know, formally committing to putting it into practice in each one of the decisions, processes, and activities developed in collaboration with the party, as well as not carrying out any practice that in any way may lead to a violation of applicable laws or regulations related to corruption."
+    },
+    {
+      "id": "L",
+      "title": "Likewise, the enforcement of this Code and Policy is mandatory for all",
+      "text": "Likewise, the enforcement of this Code and Policy is mandatory for all third parties involved on their own in all activities developed jointly."
+    },
+    {
+      "id": "F__dup__4",
+      "title": "Failure to comply with the provisions of this clause, as well as any",
+      "text": "Failure to comply with the provisions of this clause, as well as any unethical behavior that may arise during the relationship of the parties must be reported immediately, will be cause for resolution, and, where appropriate, will result in demanding lawful compensation for damages that may arise."
+    },
+    {
+      "id": "E__dup__2",
+      "title": "ELEVENTH. The collaboration relationship provided for in this agreement",
+      "text": "ELEVENTH. The collaboration relationship provided for in this agreement excludes any employment relationship between the parties."
+    },
+    {
+      "id": "T__dup__5",
+      "title": "The parties undertake to resolve amicably any disagreement that may",
+      "text": "The parties undertake to resolve amicably any disagreement that may arise in the development of this Collaboration Agreement. In case of divergences in the interpretation and fulfillment of the same or the specific agreements or contracts that result, the Courts and Tribunals of the parties' headquarters will be the only ones with competency, the parties expressly waiving to any other jurisdiction that may correspond."
+    },
+    {
+      "id": "T__dup__6",
+      "title": "The maximum aggregate liability of one party to the other under or in",
+      "text": "The maximum aggregate liability of one party to the other under or in connection with this Agreement shall be limited to an amount equal to ______. Neither party shall be liable to the other for any loss of profits, revenue, savings, business, goodwill, or for any consequential, indirect, incidental, or special damages of any kind under or in connection with this Agreement."
+    },
+    {
+      "id": "R__dup__4",
+      "title": "Read and understood by the parties, it is signed in two copies.",
+      "text": "Read and understood by the parties, it is signed in two copies."
+    },
+    {
+      "id": "T__dup__7",
+      "title": "The parties hereto have caused this agreement to be executed by their",
+      "text": "The parties hereto have caused this agreement to be executed by their respective authorized representatives as of the day, month and year entered above."
+    },
+    {
+      "id": "F__dup__5",
+      "title": "For ___________________________",
+      "text": "For ___________________________"
+    },
+    {
+      "id": "S__dup__6",
+      "title": "Signed by: _____________________",
+      "text": "Signed by: _____________________  \n[signature]"
+    },
+    {
+      "id": "T__dup__8",
+      "title": "Title: __________________________",
+      "text": "Title: __________________________"
+    },
+    {
+      "id": "F__dup__6",
+      "title": "For University of Auckland",
+      "text": "For University of Auckland"
+    },
+    {
+      "id": "S__dup__7",
+      "title": "Signed by: University of Auckland",
+      "text": "Signed by: University of Auckland  \n[signature]"
+    },
+    {
+      "id": "T__dup__9",
+      "title": "Title: a university constituted under the University of Auckland Act",
+      "text": "Title: a university constituted under the University of Auckland Act 1961"
+    }
+  ]
+}

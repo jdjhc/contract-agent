@@ -1,0 +1,37 @@
+Summarising 28 contracts (LLM configured: True)
+Concurrency: 10  →  eval/reports/summary_2026-05-22T07-42-21Z
+
+[ 1/28] OK  CDA example 3.pdf                                   2946ms  «The review of "CDA example 3.pdf" reveals a moderate to high-risk posture, with »
+[ 2/28] OK  Collaboration Agreement Example 2.pdf               3169ms  «The overall risk posture of this Collaboration Agreement is moderate, with a mix»
+[ 3/28] OK  Consultancy Services Agreement Example.pdf          3552ms  «The overall risk posture of this Consultancy Services Agreement is low to modera»
+[ 4/28] OK  Contract Example 2.pdf                              3594ms  «The review of "Contract Example 2.pdf," a public research contract, indicates a »
+[ 5/28] OK  CDA example 2.pdf                                   5470ms  «The review of "CDA example 2.pdf" reveals a mixed risk posture, with several cla»
+[ 6/28] OK  CDA example 1.pdf                                   6132ms  «The review of the Confidential Disclosure Agreement (CDA example 1.pdf) indicate»
+[ 7/28] OK  Collaboration Agreement Example 4.pdf               6386ms  «The review of "Collaboration Agreement Example 4.pdf" indicates a generally low-»
+[ 8/28] OK  Contract Example 1.pdf                              6747ms  «The overall risk posture of this public research contract is moderate, with most»
+[ 9/28] OK  Contract Example 3.pdf                              5588ms  «The review of "Contract Example 3.pdf" reveals a generally moderate risk posture»
+[10/28] OK  Contract Example 4.pdf                              5454ms  «The review of "Contract Example 4.pdf" identifies a moderate risk posture, with »
+[11/28] OK  Collaboration Agreement Example 1.pdf               8783ms  «The review of the Collaboration Agreement indicates a moderate risk posture, wit»
+[12/28] OK  Contract Example 5.pdf                              6264ms  «The review of "Contract Example 5.pdf," a Collaboration Agreement, indicates a m»
+[13/28] OK  Collaboration Agreement Example 3.pdf              10723ms  «The review of the collaboration agreement indicates a moderate risk posture, wit»
+[14/28] OK  MTA Example 1.pdf                                   5950ms  «The review of "MTA Example 1.pdf" reveals a generally moderate risk posture, wit»
+[15/28] OK  MTA Example 2.pdf                                   6820ms  «The overall risk posture of this Material Transfer Agreement is moderate, with m»
+[16/28] OK  Contract for Goods and Services Example.pdf        10519ms  «The review of the "Contract for Goods and Services Example.pdf" indicates a mode»
+[17/28] OK  MTA Example 4.pdf                                   6122ms  «The review of "MTA Example 4.pdf" indicates a moderate risk posture, with severa»
+[18/28] OK  NDA student work experience example 1.pdf           4902ms  «The review of the Student Research Agreement reveals a moderate risk posture, wi»
+[19/28] OK  Master Services Agreement Example 1 (1).pdf         6487ms  «The overall risk posture of this Provision of Services Agreement is moderate, wi»
+[20/28] OK  NDA example 1.pdf                                   6442ms  «The review of "NDA example 1.pdf" reveals a high-risk posture due to multiple re»
+[21/28] OK  Service Provider Agreement Example.pdf              3826ms  «The review of the "Service Provider Agreement Example.pdf" indicates a moderate »
+[22/28] OK  NDA student work experience example 2.pdf           5597ms  «The overall risk posture of this Confidential Disclosure Agreement is moderate, »
+[23/28] OK  MTA Example 3.pdf                                  10079ms  «The review of "MTA Example 3.pdf," a Data Transfer Agreement, reveals a moderate»
+[24/28] OK  Student Research Agreement Example 1.pdf            4622ms  «The overall risk posture of this Student Research Agreement is moderate, with se»
+[25/28] OK  Student Research Agreement Example 2.pdf            5269ms  «The review of the *Student Research Agreement Example 2.pdf* indicates a moderat»
+[26/28] OK  Data Transfer Agreement Example.pdf                15230ms  «The review of the Data Transfer Agreement reveals a moderate to high-risk postur»
+[27/28] OK  Subcontract Example 1.pdf                           6976ms  «The review of "Subcontract Example 1.pdf" indicates a generally low-risk posture»
+[28/28] OK  Subcontract Example 2.pdf                          10053ms  «The overall risk posture of this commercial research contract is moderate, with »
+
+=== Summary-node summary ===
+Files     : 28/28 OK
+Wall time : 25.1s
+Checkpoints → eval/reports/summary_2026-05-22T07-42-21Z
+Summary     → eval/reports/summary_2026-05-22T07-42-21Z/summary.json

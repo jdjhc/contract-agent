@@ -1,0 +1,12 @@
+{
+  "filename": "Collaboration Agreement Example 1.pdf",
+  "predicted_type": "Collaboration Agreement",
+  "confidence": 0.95,
+  "rationale": "The document is explicitly titled 'COLLABORATIVE AGREEMENT' and describes a framework for collaboration between the parties on various projects, including provisions for intellectual property, project establishment, and confidentiality. These are hallmarks of a Collaboration Agreement.",
+  "expected_hint": "Collaboration Agreement",
+  "name_match": true,
+  "wall_ms": 3914.1,
+  "source_text_chars": 26394,
+  "source_clauses": 40,
+  "merged_fragments": []
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "Collaboration Agreement Example 4.pdf",
+  "contract_type": "Collaboration Agreement",
+  "flags_source": "augment",
+  "n_flags": 40,
+  "counts": {
+    "red": 1,
+    "amber": 5,
+    "green": 0,
+    "blue": 34
+  },
+  "summary": "The review of \"Collaboration Agreement Example 4.pdf\" indicates a generally low-risk posture, with most clauses flagged as blue, signifying topics outside the scope of the University of Auckland's Preferred Contracting Positions. However, there are notable exceptions: a red flag for the confidentiality clause, which deviates materially from UoA Position #POS-11, and several amber flags for intellectual property and financial clauses requiring further review by UniServices and the Tax and Compliance team. The next step is to escalate the red and amber clauses to the appropriate stakeholders for resolution, ensuring alignment with UoA's policies and risk tolerance.",
+  "wall_ms": 6386.3
+}

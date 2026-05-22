@@ -1,0 +1,14 @@
+{
+  "filename": "Contract Example 4.pdf",
+  "contract_type": "Research Subcontract",
+  "flags_source": "augment",
+  "n_flags": 42,
+  "counts": {
+    "red": 1,
+    "amber": 15,
+    "green": 6,
+    "blue": 20
+  },
+  "summary": "The review of \"Contract Example 4.pdf\" identifies a moderate risk posture, with key issues flagged in areas such as variations and extensions, intellectual property, liability limitations, confidentiality, and dispute resolution. Notably, the contract deviates from UoA's preferred positions in clauses related to IP ownership and licensing, liability carve-outs, and publication rights, requiring escalation to Auckland UniServices Ltd and senior management for further review. The next step is to address flagged clauses with the relevant stakeholders, ensuring alignment with UoA's contracting policies and obtaining necessary approvals or amendments.",
+  "wall_ms": 5453.9
+}

@@ -1,0 +1,1164 @@
+{
+  "filename": "MTA Example 3.pdf",
+  "contract_type": "Data Transfer Agreement",
+  "n_seed_flags": 71,
+  "n_augmented_flags": 71,
+  "seed_counts": {
+    "red": 0,
+    "amber": 20,
+    "green": 0,
+    "blue": 51
+  },
+  "augmented_counts": {
+    "red": 4,
+    "amber": 8,
+    "green": 3,
+    "blue": 56
+  },
+  "level_changes": {
+    "amber→red": 4,
+    "amber→blue": 5,
+    "amber→green": 3
+  },
+  "wall_ms": 28999.7,
+  "seed_flags": [
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "DATA TRANSFER AGREEMENT",
+      "snippet": "DATA TRANSFER AGREEMENT This Agreement is entered into between the Parties to govern the mutual transfer of the Data from Disclosing Party to Receiving Party. This Agreement is made by and between: University of Aucklan…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Definitions. As used in this Agreement, the term:",
+      "snippet": "1. Definitions. As used in this Agreement, the term: ```",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "3",
+      "clause_title": "a) “Applicable Law” means all applicable laws, regulations, guidelines and polic",
+      "snippet": "a) “Applicable Law” means all applicable laws, regulations, guidelines and policies, including PHIPA and PIPEDA;",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "b) “Data” means all data that has been collected for the purpose of the Study pu",
+      "snippet": "b) “Data” means all data that has been collected for the purpose of the Study pursuant to the Protocol by the Disclosing Party and is provided to the Receiving Party for the purpose of carrying out the Study;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "c) “Disclosing Party” means the party or parties disclosing information under t",
+      "snippet": "c) “Disclosing Party” means the party or parties disclosing information under this Agreement, [redacted];",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6",
+      "clause_title": "d) “Effective Date” means the date of the last signature on the signature page",
+      "snippet": "d) “Effective Date” means the date of the last signature on the signature page of this Agreement;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "e) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [r",
+      "snippet": "e) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [redacted] Investigator collectively;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "f) “Party” means either Collaborator, Collaborating Investigator, [redacted], o",
+      "snippet": "f) “Party” means either Collaborator, Collaborating Investigator, [redacted], or [redacted] Investigator;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "g) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004,",
+      "snippet": "g) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004, c. 3;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "h) “PHI” means “personal health information” as defined in PHIPA or “personal i",
+      "snippet": "h) “PHI” means “personal health information” as defined in PHIPA or “personal information” as defined in PIPEDA;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "i) “PIPEDA” means *Personal Information Protection and Electronic Documents Act",
+      "snippet": "i) “PIPEDA” means *Personal Information Protection and Electronic Documents Act* (S.C. 2000, c. 5);",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "j) “Protocol” means all documents, including any protocols and informed consent",
+      "snippet": "j) “Protocol” means all documents, including any protocols and informed consent forms, including any research plans that meet the requirements outlined in PHIPA, as approved by the REB attached by reference at Schedule …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "k) “REB” means research ethics board(s) authorized to approve the transfer of D",
+      "snippet": "k) “REB” means research ethics board(s) authorized to approve the transfer of Data for research purposes;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "l) “Receiving Party” means the party or parties receiving information under thi",
+      "snippet": "l) “Receiving Party” means the party or parties receiving information under this Agreement, specifically Collaborator;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "m) “Study” means [redacted] as described by the Protocol and as approved by all",
+      "snippet": "m) “Study” means [redacted] as described by the Protocol and as approved by all applicable REBs; and",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "16",
+      "clause_title": "n) “Study Staff” means internal personnel and/or agents of each Party who need",
+      "snippet": "n) “Study Staff” means internal personnel and/or agents of each Party who need access to the Data for the purposes herein and who are bound by the same confidentiality obligations herein.",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2",
+      "clause_title": "2. **Compliance.** The Disclosing Party wishes to share Data for the above-ref",
+      "snippet": "2. **Compliance.** The Disclosing Party wishes to share Data for the above-referenced Study. In transferring the Data, the Parties shall comply with all Applicable Laws. The Disclosing Party represents that it has autho…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3__dup__2",
+      "clause_title": "3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data o",
+      "snippet": "3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data only to its Study Staff. The Receiving Party agrees that it/he/she shall, and shall require its/his/her Study Staff, to:",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "a) maintain Data in confidence, and not disclose Data except as permitted by th",
+      "snippet": "a) maintain Data in confidence, and not disclose Data except as permitted by this Agreement and the Protocol;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "20",
+      "clause_title": "b) use Data solely for the purposes of the Study or other expressly consented p",
+      "snippet": "b) use Data solely for the purposes of the Study or other expressly consented purposes, in compliance with Applicable Law and with:",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "21",
+      "clause_title": "(i) the Protocol as approved by the REB and as amended from time to time, provi",
+      "snippet": "(i) the Protocol as approved by the REB and as amended from time to time, provided that amendments are approved by the REB;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "(ii) any written conditions imposed by the Disclosing Party’s or Receiving Par",
+      "snippet": "(ii) any written conditions imposed by the Disclosing Party’s or Receiving Party’s REB;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "(iii) the Study subject’s consent consistent as approved by the Disclosing Part",
+      "snippet": "(iii) the Study subject’s consent consistent as approved by the Disclosing Party’s REB or, if the requirement to obtain consent has been waived, or otherwise determined to be unnecessary, by the Disclosing Party’s REB, …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "(iv) any other conditions or restrictions imposed by Disclosing Party relating",
+      "snippet": "(iv) any other conditions or restrictions imposed by Disclosing Party relating to the use, security, disclosure, return or disposal of the Data as set out in this Agreement.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "25",
+      "clause_title": "c) not disclose, transfer, update, distribute, market, sell, or make any other",
+      "snippet": "c) not disclose, transfer, update, distribute, market, sell, or make any other use of the Data to any third parties without the prior written consent of the Disclosing Party. Notwithstanding the foregoing, the Receiving…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "26",
+      "clause_title": "(i) to regulatory authorities, provided that the Receiving Party gives prior wr",
+      "snippet": "(i) to regulatory authorities, provided that the Receiving Party gives prior written notice of such intended disclosure to the Disclosing Party;",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "27",
+      "clause_title": "(ii) as otherwise permitted by the informed consent form or waiver of consent;",
+      "snippet": "(ii) as otherwise permitted by the informed consent form or waiver of consent; or",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "28",
+      "clause_title": "(iii) in order to comply with Applicable Law or judicial process, or with a cou",
+      "snippet": "(iii) in order to comply with Applicable Law or judicial process, or with a court or regulatory order, provided that the Receiving Party gives prior written notice of such intended disclosure to the Disclosing Party and…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "d) securely destroy the Data as required by the Protocol or instructed by the D",
+      "snippet": "d) securely destroy the Data as required by the Protocol or instructed by the Disclosing Party and provide a written confirmation of the manner of destruction in a form acceptable to Disclosing Party; and/or,",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "30",
+      "clause_title": "e) in the event that the Receiving Party retains a third party to house or main",
+      "snippet": "e) in the event that the Receiving Party retains a third party to house or maintain the database or otherwise transfers the Data to a third party, that Receiving Party will ensure that any such third party is contractua…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4__dup__2",
+      "clause_title": "4. Safeguards and Notification. The Receiving Party shall use appropriate safeg",
+      "snippet": "4. Safeguards and Notification. The Receiving Party shall use appropriate safeguards, but no less stringent safeguards that Receiving Party employs to protect its own confidential and proprietary information (including …",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5__dup__2",
+      "clause_title": "5. Contact with Subjects/Individuals. The Receiving Party shall not make conta",
+      "snippet": "5. Contact with Subjects/Individuals. The Receiving Party shall not make contact or attempt to make contact with an individual or Study subject unless the Disclosing Party first obtains the individual’s consent or Study…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6__dup__2",
+      "clause_title": "6. Intellectual Property/Ownership. Except as expressly provided herein, no ri",
+      "snippet": "6. Intellectual Property/Ownership. Except as expressly provided herein, no right, title or interest in and to the Data is granted to the Receiving Party or implied hereunder. The Receiving Party hereby specifically dis…",
+      "rationale": "Intellectual Property — UoA Contracting Positions does not cover IP. All IP clauses must be referred to Auckland UniServices (Head of IP) for review.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7__dup__2",
+      "clause_title": "7. Funding. Not Applicable",
+      "snippet": "7. Funding. Not Applicable",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "8__dup__2",
+      "clause_title": "8. Publication. Receiving Party shall have the right to use a) the analyzed, de",
+      "snippet": "8. Publication. Receiving Party shall have the right to use a) the analyzed, de-identified data derived from the use of the Data; and b) information and results arising out of analysis of the Data, as part of a publicat…",
+      "rationale": "Touches the UoA-sensitive topic of Publication; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Principal Investigator has the right to publish. Reasonable patent stand-down (no more than 60 days from issuing the request). Students retain publication rights for thesis or academic publication, including commercially sensitive content. | Acceptable: Stand-down before publication acceptable provided ≤ 12 months. Student-produced commercially sensitive content may be embargoed for max 12 months. For Consulting Contracts only, removal of publications clause permitted by PI if (i) academic doesn't need results for research/publication, (ii) services not expected to generate new knowledge, (iii) no students relying on the research for thesis. | Escalation: Senior Manager, Research Grants and Contracts. Embargo > 12 months → School of Graduate Studies.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "amber",
+      "clause_id": "9__dup__2",
+      "clause_title": "9. Obligations/Liability: Each party shall be responsible and assume liability",
+      "snippet": "9. Obligations/Liability: Each party shall be responsible and assume liability for any damage or loss to the extent that such damage or loss arises out of or as a result of its own negligence or willful misconduct or th…",
+      "rationale": "Touches the UoA-sensitive topic of Liability Limitations and Exclusions; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Total liability (including under indemnities offered) limited to the lesser of: (a) amount paid under the contract / contract value (subject to liability limit in Research Contract Delegations) OR (b) NZD$500,000. Limited to direct losses caused by negligent acts/omissions or wilful misconduct of the University. Consequential or indirect losses, 'hold harmless', and loss of data/profit/revenue/savings/business/goodwill explicitly excluded. | Acceptable: Total liability limit (including indemnities) in line with Research Contract Delegations. Uncapped liability acceptable ONLY for Trusted Funders on contestable rounds. Indirect losses acceptable only if total exposure is capped per Delegations. Carve-outs from cap acceptable for: Fraud, Wilful default, Personal injury/death, statutory non-excludable liability, and confidentiality (only if client revenue < NZD$150M). | Escalation: Refer Research Grants and Contracts Delegations (and Portfolio Manager for Trusted Funders on non-contestable rounds).",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "10__dup__2",
+      "clause_title": "10. General Terms and Conditions.",
+      "snippet": "10. General Terms and Conditions.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "38",
+      "clause_title": "a) Term: This Agreement shall become effective as of the Effective Date and sha",
+      "snippet": "a) Term: This Agreement shall become effective as of the Effective Date and shall expire upon termination or upon earlier completion of the Study. The term of this Agreement may be amended by an Amendment Document, agre…",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "39",
+      "clause_title": "b) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes",
+      "snippet": "b) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes no representations or warranties, express or implied, with respect thereto. Receiving Party accepts that there are no representations, warr…",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "40",
+      "clause_title": "c) Assignment: This Agreement shall enure to the benefit of and be binding upon",
+      "snippet": "c) Assignment: This Agreement shall enure to the benefit of and be binding upon the Parties and their respective successors and permitted assigns. No party shall be entitled to assign or transfer this Agreement or the r…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "41",
+      "clause_title": "d) Entire Agreement: This Agreement including the attached Schedule(s) represe",
+      "snippet": "d) Entire Agreement: This Agreement including the attached Schedule(s) represents the entire Agreement between or among the Parties related to the Study and supersedes all previously or contemporaneously executed agreem…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "42",
+      "clause_title": "e) Amendments: This Agreement shall not be amended, modified, varied or supple",
+      "snippet": "e) Amendments: This Agreement shall not be amended, modified, varied or supplemented except in writing signed by each of the Parties.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "43",
+      "clause_title": "f) Delays: No failure or delay on the part of any party hereto to exercise any",
+      "snippet": "f) Delays: No failure or delay on the part of any party hereto to exercise any right or remedy under this Agreement shall be construed or operate as a waiver thereof.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "44",
+      "clause_title": "g) Independent Contractors: The Parties hereto are independent contractors. No",
+      "snippet": "g) Independent Contractors: The Parties hereto are independent contractors. Nothing contained herein shall be deemed or construed to create between or among the Parties hereto a partnership or joint venture or employmen…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "45",
+      "clause_title": "h) Use of Name/Symbols: No party shall use, or authorize others to use, the nam",
+      "snippet": "h) Use of Name/Symbols: No party shall use, or authorize others to use, the name, symbols, or marks of another party hereto or its staff for any endorsement purposes without prior written approval from the party whose n…",
+      "rationale": "Touches the UoA-sensitive topic of Publicity; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Neither party can use names or brands of the other or their personnel without prior written consent. | Escalation: University Marketing (brand@auckland.ac.nz).",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "amber",
+      "clause_id": "46",
+      "clause_title": "i) Governing Law: This Agreement shall be governed, construed and interpreted p",
+      "snippet": "i) Governing Law: This Agreement shall be governed, construed and interpreted pursuant to and in accordance with the laws of the Province of Ontario, and the laws of Canada applicable to the Province of Ontario. The pro…",
+      "rationale": "Touches the UoA-sensitive topic of Governing Law and Jurisdiction; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: New Zealand. | Acceptable: Australia, the United Kingdom, Common European countries, Singapore. For US-based clients, non-exclusive jurisdiction of a specific US state is acceptable. | Escalation: General Counsel.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "amber",
+      "clause_id": "47",
+      "clause_title": "j) Force Majeure Clause: Noncompliance by a party with the obligations of this",
+      "snippet": "j) Force Majeure Clause: Noncompliance by a party with the obligations of this Agreement due to force majeure, including laws or regulations of any government, war, civil commotion, destruction of production facilities …",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "48",
+      "clause_title": "k) Counterparts: This Agreement may be executed by way of electronic signature",
+      "snippet": "k) Counterparts: This Agreement may be executed by way of electronic signature and in any number of counterparts with the same effect as if all Parties had signed the same document. All of these counterparts will for al…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "49",
+      "clause_title": "l) Termination: The Parties may terminate this Agreement by providing thirty (3",
+      "snippet": "l) Termination: The Parties may terminate this Agreement by providing thirty (30) days prior written notice to the other Parties.",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "50",
+      "clause_title": "m) Dispute Resolution: The Parties shall make reasonable efforts to amicably re",
+      "snippet": "m) Dispute Resolution: The Parties shall make reasonable efforts to amicably resolve any issues, claims, disputes, controversy or inconsistencies involving this agreement or the protocol and to escalate the matter to se…",
+      "rationale": "Touches the UoA-sensitive topic of Dispute Resolution; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Both parties must discuss in good faith before arbitration or litigation. Escalation to senior management followed by mediation before arbitration/litigation. All proceedings in English. Process must not prevent urgent interlocutory action through courts. | Acceptable: Cannot always alter dispute clauses for NZ and International Funding Agency contracts — escalation not required where this is the case. | Escalation: Senior Manager Research Grants and Contracts / General Counsel (or Designated Legal Advisor in absence).",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "51",
+      "clause_title": "n) Third Party Beneficiaries: The Parties acknowledge that is a third party ben",
+      "snippet": "n) Third Party Beneficiaries: The Parties acknowledge that is a third party beneficiary to this Agreement with respect to any personal health information, as defined in PHIPA, that is disclosed by and as such may enforc…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SCHEDULE “B”",
+      "snippet": "SCHEDULE “B” PRIVACY ADDENDUM FOR TRANSFER OF PHI",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1__dup__2",
+      "clause_title": "1. Prevailing Terms. In case of a conflict between the terms of this Schedule “",
+      "snippet": "1. Prevailing Terms. In case of a conflict between the terms of this Schedule “B” and any other terms of this Agreement, the terms of this Schedule “B” shall prevail. Any undefined terms shall have the same meaning as i…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2__dup__2",
+      "clause_title": "2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA",
+      "snippet": "2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA, a “health information custodian” and/or “agent” and has statutory obligations to safeguard its patients’ PHI.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3__dup__3",
+      "clause_title": "3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving",
+      "snippet": "3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving Party may require access to PHI from the DISCLOSING PARTY in the course of fulfilling its obligations under this Agreement. If the Receiving …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4__dup__3",
+      "clause_title": "4. Receiving Party obligations under PHIPA. The parties acknowledge and agree",
+      "snippet": "4. Receiving Party obligations under PHIPA. The parties acknowledge and agree that Receiving Party, when accessing PHI, and where applicable, does so solely with the explicit permission from the DISCLOSING PARTY’s Study…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5__dup__3",
+      "clause_title": "5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING",
+      "snippet": "5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING PARTY for the sole and exclusive purpose of fulfilling its obligations under this Agreement and in accordance with the informed consent for…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6__dup__3",
+      "clause_title": "6. Obligations not Conditional. The Receiving Party’s obligations under this S",
+      "snippet": "6. Obligations not Conditional. The Receiving Party’s obligations under this Schedule “B” stem from the obligations of both the DISCLOSING PARTY and the Receiving Party under PHIPA, and in light of the foregoing, are no…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7__dup__3",
+      "clause_title": "7. Receiving Party Personnel. For the purposes of these Information Privacy and",
+      "snippet": "7. Receiving Party Personnel. For the purposes of these Information Privacy and Security terms and conditions, “Personnel” includes Receiving Party’s investigators, employees, consultants, subconsultants, and agents.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8__dup__3",
+      "clause_title": "8. Training of Personnel. Receiving Party represents and warrants to the DISCL",
+      "snippet": "8. Training of Personnel. Receiving Party represents and warrants to the DISCLOSING PARTY that it has provided training to its Personnel with respect to Receiving Party’s legal obligations respecting personal informatio…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9__dup__3",
+      "clause_title": "9. Access by Personnel. Receiving Party shall give access to PHI only to those",
+      "snippet": "9. Access by Personnel. Receiving Party shall give access to PHI only to those members of its Personnel who have a legitimate need to access the PHI in order to fulfill Receiving Party’s obligations under this Agreement.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10__dup__3",
+      "clause_title": "10. Removal of Personnel. In the event of a breach of these provisions by any o",
+      "snippet": "10. Removal of Personnel. In the event of a breach of these provisions by any of its Personnel, the DISCLOSING PARTY may require that personnel member to cease, and such member shall cease, providing Service under this …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "11__dup__2",
+      "clause_title": "11. Compliance with Privacy Legislation. Receiving Party represents and warrant",
+      "snippet": "11. Compliance with Privacy Legislation. Receiving Party represents and warrants to the DISCLOSING PARTY that it: a. has a privacy policy in compliance with applicable privacy legislation, addressing its practices relat…",
+      "rationale": "Touches the UoA-sensitive topic of Warranties; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: University only warrants (a) it has authority to enter into the contract and (b) performance will be to a professional standard / usual good practice. Contract MUST expressly exclude all other warranties (acknowledged this may not be possible for NZ and International Funding Agency contracts). | Acceptable: No other warranties offered. | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12__dup__2",
+      "clause_title": "12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party a",
+      "snippet": "12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party access to or otherwise disclose the PHI in a secure method approved by the DISCLOSING PARTY. Receiving Party states that it shall only store t…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13__dup__2",
+      "clause_title": "13. Monitoring of its Activities. Receiving Party agrees that it shall monitor",
+      "snippet": "13. Monitoring of its Activities. Receiving Party agrees that it shall monitor its activities to ensure that its Personnel are complying with the terms and conditions of this Agreement. In particular, Receiving Party sh…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14__dup__2",
+      "clause_title": "14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving",
+      "snippet": "14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving Party becomes aware that PHI has been stolen or lost, or a person has obtained unauthorized access to PHI, or Receiving Party has used, disc…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15__dup__2",
+      "clause_title": "15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. T",
+      "snippet": "15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. The DISCLOSING PARTY may, upon reasonable notice, assess and review Receiving Party’s practices and procedures for receiving and processing PH…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "16__dup__2",
+      "clause_title": "16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperat",
+      "snippet": "16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperate with any privacy assessment or audit conducted by the DISCLOSING PARTY or any third party retained by the DISCLOSING PARTY.",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY",
+      "snippet": "17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY makes a complaint to Receiving Party in respect of Receiving Party’s compliance with this Agreement, the Receiving Party shall, within a comm…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "18",
+      "clause_title": "18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall",
+      "snippet": "18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall provide reasonable cooperation with the DISCLOSING PARTY in responding to any complaints about PHI that may relate to Receiving Party’s oblig…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "19__dup__2",
+      "clause_title": "19. Survival. Receiving Party’s obligations with respect to PHI shall survive t",
+      "snippet": "19. Survival. Receiving Party’s obligations with respect to PHI shall survive the expiration or termination of this Agreement for any reason. 10",
+      "rationale": "Touches the UoA-sensitive topic of Termination; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Mutual two-way termination for material breach of contract or insolvency. Clear right of UoA to terminate for client's failure to pay. Accrued rights and benefits not affected. Client pays termination costs including any uncancellable obligations. | Acceptable: Termination for convenience acceptable ONLY for Consulting contracts, with reasonable notice, PI agreement, and client paying termination costs / uncancellable obligations. Cannot always alter termination provisions for NZ and International Funding Agency contracts (escalate to PM). | Escalation: Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    }
+  ],
+  "augmented_flags": [
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "DATA TRANSFER AGREEMENT",
+      "snippet": "DATA TRANSFER AGREEMENT This Agreement is entered into between the Parties to govern the mutual transfer of the Data from Disclosing Party to Receiving Party. This Agreement is made by and between: University of Aucklan…",
+      "rationale": "The clause pertains to the structure and parties involved in a Data Transfer Agreement, which is not covered by any specific UoA Preferred Contracting Positions or template. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Definitions. As used in this Agreement, the term:",
+      "snippet": "1. Definitions. As used in this Agreement, the term: ```",
+      "rationale": "The clause addresses definitions, which is not covered by any UoA Preferred Contracting Positions or associated templates. Definitions are typically standard and do not fall under specific policy scrutiny unless they materially impact other clauses.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "3",
+      "clause_title": "a) “Applicable Law” means all applicable laws, regulations, guidelines and polic",
+      "snippet": "a) “Applicable Law” means all applicable laws, regulations, guidelines and policies, including PHIPA and PIPEDA;",
+      "rationale": "The clause references PHIPA and PIPEDA, which are Canadian privacy laws, suggesting the governing law may be Canada. This falls outside both the Preferred (New Zealand) and Acceptable tiers (Australia, the United Kingdom, Common European countries, Singapore, or specific US states). Governing law and jurisdiction are critical to UoA's risk management, and this clause materially deviates from UoA Position #POS-16. Escalation to General Counsel is required to assess whether this governing law is acceptable and whether additional legal or compliance measures are needed.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "b) “Data” means all data that has been collected for the purpose of the Study pu",
+      "snippet": "b) “Data” means all data that has been collected for the purpose of the Study pursuant to the Protocol by the Disclosing Party and is provided to the Receiving Party for the purpose of carrying out the Study;",
+      "rationale": "The clause defines 'Data' in the context of the Study, but the topic of data definitions is not covered in the UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the provided policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "c) “Disclosing Party” means the party or parties disclosing information under t",
+      "snippet": "c) “Disclosing Party” means the party or parties disclosing information under this Agreement, [redacted];",
+      "rationale": "The clause defines the term 'Disclosing Party,' which is a standard definition in agreements involving confidentiality or data transfer. This topic is not specifically addressed in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, the flag remains blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6",
+      "clause_title": "d) “Effective Date” means the date of the last signature on the signature page",
+      "snippet": "d) “Effective Date” means the date of the last signature on the signature page of this Agreement;",
+      "rationale": "The clause defines the 'Effective Date' as the date of the last signature on the signature page, which is a standard definition in contracts. This topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. Therefore, the flag remains blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "e) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [r",
+      "snippet": "e) “Parties” means Collaborator, Collaborating Investigator, [redacted], and [redacted] Investigator collectively;",
+      "rationale": "The clause defines 'Parties' but this topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the provided guidelines.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "f) “Party” means either Collaborator, Collaborating Investigator, [redacted], o",
+      "snippet": "f) “Party” means either Collaborator, Collaborating Investigator, [redacted], or [redacted] Investigator;",
+      "rationale": "The clause defines 'Party,' which is a general definitional term and not addressed in the UoA Preferred Contracting Positions. No specific policy or template exists for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "g) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004,",
+      "snippet": "g) “PHIPA” means *Personal Health Information Protection Act*, 2004, S.O. 2004, c. 3;",
+      "rationale": "The clause defines 'PHIPA' as the Personal Health Information Protection Act, 2004, which is a specific legal reference. This topic is not addressed in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "h) “PHI” means “personal health information” as defined in PHIPA or “personal i",
+      "snippet": "h) “PHI” means “personal health information” as defined in PHIPA or “personal information” as defined in PIPEDA;",
+      "rationale": "The clause defines 'PHI' in terms of Canadian privacy legislation (PHIPA and PIPEDA). This topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "i) “PIPEDA” means *Personal Information Protection and Electronic Documents Act",
+      "snippet": "i) “PIPEDA” means *Personal Information Protection and Electronic Documents Act* (S.C. 2000, c. 5);",
+      "rationale": "The clause defines 'PIPEDA,' which pertains to Canadian privacy legislation. This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Data Transfer Agreements. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "j) “Protocol” means all documents, including any protocols and informed consent",
+      "snippet": "j) “Protocol” means all documents, including any protocols and informed consent forms, including any research plans that meet the requirements outlined in PHIPA, as approved by the REB attached by reference at Schedule “A” herein;",
+      "rationale": "The clause defines 'Protocol' in the context of PHIPA and REB requirements, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As the topic is outside the scope of the documented positions, it is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "k) “REB” means research ethics board(s) authorized to approve the transfer of D",
+      "snippet": "k) “REB” means research ethics board(s) authorized to approve the transfer of Data for research purposes;",
+      "rationale": "The clause defines 'REB' as research ethics boards authorized to approve data transfer for research purposes. This topic is not addressed in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. Therefore, it falls outside the scope of the provided guidelines.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "l) “Receiving Party” means the party or parties receiving information under thi",
+      "snippet": "l) “Receiving Party” means the party or parties receiving information under this Agreement, specifically Collaborator;",
+      "rationale": "The clause defines 'Receiving Party,' which is a standard definition in contracts but is not addressed in the UoA Preferred Contracting Positions. No specific policy or template exists for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "m) “Study” means [redacted] as described by the Protocol and as approved by all",
+      "snippet": "m) “Study” means [redacted] as described by the Protocol and as approved by all applicable REBs; and",
+      "rationale": "The clause defines the term 'Study' and references approval by applicable REBs (Research Ethics Boards). This topic is not covered by the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. As such, the clause falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "16",
+      "clause_title": "n) “Study Staff” means internal personnel and/or agents of each Party who need",
+      "snippet": "n) “Study Staff” means internal personnel and/or agents of each Party who need access to the Data for the purposes herein and who are bound by the same confidentiality obligations herein.",
+      "rationale": "The clause touches on the topic of Confidentiality (UoA Position #POS-11) by requiring Study Staff to be bound by confidentiality obligations. However, it does not explicitly address key elements of the UoA Preferred Position, such as exclusions for information already public, independently developed, or legally required to be disclosed. Additionally, the clause does not specify a duration for confidentiality obligations, which is a critical aspect of the UoA Position. While the clause aligns with the general principle of confidentiality, the lack of specificity places it in the Acceptable tier, requiring further confirmation to ensure compliance with UoA standards.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. **Compliance.** The Disclosing Party wishes to share Data for the above-ref",
+      "snippet": "2. **Compliance.** The Disclosing Party wishes to share Data for the above-referenced Study. In transferring the Data, the Parties shall comply with all Applicable Laws. The Disclosing Party represents that it has authorization to enter into and transfer the Data under Applicable Law. The Disclosing Party will prepare and furnish the Data in accordance with the Protocol including without limitation obtaining all applicable and appropriate consents. The parties hereto shall use a secure method of provision of the Data by Disclosing Party to Receiving Party in compliance with Applicable Laws. The Data will not be transferred until the Disclosing Party’s REB and, if applicable the Receiving Party’s REB, have approved the Protocol. The Disclosing Party retains the right to conduct audits of Receiving Party’s compliance with this Agreement upon reasonable advance written notice to Receiving Party and at mutually acceptable times. If there is a breach of the Agreement by Receiving Party, Receiving Party shall promptly provide notice to Disclosing Party. Disclosing Party may require that all Data be returned promptly to Disclosing Party or destroyed in a secure manner, at Disclosing Party’s option. The Disclosing Party retains the right, acting on reasonable grounds, to refuse the transfer of the Data requested hereunder. Where applicable, the Data will not be transferred until the Receiving Party provides evidence that the Receiving Party’s REB has approved the Protocol as attached in Schedule A.",
+      "rationale": "The clause primarily addresses compliance with laws, data transfer protocols, consents, and audit rights, none of which are explicitly covered by the UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. While the clause mentions compliance with 'Applicable Laws,' it does not specify governing law or jurisdiction, making the candidate flag referencing POS-16 (Governing Law and Jurisdiction) irrelevant. This clause falls outside the scope of the UoA Positions document and requires no escalation.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3__dup__2",
+      "clause_title": "3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data o",
+      "snippet": "3. Non-Disclosure of Data. The Receiving Party shall limit access to the Data only to its Study Staff. The Receiving Party agrees that it/he/she shall, and shall require its/his/her Study Staff, to:",
+      "rationale": "The clause addresses confidentiality but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for public information, independently developed information, previously known information, and legally required disclosures. Additionally, UoA must retain the ability to disclose to agents and Affiliates, and confidentiality obligations should be time-limited (up to 5 years post-completion). The clause text does not provide sufficient detail to confirm compliance with these requirements, necessitating further review by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "a) maintain Data in confidence, and not disclose Data except as permitted by th",
+      "snippet": "a) maintain Data in confidence, and not disclose Data except as permitted by this Agreement and the Protocol;",
+      "rationale": "The clause addresses confidentiality of data, but the specific topic of 'Data confidentiality' is not explicitly covered in the UoA Preferred Contracting Positions document. No applicable UoA Standard Template exists for this contract type.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "20",
+      "clause_title": "b) use Data solely for the purposes of the Study or other expressly consented p",
+      "snippet": "b) use Data solely for the purposes of the Study or other expressly consented purposes, in compliance with Applicable Law and with:",
+      "rationale": "The clause addresses the use of data and compliance with applicable law, but it does not explicitly address Governing Law and Jurisdiction as defined in UoA Position #POS-16. The clause's topic is not covered by any UoA Preferred Contracting Position or template, and therefore falls outside the scope of the Positions document.",
+      "standard_ref": "Not covered by UoA Position or template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "21",
+      "clause_title": "(i) the Protocol as approved by the REB and as amended from time to time, provi",
+      "snippet": "(i) the Protocol as approved by the REB and as amended from time to time, provided that amendments are approved by the REB;",
+      "rationale": "The clause addresses the approval and amendment of a protocol by the REB (Research Ethics Board), which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "(ii) any written conditions imposed by the Disclosing Party’s or Receiving Par",
+      "snippet": "(ii) any written conditions imposed by the Disclosing Party’s or Receiving Party’s REB;",
+      "rationale": "The clause refers to conditions imposed by the Disclosing Party’s or Receiving Party’s REB (likely an ethics board or similar entity). This topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, the clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "(iii) the Study subject’s consent consistent as approved by the Disclosing Part",
+      "snippet": "(iii) the Study subject’s consent consistent as approved by the Disclosing Party’s REB or, if the requirement to obtain consent has been waived, or otherwise determined to be unnecessary, by the Disclosing Party’s REB, …",
+      "rationale": "The clause addresses study subject consent and waiver of consent by the Disclosing Party’s REB (Research Ethics Board). This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Data Transfer Agreements. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "(iv) any other conditions or restrictions imposed by Disclosing Party relating",
+      "snippet": "(iv) any other conditions or restrictions imposed by Disclosing Party relating to the use, security, disclosure, return or disposal of the Data as set out in this Agreement.",
+      "rationale": "The clause addresses conditions and restrictions imposed by the Disclosing Party regarding data use, security, disclosure, return, or disposal. This topic is not explicitly covered in the UoA Preferred Contracting Positions or tied to any specific policy. As there is no UoA Standard Template for this contract type, the clause falls outside the scope of pre-defined positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "25",
+      "clause_title": "c) not disclose, transfer, update, distribute, market, sell, or make any other",
+      "snippet": "c) not disclose, transfer, update, distribute, market, sell, or make any other use of the Data to any third parties without the prior written consent of the Disclosing Party. Notwithstanding the foregoing, the Receiving Party may transfer the Data:",
+      "rationale": "The clause addresses restrictions on the use and transfer of data, which is not explicitly covered in the UoA Preferred Contracting Positions. No specific guidance or template exists for this topic in the provided materials.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "26",
+      "clause_title": "(i) to regulatory authorities, provided that the Receiving Party gives prior wr",
+      "snippet": "(i) to regulatory authorities, provided that the Receiving Party gives prior written notice of such intended disclosure to the Disclosing Party;",
+      "rationale": "The clause pertains to disclosure to regulatory authorities, which is not explicitly addressed in the UoA Preferred Contracting Positions. As there is no guidance or template for this topic, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "27",
+      "clause_title": "(ii) as otherwise permitted by the informed consent form or waiver of consent;",
+      "snippet": "(ii) as otherwise permitted by the informed consent form or waiver of consent; or",
+      "rationale": "The clause addresses a topic related to informed consent, which is not explicitly covered in the UoA Preferred Contracting Positions. There is no applicable UoA Standard Template for this contract type to provide further guidance.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "28",
+      "clause_title": "(iii) in order to comply with Applicable Law or judicial process, or with a cou",
+      "snippet": "(iii) in order to comply with Applicable Law or judicial process, or with a court or regulatory order, provided that the Receiving Party gives prior written notice of such intended disclosure to the Disclosing Party and\n\ttakes all lawful actions that are reasonable in the circumstances to minimize the extent of such disclosure and obtain confidential treatment for such disclosure.",
+      "rationale": "This clause pertains to confidentiality and the disclosure of information under legal or regulatory obligations. While it aligns with the general principles of confidentiality, it does not directly address the topic of Governing Law and Jurisdiction (POS-16). Instead, it is a standard confidentiality carve-out for legal compliance, which is not explicitly covered by the UoA Preferred Contracting Positions or a UoA template. As such, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "d) securely destroy the Data as required by the Protocol or instructed by the D",
+      "snippet": "d) securely destroy the Data as required by the Protocol or instructed by the Disclosing Party and provide a written confirmation of the manner of destruction in a form acceptable to Disclosing Party; and/or,",
+      "rationale": "The clause pertains to data destruction and confirmation of destruction, which is not explicitly covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "30",
+      "clause_title": "e) in the event that the Receiving Party retains a third party to house or main",
+      "snippet": "e) in the event that the Receiving Party retains a third party to house or maintain the database or otherwise transfers the Data to a third party, that Receiving Party will ensure that any such third party is contractually bound by obligations of patient confidentiality, privacy, security and non-use with respect to the Data no less stringent than those contained herein.",
+      "rationale": "This clause addresses confidentiality obligations when transferring data to third parties, which aligns with the topic of confidentiality under UoA Position #POS-11. However, it does not explicitly address the preferred or acceptable UoA requirements, such as the exclusion of public or independently developed information, the ability to disclose to agents and affiliates, or the duration of confidentiality obligations. While the clause ensures third-party obligations are no less stringent than those in the agreement, it does not fully align with the Preferred or Acceptable tiers. Escalation to the Senior Manager, Research Grants and Contracts, is recommended for further review.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4__dup__2",
+      "clause_title": "4. Safeguards and Notification. The Receiving Party shall use appropriate safeg",
+      "snippet": "4. Safeguards and Notification. The Receiving Party shall use appropriate safeguards, but no less stringent safeguards that Receiving Party employs to protect its own confidential and proprietary information (including \u0014",
+      "rationale": "The clause addresses confidentiality obligations, including safeguards for data protection and notification of unauthorized use or disclosure. While it aligns with the general principles of confidentiality under UoA Position #POS-11, it does not explicitly exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, the clause does not specify a time limit for confidentiality obligations, which is a key requirement under the Preferred tier (5 years post-completion). The clause is therefore flagged as AMBER for further review to ensure compliance with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5__dup__2",
+      "clause_title": "5. Contact with Subjects/Individuals. The Receiving Party shall not make conta",
+      "snippet": "5. Contact with Subjects/Individuals. The Receiving Party shall not make contact or attempt to make contact with an individual or Study subject unless the Disclosing Party first obtains the individual’s consent or Study subject’s consent to be contacted, except to the extent that the Receiving Party is otherwise the individual’s or Study subject’s health information custodian.",
+      "rationale": "The clause addresses restrictions on contacting individuals or study subjects, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "6__dup__2",
+      "clause_title": "6. Intellectual Property/Ownership. Except as expressly provided herein, no ri",
+      "snippet": "6. Intellectual Property/Ownership. Except as expressly provided herein, no right, title or interest in and to the Data is granted to the Receiving Party or implied hereunder. The Receiving Party hereby specifically disclaims any right, title or interest of any kind whatsoever to the Data, results, and any discovery or invention arising out of the Study (as applicable). Patient medical records shall remain at all times the property of the Disclosing Party.",
+      "rationale": "The clause addresses Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7__dup__2",
+      "clause_title": "7. Funding. Not Applicable",
+      "snippet": "7. Funding. Not Applicable",
+      "rationale": "The topic of funding is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "8__dup__2",
+      "clause_title": "8. Publication. Receiving Party shall have the right to use a) the analyzed, de",
+      "snippet": "8. Publication. Receiving Party shall have the right to use a) the analyzed, de-identified data derived from the use of the Data; and b) information and results arising out of analysis of the Data, as part of a publicat…",
+      "rationale": "The clause materially deviates from UoA Position #POS-12 on Publication. While it acknowledges the Disclosing Party's contribution and prohibits inclusion of personally identifying information, it imposes a requirement for prior written consent from the Disclosing Party before publication or presentation. This conflicts with the Preferred Position, which grants the Principal Investigator the right to publish without requiring prior consent, subject to reasonable patent stand-down periods. Additionally, the clause does not explicitly preserve students' rights to publish thesis or academic content, which is a critical aspect of the Preferred Position. Escalation to the Senior Manager, Research Grants and Contracts is required to address the consent requirement and ensure alignment with UoA's publication rights framework.",
+      "standard_ref": "UoA Position #POS-12"
+    },
+    {
+      "level": "green",
+      "clause_id": "9__dup__2",
+      "clause_title": "9. Obligations/Liability: Each party shall be responsible and assume liability",
+      "snippet": "9. Obligations/Liability: Each party shall be responsible and assume liability for any damage or loss to the extent that such damage or loss arises out of or as a result of its own negligence or willful misconduct or th…",
+      "rationale": "The clause aligns with UoA Position #POS-07 on Liability Limitations and Exclusions. It limits liability to direct losses caused by negligence or willful misconduct and explicitly excludes indirect or consequential damages, including lost profits and opportunities. This matches the Preferred tier, which requires such exclusions and limits liability to direct losses. The clause does not specify a monetary cap, but the exclusion of indirect damages and the focus on negligence/willful misconduct are sufficient to meet the Preferred tier.",
+      "standard_ref": "UoA Position #POS-07"
+    },
+    {
+      "level": "blue",
+      "clause_id": "10__dup__2",
+      "clause_title": "10. General Terms and Conditions.",
+      "snippet": "10. General Terms and Conditions.",
+      "rationale": "The clause is titled 'General Terms and Conditions' but does not provide any substantive content or address a specific topic covered by the UoA Preferred Contracting Positions. As there is no applicable UoA Position or Standard Template for this clause, it is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "38",
+      "clause_title": "a) Term: This Agreement shall become effective as of the Effective Date and sha",
+      "snippet": "a) Term: This Agreement shall become effective as of the Effective Date and shall expire upon termination or upon earlier completion of the Study. The term of this Agreement may be amended by an Amendment Document, agreed to and signed by all Parties.",
+      "rationale": "The clause addresses the term and amendment of the agreement but does not explicitly cover termination provisions, which are sensitive under UoA Position #POS-19. While the clause does not conflict with the Preferred or Acceptable tiers, it lacks clarity on mutual two-way termination for material breach, insolvency, or UoA's right to terminate for non-payment. This omission requires confirmation to ensure compliance with UoA's termination standards.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "green",
+      "clause_id": "39",
+      "clause_title": "b) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes",
+      "snippet": "b) No Warranty: Data is provided on an “as-is” basis and Disclosing Party makes no representations or warranties, express or implied, with respect thereto. Receiving Party accepts that there are no representations, warranties, conditions or liabilities expressed or implied herewith in relation to the Data by Disclosing Party or their respective trustees, directors, officers, affiliates, investigators, students, employees, servants, authorized representatives or agents.",
+      "rationale": "The clause aligns with UoA Position #POS-10 on Warranties. It explicitly excludes all warranties, which matches the Preferred tier requirement that the contract must expressly exclude all other warranties beyond the University's authority to enter into the contract and performance to a professional standard. The clause does not impose any additional warranties on UoA, and no escalation is required.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "40",
+      "clause_title": "c) Assignment: This Agreement shall enure to the benefit of and be binding upon",
+      "snippet": "c) Assignment: This Agreement shall enure to the benefit of and be binding upon the Parties and their respective successors and permitted assigns. No party shall be entitled to assign or transfer this Agreement or the r…",
+      "rationale": "The topic of assignment is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "41",
+      "clause_title": "d) Entire Agreement: This Agreement including the attached Schedule(s) represe",
+      "snippet": "d) Entire Agreement: This Agreement including the attached Schedule(s) represents the entire Agreement between or among the Parties related to the Study and supersedes all previously or contemporaneously executed agreem…",
+      "rationale": "The clause addresses the 'Entire Agreement' topic, which is not covered in the UoA Preferred Contracting Positions or any UoA Standard Template. As such, it falls outside the scope of pre-defined positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "42",
+      "clause_title": "e) Amendments: This Agreement shall not be amended, modified, varied or supple",
+      "snippet": "e) Amendments: This Agreement shall not be amended, modified, varied or supplemented except in writing signed by each of the Parties.",
+      "rationale": "The clause addresses amendments to the agreement, which is not explicitly covered in the UoA Preferred Contracting Positions. No specific guidance or template exists for this topic, so it falls outside the scope of the documented positions.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "43",
+      "clause_title": "f) Delays: No failure or delay on the part of any party hereto to exercise any",
+      "snippet": "f) Delays: No failure or delay on the part of any party hereto to exercise any right or remedy under this Agreement shall be construed or operate as a waiver thereof.",
+      "rationale": "The clause addresses waiver of rights due to delays, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "44",
+      "clause_title": "g) Independent Contractors: The Parties hereto are independent contractors. No",
+      "snippet": "g) Independent Contractors: The Parties hereto are independent contractors. Nothing contained herein shall be deemed or construed to create between or among the Parties hereto a partnership or joint venture or employment or principal-agent relationship. No party shall have the authority to act on behalf of any other party or to bind another party in any manner.",
+      "rationale": "The topic of independent contractor relationships is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "green",
+      "clause_id": "45",
+      "clause_title": "h) Use of Name/Symbols: No party shall use, or authorize others to use, the nam",
+      "snippet": "h) Use of Name/Symbols: No party shall use, or authorize others to use, the name, symbols, or marks of another party hereto or its staff for any endorsement purposes without prior written approval from the party whose name, symbols or marks are to be used.",
+      "rationale": "The clause aligns with UoA Position #POS-14 on Publicity, which states that 'Neither party can use names or brands of the other or their personnel without prior written consent.' The clause explicitly requires prior written approval for the use of names, symbols, or marks, which matches the Preferred tier of the Position.",
+      "standard_ref": "UoA Position #POS-14"
+    },
+    {
+      "level": "red",
+      "clause_id": "46",
+      "clause_title": "i) Governing Law: This Agreement shall be governed, construed and interpreted p",
+      "snippet": "i) Governing Law: This Agreement shall be governed, construed and interpreted pursuant to and in accordance with the laws of the Province of Ontario, and the laws of Canada applicable to the Province of Ontario. The provincial or federal courts having jurisdiction in Canada shall have exclusive jurisdiction over all matters pertaining to this Agreement.",
+      "rationale": "The clause specifies governing law and jurisdiction as the Province of Ontario and Canada, which falls outside both the Preferred (New Zealand) and Acceptable tiers (Australia, the United Kingdom, Common European countries, Singapore, or non-exclusive jurisdiction of a specific US state). This materially deviates from UoA Position #POS-16 and requires escalation to General Counsel for review and negotiation.",
+      "standard_ref": "UoA Position #POS-16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "47",
+      "clause_title": "j) Force Majeure Clause: Noncompliance by a party with the obligations of this",
+      "snippet": "j) Force Majeure Clause: Noncompliance by a party with the obligations of this Agreement due to force majeure, including laws or regulations of any government, war, civil commotion, destruction of production facilities …",
+      "rationale": "The clause addresses force majeure, which is not explicitly covered by the UoA Preferred Contracting Positions or any registered template for this contract type. While it may indirectly relate to termination, force majeure clauses are distinct and typically operate outside the scope of termination provisions. No escalation is required unless the clause conflicts with other provisions in the agreement.",
+      "standard_ref": "Not covered by UoA Position or Template"
+    },
+    {
+      "level": "blue",
+      "clause_id": "48",
+      "clause_title": "k) Counterparts: This Agreement may be executed by way of electronic signature",
+      "snippet": "k) Counterparts: This Agreement may be executed by way of electronic signature and in any number of counterparts with the same effect as if all Parties had signed the same document. All of these counterparts will for all purposes constitute one Agreement, binding on the Parties, notwithstanding that all Parties are not signatories to the same counterpart. A faxed or emailed PDF copy or photocopy of this Agreement executed by a party in counterpart or otherwise will constitute a properly executed, delivered and binding agreement or counterpart of the executing party.",
+      "rationale": "The clause addresses the execution of the agreement via electronic signature and counterparts, which is not covered by the UoA Preferred Contracting Positions or any registered template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "red",
+      "clause_id": "49",
+      "clause_title": "l) Termination: The Parties may terminate this Agreement by providing thirty (3",
+      "snippet": "l) Termination: The Parties may terminate this Agreement by providing thirty (30) days prior written notice to the other Parties.",
+      "rationale": "The clause allows for termination for convenience by either party with 30 days' notice, which is not aligned with UoA's Preferred Position for termination. UoA's Preferred Position requires mutual two-way termination for material breach or insolvency, with a clear right for UoA to terminate for non-payment and provisions for accrued rights and termination costs. Termination for convenience is only acceptable for Consulting contracts under specific conditions, which are not mentioned here. This clause falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19"
+    },
+    {
+      "level": "amber",
+      "clause_id": "50",
+      "clause_title": "m) Dispute Resolution: The Parties shall make reasonable efforts to amicably re",
+      "snippet": "m) Dispute Resolution: The Parties shall make reasonable efforts to amicably resolve any issues, claims, disputes, controversy or inconsistencies involving this agreement or the protocol and to escalate the matter to senior management prior to the commencement of any legal proceedings.",
+      "rationale": "The clause aligns partially with UoA Position #POS-18 on Dispute Resolution. It includes escalation to senior management and an effort to resolve disputes amicably, which matches the preferred position. However, it does not explicitly mention mediation, arbitration, or litigation, nor does it address the requirement for proceedings to be in English or the ability to take urgent interlocutory action through courts. These omissions prevent it from fully meeting the 'Preferred' tier, but it does not fall outside the 'Acceptable' tier. Escalation is not required unless this is a NZ or International Funding Agency contract where dispute clauses cannot be altered.",
+      "standard_ref": "UoA Position #POS-18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "51",
+      "clause_title": "n) Third Party Beneficiaries: The Parties acknowledge that is a third party ben",
+      "snippet": "n) Third Party Beneficiaries: The Parties acknowledge that is a third party beneficiary to this Agreement with respect to any personal health information, as defined in PHIPA, that is disclosed by and as such may enforc…",
+      "rationale": "The clause addresses third-party beneficiary rights concerning personal health information under PHIPA, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SCHEDULE “B”",
+      "snippet": "SCHEDULE “B” PRIVACY ADDENDUM FOR TRANSFER OF PHI",
+      "rationale": "The clause addresses a topic (Privacy Addendum for Transfer of PHI) that is not covered in the UoA Preferred Contracting Positions or associated policies. As there is no guidance or template for this topic, it falls outside the scope of the existing framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "1__dup__2",
+      "clause_title": "1. Prevailing Terms. In case of a conflict between the terms of this Schedule “",
+      "snippet": "1. Prevailing Terms. In case of a conflict between the terms of this Schedule “B” and any other terms of this Agreement, the terms of this Schedule “B” shall prevail. Any undefined terms shall have the same meaning as in the Agreement.",
+      "rationale": "The clause addresses a 'prevailing terms' provision, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "2__dup__2",
+      "clause_title": "2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA",
+      "snippet": "2. DISCLOSING PARTY subject to PHIPA. DISCLOSING PARTY is, as defined in PHIPA, a \u001chealth information custodian\u001d and/or \u001cagent\u001d and has statutory obligations to safeguard its patients\u0019 PHI.",
+      "rationale": "The clause addresses obligations under PHIPA (Personal Health Information Protection Act), which is specific to health information custodians and agents. This topic is not covered in the UoA Preferred Contracting Positions or any UoA Standard Template. As such, it falls outside the scope of the existing policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "3__dup__3",
+      "clause_title": "3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving",
+      "snippet": "3. Receiving Party May Obtain Access to PHI. It is anticipated that Receiving Party may require access to PHI from the DISCLOSING PARTY in the course of fulfilling its obligations under this Agreement. If the Receiving Party does obtain access to PHI while fulfilling the Agreement, the provisions set in this Schedule “B” set out the obligations of the Receiving Party with respect to its collection, use, disclosure, retention and disposal of such PHI.",
+      "rationale": "The clause addresses obligations related to Protected Health Information (PHI), which is not covered in the UoA Preferred Contracting Positions. As there is no guidance or template for this topic, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "4__dup__3",
+      "clause_title": "4. Receiving Party obligations under PHIPA. The parties acknowledge and agree",
+      "snippet": "4. Receiving Party obligations under PHIPA. The parties acknowledge and agree that Receiving Party, when accessing PHI, and where applicable, does so solely with the explicit permission from the DISCLOSING PARTY’s Study…",
+      "rationale": "The clause addresses obligations under PHIPA (Personal Health Information Protection Act), which is specific to health information and not covered by the UoA Preferred Contracting Positions. There is no applicable UoA Position or template for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "5__dup__3",
+      "clause_title": "5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING",
+      "snippet": "5. Use of PHI. The Receiving Party shall use the PHI provided by the DISCLOSING PARTY for the sole and exclusive purpose of fulfilling its obligations under this Agreement and in accordance with the informed consent form, if applicable, and for no other purpose whatsoever.",
+      "rationale": "The clause addresses the use of Protected Health Information (PHI), which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the existing policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "6__dup__3",
+      "clause_title": "6. Obligations not Conditional. The Receiving Party’s obligations under this S",
+      "snippet": "6. Obligations not Conditional. The Receiving Party’s obligations under this Schedule “B” stem from the obligations of both the DISCLOSING PARTY and the Receiving Party under PHIPA, and in light of the foregoing, are no…",
+      "rationale": "The clause addresses obligations under PHIPA (Personal Health Information Protection Act) and specifies that the Receiving Party's obligations are not conditional on the Disclosing Party's compliance. This topic is not covered in the UoA Preferred Contracting Positions or any registered UoA template. As such, it falls outside the scope of pre-defined positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "7__dup__3",
+      "clause_title": "7. Receiving Party Personnel. For the purposes of these Information Privacy and",
+      "snippet": "7. Receiving Party Personnel. For the purposes of these Information Privacy and Security terms and conditions, \u001cPersonnel\u001d includes Receiving Party\u0019s investigators, employees, consultants, subconsultants, and agents.",
+      "rationale": "The clause defines 'Personnel' for the purposes of Information Privacy and Security terms, which is not a topic covered by the UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "8__dup__3",
+      "clause_title": "8. Training of Personnel. Receiving Party represents and warrants to the DISCL",
+      "snippet": "8. Training of Personnel. Receiving Party represents and warrants to the DISCLOSING PARTY that it has provided training to its Personnel with respect to Receiving Party’s legal obligations respecting personal information under all applicable privacy legislation and will provide reasonably sufficient additional training with respect to Receiving Party’s specific obligations to protect PHI under this Agreement. Receiving Party shall ensure that its Personnel are aware of and agree in writing to be bound by the provisions relating to PHI that are set out in this Agreement.",
+      "rationale": "The clause addresses training of personnel and obligations related to personal information and PHI (Protected Health Information). This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Data Transfer Agreements. As such, it falls outside the scope of the established policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "9__dup__3",
+      "clause_title": "9. Access by Personnel. Receiving Party shall give access to PHI only to those",
+      "snippet": "9. Access by Personnel. Receiving Party shall give access to PHI only to those members of its Personnel who have a legitimate need to access the PHI in order to fulfill Receiving Party’s obligations under this Agreement.",
+      "rationale": "The clause addresses access to PHI (Protected Health Information) by personnel, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "10__dup__3",
+      "clause_title": "10. Removal of Personnel. In the event of a breach of these provisions by any o",
+      "snippet": "10. Removal of Personnel. In the event of a breach of these provisions by any of its Personnel, the DISCLOSING PARTY may require that personnel member to cease, and such member shall cease, providing Service under this Agreement.",
+      "rationale": "The clause addresses the removal of personnel in the event of a breach, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and requires independent assessment.",
+      "standard_ref": null
+    },
+    {
+      "level": "amber",
+      "clause_id": "11__dup__2",
+      "clause_title": "11. Compliance with Privacy Legislation. Receiving Party represents and warrant",
+      "snippet": "11. Compliance with Privacy Legislation. Receiving Party represents and warrants to the DISCLOSING PARTY that it: a. has a privacy policy in compliance with applicable privacy legislation, addressing its practices relat…",
+      "rationale": "The clause introduces warranties related to compliance with privacy legislation, which falls under the UoA-sensitive topic of Warranties (POS-10). While the clause does not directly conflict with UoA's preferred position, it goes beyond the preferred scope of warranties (authority to enter into the contract and performance to a professional standard). The clause does not expressly exclude other warranties, which is a requirement under the preferred position. However, the clause does not introduce unacceptable warranties and is therefore flagged as amber for further review by the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-10"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12__dup__2",
+      "clause_title": "12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party a",
+      "snippet": "12. Transfer and Storage. The DISCLOSING PARTY shall provide Receiving Party access to or otherwise disclose the PHI in a secure method approved by the DISCLOSING PARTY. Receiving Party states that it shall only store the PHI provided by the DISCLOSING PARTY in a manner and location approved by the DISCLOSING PARTY. All PHI shall be stored in Canada.",
+      "rationale": "The clause addresses the transfer and storage of PHI (Protected Health Information), including specifying a secure method and a storage location in Canada. This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA template. As such, it falls outside the scope of the existing policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "13__dup__2",
+      "clause_title": "13. Monitoring of its Activities. Receiving Party agrees that it shall monitor",
+      "snippet": "13. Monitoring of its Activities. Receiving Party agrees that it shall monitor its activities to ensure that its Personnel are complying with the terms and conditions of this Agreement. In particular, Receiving Party shall monitor and report to DISCLOSING PARTY, upon the reasonable request of the DISCLOSING PARTY, Receiving Party‘s access, use and disclosure of PHI under this Agreement.",
+      "rationale": "The clause addresses monitoring and reporting obligations related to compliance with the agreement and the use of PHI (Protected Health Information). This topic is not covered in the UoA Preferred Contracting Positions or any registered UoA template for Data Transfer Agreements. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "14__dup__2",
+      "clause_title": "14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving",
+      "snippet": "14. Theft, Loss or Unauthorized Access of PHI. In the event that the Receiving Party becomes aware that PHI has been stolen or lost, or a person has obtained unauthorized access to PHI, or Receiving Party has used, disclosed or disposed of the PHI other than as contemplated in this Agreement, Receiving Party shall promptly notify the DISCLOSING PARTY’s contact as stipulated under the Agreement, and shall not otherwise disclose to any third party such circumstances without the prior written consent of the DISCLOSING PARTY except as required by law.",
+      "rationale": "The clause addresses the handling of theft, loss, or unauthorized access of PHI (Protected Health Information), which is not covered by the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the established policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "15__dup__2",
+      "clause_title": "15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. T",
+      "snippet": "15. DISCLOSING PARTY’s Review of Receiving Party’s Practices and Procedures. The DISCLOSING PARTY may, upon reasonable notice, assess and review Receiving Party’s practices and procedures for receiving and processing PHI under this Agreement, for the purposes of ensuring that the terms and conditions are being complied with. For these purposes, upon request Receiving Party shall provide the DISCLOSING PARTY with reasonable access to the policies, procedures and protocols used for purposes of fulfilling its obligations under this Agreement and any other documents that may be relevant.",
+      "rationale": "The clause addresses the right of the disclosing party to review the receiving party's practices and procedures, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the existing policy framework and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "16__dup__2",
+      "clause_title": "16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperat",
+      "snippet": "16. Cooperation with Privacy Assessment or Audit. Receiving Party will cooperate with any privacy assessment or audit conducted by the DISCLOSING PARTY or any third party retained by the DISCLOSING PARTY.",
+      "rationale": "The clause addresses cooperation with privacy assessments or audits, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and requires independent evaluation.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY",
+      "snippet": "17. Complaint by the DISCLOSING PARTY. In the event that the DISCLOSING PARTY makes a complaint to Receiving Party in respect of Receiving Party’s compliance with this Agreement, the Receiving Party shall, within a commercially reasonable period of time from receipt of the complaint, investigate the matter and provide the DISCLOSING PARTY with an oral report stating the cause of the deficiency, if any, and the steps taken to prevent a recurrence, if required. Within a further five business days, Receiving Party shall provide the DISCLOSING PARTY with a written report documenting the complaint, investigation, deficiency, if any, and the steps taken to prevent a recurrence, if required.",
+      "rationale": "The clause addresses a complaint procedure related to compliance with the agreement, which is not covered by any topic in the UoA Preferred Contracting Positions. There is no applicable standard template or policy guidance for this topic.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "18",
+      "clause_title": "18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall",
+      "snippet": "18. Cooperation with Complaint to the DISCLOSING PARTY. Receiving Party shall provide reasonable cooperation with the DISCLOSING PARTY in responding to any complaints about PHI that may relate to Receiving Party’s oblig…",
+      "rationale": "The clause addresses cooperation in responding to complaints about PHI (Protected Health Information), which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null
+    },
+    {
+      "level": "blue",
+      "clause_id": "19__dup__2",
+      "clause_title": "19. Survival. Receiving Party’s obligations with respect to PHI shall survive t",
+      "snippet": "19. Survival. Receiving Party’s obligations with respect to PHI shall survive the expiration or termination of this Agreement for any reason. 10",
+      "rationale": "The clause addresses the survival of obligations related to PHI (Protected Health Information), which is not explicitly covered by any UoA Preferred Contracting Position or the Termination topic under POS-19. Survival clauses are common in contracts but are not specifically addressed in the Positions document for this contract type. As there is no direct alignment or conflict with UoA Positions, this clause falls outside the scope of the provided policy framework.",
+      "standard_ref": "Not covered by UoA Positions"
+    }
+  ]
+}

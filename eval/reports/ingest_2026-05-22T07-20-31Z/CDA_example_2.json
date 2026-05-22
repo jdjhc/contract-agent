@@ -1,0 +1,112 @@
+{
+  "filename": "CDA example 2.pdf",
+  "merged_fragments": [],
+  "text_chars": 9505,
+  "n_clauses": 19,
+  "ingest_metrics": {
+    "n_calls": 4,
+    "input_tokens": 3988,
+    "output_tokens": 2047,
+    "latency_ms": 76109.1,
+    "total_cost_usd": 0.03044
+  },
+  "wall_ms": 33914.6,
+  "text": "```\nMUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT\n\nEffective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-Disclosure Agreement (\"Agreement\") is made and entered into by and between the UNIVERSITY OF AUCKLAND, a university constituted under the University of Auckland Act 1961 and a tertiary education provider under the Education and Training Act 2020, of 22 Princes Street, Auckland, New Zealand (hereinafter \"Organization\"), and ____________________________, a ____________________________ corporation with an address at ____________________________ (hereinafter \"Company\"), individually known as a \"Party\" and collectively known as the \"Parties\".\n\nWHEREAS, Organization and Company are the owners of Confidential Information (as defined below) pertaining to research, development, processes, products, materials, inventions, technology and/or business plans, which they each consider to be information of value.\n\nWHEREAS, Organization and Company intend to disclose to each other certain of such Confidential Information as they deem necessary in order to evaluate a potential business collaboration(s) of mutual interest.\n\nNOW THEREFORE, in consideration of the mutual promises and covenants herein contained, the receipt and sufficiency of which the Parties hereby acknowledge, Organization and Company agree as follows:\n\n1. For the purpose of this Agreement, \"Confidential Information\" shall mean any and all information whether in oral, written, graphic or electronic form, including but not limited to, data, know-how and any and all subject matter (whether patentable or not) pertaining to a Party's research, inventions, development, materials, technology, trade secrets, work in process, marketing, business plans, scientific, engineering and/or manufacturing processes, protocols, assays, strains, compounds, genes, gene pathways, enzymes, peptides, small molecules, antibodies, the commercial applications of genes, gene pathways, enzymes, peptides, small molecules and/or antibodies, manipulating and modifying genes and gene pathways, identifying bioactive compounds through recombinant techniques and any other elements of a Party's business which such Party considers to be of value, including its present or future products, sales, customers, employees, investors and contractual relationships.\n\n2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information from the other Party (the \"Disclosing Party\"), shall use such Confidential Information for the sole purpose of discussions between the Parties under and in accordance with this Agreement.\n\n3. Neither Party shall disclose to any third party any Confidential Information received from the Disclosing Party hereunder, except under the provisions of paragraph 5 of this Agreement. Upon discovery of any loss or unauthorized disclosure of Confidential Information, the discovering Party shall immediately notify the other Party.\n\nConfidential                                                                                                           Page 1\n```\n\n4. The Receiving Party shall only disseminate Confidential Information to those employees with a special need to know such Confidential Information. The Receiving Party hereby warrants that such employees shall be informed of the proprietary nature of the Confidential Information received and shall be bound by this Agreement in the same manner that each Party is bound or by a similar agreement no less restrictive than this Agreement.\n\n5. The Receiving Party’s duties and obligations to protect Confidential Information disclosed under this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years; provided, however, that the Receiving Party shall have no obligations to the Disclosing Party with respect to the use, or disclosure to others not party to this Agreement, of such information which (a) prior to disclosure was known to or in the possession of the Receiving Party as evidenced by its competent written records; (b) is or becomes publicly known during the term of this Agreement, other than through a breach of the Receiving Party’s obligations hereunder or a disclosure by a direct or indirect transferee of the Receiving Party that is not authorized by the Disclosing Party under clause (f) of this paragraph 5; (c) is rightfully received from a third party, which such third party is free to disclose to others without breach of any obligation of non-disclosure; (d) is developed by the Receiving Party independently of any disclosures made under this Agreement, as evidenced by its competent written records; (e) is required by applicable law, regulation or bona fide legal process to be disclosed, provided, however, that the Party required to make the disclosure takes all reasonable steps to restrict and maintain the confidentiality of such disclosure and provides reasonable prior written notice to the Disclosing Party of the requirement to disclose such information and the specific disclosure(s) proposed to satisfy such law(s), regulation(s) or legal process(es); or (f) is authorized to be released by way of an express written authorization by the Disclosing Party. Specific items of Confidential Information shall not fall within any of the foregoing exceptions merely because they are embraced by more general information falling within any exception. Further, any combination of Confidential Information shall not fall within any of the foregoing exceptions merely because specific items fall within any exception, but only if the combination itself and its principle of operation falls within any of the foregoing exceptions. Notwithstanding the foregoing, the Receiving Party’s obligations hereunder with regard to any trade secrets of the Disclosing Party shall remain in effect for as long as such information continues to be a trade secret.\n\n6. Confidential Information shall not be reproduced in any form except as required to accomplish the intent of this Agreement. Any reproduction of any Confidential Information of the Disclosing Party by the Receiving Party shall remain the property of the Disclosing Party unless otherwise authorized in writing by the Disclosing Party.\n\n7. The Receiving Party agrees, upon request, to promptly return or confirm in writing it has destroyed all tangible items relating to Confidential Information of the Disclosing Party, including but not limited to, all materials, written materials, drawings, data and records provided or otherwise made available by the Disclosing Party, and all copies thereof; provided, however, each Party may retain one copy for purposes of compliance with the obligations pursuant to this Agreement.\n\nConfidential  \n[Redacted]  \nPage 2\n\n```\n8. Nothing in this Agreement shall be construed as granting any license or right under any patent or other intellectual property rights, or representing any commitment by either Party to enter into any additional agreement, by implication or otherwise, or creating any partnership, joint venture or agency relationship.\n\n9. This Agreement shall constitute the entire understanding between the Parties with respect to the subject matter hereof and may be modified only in writing signed by both Parties. If any provision of this Agreement is determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.\n\n10. This Agreement, and rights and obligations hereunder, shall not be assigned or transferred, directly or indirectly, in whole or in part, by either Party, without the prior written consent of both Parties, which consent may be given or withheld in each Party’s sole and absolute discretion.  \nEach Party acknowledges that its breach of this Agreement will cause irreparable damage to the other Party and hereby agrees that the other Party shall be entitled to injunctive relief under this Agreement for such breach or threatened breach as well as such further relief as may be granted by a court of competent jurisdiction.\n\n11. The disclosure of Confidential Information under this Agreement may commence as of the Effective Date, but shall terminate one (1) year thereafter; provided, however, the termination of such disclosures under this Agreement shall not affect the rights and obligations of a Receiving Party hereunder with respect to the Confidential Information disclosed to such Receiving Party prior to such termination.\n\n12. All notices or reports permitted or required under this Agreement shall be in writing and shall be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return receipt requested, and shall be deemed given upon personal delivery, five (5) days after deposit in the mail, or upon acknowledgment of receipt of electronic transmission. Notices shall be sent to the addresses set forth at the beginning of this Agreement or such other address as a Party may specify in writing to the other Party.\n\n13. Each Party represents and warrants that it has the authority to undertake the obligations set forth in this Agreement without breaching or violating any contractual or statutory obligation owed to another.\n\n14. This Agreement shall be construed in accordance with the laws of the Australia.\n\nTo evidence their agreement to the foregoing, the Parties have, through duly authorized representatives, executed this Agreement.\n```",
+  "clauses": [
+    {
+      "id": "M",
+      "title": "MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT",
+      "text": "MUTUAL CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT"
+    },
+    {
+      "id": "E",
+      "title": "Effective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-",
+      "text": "Effective as of _______ (\"Effective Date\"), this Mutual Confidentiality & Non-Disclosure Agreement (\"Agreement\") is made and entered into by and between the UNIVERSITY OF AUCKLAND, a university constituted under the University of Auckland Act 1961 and a tertiary education provider under the Education and Training Act 2020, of 22 Princes Street, Auckland, New Zealand (hereinafter \"Organization\"), and ____________________________, a ____________________________ corporation with an address at ____________________________ (hereinafter \"Company\"), individually known as a \"Party\" and collectively known as the \"Parties\"."
+    },
+    {
+      "id": "W",
+      "title": "WHEREAS, Organization and Company are the owners of Confidential Information",
+      "text": "WHEREAS, Organization and Company are the owners of Confidential Information (as defined below) pertaining to research, development, processes, products, materials, inventions, technology and/or business plans, which they each consider to be information of value."
+    },
+    {
+      "id": "W__dup__2",
+      "title": "WHEREAS, Organization and Company intend to disclose to each other certain",
+      "text": "WHEREAS, Organization and Company intend to disclose to each other certain of such Confidential Information as they deem necessary in order to evaluate a potential business collaboration(s) of mutual interest."
+    },
+    {
+      "id": "N",
+      "title": "NOW THEREFORE, in consideration of the mutual promises and covenants herein",
+      "text": "NOW THEREFORE, in consideration of the mutual promises and covenants herein contained, the receipt and sufficiency of which the Parties hereby acknowledge, Organization and Company agree as follows:"
+    },
+    {
+      "id": "1",
+      "title": "1. For the purpose of this Agreement, \"Confidential Information\" shall mean",
+      "text": "1. For the purpose of this Agreement, \"Confidential Information\" shall mean any and all information whether in oral, written, graphic or electronic form, including but not limited to, data, know-how and any and all subject matter (whether patentable or not) pertaining to a Party's research, inventions, development, materials, technology, trade secrets, work in process, marketing, business plans, scientific, engineering and/or manufacturing processes, protocols, assays, strains, compounds, genes, gene pathways, enzymes, peptides, small molecules, antibodies, the commercial applications of genes, gene pathways, enzymes, peptides, small molecules and/or antibodies, manipulating and modifying genes and gene pathways, identifying bioactive compounds through recombinant techniques and any other elements of a Party's business which such Party considers to be of value, including its present or future products, sales, customers, employees, investors and contractual relationships."
+    },
+    {
+      "id": "2",
+      "title": "2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information",
+      "text": "2. Each Party, as recipient (the \"Receiving Party\") of Confidential Information from the other Party (the \"Disclosing Party\"), shall use such Confidential Information for the sole purpose of discussions between the Parties under and in accordance with this Agreement."
+    },
+    {
+      "id": "3",
+      "title": "3. Neither Party shall disclose to any third party any Confidential Information",
+      "text": "3. Neither Party shall disclose to any third party any Confidential Information received from the Disclosing Party hereunder, except under the provisions of paragraph 5 of this Agreement. Upon discovery of any loss or unauthorized disclosure of Confidential Information, the discovering Party shall immediately notify the other Party.\n\nConfidential                                                                                                           Page 1\n```"
+    },
+    {
+      "id": "4",
+      "title": "4. The Receiving Party shall only disseminate Confidential Information to those",
+      "text": "4. The Receiving Party shall only disseminate Confidential Information to those employees with a special need to know such Confidential Information. The Receiving Party hereby warrants that such employees shall be informed of the proprietary nature of the Confidential Information received and shall be bound by this Agreement in the same manner that each Party is bound or by a similar agreement no less restrictive than this Agreement."
+    },
+    {
+      "id": "5",
+      "title": "5. The Receiving Party’s duties and obligations to protect Confidential Informat",
+      "text": "5. The Receiving Party’s duties and obligations to protect Confidential Information disclosed under this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years; provided, however, that the Receiving Party shall have no obligations to the Disclosing Party with respect to the use, or disclosure to others not party to this Agreement, of such information which (a) prior to disclosure was known to or in the possession of the Receiving Party as evidenced by its competent written records; (b) is or becomes publicly known during the term of this Agreement, other than through a breach of the Receiving Party’s obligations hereunder or a disclosure by a direct or indirect transferee of the Receiving Party that is not authorized by the Disclosing Party under clause (f) of this paragraph 5; (c) is rightfully received from a third party, which such third party is free to disclose to others without breach of any obligation of non-disclosure; (d) is developed by the Receiving Party independently of any disclosures made under this Agreement, as evidenced by its competent written records; (e) is required by applicable law, regulation or bona fide legal process to be disclosed, provided, however, that the Party required to make the disclosure takes all reasonable steps to restrict and maintain the confidentiality of such disclosure and provides reasonable prior written notice to the Disclosing Party of the requirement to disclose such information and the specific disclosure(s) proposed to satisfy such law(s), regulation(s) or legal process(es); or (f) is authorized to be released by way of an express written authorization by the Disclosing Party. Specific items of Confidential Information shall not fall within any of the foregoing exceptions merely because they are embraced by more general information falling within any exception. Further, any combination of Confidential Information shall not fall within any of the foregoing exceptions merely because specific items fall within any exception, but only if the combination itself and its principle of operation falls within any of the foregoing exceptions. Notwithstanding the foregoing, the Receiving Party’s obligations hereunder with regard to any trade secrets of the Disclosing Party shall remain in effect for as long as such information continues to be a trade secret."
+    },
+    {
+      "id": "6",
+      "title": "6. Confidential Information shall not be reproduced in any form except as requir",
+      "text": "6. Confidential Information shall not be reproduced in any form except as required to accomplish the intent of this Agreement. Any reproduction of any Confidential Information of the Disclosing Party by the Receiving Party shall remain the property of the Disclosing Party unless otherwise authorized in writing by the Disclosing Party."
+    },
+    {
+      "id": "7",
+      "title": "7. The Receiving Party agrees, upon request, to promptly return or confirm in",
+      "text": "7. The Receiving Party agrees, upon request, to promptly return or confirm in writing it has destroyed all tangible items relating to Confidential Information of the Disclosing Party, including but not limited to, all materials, written materials, drawings, data and records provided or otherwise made available by the Disclosing Party, and all copies thereof; provided, however, each Party may retain one copy for purposes of compliance with the obligations pursuant to this Agreement.\n\nConfidential  \n[Redacted]  \nPage 2\n\n```"
+    },
+    {
+      "id": "8",
+      "title": "8. Nothing in this Agreement shall be construed as granting any license or right",
+      "text": "8. Nothing in this Agreement shall be construed as granting any license or right under any patent or other intellectual property rights, or representing any commitment by either Party to enter into any additional agreement, by implication or otherwise, or creating any partnership, joint venture or agency relationship."
+    },
+    {
+      "id": "9",
+      "title": "9. This Agreement shall constitute the entire understanding between the Parties",
+      "text": "9. This Agreement shall constitute the entire understanding between the Parties with respect to the subject matter hereof and may be modified only in writing signed by both Parties. If any provision of this Agreement is determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby."
+    },
+    {
+      "id": "10",
+      "title": "10. This Agreement, and rights and obligations hereunder, shall not be assigned",
+      "text": "10. This Agreement, and rights and obligations hereunder, shall not be assigned or transferred, directly or indirectly, in whole or in part, by either Party, without the prior written consent of both Parties, which consent may be given or withheld in each Party’s sole and absolute discretion.  \nEach Party acknowledges that its breach of this Agreement will cause irreparable damage to the other Party and hereby agrees that the other Party shall be entitled to injunctive relief under this Agreement for such breach or threatened breach as well as such further relief as may be granted by a court of competent jurisdiction."
+    },
+    {
+      "id": "11",
+      "title": "11. The disclosure of Confidential Information under this Agreement may commence",
+      "text": "11. The disclosure of Confidential Information under this Agreement may commence as of the Effective Date, but shall terminate one (1) year thereafter; provided, however, the termination of such disclosures under this Agreement shall not affect the rights and obligations of a Receiving Party hereunder with respect to the Confidential Information disclosed to such Receiving Party prior to such termination."
+    },
+    {
+      "id": "12",
+      "title": "12. All notices or reports permitted or required under this Agreement shall be i",
+      "text": "12. All notices or reports permitted or required under this Agreement shall be in writing and shall be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return receipt requested, and shall be deemed given upon personal delivery, five (5) days after deposit in the mail, or upon acknowledgment of receipt of electronic transmission. Notices shall be sent to the addresses set forth at the beginning of this Agreement or such other address as a Party may specify in writing to the other Party."
+    },
+    {
+      "id": "13",
+      "title": "13. Each Party represents and warrants that it has the authority to undertake th",
+      "text": "13. Each Party represents and warrants that it has the authority to undertake the obligations set forth in this Agreement without breaching or violating any contractual or statutory obligation owed to another."
+    },
+    {
+      "id": "14",
+      "title": "14. This Agreement shall be construed in accordance with the laws of the Austral",
+      "text": "14. This Agreement shall be construed in accordance with the laws of the Australia.\n\nTo evidence their agreement to the foregoing, the Parties have, through duly authorized representatives, executed this Agreement.\n```"
+    }
+  ]
+}

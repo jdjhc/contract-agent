@@ -13,8 +13,10 @@ or wire in your provider when ready.
 """
 from __future__ import annotations
 
+import asyncio
 import json
 import uuid
+from collections import defaultdict
 from dataclasses import dataclass, field
 
 from api_clients import CallRecord, call_llm, is_configured, track_usage
@@ -143,84 +145,100 @@ async def review(doc: StoredDocument) -> ContractReview:
     return report
 
 
-async def _augment_flags_with_llm(
-    doc: StoredDocument,
+_AUGMENT_SYSTEM = (
+    "You are an expert research-contracts reviewer for the University of Auckland (UoA). "
+    "You will be given THREE inputs:\n"
+    "  1. UoA Preferred Contracting Positions — the cross-type policy (rules).\n"
+    "  2. The UoA Standard Template for this contract type — the canonical "
+    "wording UoA itself would draft. (Absent for some types.)\n"
+    "  3. A SINGLE clause from the contract under review, plus candidate "
+    "flags raised against it by a deterministic comparator.\n\n"
+    "Refine the flag list FOR THIS CLAUSE ONLY. The flag system maps to "
+    "the Positions tiers:\n"
+    "  • Clause matches Preferred / matches the UoA Template       → green\n"
+    "  • Clause matches Acceptable tier (deviation pre-approved)   → amber\n"
+    "  • Clause falls outside Acceptable / triggers Escalation OR \n"
+    "    materially deviates from the UoA Template wording         → red\n"
+    "  • Clause topic not covered by any Position AND no template  → blue\n\n"
+    "Important reasoning rules:\n"
+    "  • When evaluating liability/indemnity, take any monetary cap into account "
+    "(a low cap can convert a literal 'assumes all liability' phrasing from RED "
+    "to AMBER if total exposure stays well under NZD$500K).\n"
+    "  • When evaluating publication, recognise that 'co-author + acknowledge + "
+    "provide a copy' preserves the right to publish and is GREEN.\n"
+    "  • When evaluating exclusion of indirect/consequential losses, recognise "
+    "phrasings other than 'excluded' (e.g. 'will not extend to', 'shall not include').\n"
+    "  • Any Intellectual Property clause (results ownership, IP assignment, "
+    "background/foreground IP, patent rights) is AMBER and the rationale must "
+    "refer the reader to Auckland UniServices — UoA Positions does not own IP.\n\n"
+    "Return strict JSON: "
+    '{"flags": [{"level":"green|amber|red|blue","clause_id":"..","clause_title":"..",'
+    '"snippet":"..","rationale":"..","standard_ref":"UoA Position #... or UoA Template"}]}. '
+    "Rationale should name the topic, name which UoA reference (Position id or "
+    "the template) it ties to, state which tier the clause matches, and (for red) "
+    "name the escalation route. Be concrete; don't hedge. "
+    "Output flags ONLY for this clause — do not invent flags for other clauses."
+)
+
+# Cap clause text fed to LLM to avoid pathological cases (e.g. one giant clause
+# absorbing most of the document). 6000 chars is well over the size of any
+# normal contract clause.
+_CLAUSE_TEXT_CAP = 6000
+
+# Per-clause LLM calls run in parallel; cap to avoid hammering the provider.
+_AUGMENT_CONCURRENCY = 6
+
+
+def _augment_user_prompt(
     contract_type: ContractType,
-    seed_flags: list[FlagItem],
-) -> list[FlagItem]:
-    """Ask the LLM to refine / extend the deterministic flags.
+    clause: Clause,
+    clause_seeds: list[FlagItem],
+    relevant_positions: list[dict],
+    template_text: str,
+) -> str:
+    clause_body = clause.text[:_CLAUSE_TEXT_CAP]
+    if len(clause.text) > _CLAUSE_TEXT_CAP:
+        clause_body += f"\n... [truncated, full clause is {len(clause.text)} chars]"
 
-    Strategy: send the LLM the seed flags + UoA positions + clauses, ask it
-    to revise levels and rationales. If parsing fails, fall back to seeds.
-    """
-    positions = load_positions()
-    relevant_positions = [
-        p for p in positions
-        if "any" in p.get("applies_to", []) or contract_type.value in p.get("applies_to", [])
-    ]
-    template_text = template_text_for(contract_type)
-    has_template = bool(template_text)
-
-    system = (
-        "You are an expert research-contracts reviewer for the University of Auckland (UoA). "
-        "You will be given THREE inputs:\n"
-        "  1. UoA Preferred Contracting Positions — the cross-type policy (rules).\n"
-        "  2. The UoA Standard Template for this contract type — the canonical "
-        "wording UoA itself would draft. (Absent for some types.)\n"
-        "  3. The clauses extracted from the contract under review, plus candidate "
-        "flags from a deterministic comparator.\n\n"
-        "Refine the flag list. The flag system maps to the Positions tiers:\n"
-        "  • Clause matches Preferred / matches the UoA Template       → green\n"
-        "  • Clause matches Acceptable tier (deviation pre-approved)   → amber\n"
-        "  • Clause falls outside Acceptable / triggers Escalation OR \n"
-        "    materially deviates from the UoA Template wording         → red\n"
-        "  • Clause topic not covered by any Position AND no template  → blue\n\n"
-        "Important reasoning rules:\n"
-        "  • When evaluating liability/indemnity, take any monetary cap into account "
-        "(a low cap can convert a literal 'assumes all liability' phrasing from RED "
-        "to AMBER if total exposure stays well under NZD$500K).\n"
-        "  • When evaluating publication, recognise that 'co-author + acknowledge + "
-        "provide a copy' preserves the right to publish and is GREEN.\n"
-        "  • When evaluating exclusion of indirect/consequential losses, recognise "
-        "phrasings other than 'excluded' (e.g. 'will not extend to', 'shall not include').\n"
-        "  • Any Intellectual Property clause (results ownership, IP assignment, "
-        "background/foreground IP, patent rights) is AMBER and the rationale must "
-        "refer the reader to Auckland UniServices — UoA Positions does not own IP.\n\n"
-        "Return strict JSON: "
-        '{"flags": [{"level":"green|amber|red|blue","clause_id":"..","clause_title":"..",'
-        '"snippet":"..","rationale":"..","standard_ref":"UoA Position #... or UoA Template"}]}. '
-        "Rationale should name the topic, name which UoA reference (Position id or "
-        "the template) it ties to, state which tier the clause matches, and (for red) "
-        "name the escalation route. Be concrete; don't hedge."
-    )
-
-    user_parts = [f"Contract type: {contract_type.value}\n"]
-    user_parts.append(
+    parts = [f"Contract type: {contract_type.value}\n"]
+    parts.append(
         "## UoA Preferred Contracting Positions (only those applicable to this type)\n"
         + json.dumps(relevant_positions, indent=2)
     )
-    if has_template:
-        user_parts.append(
+    if template_text:
+        parts.append(
             "## UoA Standard Template for this contract type (canonical wording)\n"
             + template_text
         )
     else:
-        user_parts.append(
+        parts.append(
             "## UoA Standard Template\n"
             "(No UoA template registered for this contract type — rely on the "
             "Positions document only.)"
         )
-    user_parts.append(
-        "## Candidate flags from the deterministic comparator (refine as needed)\n"
-        + json.dumps([f.model_dump() for f in seed_flags], indent=2)
+    parts.append(
+        f"## Clause under review\n"
+        f"id: {clause.id}\n"
+        f"title: {clause.title}\n"
+        f"text:\n{clause_body}"
     )
-    user = "\n\n".join(user_parts)
-    raw = await call_llm(system, user, json_mode=True, max_tokens=4096, label="augment_flags")
+    parts.append(
+        "## Candidate flags raised against this clause by the deterministic comparator\n"
+        + json.dumps([f.model_dump() for f in clause_seeds], indent=2)
+    )
+    return "\n\n".join(parts)
+
+
+def _parse_augment_response(raw: str) -> list[FlagItem] | None:
     try:
         data = json.loads(raw)
-        refined: list[FlagItem] = []
-        for item in data.get("flags", []):
-            refined.append(FlagItem(
+        items = data.get("flags", [])
+    except (json.JSONDecodeError, ValueError):
+        return None
+    out: list[FlagItem] = []
+    for item in items:
+        try:
+            out.append(FlagItem(
                 level=FlagLevel(item["level"]),
                 clause_id=str(item.get("clause_id", "")),
                 clause_title=str(item.get("clause_title", "")),
@@ -228,9 +246,87 @@ async def _augment_flags_with_llm(
                 rationale=str(item.get("rationale", "")),
                 standard_ref=item.get("standard_ref"),
             ))
-        return refined or seed_flags
-    except (json.JSONDecodeError, KeyError, ValueError):
-        return seed_flags
+        except (KeyError, ValueError):
+            continue
+    return out
+
+
+async def _augment_one_clause(
+    contract_type: ContractType,
+    clause: Clause,
+    clause_seeds: list[FlagItem],
+    relevant_positions: list[dict],
+    template_text: str,
+    sem: asyncio.Semaphore,
+) -> list[FlagItem]:
+    user = _augment_user_prompt(
+        contract_type, clause, clause_seeds, relevant_positions, template_text
+    )
+    async with sem:
+        try:
+            raw = await call_llm(
+                _AUGMENT_SYSTEM, user, json_mode=True,
+                max_tokens=2000, label="augment_clause",
+            )
+        except Exception:
+            return clause_seeds
+    refined = _parse_augment_response(raw)
+    if refined is None:
+        return clause_seeds
+    return refined or clause_seeds
+
+
+async def _augment_flags_with_llm(
+    doc: StoredDocument,
+    contract_type: ContractType,
+    seed_flags: list[FlagItem],
+) -> list[FlagItem]:
+    """Refine deterministic flags via one LLM call PER CLAUSE.
+
+    Strategy: group seed flags by clause_id, then dispatch one LLM call for
+    each clause with seeds. This keeps every response well under any token
+    cap and lets us parallelise. Clauses with no seed flags are skipped —
+    the deterministic comparator gates the LLM, so we don't burn calls on
+    clauses nobody flagged.
+    """
+    if not seed_flags:
+        return []
+
+    positions = load_positions()
+    relevant_positions = [
+        p for p in positions
+        if "any" in p.get("applies_to", []) or contract_type.value in p.get("applies_to", [])
+    ]
+    template_text = template_text_for(contract_type)
+
+    clause_lookup: dict[str, Clause] = {c.id: c for c in doc.clauses}
+
+    groups: dict[str, list[FlagItem]] = defaultdict(list)
+    for f in seed_flags:
+        groups[f.clause_id].append(f)
+
+    sem = asyncio.Semaphore(_AUGMENT_CONCURRENCY)
+    tasks = []
+    fallback_seeds: list[list[FlagItem]] = []
+    for cid, seeds in groups.items():
+        clause = clause_lookup.get(cid)
+        if clause is None:
+            fallback_seeds.append(seeds)
+            continue
+        tasks.append(
+            _augment_one_clause(
+                contract_type, clause, seeds,
+                relevant_positions, template_text, sem,
+            )
+        )
+
+    results = await asyncio.gather(*tasks) if tasks else []
+    refined: list[FlagItem] = []
+    for grp in results:
+        refined.extend(grp)
+    for grp in fallback_seeds:
+        refined.extend(grp)
+    return refined or seed_flags
 
 
 async def _llm_summary(

@@ -164,11 +164,13 @@ def _first_line(s: str, limit: int = 80) -> str:
 # pipeline working on real contract language, not hallucinated paraphrases.
 # ----------------------------------------------------------------------------
 
-_LLM_INPUT_CHAR_BUDGET = 30000
+_LLM_INPUT_CHAR_BUDGET = 100000
+_LLM_CHUNK_SIZE = 80000
+_LLM_CHUNK_OVERLAP = 4000
 
 
 def _needs_llm_fallback(text: str, clauses: list[Clause]) -> bool:
-    """Decide whether regex output is so degenerate it warrants an LLM retry."""
+    """Kept for backwards compatibility / debugging — no longer the gate."""
     if len(text) < 1500:
         return False
     if len(clauses) < 3:
@@ -201,46 +203,78 @@ def _clause_id_from_heading(heading: str, fallback_index: int) -> str:
     return str(fallback_index)
 
 
-async def _split_with_llm(text: str) -> list[Clause]:
-    # Local import keeps this module importable without LLM config.
+_LLM_SYSTEM_PROMPT = (
+    "You are a contract structure analyser. Identify the first 40-80 "
+    "characters of every clause, numbered section, or lettered "
+    "subsection in the contract — copied VERBATIM from the document, "
+    "in document order. Do not paraphrase, do not add or remove "
+    "characters. Respond with strict JSON of the form "
+    '{"headings": ["<verbatim opening 1>", "<verbatim opening 2>", ...]}.'
+)
+
+
+async def _llm_headings_for_chunk(chunk: str) -> list[str]:
     from api_clients import call_llm
 
-    snippet = text[:_LLM_INPUT_CHAR_BUDGET]
-    system = (
-        "You are a contract structure analyser. Identify the first 40-80 "
-        "characters of every clause, numbered section, or lettered "
-        "subsection in the contract — copied VERBATIM from the document, "
-        "in document order. Do not paraphrase, do not add or remove "
-        "characters. Respond with strict JSON of the form "
-        '{"headings": ["<verbatim opening 1>", "<verbatim opening 2>", ...]}.'
-    )
-    user = f"Contract text:\n---\n{snippet}\n---"
+    user = f"Contract text:\n---\n{chunk}\n---"
     raw = await call_llm(
-        system, user, json_mode=True, label="split_clauses", max_tokens=2000
+        _LLM_SYSTEM_PROMPT, user, json_mode=True,
+        label="split_clauses", max_tokens=4000,
     )
-
     try:
         data = json.loads(raw)
         raw_headings = data.get("headings", [])
     except (json.JSONDecodeError, ValueError):
         return []
-
     headings: list[str] = []
     for h in raw_headings:
-        if not isinstance(h, str):
-            continue
-        h = h.strip()
-        if 4 <= len(h) <= 200:
-            headings.append(h)
+        if isinstance(h, str):
+            h = h.strip()
+            if 4 <= len(h) <= 200:
+                headings.append(h)
+    return headings
+
+
+def _chunk_offsets(text: str) -> list[int]:
+    """Return start offsets for sliding-window chunks of the document."""
+    n = len(text)
+    if n <= _LLM_INPUT_CHAR_BUDGET:
+        return [0]
+    offsets: list[int] = []
+    step = _LLM_CHUNK_SIZE - _LLM_CHUNK_OVERLAP
+    pos = 0
+    while pos < n:
+        offsets.append(pos)
+        if pos + _LLM_CHUNK_SIZE >= n:
+            break
+        pos += step
+    return offsets
+
+
+async def _split_with_llm(text: str) -> list[Clause]:
+    """Identify clause boundaries with an LLM, then slice the original text.
+
+    The LLM only emits short verbatim openings (anchors). Contract body is
+    never copied through the model — we locate each anchor in the original
+    text and slice between them, so no hallucinated wording can leak in.
+
+    For long documents (> _LLM_INPUT_CHAR_BUDGET), we slide an overlapping
+    window across the text, gather all headings, then dedupe by position.
+    """
+    offsets = _chunk_offsets(text)
+    all_headings: list[str] = []
+    for off in offsets:
+        chunk = text[off : off + _LLM_CHUNK_SIZE]
+        headings = await _llm_headings_for_chunk(chunk)
+        all_headings.extend(headings)
 
     found: list[tuple[int, str]] = []
-    for h in headings:
+    for h in all_headings:
         idx = _anchor_in_text(text, h, 0)
         if idx < 0:
             continue
         found.append((idx, h))
 
-    # Sort by document position and dedupe near-overlaps.
     found.sort(key=lambda p: p[0])
     positions: list[tuple[int, str]] = []
     for pos, heading in found:
@@ -264,16 +298,21 @@ async def _split_with_llm(text: str) -> list[Clause]:
 
 
 async def split_clauses_async(text: str) -> list[Clause]:
-    """Async clause splitter — regex fast-path, LLM fallback when needed."""
+    """Async clause splitter — LLM anchor method is the primary path.
+
+    Regex (`split_clauses`) is kept as a fallback for when LLM is not
+    configured, fails, or produces too few clauses to be trustworthy.
+    """
     from api_clients import is_configured
 
-    clauses = split_clauses(text)
-    if not _needs_llm_fallback(text, clauses) or not is_configured():
-        return clauses
+    if not is_configured() or len(text) < 1500:
+        return split_clauses(text)
+
     try:
         llm_clauses = await _split_with_llm(text)
     except Exception:
-        return clauses
-    if len(llm_clauses) > len(clauses):
-        return llm_clauses
-    return clauses
+        return split_clauses(text)
+
+    if len(llm_clauses) < 3:
+        return split_clauses(text)
+    return llm_clauses

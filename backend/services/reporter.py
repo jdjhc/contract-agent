@@ -49,18 +49,20 @@ def _sort_flags(flags: list[FlagItem]) -> list[FlagItem]:
 
 
 def _natural_key(s: str) -> tuple:
-    parts = []
+    # Each part is wrapped as (kind, value) so digit-vs-letter segments are
+    # comparable across clause ids like "5.1", "Annex A", "(a)".
+    parts: list[tuple[int, object]] = []
     cur = ""
     for ch in s:
         if ch.isdigit():
             cur += ch
         else:
             if cur:
-                parts.append(int(cur))
+                parts.append((0, int(cur)))
                 cur = ""
-            parts.append(ch.lower())
+            parts.append((1, ch.lower()))
     if cur:
-        parts.append(int(cur))
+        parts.append((0, int(cur)))
     return tuple(parts)
 
 

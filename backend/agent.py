@@ -28,7 +28,7 @@ from models import (
 )
 from services.classifier import classify_by_keywords
 from services.comparator import compare_clauses, load_positions
-from services.parser import extract_text_async, split_clauses
+from services.parser import extract_text_async, split_clauses_async
 from services.reporter import build_report
 from services.templates import template_filenames_for, template_text_for
 
@@ -55,7 +55,7 @@ async def ingest(filename: str, raw: bytes) -> StoredDocument:
     scanned-page blackouts and multi-column interleaving)."""
     with track_usage() as ingest_usage:
         text = await extract_text_async(filename, raw)
-    clauses = split_clauses(text)
+        clauses = await split_clauses_async(text)
     doc = StoredDocument(
         document_id=uuid.uuid4().hex,
         filename=filename,

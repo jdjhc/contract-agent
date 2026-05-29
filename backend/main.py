@@ -28,38 +28,47 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 SAMPLES_DIR = REPO_ROOT / "data" / "Contract Reviewer Agent" / "Redacted examples"
 EVAL_REPORT = REPO_ROOT / "eval" / "reports" / "latest.json"
 
-# Curated samples surfaced in the UI's "Try sample" pill.
+# Curated samples surfaced in the UI's "Try sample" picker.
 SAMPLE_REGISTRY = [
-    {
-        "id": "cda_example_1",
-        "label": "CDA — Example 1",
-        "description": "Anonymised Confidential Disclosure Agreement.",
-        "filename": "CDA example 1.pdf",
-    },
-    {
-        "id": "mta_example_1",
-        "label": "MTA — Example 1",
-        "description": "Anonymised Material Transfer Agreement.",
-        "filename": "MTA Example 1.pdf",
-    },
-    {
-        "id": "collaboration_example_1",
-        "label": "Collaboration Agreement — Example 1",
-        "description": "Anonymised Research Collaboration Agreement.",
-        "filename": "Collaboration Agreement Example 1.pdf",
-    },
-    {
-        "id": "subcontract_example_1",
-        "label": "Research Subcontract — Example 1",
-        "description": "Anonymised Research Subcontract Agreement.",
-        "filename": "Subcontract Example 1.pdf",
-    },
-    {
-        "id": "student_research_example_1",
-        "label": "Student Research Agreement — Example 1",
-        "description": "Anonymised Student Research Agreement.",
-        "filename": "Student Research Agreement Example 1.pdf",
-    },
+    # Confidential Disclosure Agreements
+    {"id": "cda_1", "label": "CDA — Example 1", "contract_type_hint": "Confidential Disclosure Agreement", "description": "Confidential Disclosure Agreement (anonymised).", "filename": "CDA example 1.pdf"},
+    {"id": "cda_2", "label": "CDA — Example 2", "contract_type_hint": "Confidential Disclosure Agreement", "description": "Confidential Disclosure Agreement (anonymised).", "filename": "CDA example 2.pdf"},
+    {"id": "cda_3", "label": "CDA — Example 3", "contract_type_hint": "Confidential Disclosure Agreement", "description": "Confidential Disclosure Agreement (anonymised).", "filename": "CDA example 3.pdf"},
+    {"id": "nda_1", "label": "NDA — Example 1", "contract_type_hint": "Confidential Disclosure Agreement", "description": "Non-Disclosure Agreement (anonymised).", "filename": "NDA example 1.pdf"},
+    {"id": "nda_student_1", "label": "NDA — Student Work Experience 1", "contract_type_hint": "Confidential Disclosure Agreement", "description": "NDA for student work experience placement (anonymised).", "filename": "NDA student work experience example 1.pdf"},
+    {"id": "nda_student_2", "label": "NDA — Student Work Experience 2", "contract_type_hint": "Confidential Disclosure Agreement", "description": "NDA for student work experience placement (anonymised).", "filename": "NDA student work experience example 2.pdf"},
+    # Collaboration Agreements
+    {"id": "collab_1", "label": "Collaboration Agreement — Example 1", "contract_type_hint": "Collaboration Agreement", "description": "Research Collaboration Agreement (anonymised).", "filename": "Collaboration Agreement Example 1.pdf"},
+    {"id": "collab_2", "label": "Collaboration Agreement — Example 2", "contract_type_hint": "Collaboration Agreement", "description": "Research Collaboration Agreement (anonymised).", "filename": "Collaboration Agreement Example 2.pdf"},
+    {"id": "collab_3", "label": "Collaboration Agreement — Example 3", "contract_type_hint": "Collaboration Agreement", "description": "Research Collaboration Agreement (anonymised).", "filename": "Collaboration Agreement Example 3.pdf"},
+    {"id": "collab_4", "label": "Collaboration Agreement — Example 4", "contract_type_hint": "Collaboration Agreement", "description": "Research Collaboration Agreement (anonymised).", "filename": "Collaboration Agreement Example 4.pdf"},
+    {"id": "contract_5", "label": "Collaboration Agreement — Example 5", "contract_type_hint": "Collaboration Agreement", "description": "Collaboration / Investment Agreement (anonymised).", "filename": "Contract Example 5.pdf"},
+    # Material Transfer Agreements
+    {"id": "mta_1", "label": "MTA — Example 1", "contract_type_hint": "Material Transfer Agreement", "description": "Material Transfer Agreement (anonymised).", "filename": "MTA Example 1.pdf"},
+    {"id": "mta_2", "label": "MTA — Example 2", "contract_type_hint": "Material Transfer Agreement", "description": "Material Transfer Agreement (anonymised).", "filename": "MTA Example 2.pdf"},
+    {"id": "mta_3", "label": "MTA — Example 3", "contract_type_hint": "Material Transfer Agreement", "description": "Material Transfer Agreement (anonymised).", "filename": "MTA Example 3.pdf"},
+    {"id": "mta_4", "label": "MTA — Example 4", "contract_type_hint": "Material Transfer Agreement", "description": "Material Transfer Agreement (anonymised).", "filename": "MTA Example 4.pdf"},
+    # Data Transfer Agreement
+    {"id": "dta_1", "label": "Data Transfer Agreement — Example 1", "contract_type_hint": "Data Transfer Agreement", "description": "Data Transfer Agreement (anonymised).", "filename": "Data Transfer Agreement Example.pdf"},
+    # Research Subcontracts
+    {"id": "subcontract_1", "label": "Research Subcontract — Example 1", "contract_type_hint": "Research Subcontract", "description": "Research Subcontract Agreement (anonymised).", "filename": "Subcontract Example 1.pdf"},
+    {"id": "contract_4", "label": "Research Subcontract — Example 2", "contract_type_hint": "Research Subcontract", "description": "Research Subcontract Agreement (anonymised).", "filename": "Contract Example 4.pdf"},
+    # Commercial Research Contract
+    {"id": "subcontract_2", "label": "Commercial Research Contract — Example 1", "contract_type_hint": "Commercial Research Contract", "description": "Commercial Research Contract (anonymised).", "filename": "Subcontract Example 2.pdf"},
+    # Student Research Agreements
+    {"id": "student_1", "label": "Student Research Agreement — Example 1", "contract_type_hint": "Student Research Agreement", "description": "Student Research Agreement (anonymised).", "filename": "Student Research Agreement Example 1.pdf"},
+    {"id": "student_2", "label": "Student Research Agreement — Example 2", "contract_type_hint": "Student Research Agreement", "description": "Student Research Agreement (anonymised).", "filename": "Student Research Agreement Example 2.pdf"},
+    # Provision of Services
+    {"id": "psa_1", "label": "Provision of Services — Consultancy", "contract_type_hint": "Provision of Services Agreement", "description": "Consultancy Services Agreement (anonymised).", "filename": "Consultancy Services Agreement Example.pdf"},
+    {"id": "psa_2", "label": "Provision of Services — Goods & Services", "contract_type_hint": "Provision of Services Agreement", "description": "Contract for Goods and Services (anonymised).", "filename": "Contract for Goods and Services Example.pdf"},
+    {"id": "psa_3", "label": "Provision of Services — Service Provider", "contract_type_hint": "Provision of Services Agreement", "description": "Service Provider Agreement (anonymised).", "filename": "Service Provider Agreement Example.pdf"},
+    {"id": "contract_3", "label": "Provision of Services — Example 3", "contract_type_hint": "Provision of Services Agreement", "description": "Provision of Services Agreement (anonymised).", "filename": "Contract Example 3.pdf"},
+    # Master Services Agreements
+    {"id": "msa_1", "label": "Master Services Agreement — Example 1", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement (anonymised).", "filename": "Master Services Agreement Example 1 (1).pdf"},
+    {"id": "msa_2", "label": "Master Services Agreement — Example 1.5", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement variant (anonymised).", "filename": "Master Services Agreement Example 1.5.pdf"},
+    # Public Research Contracts
+    {"id": "contract_1", "label": "Public Research Contract — Example 1", "contract_type_hint": "Public Research Contract", "description": "Public Research Contract (anonymised).", "filename": "Contract Example 1.pdf"},
+    {"id": "contract_2", "label": "Public Research Contract — Example 2", "contract_type_hint": "Public Research Contract", "description": "Public Research Contract (anonymised).", "filename": "Contract Example 2.pdf"},
 ]
 
 MAX_UPLOAD_MB = int(os.getenv("MAX_UPLOAD_MB", "20"))

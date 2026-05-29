@@ -11,8 +11,8 @@ Per-file output JSON shape:
       "predicted_type": "Material Transfer Agreement",
       "confidence": 0.95,
       "rationale": "...",
-      "expected_hint": "Material Transfer Agreement" | null,
-      "name_match": true | false | null,
+      "expected_type": "Material Transfer Agreement" | null,
+      "correct": true | false | null,
       "wall_ms": 1234,
       "source_text_chars": 16050,
       "source_clauses": 19
@@ -28,7 +28,6 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
-import re
 import sys
 import time
 import uuid
@@ -58,40 +57,42 @@ FRAGMENT_MAP: dict[str, list[str]] = {
 _FRAGMENT_FILES = {f for fs in FRAGMENT_MAP.values() for f in fs}
 
 
-_NAME_HINTS: list[tuple[re.Pattern, str]] = [
-    (re.compile(r"^CDA\b|^NDA\b|Confidential", re.I), "Confidential Disclosure Agreement"),
-    (re.compile(r"Collaboration Agreement", re.I), "Collaboration Agreement"),
-    (re.compile(r"Consultancy", re.I), "Consultancy Services Agreement"),
-    (re.compile(r"\bMTA\b|Material Transfer", re.I), "Material Transfer Agreement"),
-    (re.compile(r"\bDTA\b|Data Transfer", re.I), "Data Transfer Agreement"),
-    (re.compile(r"\bDAA\b|Data Access", re.I), "Data Access Agreement"),
-    (re.compile(r"Master Services", re.I), "Master Services Agreement"),
-    (re.compile(r"Service Provider|Provision of Services", re.I), "Provision of Services Agreement"),
-    (re.compile(r"Subcontract", re.I), "Research Subcontract"),
-    (re.compile(r"Student Research", re.I), "Student Research Agreement"),
-    (re.compile(r"Goods and Services", re.I), "Provision of Services Agreement"),
-]
-
-# Filename-based hints are wrong for these files: the document content overrides the name.
-_NAME_OVERRIDES: dict[str, str] = {
-    # Named "MTA Example 3" but document is explicitly a Data Transfer Agreement.
-    "MTA Example 3.pdf": "Data Transfer Agreement",
-    # Named "Subcontract Example 2" but UoA is the client commissioning R&D, not a subcontractor.
-    "Subcontract Example 2.pdf": "Commercial Research Contract",
+# Ground-truth labels: manually verified by group members with AI assistance.
+# Each entry is the definitive contract type for that file — no filename inference.
+GROUND_TRUTH: dict[str, str] = {
+    "CDA example 1.pdf":                               "Confidential Disclosure Agreement",
+    "CDA example 2.pdf":                               "Confidential Disclosure Agreement",
+    "CDA example 3.pdf":                               "Confidential Disclosure Agreement",
+    "NDA example 1.pdf":                               "Confidential Disclosure Agreement",
+    "NDA student work experience example 1.pdf":       "Confidential Disclosure Agreement",
+    "NDA student work experience example 2.pdf":       "Confidential Disclosure Agreement",
+    "Collaboration Agreement Example 1.pdf":           "Collaboration Agreement",
+    "Collaboration Agreement Example 2.pdf":           "Collaboration Agreement",
+    "Collaboration Agreement Example 3.pdf":           "Collaboration Agreement",
+    "Collaboration Agreement Example 4.pdf":           "Collaboration Agreement",
+    "Contract Example 5.pdf":                          "Collaboration Agreement",
+    "MTA Example 1.pdf":                               "Material Transfer Agreement",
+    "MTA Example 2.pdf":                               "Material Transfer Agreement",
+    "MTA Example 3.pdf":                               "Data Transfer Agreement",
+    "MTA Example 4.pdf":                               "Material Transfer Agreement",
+    "Data Transfer Agreement Example.pdf":             "Data Transfer Agreement",
+    "Master Services Agreement Example 1 (1).pdf":     "Master Services Agreement",
+    "Service Provider Agreement Example.pdf":          "Provision of Services Agreement",
+    "Contract for Goods and Services Example.pdf":     "Provision of Services Agreement",
+    "Consultancy Services Agreement Example.pdf":      "Consultancy Services Agreement",
+    "Contract Example 3.pdf":                          "Provision of Services Agreement",
+    "Subcontract Example 1.pdf":                       "Research Subcontract",
+    "Contract Example 4.pdf":                          "Research Subcontract",
+    "Subcontract Example 2.pdf":                       "Commercial Research Contract",
+    "Student Research Agreement Example 1.pdf":        "Student Research Agreement",
+    "Student Research Agreement Example 2.pdf":        "Student Research Agreement",
+    "Contract Example 1.pdf":                          "Public Research Contract",
+    "Contract Example 2.pdf":                          "Public Research Contract",
 }
 
 
 def _slug(name: str) -> str:
     return "".join(c if c.isalnum() or c in "-_" else "_" for c in name).strip("_")
-
-
-def _expected_from_name(name: str) -> str | None:
-    if name in _NAME_OVERRIDES:
-        return _NAME_OVERRIDES[name]
-    for pat, value in _NAME_HINTS:
-        if pat.search(name):
-            return value
-    return None
 
 
 def _doc_from_checkpoint(cp_path: Path) -> StoredDocument:
@@ -156,14 +157,14 @@ def _finalize(out_dir: Path, name: str, doc: StoredDocument,
               predicted: str, confidence: float, rationale: str,
               t0: float, merged: list[str]) -> dict:
     wall_ms = (time.perf_counter() - t0) * 1000
-    hint = _expected_from_name(name)
+    expected = GROUND_TRUTH.get(name)
     cp = {
         "filename": name,
         "predicted_type": predicted,
         "confidence": round(confidence, 3),
         "rationale": rationale,
-        "expected_hint": hint,
-        "name_match": (None if hint is None else (hint == predicted)),
+        "expected_type": expected,
+        "correct": (None if expected is None else (expected == predicted)),
         "wall_ms": round(wall_ms, 1),
         "source_text_chars": len(doc.text),
         "source_clauses": len(doc.clauses),
@@ -244,8 +245,8 @@ async def amain(argv: list[str]) -> int:
         async with lock:
             done += 1
             if res.get("ok"):
-                hint = res.get("expected_hint")
-                mark = "  " if hint is None else (" ✓" if res.get("name_match") else "✗ ")
+                hint = res.get("expected_type")
+                mark = "  " if hint is None else (" ✓" if res.get("correct") else "✗ ")
                 print(
                     f"[{done:>2}/{n_targets}] {mark} {res['filename'][:50]:<50}  "
                     f"→ {res['predicted_type']:<37}  conf={res['confidence']:<5}  "
@@ -263,9 +264,9 @@ async def amain(argv: list[str]) -> int:
 
     ok = [r for r in results if r.get("ok")]
     bad = [r for r in results if not r.get("ok")]
-    matched = sum(1 for r in ok if r.get("name_match") is True)
-    with_hint = sum(1 for r in ok if r.get("expected_hint") is not None)
-    mismatches = [r for r in ok if r.get("name_match") is False]
+    matched = sum(1 for r in ok if r.get("correct") is True)
+    with_label = sum(1 for r in ok if r.get("expected_type") is not None)
+    mismatches = [r for r in ok if r.get("correct") is False]
 
     summary = {
         "ran_at": datetime.now(timezone.utc).isoformat(),
@@ -278,7 +279,7 @@ async def amain(argv: list[str]) -> int:
         "n_failed": len(bad),
         "wall_seconds": round(wall_s, 1),
         "concurrency": args.concurrency,
-        "name_hint_accuracy": (f"{matched}/{with_hint}" if with_hint else "n/a"),
+        "accuracy": (f"{matched}/{with_label}" if with_label else "n/a"),
         "results": results,
     }
     (out_dir / "summary.json").write_text(
@@ -288,12 +289,12 @@ async def amain(argv: list[str]) -> int:
     print("\n=== Classify summary ===")
     print(f"Files       : {summary['n_ok']}/{summary['n_files']} OK ({summary['n_failed']} failed)")
     print(f"Wall time   : {wall_s:.1f}s")
-    print(f"Name match  : {summary['name_hint_accuracy']}  (filename-vs-prediction)")
+    print(f"Accuracy    : {summary['accuracy']}  (ground-truth vs prediction)")
     if mismatches:
-        print(f"\nName-hint mismatches ({len(mismatches)}):")
+        print(f"\nMismatches ({len(mismatches)}):")
         for r in mismatches:
             print(f"  {r['filename']}")
-            print(f"    expected={r['expected_hint']}")
+            print(f"    expected={r['expected_type']}")
             print(f"    predicted={r['predicted_type']}  (conf {r['confidence']})")
     print(f"\nCheckpoints → {out_dir.relative_to(ROOT)}")
     print(f"Summary     → {(out_dir / 'summary.json').relative_to(ROOT)}")

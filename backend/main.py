@@ -63,9 +63,8 @@ SAMPLE_REGISTRY = [
     {"id": "psa_2", "label": "Provision of Services — Goods & Services", "contract_type_hint": "Provision of Services Agreement", "description": "Contract for Goods and Services (anonymised).", "filename": "Contract for Goods and Services Example.pdf"},
     {"id": "psa_3", "label": "Provision of Services — Service Provider", "contract_type_hint": "Provision of Services Agreement", "description": "Service Provider Agreement (anonymised).", "filename": "Service Provider Agreement Example.pdf"},
     {"id": "contract_3", "label": "Provision of Services — Example 3", "contract_type_hint": "Provision of Services Agreement", "description": "Provision of Services Agreement (anonymised).", "filename": "Contract Example 3.pdf"},
-    # Master Services Agreements
-    {"id": "msa_1", "label": "Master Services Agreement — Example 1", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement (anonymised).", "filename": "Master Services Agreement Example 1 (1).pdf"},
-    {"id": "msa_2", "label": "Master Services Agreement — Example 1.5", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement variant (anonymised).", "filename": "Master Services Agreement Example 1.5.pdf"},
+    # Master Services Agreements (Example 1 and 1.5 are two parts of the same contract)
+    {"id": "msa_1", "label": "Master Services Agreement — Example 1", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement (anonymised, two parts merged).", "filename": "Master Services Agreement Example 1 (1).pdf", "fragments": ["Master Services Agreement Example 1.5.pdf"]},
     # Public Research Contracts
     {"id": "contract_1", "label": "Public Research Contract — Example 1", "contract_type_hint": "Public Research Contract", "description": "Public Research Contract (anonymised).", "filename": "Contract Example 1.pdf"},
     {"id": "contract_2", "label": "Public Research Contract — Example 2", "contract_type_hint": "Public Research Contract", "description": "Public Research Contract (anonymised).", "filename": "Contract Example 2.pdf"},
@@ -183,8 +182,30 @@ async def load_sample(sample_id: str) -> UploadResponse:
             404,
             f"Sample file missing on disk: {path.relative_to(REPO_ROOT)}",
         )
-    raw = path.read_bytes()
-    doc = await ingest(sample["filename"], raw)
+    fragments = sample.get("fragments", [])
+    if fragments:
+        from api_clients import track_usage
+        from services.parser import extract_text_async, split_clauses_async
+        import uuid
+        from agent import StoredDocument, _store
+        with track_usage() as ingest_usage:
+            parts = [await extract_text_async(sample["filename"], path.read_bytes())]
+            for frag in fragments:
+                fpath = SAMPLES_DIR / frag
+                if fpath.exists():
+                    parts.append(await extract_text_async(frag, fpath.read_bytes()))
+            combined_text = "\n\n".join(parts)
+            clauses = await split_clauses_async(combined_text)
+        doc = StoredDocument(
+            document_id=uuid.uuid4().hex,
+            filename=sample["filename"],
+            text=combined_text,
+            clauses=clauses,
+            ingest_calls=list(ingest_usage.calls),
+        )
+        _store[doc.document_id] = doc
+    else:
+        doc = await ingest(sample["filename"], path.read_bytes())
     return UploadResponse(
         document_id=doc.document_id,
         filename=doc.filename,

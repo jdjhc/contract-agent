@@ -2,14 +2,15 @@ import { Sparkles, ShieldCheck } from "lucide-react";
 
 interface Props {
   llmReady: boolean;
+  llmStatus: string;
 }
 
-export function Header({ llmReady }: Props) {
+export function Header({ llmReady, llmStatus }: Props) {
   return (
-    <header className="sticky top-0 z-30 backdrop-blur-xl bg-white/60 border-b border-white/60">
+    <header className="sticky top-0 z-30 border-b border-ink-200 bg-white/90 backdrop-blur-xl">
       <div className="mx-auto max-w-6xl px-6 h-14 flex items-center justify-between">
         <div className="flex items-center gap-2.5">
-          <div className="size-7 rounded-lg bg-gradient-to-br from-flag-blue to-[#5e5ce6] grid place-items-center shadow-soft">
+          <div className="size-7 rounded-md bg-ink-900 grid place-items-center shadow-soft">
             <Sparkles className="size-4 text-white" strokeWidth={2.4} />
           </div>
           <div className="leading-tight">
@@ -26,23 +27,19 @@ export function Header({ llmReady }: Props) {
           <div
             className={`pill ${
               llmReady
-                ? "bg-flag-green/10 text-flag-green border border-flag-green/20"
-                : "bg-ink-100 text-ink-500 border border-ink-200"
+                ? "bg-white text-ink-700 border border-ink-200"
+                : "bg-white text-flag-red border border-ink-200"
             }`}
-            title={
-              llmReady
-                ? "LLM provider configured"
-                : "No LLM provider configured — running with deterministic fallback"
-            }
+            title={llmStatus}
           >
             <span
               className={`size-1.5 rounded-full ${
-                llmReady ? "bg-flag-green" : "bg-ink-400"
+                llmReady ? "bg-flag-green" : "bg-flag-red"
               }`}
             />
-            {llmReady ? "Foundry connected" : "Offline (mock)"}
+            {llmReady ? "Foundry connected" : "Foundry issue"}
           </div>
-          <div className="pill bg-white/70 border border-white/70 text-ink-700">
+          <div className="pill bg-white border border-ink-200 text-ink-700">
             <ShieldCheck className="size-3.5" />
             Human-in-the-loop
           </div>

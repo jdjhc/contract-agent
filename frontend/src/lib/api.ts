@@ -9,8 +9,14 @@ export type ContractType =
   | "Research Subcontract"
   | "Material Transfer Agreement"
   | "Data Transfer Agreement"
+  | "Data Access Agreement"
   | "Collaboration Agreement"
   | "Confidential Disclosure Agreement"
+  | "Master Services Agreement"
+  | "Provision of Services Agreement"
+  | "Consultancy Services Agreement"
+  | "Clinical Trial Research Agreement"
+  | "Student Research Agreement"
   | "Unknown";
 
 export type FlagLevel = "green" | "amber" | "red" | "blue";
@@ -53,6 +59,7 @@ export interface SampleEntry {
   label: string;
   description: string;
   filename: string;
+  contract_type_hint: string;
   size_bytes: number;
 }
 
@@ -103,11 +110,12 @@ export interface ClassifyResponse {
 export interface HealthResponse {
   status: "ok";
   llm_configured: boolean;
+  llm_status: string;
   supported_uploads: string[];
   max_upload_mb: number;
 }
 
-const BASE = "/api";
+const BASE = import.meta.env.VITE_API_BASE_URL ?? "/api";
 
 async function jfetch<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(BASE + path, init);

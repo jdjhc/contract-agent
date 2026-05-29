@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronDown, Quote } from "lucide-react";
+import { AlertTriangle, CheckCircle2, ChevronDown, CircleAlert, HelpCircle, Quote } from "lucide-react";
 import { useState } from "react";
 import type { FlagItem, FlagLevel } from "../lib/api";
 import { FLAG_META } from "../lib/flags";
@@ -14,12 +14,17 @@ export function FlagSection({ level, items }: Props) {
   const empty = items.length === 0;
 
   return (
-    <section className="glass rounded-3xl overflow-hidden">
-      <header className="p-5 sm:p-6 flex items-center justify-between">
+    <section
+      id={`flag-${level}`}
+      className="overflow-hidden scroll-mt-24 rounded-xl border border-ink-200 bg-white shadow-soft"
+    >
+      <header className="flex items-center justify-between border-b border-ink-200 p-4 sm:p-5">
         <div className="flex items-center gap-3">
-          <span className={`size-2.5 rounded-full ${meta.dot}`} />
+          <div className="grid size-8 place-items-center rounded-lg bg-ink-50">
+            <SectionIcon level={level} className={`size-4 ${meta.color}`} />
+          </div>
           <div>
-            <h2 className="font-display text-[18px] font-semibold tracking-tight">
+            <h2 className="font-display text-[16px] font-semibold tracking-tight">
               {meta.label}
             </h2>
             <p className="text-[12px] text-ink-500">{meta.sub}</p>
@@ -31,11 +36,11 @@ export function FlagSection({ level, items }: Props) {
       </header>
 
       {empty ? (
-        <div className="px-5 sm:px-6 pb-6 text-[13px] text-ink-500">
+        <div className="px-5 pb-5 pt-4 text-[13px] text-ink-500">
           No clauses in this category.
         </div>
       ) : (
-        <ul className="px-3 sm:px-4 pb-3 space-y-2">
+        <ul className="space-y-2 p-3">
           {items.map((it, i) => (
             <FlagRow key={`${it.clause_id}-${i}`} item={it} level={level} />
           ))}
@@ -52,19 +57,19 @@ function FlagRow({ item, level }: { item: FlagItem; level: FlagLevel }) {
   return (
     <motion.li
       layout
-      className={`rounded-2xl bg-white/80 border border-white/80 ring-1 ${meta.ring} hover:bg-white transition`}
+      className="rounded-lg border border-ink-200 bg-white transition hover:bg-ink-50"
     >
       <button
         onClick={() => setOpen((o) => !o)}
-        className="w-full text-left p-4 sm:p-5 flex items-start gap-3 focus-ring rounded-2xl"
+        className="flex w-full items-start gap-3 rounded-lg p-4 text-left focus-ring"
       >
-        <span className={`mt-1 size-2 rounded-full ${meta.dot}`} />
+        <span className={`mt-1 h-10 w-1 rounded-full ${meta.dot}`} />
         <div className="flex-1 min-w-0">
           <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
             <span className="text-[12px] font-mono text-ink-500">
               Clause {item.clause_id}
             </span>
-            <span className="font-medium text-[14.5px] text-ink-900 truncate">
+            <span className="min-w-0 flex-1 text-[14.5px] font-medium text-ink-900">
               {item.clause_title || "Untitled clause"}
             </span>
             {item.standard_ref && (
@@ -92,7 +97,7 @@ function FlagRow({ item, level }: { item: FlagItem; level: FlagLevel }) {
             className="overflow-hidden"
           >
             <div className="px-4 sm:px-5 pb-5 pt-1">
-              <div className="rounded-xl bg-ink-50 border border-ink-100 p-4">
+              <div className="rounded-lg border border-ink-100 bg-ink-50 p-4">
                 <div className="flex items-start gap-2 text-[12px] text-ink-500">
                   <Quote className="size-3.5 mt-0.5" />
                   <span className="font-medium uppercase tracking-wider">
@@ -117,4 +122,17 @@ function FlagRow({ item, level }: { item: FlagItem; level: FlagLevel }) {
       </AnimatePresence>
     </motion.li>
   );
+}
+
+function SectionIcon({
+  level,
+  className,
+}: {
+  level: FlagLevel;
+  className: string;
+}) {
+  if (level === "red") return <AlertTriangle className={className} />;
+  if (level === "amber") return <CircleAlert className={className} />;
+  if (level === "green") return <CheckCircle2 className={className} />;
+  return <HelpCircle className={className} />;
 }

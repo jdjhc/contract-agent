@@ -14,7 +14,7 @@ load_dotenv(Path(__file__).parent / ".env")
 
 from agent import chat as agent_chat
 from agent import get_document, ingest, review
-from api_clients import is_configured
+from api_clients import _resolve_backend, is_configured
 from models import (
     ChatRequest,
     ChatResponse,
@@ -65,9 +65,16 @@ app.add_middleware(
 
 @app.get("/api/health")
 async def health() -> dict:
+    backend = _resolve_backend()
+    status_map = {
+        "azure-openai": "Connected — Azure OpenAI",
+        "foundry-maas": "Connected — Azure AI Foundry",
+        "mock": "LLM not configured — running in mock mode",
+    }
     return {
         "status": "ok",
         "llm_configured": is_configured(),
+        "llm_status": status_map.get(backend, backend),
         "supported_uploads": sorted(SUPPORTED_EXTENSIONS),
         "max_upload_mb": MAX_UPLOAD_MB,
     }

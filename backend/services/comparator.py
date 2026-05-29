@@ -182,6 +182,7 @@ def compare_clauses(
                 snippet=_truncate(clause.text),
                 rationale="Topic not addressed in the UoA Preferred Contracting Positions.",
                 standard_ref=None,
+                text=clause.text,
             ))
             continue
 
@@ -198,6 +199,7 @@ def compare_clauses(
                     "UniServices (Head of IP) for review."
                 ),
                 standard_ref=f"UoA Position #{position['id']}",
+                text=clause.text,
             ))
             continue
 
@@ -242,6 +244,7 @@ def compare_clauses(
             snippet=_truncate(clause.text),
             rationale=why,
             standard_ref=f"UoA Position #{position['id']}",
+            text=clause.text,
         ))
 
     return flags

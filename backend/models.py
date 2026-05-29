@@ -60,6 +60,7 @@ class FlagItem(BaseModel):
     standard_ref: str | None = Field(
         None, description="Which UoA position / template this maps to"
     )
+    text: str = Field("", description="Full clause text")
 
 
 class ReviewMetrics(BaseModel):

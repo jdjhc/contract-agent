@@ -287,6 +287,7 @@ async def _augment_one_clause(
     for f in refined:
         f.clause_id = clause.id
         f.clause_title = clause.title
+        f.text = clause.text
     return refined or clause_seeds
 
 

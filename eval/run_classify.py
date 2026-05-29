@@ -72,12 +72,22 @@ _NAME_HINTS: list[tuple[re.Pattern, str]] = [
     (re.compile(r"Goods and Services", re.I), "Provision of Services Agreement"),
 ]
 
+# Filename-based hints are wrong for these files: the document content overrides the name.
+_NAME_OVERRIDES: dict[str, str] = {
+    # Named "MTA Example 3" but document is explicitly a Data Transfer Agreement.
+    "MTA Example 3.pdf": "Data Transfer Agreement",
+    # Named "Subcontract Example 2" but UoA is the client commissioning R&D, not a subcontractor.
+    "Subcontract Example 2.pdf": "Commercial Research Contract",
+}
+
 
 def _slug(name: str) -> str:
     return "".join(c if c.isalnum() or c in "-_" else "_" for c in name).strip("_")
 
 
 def _expected_from_name(name: str) -> str | None:
+    if name in _NAME_OVERRIDES:
+        return _NAME_OVERRIDES[name]
     for pat, value in _NAME_HINTS:
         if pat.search(name):
             return value

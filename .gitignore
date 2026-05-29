@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Eval runtime checkpoints (raw JSON outputs, not final reports)
+eval/reports/ingest_*/
+eval/reports/classify_*/
+eval/reports/compare_*/
+eval/reports/augment_*/
+eval/reports/summary_*/
+# But keep the final SUMMARY.md files
+!eval/reports/ingest_*/SUMMARY.md
+!eval/reports/classify_*/SUMMARY.md
+!eval/reports/compare_*/SUMMARY.md
+!eval/reports/augment_*/SUMMARY.md
+!eval/reports/summary_*/SUMMARY.md

@@ -64,7 +64,7 @@ SAMPLE_REGISTRY = [
     {"id": "psa_3", "label": "Provision of Services — Service Provider", "contract_type_hint": "Provision of Services Agreement", "description": "Service Provider Agreement (anonymised).", "filename": "Service Provider Agreement Example.pdf"},
     {"id": "contract_3", "label": "Provision of Services — Example 3", "contract_type_hint": "Provision of Services Agreement", "description": "Provision of Services Agreement (anonymised).", "filename": "Contract Example 3.pdf"},
     # Master Services Agreements (Example 1 and 1.5 are two parts of the same contract)
-    {"id": "msa_1", "label": "Master Services Agreement — Example 1", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement (anonymised, two parts merged).", "filename": "Master Services Agreement Example 1 (1).pdf", "fragments": ["Master Services Agreement Example 1.5.pdf"]},
+    {"id": "msa_1", "label": "Master Services Agreement — Example 1 + 1.5", "contract_type_hint": "Master Services Agreement", "description": "Master Services Agreement (anonymised, two parts merged).", "filename": "Master Services Agreement Example 1 (1).pdf", "fragments": ["Master Services Agreement Example 1.5.pdf"]},
     # Public Research Contracts
     {"id": "contract_1", "label": "Public Research Contract — Example 1", "contract_type_hint": "Public Research Contract", "description": "Public Research Contract (anonymised).", "filename": "Contract Example 1.pdf"},
     {"id": "contract_2", "label": "Public Research Contract — Example 2", "contract_type_hint": "Public Research Contract", "description": "Public Research Contract (anonymised).", "filename": "Contract Example 2.pdf"},

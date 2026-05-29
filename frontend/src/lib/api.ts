@@ -117,6 +117,9 @@ export const api = {
   loadSample: (sampleId: string) =>
     jfetch<UploadResponse>(`/samples/${sampleId}/load`, { method: "POST" }),
 
+  cachedReport: (sampleId: string) =>
+    jfetch<ContractReview>(`/samples/${sampleId}/report`),
+
   chat: (body: {
     document_id?: string;
     history: { role: "user" | "assistant"; content: string }[];

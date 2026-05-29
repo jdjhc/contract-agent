@@ -76,9 +76,27 @@ export default function App() {
   }
 
   async function runSample(sampleId: string) {
-    const sessionId = createReviewSession("Sample contract");
+    const sessionId = createReviewSession("Loading…");
 
     try {
+      const cached = await api.cachedReport(sampleId).catch(() => null);
+      if (cached) {
+        updateReviewSession(sessionId, {
+          filename: cached.filename,
+          documentId: cached.document_id,
+          classification: {
+            document_id: cached.document_id,
+            filename: cached.filename,
+            contract_type: cached.contract_type,
+            confidence: cached.contract_type_confidence,
+            rationale: "",
+          },
+          review: cached,
+          createdAt: cached.generated_at,
+          phase: "done",
+        });
+        return;
+      }
       const up = await api.loadSample(sampleId);
       updateReviewSession(sessionId, {
         documentId: up.document_id,

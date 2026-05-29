@@ -13,12 +13,13 @@ from fastapi.middleware.cors import CORSMiddleware
 load_dotenv(Path(__file__).parent / ".env")
 
 from agent import chat as agent_chat
-from agent import get_document, ingest, review
+from agent import do_augment, do_compare, do_summary, get_document, ingest, review
 from api_clients import _resolve_backend, is_configured
 from models import (
     ChatRequest,
     ChatResponse,
     ClassifyResponse,
+    CompareResponse,
     ContractReview,
     UploadResponse,
 )
@@ -27,6 +28,8 @@ from services.parser import SUPPORTED_EXTENSIONS
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SAMPLES_DIR = REPO_ROOT / "data" / "Contract Reviewer Agent" / "Redacted examples"
 CACHED_REPORTS_DIR = REPO_ROOT / "eval" / "reports" / "report_2026-05-22T07-42-54Z"
+INGEST_CHECKPOINTS_DIR = REPO_ROOT / "eval" / "reports" / "ingest_2026-05-22T07-20-31Z"
+COMPARE_CHECKPOINTS_DIR = REPO_ROOT / "eval" / "reports" / "compare_2026-05-22T07-38-43Z"
 EVAL_REPORT = REPO_ROOT / "eval" / "reports" / "latest.json"
 
 # Curated samples surfaced in the UI's "Try sample" picker.
@@ -145,6 +148,9 @@ async def classify_route(document_id: str) -> ClassifyResponse:
         raise HTTPException(404, "Document not found.")
     from agent import classify as _classify
     contract_type, confidence, rationale = await _classify(doc)
+    doc.contract_type = contract_type
+    doc.contract_type_confidence = confidence
+    doc.contract_type_rationale = rationale
     return ClassifyResponse(
         document_id=doc.document_id,
         filename=doc.filename,
@@ -152,6 +158,57 @@ async def classify_route(document_id: str) -> ClassifyResponse:
         confidence=confidence,
         rationale=rationale,
     )
+
+
+@app.get("/api/document/{document_id}/clauses")
+async def clauses_route(document_id: str) -> dict:
+    doc = get_document(document_id)
+    if not doc:
+        raise HTTPException(404, "Document not found.")
+    return {
+        "document_id": doc.document_id,
+        "clause_count": len(doc.clauses),
+        "clauses": [{"id": c.id, "title": c.title, "text": c.text} for c in doc.clauses],
+    }
+
+
+@app.post("/api/compare/{document_id}", response_model=CompareResponse)
+async def compare_route(document_id: str) -> CompareResponse:
+    doc = get_document(document_id)
+    if not doc:
+        raise HTTPException(404, "Document not found.")
+    if doc.contract_type is None:
+        raise HTTPException(400, "classify must be called before compare.")
+    try:
+        return do_compare(doc)
+    except Exception as e:
+        raise HTTPException(500, str(e)) from e
+
+
+@app.post("/api/augment/{document_id}", response_model=CompareResponse)
+async def augment_route(document_id: str) -> CompareResponse:
+    doc = get_document(document_id)
+    if not doc:
+        raise HTTPException(404, "Document not found.")
+    if doc.compare_flags is None:
+        raise HTTPException(400, "compare must be called before augment.")
+    try:
+        return await do_augment(doc)
+    except Exception as e:
+        raise HTTPException(500, str(e)) from e
+
+
+@app.post("/api/summary/{document_id}", response_model=ContractReview)
+async def summary_route(document_id: str) -> ContractReview:
+    doc = get_document(document_id)
+    if not doc:
+        raise HTTPException(404, "Document not found.")
+    if doc.compare_flags is None and doc.augment_flags is None:
+        raise HTTPException(400, "compare must be called before summary.")
+    try:
+        return await do_summary(doc)
+    except Exception as e:
+        raise HTTPException(500, str(e)) from e
 
 
 @app.post("/api/review/{document_id}", response_model=ContractReview)
@@ -183,7 +240,20 @@ async def cached_report(sample_id: str) -> dict:
     path = CACHED_REPORTS_DIR / report_file
     if not path.exists():
         raise HTTPException(404, "Cached report file not found on disk.")
-    return json.loads(path.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8"))
+    # Enrich with per-step data from eval checkpoints (same stem as report filename)
+    stem = Path(report_file).stem
+    ingest_cp = INGEST_CHECKPOINTS_DIR / f"{stem}.json"
+    if ingest_cp.exists():
+        ingest_data = json.loads(ingest_cp.read_text(encoding="utf-8"))
+        data["clause_count"] = ingest_data.get("n_clauses")
+        data["clauses_list"] = [{"id": c["id"], "title": c["title"]} for c in ingest_data.get("clauses", [])]
+    compare_cp = COMPARE_CHECKPOINTS_DIR / f"{stem}.json"
+    if compare_cp.exists():
+        compare_data = json.loads(compare_cp.read_text(encoding="utf-8"))
+        data["compare_counts"] = compare_data.get("counts")
+        data["compare_flags"] = compare_data.get("flags", [])
+    return data
 
 
 @app.post("/api/samples/{sample_id}/load", response_model=UploadResponse)

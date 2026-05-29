@@ -87,6 +87,11 @@ class ContractReview(BaseModel):
     generated_at: str
     metrics: ReviewMetrics = ReviewMetrics()
     references_used: list[str] = []
+    # Per-step pipeline data (populated for both live runs and cached reports)
+    clause_count: int | None = None
+    compare_counts: dict[str, int] | None = None
+    clauses_list: list[dict] | None = None        # [{id, title}] from ingest
+    compare_flags: list[FlagItem] | None = None   # seed flags before augment
 
 
 class ClassifyResponse(BaseModel):
@@ -95,6 +100,12 @@ class ClassifyResponse(BaseModel):
     contract_type: ContractType
     confidence: float
     rationale: str
+
+
+class CompareResponse(BaseModel):
+    """Flags + counts returned after the deterministic compare step."""
+    flags: list[FlagItem]
+    counts: dict[str, int]
 
 
 class UploadResponse(BaseModel):

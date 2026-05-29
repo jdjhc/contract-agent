@@ -9,10 +9,10 @@ import { AdvisorSidebar } from "./components/AdvisorSidebar";
 import { Footer } from "./components/Footer";
 import { PipelineStatus } from "./components/PipelineStatus";
 import { ReviewWorkbench } from "./components/ReviewWorkbench";
-import { api, type ClassifyResponse, type ContractReview } from "./lib/api";
+import { api, type ClassifyResponse, type ClauseListResponse, type CompareResult, type ContractReview } from "./lib/api";
 import { motion, AnimatePresence } from "framer-motion";
 
-type Phase = "idle" | "uploading" | "classifying" | "reviewing" | "done" | "error";
+type Phase = "idle" | "uploading" | "classifying" | "comparing" | "augmenting" | "summarizing" | "done" | "error";
 const REVIEW_SESSIONS_KEY = "research-contract-review-sessions";
 type ReviewPhase = Exclude<Phase, "idle">;
 
@@ -21,6 +21,9 @@ interface ReviewSession {
   filename: string;
   documentId: string | null;
   classification: ClassifyResponse | null;
+  clauses: ClauseListResponse | null;
+  compareResult: CompareResult | null;
+  augmentResult: CompareResult | null;
   review: ContractReview | null;
   createdAt: string;
   phase: ReviewPhase;
@@ -91,6 +94,13 @@ export default function App() {
             confidence: cached.contract_type_confidence,
             rationale: "",
           },
+          clauses: cached.clause_count != null
+            ? { document_id: cached.document_id, clause_count: cached.clause_count, clauses: cached.clauses_list?.map(c => ({ ...c, text: "" })) ?? [] }
+            : null,
+          compareResult: cached.compare_counts != null
+            ? { flags: cached.compare_flags ?? [], counts: cached.compare_counts }
+            : null,
+          augmentResult: { flags: cached.flags, counts: cached.counts },
           review: cached,
           createdAt: cached.generated_at,
           phase: "done",
@@ -110,14 +120,28 @@ export default function App() {
   }
 
   async function runPostUpload(sessionId: string, documentId: string, loadedFilename: string) {
+    // Step 1 — fetch clause list (ingest already done, just retrieve)
+    const clauseList = await api.clauses(documentId).catch(() => null);
+    updateReviewSession(sessionId, { clauses: clauseList });
+
+    // Step 2 — classify
     const cls = await api.classify(documentId);
     updateReviewSession(sessionId, {
       classification: cls,
       filename: loadedFilename || cls.filename,
-      phase: "reviewing",
+      phase: "comparing",
     });
 
-    const rep = await api.review(documentId);
+    // Step 3 — compare (deterministic, fast)
+    const cmp = await api.compare(documentId);
+    updateReviewSession(sessionId, { compareResult: cmp, phase: "augmenting" });
+
+    // Step 4 — augment (LLM per-clause)
+    const aug = await api.augment(documentId);
+    updateReviewSession(sessionId, { augmentResult: aug, phase: "summarizing" });
+
+    // Step 5 — summary + final report
+    const rep = await api.summarize(documentId);
     updateReviewSession(sessionId, {
       filename: loadedFilename || rep.filename,
       documentId,
@@ -144,6 +168,9 @@ export default function App() {
       filename,
       documentId: null,
       classification: null,
+      clauses: null,
+      compareResult: null,
+      augmentResult: null,
       review: null,
       createdAt: new Date().toISOString(),
       phase: "uploading",
@@ -221,8 +248,19 @@ export default function App() {
             )}
 
             <AnimatePresence>
-              {activeBusy && (
-                <PipelineStatus phase={activePhase} filename={activeSession?.filename} />
+              {(activeBusy || activePhase === "done") && activeSession && (
+                <PipelineStatus
+                  phase={activePhase}
+                  filename={activeSession?.filename}
+                  clauseCount={activeSession?.clauses?.clause_count ?? null}
+                  clauses={activeSession?.clauses?.clauses ?? null}
+                  classification={activeSession?.classification ?? null}
+                  compareCounts={activeSession?.compareResult?.counts ?? null}
+                  compareFlags={activeSession?.compareResult?.flags ?? null}
+                  augmentCounts={activeSession?.augmentResult?.counts ?? null}
+                  augmentFlags={activeSession?.augmentResult?.flags ?? null}
+                  summaryText={activeSession?.review?.summary ?? null}
+                />
               )}
             </AnimatePresence>
 
@@ -259,7 +297,8 @@ export default function App() {
 }
 
 function isBusyPhase(phase: ReviewPhase) {
-  return phase === "uploading" || phase === "classifying" || phase === "reviewing";
+  return phase === "uploading" || phase === "classifying" || phase === "comparing"
+    || phase === "augmenting" || phase === "summarizing";
 }
 
 function loadStoredReviewSessions(): ReviewSession[] {

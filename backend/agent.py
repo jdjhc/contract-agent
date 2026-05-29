@@ -22,6 +22,7 @@ from dataclasses import dataclass, field
 from api_clients import CallRecord, call_llm, is_configured, track_usage
 from models import (
     Clause,
+    CompareResponse,
     ContractReview,
     ContractType,
     FlagItem,
@@ -43,6 +44,13 @@ class StoredDocument:
     text: str
     clauses: list[Clause] = field(default_factory=list)
     ingest_calls: list[CallRecord] = field(default_factory=list)
+    # Pipeline state — populated as each step completes
+    contract_type: ContractType | None = None
+    contract_type_confidence: float = 0.0
+    contract_type_rationale: str = ""
+    compare_flags: list[FlagItem] | None = None
+    augment_flags: list[FlagItem] | None = None
+    review_calls: list[CallRecord] = field(default_factory=list)
 
 
 # Tiny in-memory store. Swap for Redis / DB before any real deployment.
@@ -368,6 +376,77 @@ async def _llm_summary(
     )
     text = await call_llm(system, user, max_tokens=400, label="summary")
     return text.strip() or None
+
+
+# --------------------------------------------------------------------------
+# Stepped pipeline — one public function per node
+# --------------------------------------------------------------------------
+
+def _flag_counts(flags: list[FlagItem]) -> dict[str, int]:
+    counts: dict[str, int] = {"red": 0, "amber": 0, "green": 0, "blue": 0}
+    for f in flags:
+        counts[f.level.value] = counts.get(f.level.value, 0) + 1
+    return counts
+
+
+def do_compare(doc: StoredDocument) -> CompareResponse:
+    """Deterministic compare step. Requires classify to have run first."""
+    if doc.contract_type is None:
+        raise ValueError("classify must run before compare")
+    flags = compare_clauses(doc.clauses, doc.contract_type)
+    doc.compare_flags = flags
+    return CompareResponse(flags=flags, counts=_flag_counts(flags))
+
+
+async def do_augment(doc: StoredDocument) -> CompareResponse:
+    """LLM augment step. Requires compare to have run first."""
+    if doc.compare_flags is None:
+        raise ValueError("compare must run before augment")
+    with track_usage() as usage:
+        flags = await _augment_flags_with_llm(doc, doc.contract_type, doc.compare_flags)
+    doc.augment_flags = flags
+    doc.review_calls.extend(usage.calls)
+    return CompareResponse(flags=flags, counts=_flag_counts(flags))
+
+
+async def do_summary(doc: StoredDocument) -> ContractReview:
+    """Summary + final report. Requires augment (or compare) to have run first."""
+    flags = doc.augment_flags or doc.compare_flags or []
+    contract_type = doc.contract_type or ContractType.UNKNOWN
+    confidence = doc.contract_type_confidence
+    with track_usage() as usage:
+        summary = await _llm_summary(doc, contract_type, flags) if is_configured() else None
+    doc.review_calls.extend(usage.calls)
+
+    report = build_report(
+        document_id=doc.document_id,
+        filename=doc.filename,
+        contract_type=contract_type,
+        confidence=confidence,
+        flags=flags,
+        summary=summary,
+    )
+    all_calls = list(doc.ingest_calls) + list(doc.review_calls)
+    sample_call = all_calls[0] if all_calls else None
+    report.metrics = ReviewMetrics(
+        n_calls=len(all_calls),
+        input_tokens=sum(c.input_tokens for c in all_calls),
+        output_tokens=sum(c.output_tokens for c in all_calls),
+        total_tokens=sum(c.input_tokens + c.output_tokens for c in all_calls),
+        latency_ms=round(sum(c.latency_ms for c in all_calls), 1),
+        total_cost_usd=round(sum(c.cost_usd for c in all_calls), 6),
+        backend=sample_call.backend if sample_call else "",
+        model=sample_call.model if sample_call else "",
+    )
+    report.references_used = (
+        ["UoA Preferred Contracting Positions (Sept 2025 draft)"]
+        + [f"UoA Template — {f}" for f in template_filenames_for(contract_type)]
+    )
+    report.clause_count = len(doc.clauses)
+    report.clauses_list = [{"id": c.id, "title": c.title} for c in doc.clauses]
+    report.compare_counts = _flag_counts(doc.compare_flags) if doc.compare_flags else None
+    report.compare_flags = doc.compare_flags
+    return report
 
 
 # --------------------------------------------------------------------------

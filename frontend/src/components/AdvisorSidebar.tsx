@@ -14,7 +14,7 @@ interface ReviewTab {
   contractType: string | null;
   counts: ReviewCounts | null;
   createdAt: string;
-  phase: "uploading" | "classifying" | "reviewing" | "done" | "error";
+  phase: "uploading" | "classifying" | "comparing" | "augmenting" | "summarizing" | "reviewing" | "done" | "error";
   error: string | null;
 }
 
@@ -178,8 +178,11 @@ function formatTime(value: string) {
 }
 
 function statusLabel(phase: ReviewTab["phase"]) {
-  if (phase === "uploading") return "Uploading";
+  if (phase === "uploading") return "Parsing";
   if (phase === "classifying") return "Classifying";
+  if (phase === "comparing") return "Comparing";
+  if (phase === "augmenting") return "Augmenting";
+  if (phase === "summarizing") return "Summarizing";
   if (phase === "reviewing") return "Reviewing";
   if (phase === "error") return "Failed";
   return "Report ready";

@@ -52,6 +52,27 @@ export interface ContractReview {
   generated_at: string;
   metrics: ReviewMetrics;
   references_used: string[];
+  clause_count: number | null;
+  compare_counts: Record<FlagLevel, number> | null;
+  clauses_list: Array<{ id: string; title: string }> | null;
+  compare_flags: FlagItem[] | null;
+}
+
+export interface ClauseItem {
+  id: string;
+  title: string;
+  text: string;
+}
+
+export interface ClauseListResponse {
+  document_id: string;
+  clause_count: number;
+  clauses: ClauseItem[];
+}
+
+export interface CompareResult {
+  flags: FlagItem[];
+  counts: Record<FlagLevel, number>;
 }
 
 export interface SampleEntry {
@@ -113,6 +134,18 @@ export const api = {
     jfetch<ContractReview>(`/review/${documentId}`, { method: "POST" }),
 
   samples: () => jfetch<{ samples: SampleEntry[] }>("/samples"),
+
+  clauses: (documentId: string) =>
+    jfetch<ClauseListResponse>(`/document/${documentId}/clauses`),
+
+  compare: (documentId: string) =>
+    jfetch<CompareResult>(`/compare/${documentId}`, { method: "POST" }),
+
+  augment: (documentId: string) =>
+    jfetch<CompareResult>(`/augment/${documentId}`, { method: "POST" }),
+
+  summarize: (documentId: string) =>
+    jfetch<ContractReview>(`/summary/${documentId}`, { method: "POST" }),
 
   loadSample: (sampleId: string) =>
     jfetch<UploadResponse>(`/samples/${sampleId}/load`, { method: "POST" }),

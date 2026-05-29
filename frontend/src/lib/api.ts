@@ -63,35 +63,6 @@ export interface SampleEntry {
   size_bytes: number;
 }
 
-export interface EvalReport {
-  case: string;
-  ran_at: string;
-  contract_type_predicted: string;
-  contract_type_expected: string;
-  contract_type_correct: boolean;
-  n_clauses: number;
-  n_matched: number;
-  n_unmatched: number;
-  exact_match_accuracy: number;
-  macro_f1: number;
-  severity_off_by_one: number;
-  per_level: Record<
-    FlagLevel,
-    { precision: number; recall: number; f1: number; support: number }
-  >;
-  confusion: Record<string, Record<string, number>>;
-  rows: {
-    gold_level: FlagLevel;
-    pred_level: FlagLevel | null;
-    topic_id: string | null;
-    clause_match: string;
-    ok: boolean;
-  }[];
-  metrics: ReviewMetrics & { wall_ms: number };
-  predicted_counts: Record<FlagLevel, number>;
-  summary: string;
-}
-
 export interface UploadResponse {
   document_id: string;
   filename: string;
@@ -145,8 +116,6 @@ export const api = {
 
   loadSample: (sampleId: string) =>
     jfetch<UploadResponse>(`/samples/${sampleId}/load`, { method: "POST" }),
-
-  evalLatest: () => jfetch<EvalReport>("/eval/latest"),
 
   chat: (body: {
     document_id?: string;

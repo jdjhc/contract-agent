@@ -4,7 +4,6 @@ import { Hero } from "./components/Hero";
 import { UploadCard } from "./components/UploadCard";
 import { SamplePicker } from "./components/SamplePicker";
 import { ContractTypeBadge } from "./components/ContractTypeBadge";
-import { EvalScorecard } from "./components/EvalScorecard";
 import { ChatDock } from "./components/ChatDock";
 import { AdvisorSidebar } from "./components/AdvisorSidebar";
 import { Footer } from "./components/Footer";
@@ -200,7 +199,6 @@ export default function App() {
                 />
 
                 <SamplePicker onPick={runSample} busy={false} />
-                <EvalScorecard />
               </>
             )}
 

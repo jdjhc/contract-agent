@@ -25,16 +25,40 @@ from models import (
 from services.parser import SUPPORTED_EXTENSIONS
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-SAMPLES_DIR = REPO_ROOT / "data"
+SAMPLES_DIR = REPO_ROOT / "data" / "Contract Reviewer Agent" / "Redacted examples"
 EVAL_REPORT = REPO_ROOT / "eval" / "reports" / "latest.json"
 
 # Curated samples surfaced in the UI's "Try sample" pill.
 SAMPLE_REGISTRY = [
     {
+        "id": "cda_example_1",
+        "label": "CDA — Example 1",
+        "description": "Anonymised Confidential Disclosure Agreement.",
+        "filename": "CDA example 1.pdf",
+    },
+    {
         "id": "mta_example_1",
         "label": "MTA — Example 1",
-        "description": "Real anonymised Material Transfer Agreement.",
+        "description": "Anonymised Material Transfer Agreement.",
         "filename": "MTA Example 1.pdf",
+    },
+    {
+        "id": "collaboration_example_1",
+        "label": "Collaboration Agreement — Example 1",
+        "description": "Anonymised Research Collaboration Agreement.",
+        "filename": "Collaboration Agreement Example 1.pdf",
+    },
+    {
+        "id": "subcontract_example_1",
+        "label": "Research Subcontract — Example 1",
+        "description": "Anonymised Research Subcontract Agreement.",
+        "filename": "Subcontract Example 1.pdf",
+    },
+    {
+        "id": "student_research_example_1",
+        "label": "Student Research Agreement — Example 1",
+        "description": "Anonymised Student Research Agreement.",
+        "filename": "Student Research Agreement Example 1.pdf",
     },
 ]
 

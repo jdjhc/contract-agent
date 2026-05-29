@@ -302,7 +302,7 @@ async def _split_with_llm(text: str) -> list[Clause]:
             cid = f"{cid}{DUP_SENTINEL}{seen_ids[cid]}"
         else:
             seen_ids[cid] = 1
-        title = heading.strip()[:80]
+        title = heading.strip()[:200]
         clauses.append(Clause(id=cid, title=title, text=body))
     return clauses
 

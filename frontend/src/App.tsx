@@ -9,7 +9,7 @@ import { AdvisorSidebar } from "./components/AdvisorSidebar";
 import { Footer } from "./components/Footer";
 import { PipelineStatus } from "./components/PipelineStatus";
 import { ReviewWorkbench } from "./components/ReviewWorkbench";
-import { api, type ClassifyResponse, type ClauseListResponse, type CompareResult, type ContractReview } from "./lib/api";
+import { api, type ClassifyResponse, type ClauseListResponse, type CompareResult, type ContractReview, type UoaPosition } from "./lib/api";
 import { motion, AnimatePresence } from "framer-motion";
 
 type Phase = "idle" | "uploading" | "classifying" | "comparing" | "augmenting" | "summarizing" | "done" | "error";
@@ -33,6 +33,7 @@ interface ReviewSession {
 export default function App() {
   const [llmReady, setLlmReady] = useState(false);
   const [llmStatus, setLlmStatus] = useState("Checking model connection...");
+  const [positions, setPositions] = useState<UoaPosition[]>([]);
   const [advisorCollapsed, setAdvisorCollapsed] = useState(false);
   const [reviewSessions, setReviewSessions] = useState<ReviewSession[]>(loadStoredReviewSessions);
   const [activeReviewSessionId, setActiveReviewSessionId] = useState<string | null>(
@@ -49,6 +50,9 @@ export default function App() {
         setLlmReady(false);
         setLlmStatus("Backend health check failed.");
       });
+    api.positions()
+      .then((r) => setPositions(r.positions))
+      .catch(() => {});
   }, []);
 
   useEffect(() => {
@@ -260,6 +264,7 @@ export default function App() {
                   augmentCounts={activeSession?.augmentResult?.counts ?? null}
                   augmentFlags={activeSession?.augmentResult?.flags ?? null}
                   summaryText={activeSession?.review?.summary ?? null}
+                  positions={positions}
                 />
               )}
             </AnimatePresence>

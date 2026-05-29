@@ -58,6 +58,16 @@ export interface ContractReview {
   compare_flags: FlagItem[] | null;
 }
 
+export interface UoaPosition {
+  id: string;
+  topic: string;
+  category: string;
+  preferred: string;
+  acceptable: string;
+  escalation_to: string;
+  applies_to: string[];
+}
+
 export interface ClauseItem {
   id: string;
   title: string;
@@ -120,6 +130,9 @@ async function jfetch<T>(path: string, init?: RequestInit): Promise<T> {
 
 export const api = {
   health: () => jfetch<HealthResponse>("/health"),
+
+  positions: () =>
+    jfetch<{ source: string; positions: UoaPosition[] }>("/positions"),
 
   upload: async (file: File): Promise<UploadResponse> => {
     const fd = new FormData();

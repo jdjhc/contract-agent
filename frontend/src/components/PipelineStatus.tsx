@@ -1,7 +1,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { CheckCircle2, ChevronDown, Circle, FileSearch, FileUp, GitCompare, Loader2, ScrollText, Sparkles } from "lucide-react";
 import { useState } from "react";
-import type { ClassifyResponse, ClauseItem, FlagItem } from "../lib/api";
+import type { ClassifyResponse, ClauseItem, FlagItem, UoaPosition } from "../lib/api";
 
 type Phase =
   | "idle"
@@ -24,6 +24,7 @@ interface Props {
   augmentCounts?: Record<string, number> | null;
   augmentFlags?: FlagItem[] | null;
   summaryText?: string | null;
+  positions?: UoaPosition[];
 }
 
 interface StepDef {
@@ -92,8 +93,8 @@ const STEPS: StepDef[] = [
       compareCounts
         ? `🔴 ${compareCounts.red ?? 0}  🟡 ${compareCounts.amber ?? 0}  🟢 ${compareCounts.green ?? 0}  🔵 ${compareCounts.blue ?? 0}`
         : "Deterministic rule-based flagging",
-    renderDetails: ({ compareFlags }) => compareFlags && compareFlags.length > 0 ? (
-      <FlagList flags={compareFlags} />
+    renderDetails: ({ compareFlags, positions }) => compareFlags && compareFlags.length > 0 ? (
+      <FlagList flags={compareFlags} positions={positions ?? []} />
     ) : null,
   },
   {
@@ -105,8 +106,8 @@ const STEPS: StepDef[] = [
       augmentCounts
         ? `🔴 ${augmentCounts.red ?? 0}  🟡 ${augmentCounts.amber ?? 0}  🟢 ${augmentCounts.green ?? 0}  🔵 ${augmentCounts.blue ?? 0}`
         : "LLM per-clause re-grading",
-    renderDetails: ({ augmentFlags }) => augmentFlags && augmentFlags.length > 0 ? (
-      <FlagList flags={augmentFlags} />
+    renderDetails: ({ augmentFlags, positions }) => augmentFlags && augmentFlags.length > 0 ? (
+      <FlagList flags={augmentFlags} positions={positions ?? []} />
     ) : null,
   },
   {
@@ -143,12 +144,12 @@ const PROGRESS: Record<Phase, number> = {
   error: 100,
 };
 
-export function PipelineStatus({ phase, filename, clauseCount, clauses, classification, compareCounts, compareFlags, augmentCounts, augmentFlags, summaryText }: Props) {
+export function PipelineStatus({ phase, filename, clauseCount, clauses, classification, compareCounts, compareFlags, augmentCounts, augmentFlags, summaryText, positions }: Props) {
   const [expanded, setExpanded] = useState(phase !== "done");
   const [openStepIndex, setOpenStepIndex] = useState<number | null>(null);
   const isDone = phase === "done";
   const currentIndex = PHASE_INDEX[phase];
-  const props: Props = { phase, filename, clauseCount, clauses, classification, compareCounts, compareFlags, augmentCounts, augmentFlags, summaryText };
+  const props: Props = { phase, filename, clauseCount, clauses, classification, compareCounts, compareFlags, augmentCounts, augmentFlags, summaryText, positions };
 
   return (
     <motion.section
@@ -332,7 +333,7 @@ function ClauseList({ clauses }: { clauses: ClauseItem[] }) {
         return (
           <li key={c.id} className="flex items-baseline gap-2 text-[11px] min-w-0">
             <span className="shrink-0 w-5 text-right text-ink-400">{i + 1}.</span>
-            <span className="text-ink-700 truncate min-w-0">{displayTitle || <em className="text-ink-300">—</em>}</span>
+            <span className="text-ink-700 break-words min-w-0">{displayTitle || <em className="text-ink-300">—</em>}</span>
           </li>
         );
       })}
@@ -340,26 +341,74 @@ function ClauseList({ clauses }: { clauses: ClauseItem[] }) {
   );
 }
 
-function FlagList({ flags }: { flags: FlagItem[] }) {
+function FlagList({ flags, positions }: { flags: FlagItem[]; positions: UoaPosition[] }) {
+  const [openIdx, setOpenIdx] = useState<number | null>(null);
+  const posMap = Object.fromEntries(positions.map((p) => [p.id, p]));
   const order = ["red", "amber", "green", "blue"];
   const sorted = [...flags].sort((a, b) => order.indexOf(a.level) - order.indexOf(b.level));
+
   return (
     <ul className="space-y-2.5">
       {sorted.map((f, i) => {
-        const displayId = f.clause_id.split("__dup__")[0];
         const displayTitle = f.clause_title.replace(/\*\*/g, "").trim();
+        const posId = f.standard_ref?.match(/POS-\w+/)?.[0];
+        const pos = posId ? posMap[posId] : null;
+        const isOpen = openIdx === i;
+
         return (
-          <li key={i} className="text-[11px]">
-            <div className="flex items-center gap-1.5 min-w-0">
-              <span className="shrink-0">{FLAG_EMOJI[f.level]}</span>
-              <span className="font-medium text-ink-800 truncate min-w-0">{displayTitle}</span>
+          <li key={i} className="text-[11px] rounded-lg ring-1 ring-ink-100 overflow-hidden">
+            <div
+              className={`flex items-start gap-1.5 px-2.5 py-2 min-w-0 ${pos ? "cursor-pointer" : ""}`}
+              onClick={() => pos && setOpenIdx(isOpen ? null : i)}
+            >
+              <span className="shrink-0 mt-px">{FLAG_EMOJI[f.level]}</span>
+              <div className="min-w-0 flex-1">
+                <div className="font-medium text-ink-800 break-words">{displayTitle}</div>
+                {f.standard_ref && (
+                  <div className="mt-0.5 text-ink-400">{f.standard_ref}</div>
+                )}
+                {f.rationale && (
+                  <div className="mt-0.5 text-ink-500">{f.rationale}</div>
+                )}
+              </div>
+              {pos && (
+                <motion.div animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.18 }} className="shrink-0 mt-0.5">
+                  <ChevronDown className="size-3 text-ink-400" />
+                </motion.div>
+              )}
             </div>
-            {f.standard_ref && (
-              <p className="mt-0.5 pl-5 text-ink-400">{f.standard_ref}</p>
-            )}
-            {f.rationale && (
-              <p className="mt-0.5 pl-5 text-ink-500 line-clamp-2">{f.rationale}</p>
-            )}
+
+            <AnimatePresence initial={false}>
+              {isOpen && pos && (
+                <motion.div
+                  initial={{ height: 0, opacity: 0 }}
+                  animate={{ height: "auto", opacity: 1 }}
+                  exit={{ height: 0, opacity: 0 }}
+                  transition={{ duration: 0.2, ease: "easeInOut" }}
+                  className="overflow-hidden"
+                >
+                  <div className="border-t border-ink-100 bg-white px-2.5 py-2 space-y-1.5">
+                    <div className="font-semibold text-ink-700">{pos.topic}</div>
+                    <div>
+                      <span className="text-emerald-600 font-medium">Preferred: </span>
+                      <span className="text-ink-600">{pos.preferred}</span>
+                    </div>
+                    {pos.acceptable && (
+                      <div>
+                        <span className="text-amber-600 font-medium">Acceptable: </span>
+                        <span className="text-ink-600">{pos.acceptable}</span>
+                      </div>
+                    )}
+                    {pos.escalation_to && (
+                      <div>
+                        <span className="text-flag-red font-medium">Escalation: </span>
+                        <span className="text-ink-600">{pos.escalation_to}</span>
+                      </div>
+                    )}
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
           </li>
         );
       })}

@@ -219,6 +219,12 @@ async def review_route(document_id: str) -> ContractReview:
     return await review(doc)
 
 
+@app.get("/api/positions")
+async def list_positions() -> dict:
+    path = REPO_ROOT / "backend" / "data" / "uoa_positions.json"
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 @app.get("/api/samples")
 async def list_samples() -> dict:
     available = []
@@ -247,12 +253,28 @@ async def cached_report(sample_id: str) -> dict:
     if ingest_cp.exists():
         ingest_data = json.loads(ingest_cp.read_text(encoding="utf-8"))
         data["clause_count"] = ingest_data.get("n_clauses")
-        data["clauses_list"] = [{"id": c["id"], "title": c["title"]} for c in ingest_data.get("clauses", [])]
+        data["clauses_list"] = [
+            {"id": c["id"], "title": " ".join(c["text"].split()) if c.get("text") else c["title"]}
+            for c in ingest_data.get("clauses", [])
+        ]
     compare_cp = COMPARE_CHECKPOINTS_DIR / f"{stem}.json"
     if compare_cp.exists():
         compare_data = json.loads(compare_cp.read_text(encoding="utf-8"))
         data["compare_counts"] = compare_data.get("counts")
-        data["compare_flags"] = compare_data.get("flags", [])
+        # Enrich flag clause_title from ingest full text (checkpoint titles are 80-char truncated)
+        full_title = {c["id"]: c["title"] for c in data.get("clauses_list") or []}
+        flags = compare_data.get("flags", [])
+        for f in flags:
+            cid = f.get("clause_id", "")
+            if cid in full_title:
+                f["clause_title"] = full_title[cid]
+        data["compare_flags"] = flags
+    # Same enrichment for augment flags in the report
+    full_title = {c["id"]: c["title"] for c in data.get("clauses_list") or []}
+    for f in data.get("flags", []):
+        cid = f.get("clause_id", "")
+        if cid in full_title:
+            f["clause_title"] = full_title[cid]
     return data
 
 

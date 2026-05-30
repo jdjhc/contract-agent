@@ -27,9 +27,9 @@ from services.parser import SUPPORTED_EXTENSIONS
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SAMPLES_DIR = REPO_ROOT / "data" / "Contract Reviewer Agent" / "Redacted examples"
-CACHED_REPORTS_DIR = REPO_ROOT / "eval" / "reports" / "report_2026-05-22T07-42-54Z"
-INGEST_CHECKPOINTS_DIR = REPO_ROOT / "eval" / "reports" / "ingest_2026-05-22T07-20-31Z"
-COMPARE_CHECKPOINTS_DIR = REPO_ROOT / "eval" / "reports" / "compare_2026-05-22T07-38-43Z"
+CACHED_REPORTS_DIR = REPO_ROOT / "eval" / "reports" / "report_2026-05-29T13-26-04Z"
+INGEST_CHECKPOINTS_DIR = REPO_ROOT / "eval" / "reports" / "ingest_2026-05-29T12-17-58Z"
+COMPARE_CHECKPOINTS_DIR = REPO_ROOT / "eval" / "reports" / "compare_2026-05-29T13-09-12Z"
 EVAL_REPORT = REPO_ROOT / "eval" / "reports" / "latest.json"
 
 # Curated samples surfaced in the UI's "Try sample" picker.

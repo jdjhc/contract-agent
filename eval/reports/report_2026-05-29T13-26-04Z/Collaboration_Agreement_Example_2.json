@@ -1,0 +1,132 @@
+{
+  "document_id": "Collaboration_Agreement_Example_2_pdf",
+  "filename": "Collaboration Agreement Example 2.pdf",
+  "contract_type": "Collaboration Agreement",
+  "contract_type_confidence": 0.98,
+  "summary": "The Collaboration Agreement presents a low-to-moderate risk posture overall, with most clauses flagged as blue due to their alignment with topics outside the scope of University of Auckland's Preferred Contracting Positions. However, a red flag in the confidentiality clause highlights a significant issue with indefinite obligations that require escalation to ensure compliance with UoA standards. The next step is to address the flagged confidentiality clause and undefined liability cap through consultation with the Senior Manager, Research Grants and Contracts, to align the agreement with institutional policies.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "E",
+      "clause_title": "EIGHTH. Both parties agree to treat any scientific and technical information received",
+      "snippet": "EIGHTH. Both parties agree to treat any scientific and technical information received from the other party during the collaboration as confidential, ensuring limited circulation of said information and assuming responsi…",
+      "rationale": "The clause falls outside the UoA Preferred and Acceptable tiers for Confidentiality (UoA Position #POS-11). Specifically, the clause imposes an indefinite confidentiality obligation, which is not aligned with the Preferred tier (duration up to 5 years post-completion) or the Acceptable tier (5–7 years post-termination/expiry/disclosure). Additionally, the clause does not explicitly exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Escalation to the Senior Manager, Research Grants and Contracts is required to address the indefinite duration and ensure alignment with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "EIGHTH. Both parties agree to treat any scientific and technical information received\nfrom the other party during the collaboration as confidential, ensuring limited circulation\nof said information and assuming responsibility for this obligation being fulfilled by all\npersonnel who require access under this agreement. Additionally, co-investigators from\npartner universities will be allowed to access data produced by and utilize the\nresearcher portal to manage their participants at each site and data collection.\nThis duty of confidentiality will persist indefinitely following the termination of this\ncontract."
+    },
+    {
+      "level": "amber",
+      "clause_id": "E",
+      "clause_title": "ELEVENTH. The collaboration relationship provided for in this agreement excludes any",
+      "snippet": "The maximum aggregate liability of one party to the other under or in connection with this Agreement shall be limited to an amount equal to [________]. Neither party shall be liable to the other for any loss of profits, revenue, savings, business, goodwill, or for any consequential, indirect, incidental, or special damages of any kind under or in connection with this Agreement.",
+      "rationale": "This clause addresses liability limitations and exclusions, which are sensitive under UoA Position #POS-07. While the clause excludes consequential, indirect, and other specified losses (aligning with the Preferred tier), the liability cap is undefined (placeholder '[________]'). This prevents confirmation of compliance with the monetary limits specified in the Preferred or Acceptable tiers. Escalation is required to confirm the cap aligns with Research Contract Delegations.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "ELEVENTH. The collaboration relationship provided for in this agreement excludes any employment relationship between the parties.\n\nThe parties undertake to resolve amicably any disagreement that may arise in the development of this Collaboration Agreement. In case of divergences in the interpretation and execution of the same or the specific agreements or contracts that result, the Courts and Tribunals of the parties' headquarters will be the only ones with competency, the parties expressly waiving to any other jurisdiction that may correspond.\n\nThe maximum aggregate liability of one party to the other under or in connection with this Agreement shall be limited to an amount equal to [________]. Neither party shall be liable to the other for any loss of profits, revenue, savings, business, goodwill, or for any consequential, indirect, incidental, or special damages of any kind under or in connection with this Agreement.\n\nRead and understood by the parties, it is signed in two copies.\n\nThe parties hereto have caused this agreement to be executed by their respective authorized representatives as of the day, month and year entered above.\n\nFor [________]  \nSigned by: [________]  \nTitle: [________]  \n\nFor University of Auckland  \nSigned by: University of Auckland  \nTitle: a university constituted under the University of Auckland Act 1961"
+    },
+    {
+      "level": "blue",
+      "clause_id": "F",
+      "clause_title": "FIRST. The present aggreement seeks to establish the bases and criteria upon which",
+      "snippet": "FIRST. The present aggreement seeks to establish the bases and criteria upon which and will establish a collaboration.",
+      "rationale": "The clause introduces the purpose and scope of the agreement but does not address any specific topic covered by the UoA Preferred Contracting Positions. As there is no applicable policy or template for this type of introductory clause, it is flagged as blue.",
+      "standard_ref": null,
+      "text": "FIRST. The present aggreement seeks to establish the bases and criteria upon which\nand will establish a collaboration."
+    },
+    {
+      "level": "blue",
+      "clause_id": "F",
+      "clause_title": "FOURTH. The parties will designate members of their personnel to be responsible for",
+      "snippet": "FOURTH. The parties will designate members of their personnel to be responsible for monitoring this agreement and all the specific ones that are signed.",
+      "rationale": "The clause addresses the designation of personnel for monitoring the agreement, which is not covered by any topic in the UoA Preferred Contracting Positions document. There is no applicable UoA Standard Template for this contract type, and no escalation route is specified for this topic.",
+      "standard_ref": null,
+      "text": "FOURTH. The parties will designate members of their personnel to be responsible for\nmonitoring this agreement and all the specific ones that are signed."
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NINTH. The parties undertake to fully comply with the data protection obligations",
+      "snippet": "NINTH. The parties undertake to fully comply with the data protection obligations contained in the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the protection of natural persons about the processing of pe…",
+      "rationale": "The clause addresses data protection obligations under the GDPR, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the existing policy framework and cannot be evaluated against specific UoA tiers.",
+      "standard_ref": null,
+      "text": "NINTH. The parties undertake to fully comply with the data protection obligations\ncontained in the REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE\nCOUNCIL on the protection of natural persons about the processing of personal data\nand the free movement of such data and repealing Directive 95/46 / EC (GDPR). The\nparties are informed that their data will be processed by each other for the management\nof the planned collaboration and the payment of the economic conditions, if applicable.\nThe basis of this treatment is the execution of the agreement, so the provision of data\nfor this purpose is mandatory and would prevent compliance otherwise.\nThe data will be kept for that purpose during the entire time the agreement is in force\nand, even afterward, for the entire time required by the applicable legislation and until\nthe possible responsibilities derived from it expire.\n\nThe parties have the right to request access to their personal data, rectification or deletion, as well as the limitation of its treatment, to oppose it and the portability of their data."
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SECOND.The parties declare their interest in collaboration in relation to the provision of",
+      "snippet": "SECOND.The parties declare their interest in collaboration in relation to the provision of Assessment Licenses by to the University of Auckland.",
+      "rationale": "The clause addresses a topic (collaboration in relation to Assessment Licenses) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "SECOND.The parties declare their interest in collaboration in relation to the provision of\nAssessment Licenses by to the University of Auckland."
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SIXTH. The personnel designated in each party for the implementation of any joint action",
+      "snippet": "SIXTH. The personnel designated in each party for the implementation of any joint action will depend exclusively on the institution with which they have established their labor relationship.",
+      "rationale": "The clause addresses personnel relationships and labor dependencies, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the documented policy and cannot be evaluated against a specific tier.",
+      "standard_ref": null,
+      "text": "SIXTH. The personnel designated in each party for the implementation of any joint action\nwill depend exclusively on the institution with which they have established their labor\nrelationship."
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "SEVENTH. The present agreement will be effective for three years from the date of",
+      "snippet": "SEVENTH. The present agreement will be effective for three years from the date of signing.",
+      "rationale": "The clause addresses the duration of the agreement, which is not covered by any UoA Preferred Contracting Positions or standard template for Collaboration Agreements. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null,
+      "text": "SEVENTH. The present agreement will be effective for three years from the date of\nsigning."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "THIRD. The parties agree that the specific development, activities, responsibilities of",
+      "snippet": "THIRD. The parties agree that the specific development, activities, responsibilities of each party, and the budget for the activity programs resulting from this agreement will be detailed and added as annexes to this ag…",
+      "rationale": "The clause addresses operational details such as development, activities, responsibilities, and budget, which are not covered by any UoA Preferred Contracting Positions or standard template. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "THIRD. The parties agree that the specific development, activities, responsibilities of\neach party, and the budget for the activity programs resulting from this agreement will be\ndetailed and added as annexes to this agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "TENTH. The parties expressly accept the content and ethical values established in the",
+      "snippet": "TENTH. The parties expressly accept the content and ethical values established in the Code of Conduct and Anticorruption Policy of the other party, whose content they know, formally committing to putting it into practic",
+      "rationale": "The clause addresses ethical values and anticorruption policies, which are not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "TENTH. The parties expressly accept the content and ethical values established in the Code of Conduct and Anticorruption Policy of the other party, whose content they know, formally committing to putting it into practice in each one of the decisions, processes, and activities developed in collaboration with the party, as well as not carrying out any practice that in any way may lead to a violation of applicable laws or regulations related to corruption.\n\nLikewise, the enforcement of this Code and Policy is mandatory for all third parties involved on their own in all activities developed jointly.\n\nFailure to comply with the provisions of this clause, as well as any unethical behavior that may arise during the relationship of the parties must be reported immediately, will be cause for resolution, and, where appropriate, will result in demanding lawful compensation for damages that may arise."
+    },
+    {
+      "level": "green",
+      "clause_id": "F",
+      "clause_title": "FIFTH. A party must not use the names, logos or trade marks of the other party or its",
+      "snippet": "FIFTH. A party must not use the names, logos or trade marks of the other party or its personnel in any publicity or marketing without the other party’s prior written consent.",
+      "rationale": "The clause aligns exactly with the UoA Preferred Position for Publicity (POS-14), which states: 'Neither party can use names or brands of the other or their personnel without prior written consent.' No deviation is present, and the clause is compliant with the preferred tier.",
+      "standard_ref": "UoA Position #POS-14",
+      "text": "FIFTH. A party must not use the names, logos or trade marks of the other party or its\npersonnel in any publicity or marketing without the other party’s prior written consent."
+    }
+  ],
+  "counts": {
+    "green": 1,
+    "amber": 1,
+    "red": 1,
+    "blue": 8
+  },
+  "generated_at": "2026-05-29T13:26:04.988928+00:00",
+  "metrics": {
+    "n_calls": 3,
+    "input_tokens": 2699,
+    "output_tokens": 867,
+    "total_tokens": 3566,
+    "latency_ms": 43384.0,
+    "total_cost_usd": 0.015418,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

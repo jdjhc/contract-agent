@@ -1,0 +1,386 @@
+{
+  "document_id": "MTA_Example_1_pdf",
+  "filename": "MTA Example 1.pdf",
+  "contract_type": "Material Transfer Agreement",
+  "contract_type_confidence": 0.98,
+  "summary": "The review of the Material Transfer Agreement (MTA Example 1.pdf) indicates a generally moderate risk posture, with most flagged clauses falling outside the scope of the University of Auckland's Preferred Contracting Positions or Standard Templates. Key issues include liability limitations and indemnities (clauses 4, 7, and 8), data security and privacy obligations (clauses 5, 6, and 15), and governing law and jurisdiction (clause 24). The recommended next step is to escalate amber and red-flagged clauses to the appropriate internal stakeholders, such as the Risk Office, General Counsel, or Auckland UniServices, for further review and alignment with institutional policies.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "8",
+      "clause_title": "8. The Recipient Institution shall indemnify the Providing Institution, the",
+      "snippet": "8. The Recipient Institution shall indemnify the Providing Institution, the Providing Institution’s employees in full against all liability, loss, damages or expenses (including legal and other professional fees and expenses) from or in connection with the handling, storage or disposal of the Material and/or Data by or on behalf of the University.",
+      "rationale": "This clause conflicts with UoA Position #POS-07 on Liability Limitations and Exclusions. The clause imposes an uncapped indemnity obligation ('in full against all liability') on the Recipient Institution, which is inconsistent with the preferred position that total liability (including indemnities) must be capped at the lesser of NZD$500,000 or the contract value. Additionally, the clause does not explicitly exclude consequential or indirect losses, nor does it limit liability to direct losses caused by negligent acts/omissions or wilful misconduct. Escalation to the Research Grants and Contracts Delegations is required to address the liability cap and indemnity scope.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "8. The Recipient Institution shall indemnify the Providing Institution, the Providing\nInstitution’s employees in full against all liability, loss, damages or expenses\n(including legal and other professional fees and expenses) from or in connection\nwith the handling, storage or disposal of the Material and/or Data by or on behalf\nof the University."
+    },
+    {
+      "level": "amber",
+      "clause_id": "4",
+      "clause_title": "4. The Recipient Institution understands that the Material may have hazardous",
+      "snippet": "4. The Recipient Institution understands that the Material may have hazardous properties, contain infectious agents or pose other health and safety risks. Subject to clause 12, the Provider Institution makes no represen…",
+      "rationale": "This clause touches on liability limitations and exclusions, which are sensitive under UoA Position #POS-07. While the clause excludes liability for the Provider Institution and disclaims warranties, it does not explicitly align with UoA's preferred or acceptable positions regarding liability caps or exclusions of indirect/consequential losses. The clause does not specify a monetary cap for liability, nor does it address exclusions for indirect losses explicitly. This deviation requires confirmation against the Research Contract Delegations and may need escalation to the Portfolio Manager for Trusted Funders or the Risk Office for liability cap assessment.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "4. The Recipient Institution understands that the Material may have hazardous\nproperties, contain infectious agents or pose other health and safety risks. Subject\nto clause 12, the Provider Institution makes no representations and gives no\nwarranties either express or implied in relation to the Material: for example\n(without limitation), no warranties are given about quality or fitness for a particular\npurpose, or freedom from infection of the Material. The Provider Institution will not\nbe liable for any use made of the Material by the Recipient Institution. The Recipient\nInstitution will use the Material in accordance with good laboratory practice\nstandards, all due skill and care and with dignity, sensitivity and respect. The\nRecipient Institution warrants that it will only use, or permit the use of the Material\nand Data in work that has ethical approval, as stated in Appendix 1."
+    },
+    {
+      "level": "amber",
+      "clause_id": "5",
+      "clause_title": "5. Recipient shall take appropriate measures to ensure a level of security",
+      "snippet": "5. Recipient shall take appropriate measures to ensure a level of security appropriate to the risk, including amongst other things, as appropriate: i. the encryption of the Data; ii. the ability to ensure the on-going confidentiality, integrity, availability and resilience of systems and services for managing and storing the Data; iii. the ability to restore the availability and access to the Data in a timely manner in the event of a physical or technical incident; and iv. having and implementing a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the management and storage of the Data.",
+      "rationale": "This clause addresses data security measures, which indirectly relate to confidentiality obligations under UoA Position #POS-11. While the clause does not explicitly conflict with UoA's preferred or acceptable confidentiality positions, it introduces additional obligations regarding encryption, system resilience, and testing that are not covered in the UoA Preferred Contracting Positions. These measures are reasonable but require confirmation to ensure alignment with UoA's confidentiality standards. Escalation to the Senior Manager, Research Grants and Contracts is recommended for review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "5. Recipient shall take appropriate measures to ensure a level of security appropriate\nto the risk, including amongst other things, as appropriate:\ni. the encryption of the Data;\nii. the ability to ensure the on-going confidentiality, integrity, availability and\nresilience of systems and services for managing and storing the Data;\n2 Applicable Laws means all laws, rules, regulations, codes of practice, research governance or ethical\nguidelines, or other requirements of any Regulatory Authority, that may apply to the use of the Material by the\nRecipient Institution from time to time, including (but not limited) the Human Tissue Act 2004 or the Human Tissue\n(Scotland)_Act 2006, the Human Tissue (Quality and Safety for Human Application) Regulations 2007, the Human\nFertilisation and Embryology Act 1990 (as amended), the EU Tissues and Cells Directive (2004/23/EC) and\nCommission Directives 2006/17/EC and 2006/86/EC. The Human Tissue Authority Directions and Codes of\nPractice, and the Medicines for Human Use (Clinical Trials) Regulations 2004, as updated and amended from time\nto time and, where relevant, the national implementations of the same.\nPage 2 of 8\n\niii. the ability to restore the availability and access to the Data in a timely manner\nin the event of a physical or technical incident; and\niv. having and implementing a process for regularly testing, assessing and\nevaluating the effectiveness of technical and organisational measures for\nensuring the security of the management and storage of the Data."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7. Except to the extent prohibited by law and subject to clause 12, the Recipient",
+      "snippet": "7. Except to the extent prohibited by law and subject to clause 12, the Recipient Institution assumes all liability for damages which may arise from its receipt, use, storage or disposal of the Material and/or Data. The maximum aggregate liability of the Recipient Institution to the Provider in relation to this Agreement, including any under indemnity, is limited to an amount equal to NZD 100,000 but only to the extent that such liability can be limited in law and such limitation shall not apply to any liability arising from the Recipient Institution’s wilful misconduct or gross negligence, or any misuse of the Material or Data.",
+      "rationale": "The clause limits the Recipient Institution's liability to NZD 100,000, which is well below the NZD$500,000 threshold in UoA's Preferred Position for liability caps. While the clause includes an 'assumes all liability' phrasing, the monetary cap significantly mitigates exposure, making this clause acceptable under UoA Position #POS-07. The carve-outs for wilful misconduct, gross negligence, and misuse align with acceptable exceptions under the Preferred Position. Escalation is not required as the liability cap is within acceptable limits.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "7. Except to the extent prohibited by law and subject to clause 12, the Recipient\nInstitution assumes all liability for damages which may arise from its receipt, use,\nstorage or disposal of the Material and/or Data. The maximum aggregate liability\nof the Recipient Institution to the Provider in relation to this Agreement, including\nany under indemnity, is limited to an amount equal to NZD 100,000 but only to the\nextent that such liability can be limited in law and such limitation shall not apply to\nany liability arising from the Recipient Institution’s wilful misconduct or gross\nnegligence, or any misuse of the Material or Data. The Provider Institution will not\nbe liable to the Recipient Institution for any loss, claim or demand made by the\nRecipient Institution, or made against the Recipient Institution by any other party,\ndue to or arising from its use, storage or disposal of the Material and/or Data by the\nRecipient Institution, except to the extent the law otherwise requires."
+    },
+    {
+      "level": "amber",
+      "clause_id": "14",
+      "clause_title": "14. Any results generated in the course of the Study from the Recipient’s use of",
+      "snippet": "14. Any results generated in the course of the Study from the Recipient’s use of the Materials and/or Data shall be jointly owned by the Parties. Each Party may use the results for its own teaching and non-commercial re…",
+      "rationale": "The clause addresses Intellectual Property (IP) ownership and joint use of results, which falls under UoA Position #POS-IP. UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices (Head of IP) for review, as UoA does not set IP policy independently. This clause must be escalated to UniServices for assessment.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "14. Any results generated in the course of the Study from the Recipient’s use of the\nMaterials and/or Data shall be jointly owned by the Parties. Each Party may use the\nresults for its own teaching and non-commercial research purposes, provided that\nsuch use is subject to the prior written consent of the other Party. Each Party retains\nownership of all rights (including Intellectual Property Rights) in its information,\nmaterials and other items existing prior to or developed independently of this\nAgreement."
+    },
+    {
+      "level": "amber",
+      "clause_id": "17",
+      "clause_title": "17. The Provider Institution has the right to terminate this agreement forthwith at",
+      "snippet": "17. The Provider Institution has the right to terminate this agreement forthwith at any time by means of written notice to Recipient Institution if the ethical approval is withdrawn or if the Recipient Institution is in breach of this Agreement.",
+      "rationale": "This clause addresses termination rights, which align partially with UoA Position #POS-19. While it includes termination for breach and ethical approval withdrawal, it does not provide mutual two-way termination or address termination costs and uncancellable obligations, which are part of the Preferred tier. The clause is acceptable for this type of agreement but requires confirmation by the Contract Manager to ensure alignment with UoA's termination standards. Escalation to the Senior Manager Research Grants and Contracts may be required for further review.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "17. The Provider Institution has the right to terminate this agreement forthwith at any\ntime by means of written notice to Recipient Institution if the ethical approval is\nwithdrawn or if the Recipient Institution is in breach of this Agreement. In the case\nof termination or expiration of this Agreement, the Recipient Institution shall\nimmediately discontinue all use of the Material and Data, and at the Provider\nIns titution's discretion, promptly Preatguer n4, orfe 8t ain, transfer or destroy all unused\n\nMaterial and Data, and provide written confirmation that this has been completed. If requested, the Recipient Institution must certify that it has complied in full with any such requirement of the Provider Institution. Should an individual donor or their next of kin rescind their consent, the Provider Institution will require and the Recipient Institution agrees to discontinue using the appropriately identified sample and return or destroy it in accordance with the Provider Institution's instructions."
+    },
+    {
+      "level": "amber",
+      "clause_id": "24",
+      "clause_title": "24. This Agreement shall be governed by English Law, and the English Courts shall",
+      "snippet": "24. This Agreement shall be governed by English Law, and the English Courts shall have exclusive jurisdiction to deal with any dispute which may arise out of or in connection with this Letter Agreement.",
+      "rationale": "The clause specifies that the Agreement is governed by English Law and grants exclusive jurisdiction to the English Courts. This falls under the UoA-sensitive topic of Governing Law and Jurisdiction. According to UoA Position #POS-16, the preferred governing law is New Zealand, but the United Kingdom is listed as acceptable. However, the clause specifies 'exclusive jurisdiction,' which is not explicitly addressed in the acceptable tier. This requires confirmation to ensure alignment with UoA's acceptable practices. Escalation to General Counsel is recommended if further clarification is needed.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "24. This Agreement shall be governed by English Law, and the English Courts shall have exclusive jurisdiction to deal with any dispute which may arise out of or in connection with this Letter Agreement."
+    },
+    {
+      "level": "amber",
+      "clause_id": "25",
+      "clause_title": "25. This Agreement shall be effective as of the date of the last signature below and",
+      "snippet": "25. This Agreement shall be effective as of the date of the last signature below and shall terminate upon termination of the Study in Appendix 1 or 2 years from the effective date, whichever is sooner.",
+      "rationale": "The clause addresses the term and termination of the agreement, which is a UoA-sensitive topic. While it specifies a fixed term (2 years or earlier upon study termination), it does not explicitly address mutual two-way termination for material breach, insolvency, or UoA's right to terminate for non-payment, as required by UoA's Preferred Position (POS-19). However, it does not contradict the Preferred Position outright and could be acceptable depending on the broader contract context. Escalation to the Senior Manager, Research Grants and Contracts, is recommended to confirm alignment with UoA's termination policies.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "25. This Agreement shall be effective as of the date of the last signature below and shall terminate upon termination of the Study in Appendix 1 or 2 years from the effective date, whichever is sooner."
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. The Recipient Institution will not use the Material for administration to human",
+      "snippet": "1. The Recipient Institution will not use the Material for administration to human subjects or human application as that term is defined in the Human Tissue (Quality and Safety for Human Application) Regulations 2007 (or equivalent as each may be replaced or amended from time to time) or for clinical or diagnostic purposes.",
+      "rationale": "The clause addresses restrictions on the use of materials for human administration, human application, clinical, or diagnostic purposes. This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "1. The Recipient Institution will not use the Material for administration to human\nsubjects or human application as that term is defined in the Human Tissue (Quality\nand Safety for Human Application) Regulations 2007 (or equivalent as each may be\nr eplaced or amended from time to time) or for clinical or diagnostic purposes."
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. The Recipient Institution may use the Material and Data solely for the purposes",
+      "snippet": "2. The Recipient Institution may use the Material and Data solely for the purposes of the Study and as described in Appendix 1, from the date of receipt of the M2 aterial. The Recipient Institution will comply fully wit…",
+      "rationale": "The clause addresses compliance with laws, regulations, and ethical guidelines regarding the use, handling, and disposal of materials and data. This topic is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined positions and templates, warranting a blue flag.",
+      "standard_ref": null,
+      "text": "2. The Recipient Institution may use the Material and Data solely for the purposes of\nthe Study and as described in Appendix 1, from the date of receipt of the M2 aterial.\nThe Recipient Institution will comply fully with all applicable environmental, health\nand safety laws, the Human Tissue Act 2004 and all Applicable Laws , rules,\nregulations, codes of conduct, codes of practice, research governance or ethical\nguidelines, and/or guidance, directions, decisions, determinations, or other\nrequirements issued, from time to time, by any regulatory authority, that may apply\nwith respect to its handling (including, but not limited to, storage, transport, use,\nprocessing, disposal or return) of the Material and all applicable laws, or other\nrequirements issued, from time to time, by any regulatory authority, that may apply\nto the use, processing, storage, transfer and/or disposal of the Data."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "a) [REDACTED] whose administrative offices are located at [REDACTED] operating",
+      "snippet": "a) [REDACTED] whose administrative offices are located at [REDACTED] operating through the branch office [REDACTED] and",
+      "rationale": "The clause pertains to administrative office and branch office details, which are not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of existing guidance.",
+      "standard_ref": null,
+      "text": "a) [REDACTED] whose administrative offices are located at [REDACTED] operating through the branch office [REDACTED]  \n\nand"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. The Parties shall use a courier with suitable skill and experience to safely",
+      "snippet": "3. The Parties shall use a courier with suitable skill and experience to safely transport the Material in accordance with all Applicable Laws. The provider Institution will bear the cost of carriage and any necessary insurance.",
+      "rationale": "The clause addresses the logistics of transporting materials, including courier selection, cost allocation, and risk transfer. This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3. The Parties shall use a courier with suitable skill and experience to safely transport\nthe Material in accordance with all Applicable Laws. The provider Institution will\nbear the cost of carriage and any necessary insurance. The Provider Institution\nmakes no charge for the Material. Risk in and responsibility for the Material shall\npass to the Recipient Institution once it is received at its premises. If so requested\nby the Provider Institution the Recipient Institution shall provide it with written\nconfirmation of the safe receipt of the Materials promptly after their delivery to the\nRecipient Institution’s laboratory."
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "b) The University of Auckland whose administrative offices are located at 22",
+      "snippet": "b) The University of Auckland whose administrative offices are located at 22 Princes Street, Auckland Central, Auckland 1010, New Zealand (the \u001cRecipient Institution\u001d)",
+      "rationale": "The clause specifies the administrative address of the University of Auckland and its designation as the 'Recipient Institution.' This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "b) The University of Auckland whose administrative offices are located at 22 Princes Street, Auckland Central, Auckland 1010, New Zealand (the “Recipient Institution”)"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "hereinafter referred to as “the Parties” and each of them being a “Party”.",
+      "snippet": "hereinafter referred to as “the Parties” and each of them being a “Party”.",
+      "rationale": "The clause is a standard definitional statement for referring to the contracting entities as 'the Parties' and 'Party'. This topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. It does not conflict with any existing policy or template.",
+      "standard_ref": null,
+      "text": "hereinafter referred to as “the Parties” and each of them being a “Party”."
+    },
+    {
+      "level": "blue",
+      "clause_id": "6",
+      "clause_title": "6. The Recipient shall keep all of the Data secure from any unauthorised or",
+      "snippet": "6. The Recipient shall keep all of the Data secure from any unauthorised or accidental use, access, disclosure, damage, loss or destruction. The Recipient will not permit the Data or any part of it to come into the poss…",
+      "rationale": "The clause addresses data security and management, which is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. No specific policy or template reference exists for this topic.",
+      "standard_ref": null,
+      "text": "6. The Recipient shall keep all of the Data secure from any unauthorised or accidental\nuse, access, disclosure, damage, loss or destruction. The Recipient will not permit\nthe Data or any part of it to come into the possession or control of any individual\nother than those of its employees or students involved in the Research who are\nunder the direct supervision of the Recipient Scientist. The Recipient shall comply\nwith any request from the Provider to amend, rectify, transfer, block or destroy any\nof the Data."
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "10. The Recipient Institution agrees to obtain the written consent of the Provider",
+      "snippet": "10. The Recipient Institution agrees to obtain the written consent of the Provider Institution if there is any material change to the proposed use of the Material in the Study as described in Appendix 1.",
+      "rationale": "The clause addresses the requirement for written consent from the Provider Institution in case of material changes to the proposed use of the Material. This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null,
+      "text": "10. The Recipient Institution agrees to obtain the written consent of the Provider\nInstitution if there is any material change to the proposed use of the Material in the\nStudy as described in Appendix 1."
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "12. The Provider Institution undertakes that where required by Applicable Laws the",
+      "snippet": "12. The Provider Institution undertakes that where required by Applicable Laws the Material has been obtained from humans with the appropriate consent as required by the Human Tissue Act 2004 and with ethical approval. \u0014",
+      "rationale": "The clause addresses compliance with the Human Tissue Act 2004 and ethical approval for human-derived materials, as well as ownership and licensing terms for the Materials and Data. This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. Therefore, it falls outside the scope of pre-defined tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "12. The Provider Institution undertakes that where required by Applicable Laws the\nMaterial has been obtained from humans with the appropriate consent as required\nby the Human Tissue Act 2004 and with ethical approval. The Provider Institution\nretains ownership or custodian rights in the Materials and Data (and any\nunmodified derivatives of the Materials) it provides as part of this Agreement and\nhereby grants to the Recipient Institution a non-exclusive, royalty-free licence to\nuse the Material and Data for the Study only."
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "15. The Recipient undertakes not to attempt to identify or contact any individual",
+      "snippet": "15. The Recipient undertakes not to attempt to identify or contact any individual to whom the Data relates (\u001cData Subject\u001d). In the event that the Recipient inadvertently identifies any Data Subject, then it will notify\u001d...",
+      "rationale": "The clause addresses data protection and privacy obligations, specifically prohibiting the identification or contact of individuals related to the data (Data Subjects). This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, the clause falls outside the scope of pre-defined UoA policies and templates, and no escalation route is specified.",
+      "standard_ref": null,
+      "text": "15. The Recipient undertakes not to attempt to identify or contact any individual to\nwhom the Data relates (“Data Subject”). In the event that the Recipient\ninadvertently identifies any Data Subject, then it will notify the Provider\nimmediately setting out in reasonable detail the circumstances by which it\nhappened and will then comply with all applicable laws that may apply to the use,\nprocessing, storage, transfer and/or disposal of the Data in question, including,\nwithout limitation, the Data Protection Act (2018) and the UK General Data\nProtection Regulation (“UK GDPR”) (‘’Data Protection Laws’’), in relation to the use,\nprocessing, storage, transfer and/or disposal of the Data under this Agreement.\nOther than such disclosure to the Provider, the Recipient shall not share the\nidentification of that Data Subject with any other person or attempt to contact the\nData Subject themselves."
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "16. Nothing included in this Agreement shall prevent the Provider Institution from",
+      "snippet": "16. Nothing included in this Agreement shall prevent the Provider Institution from being able to distribute the Material and/or Data to other entities as described in Appendix 1. If, as per the details included in Appen…",
+      "rationale": "The clause addresses the Provider Institution's ability to distribute Material and/or Data to other entities and assigns compliance responsibility to the Recipient Institution. This topic is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "16. Nothing included in this Agreement shall prevent the Provider Institution from\nbeing able to distribute the Material and/or Data to other entities as described in\nAppendix 1. If, as per the details included in Appendix 1, the Material and/or Data\nis to be transferred to another institution for the purposes of the Study, the\nresponsibility for compliance with the terms of this Agreement rests with the\nRecipient Institution."
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "19. The Parties agree that this Agreement and any subsequent amendments to it",
+      "snippet": "19. The Parties agree that this Agreement and any subsequent amendments to it shall be binding on their successors in title, and assigns, and undertake to take all necessary steps to ensure that they are so bound.",
+      "rationale": "The clause addresses the binding nature of the agreement on successors and assigns, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy and template references.",
+      "standard_ref": null,
+      "text": "19. The Parties agree that this Agreement and any subsequent amendments to it shall be binding on their successors in title, and assigns, and undertake to take all necessary steps to ensure that they are so bound."
+    },
+    {
+      "level": "blue",
+      "clause_id": "20",
+      "clause_title": "20. This Agreement does not create any right enforceable by any person not a Party",
+      "snippet": "20. This Agreement does not create any right enforceable by any person not a Party to it.",
+      "rationale": "The clause addresses third-party enforceability, which is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy or template guidance.",
+      "standard_ref": null,
+      "text": "20. This Agreement does not create any right enforceable by any person not a Party to it."
+    },
+    {
+      "level": "blue",
+      "clause_id": "21",
+      "clause_title": "21. This Agreement constitutes the entire agreement between the Parties in",
+      "snippet": "21. This Agreement constitutes the entire agreement between the Parties in relation to its subject matter and no statements or representations made by any Party have been relied upon by the other in entering into this Agreement.",
+      "rationale": "The clause addresses the 'entire agreement' concept, which is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null,
+      "text": "21. This Agreement constitutes the entire agreement between the Parties in relation to its subject matter and no statements or representations made by any Party have been relied upon by the other in entering into this Agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "22. The rights and obligations of the Parties are personal and may not be assigned",
+      "snippet": "22. The rights and obligations of the Parties are personal and may not be assigned at any time without the prior written consent of the other Party which consent shall not be unreasonably withheld; provided that it shall be a requirement in all cases of assignation that the assignee undertakes to perform all outstanding obligations of the assignor as though the assignee had been an original party hereto.",
+      "rationale": "The clause addresses assignment of rights and obligations, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "22. The rights and obligations of the Parties are personal and may not be assigned at any time without the prior written consent of the other Party which consent shall not be unreasonably withheld; provided that it shall be a requirement in all cases of assignation that the assignee undertakes to perform all outstanding obligations of the assignor as though the assignee had been an original party hereto."
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Accepted and Agreed on behalf of",
+      "snippet": "Accepted and Agreed on behalf of [Redacted]",
+      "rationale": "The clause pertains to the signature block, which is procedural and not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. Signature blocks are typically standard and do not require substantive review unless they conflict with execution requirements.",
+      "standard_ref": null,
+      "text": "Accepted and Agreed on behalf of  \n[Redacted]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "M",
+      "clause_title": "Material Transfer Agreement",
+      "snippet": "Material Transfer Agreement (for the Supply of Human Tissue Material)",
+      "rationale": "The clause introduces a specific context for the Material Transfer Agreement (human tissue material), which is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. This topic falls outside the scope of existing guidance.",
+      "standard_ref": null,
+      "text": "Material Transfer Agreement  \n(for the Supply of Human Tissue Material)"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "Name: [Redacted]",
+      "snippet": "Name: [Redacted]",
+      "rationale": "The clause 'Name: [Redacted]' does not address any specific topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. It appears to be a placeholder or administrative detail rather than a substantive contractual term.",
+      "standard_ref": null,
+      "text": "Name: [Redacted]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Position: [Redacted]",
+      "snippet": "Position: [Redacted] Signature: [Redacted] Date: 10/13/2025 Accepted and Agreed on behalf of University of Auckland Name: [Redacted] Position: [Redacted] Signature: [Redacted] Date: 13 October 2025 Page 5 of 8",
+      "rationale": "This clause pertains to signature and acceptance details, which are administrative in nature and not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. No specific policy or template reference applies.",
+      "standard_ref": null,
+      "text": "Position: [Redacted]  \nSignature: [Redacted]  \nDate: 10/13/2025  \n\nAccepted and Agreed on behalf of  \nUniversity of Auckland  \nName: [Redacted]  \nPosition: [Redacted]  \nSignature: [Redacted]  \nDate: 13 October 2025  \n\nPage 5 of 8"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "This Agreement is made by and between:",
+      "snippet": "This Agreement is made by and between:",
+      "rationale": "The clause introduces the contracting parties but does not address any specific topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template. It is a standard introductory clause and does not require further review.",
+      "standard_ref": null,
+      "text": "This Agreement is made by and between:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "This Agreement records the terms under which the Provider Institution will make",
+      "snippet": "This Agreement records the terms under which the Provider Institution will make available to the Recipient Institution the Material identified in Appendix 2 (the \u001cMaterial\u001d) collected as part of the [REDACTED].",
+      "rationale": "The clause introduces the terms under which the Provider Institution will make the Material available to the Recipient Institution. This topic is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null,
+      "text": "This Agreement records the terms under which the Provider Institution will make available to the Recipient Institution the Material identified in Appendix 2 (the “Material”) collected as part of the [REDACTED]."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The term “Material” means material, other than human gametes or embryos, which",
+      "snippet": "The term “Material” means material, other than human gametes or embryos, which consists of, or includes human cells and which is considered “Relevant Material” for the purposes of the Human Tissue Act 2004¹ together wit…",
+      "rationale": "The clause defines 'Material' in a way that references the Human Tissue Act 2004 and includes human cells, excluding gametes or embryos. This topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined positions and requires specific review for compliance with applicable laws and ethical considerations.",
+      "standard_ref": null,
+      "text": "The term “Material” means material, other than human gametes or embryos, which consists of, or includes human cells and which is considered “Relevant Material” for the purposes of the Human Tissue Act 2004¹ together with related data."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Recipient Institution will hold the Material and Data on the terms of this",
+      "snippet": "The Recipient Institution will hold the Material and Data on the terms of this Agreement and solely for the purpose of the Study as described in Appendix 1, within the research group of [REDACTED] (the \u001cRecipient Scientist\u001d).",
+      "rationale": "The clause addresses the handling and use of materials and data within a specific research group, which is not explicitly covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined positions and requires independent assessment.",
+      "standard_ref": null,
+      "text": "The Recipient Institution will hold the Material and Data on the terms of this Agreement and solely for the purpose of the Study as described in Appendix 1, within the research group of [REDACTED] (the “Recipient Scientist”)."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Recipient Institution hereby agrees to comply and procure that the Recipient",
+      "snippet": "The Recipient Institution hereby agrees to comply and procure that the Recipient Scientist and all personnel who work with the Material and Data comply with the following terms and conditions: \u0019 The Human Tissue Act 2004 applies to the \u001cauthorised activities\u001d principally the removal, storage and use of \u001cRelevant Materials\u001d (as defined under the Act, including human cells, tissue and organs, but not cell lines) which come from a living or deceased person for \u001cScheduled Purposes\u001d (these are set out in Schedule 1 of the Act, including, but not limited to, \u001cresearch in connection with disorders, or the function of the human body\u001d; \u001ceducation or training relating to human health\u001d; and \u001ctransplantation\u001d).",
+      "rationale": "The clause addresses compliance with the Human Tissue Act 2004, which is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of pre-defined policy and template references.",
+      "standard_ref": null,
+      "text": "The Recipient Institution hereby agrees to comply and procure that the Recipient Scientist and all personnel who work with the Material and Data comply with the following terms and conditions:  \n\n¹ The Human Tissue Act 2004 applies to the “authorised activities” principally the removal, storage and use of “Relevant Materials” (as defined under the Act, including human cells, tissue and organs, but not cell lines) which come from a living or deceased person for “Scheduled Purposes” (these are set out in Schedule 1 of the Act, including, but not limited to, “research in connection with disorders, or the function of the human body”; “education or training relating to human health”; and “transplantation”).  \n\nPage 1 of 8\n```"
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "Whereas the Provider Institution and Recipient Institution are collaborating in a",
+      "snippet": "Whereas the Provider Institution and Recipient Institution are collaborating in a study to explore [REDACTED] (the \u001cStudy\u001d) and Provider Institution now wishes for the Recipient Institution to perform certain analyses/studies as described in Appendix 1.",
+      "rationale": "The clause is a preamble describing the collaboration and purpose of the study, which is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. It does not conflict with any existing policy or template.",
+      "standard_ref": null,
+      "text": "Whereas the Provider Institution and Recipient Institution are collaborating in a study to explore [REDACTED] (the “Study”) and Provider Institution now wishes for the Recipient Institution to perform certain analyses/studies as described in Appendix 1."
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "Whereas Provider Institution also intends to transfer to the Recipient Institution",
+      "snippet": "Whereas Provider Institution also intends to transfer to the Recipient Institution data as further described in Appendix 3 (\u001cData\u001d) collected as part of the [REDACTED].",
+      "rationale": "The clause introduces the transfer of data, which is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Material Transfer Agreements. As such, it falls outside the scope of the existing policy framework and requires further review to ensure compliance with UoA's data governance and privacy policies.",
+      "standard_ref": null,
+      "text": "Whereas Provider Institution also intends to transfer to the Recipient Institution data as further described in Appendix 3 (“Data”) collected as part of the [REDACTED]."
+    },
+    {
+      "level": "green",
+      "clause_id": "9",
+      "clause_title": "9. The liability of either party for any breach of this Agreement, or arising in any",
+      "snippet": "9. The liability of either party for any breach of this Agreement, or arising in any other way out of the subject matter of this Agreement, will not extend to loss of business or profit, or to any indirect or consequential damages or losses.",
+      "rationale": "This clause explicitly excludes liability for indirect or consequential losses, as well as loss of business or profit, which aligns with the UoA Preferred Position for Liability Limitations and Exclusions (POS-07). The clause does not introduce any conflicting elements such as uncapped liability or 'hold harmless' provisions, and no monetary cap is required for this exclusion to be compliant.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "9. The liability of either party for any breach of this Agreement, or arising in any other\nway out of the subject matter of this Agreement, will not extend to loss of business\nor profit, or to any indirect or consequential damages or losses."
+    },
+    {
+      "level": "green",
+      "clause_id": "11",
+      "clause_title": "11. The Parties will aim to co-author any publications arising from this Agreement.",
+      "snippet": "11. The Parties will aim to co-author any publications arising from this Agreement. For publications arising from use of the Material and/or Data not authored by the Provider Institution, the Recipient Scientist will acknowledge the Provider Institution as the source of the Material and/or Data and will provide the Provider Institution with a copy of any publications describing work carried out using the Material and/or Data.",
+      "rationale": "This clause preserves the right to publish by allowing co-authorship, acknowledgment of the Provider Institution, and provision of a copy of publications. It aligns with UoA's Preferred Position on publication rights, which includes co-authoring, acknowledgment, and reasonable review periods for confidential information. The clause does not impose unreasonable restrictions on publication and ensures academic freedoms are respected.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "11. The Parties will aim to co-author any publications arising from this Agreement. For\npublications arising from use of the Material and/or Data not authored by the\nProvider Institution, the Recipient Scientist will acknowledge the Provider\nInstitution as the source of the Material and/or Data and will provide the Provider\nInstitution with a copy of any publications describing work carried out using the\nMaterial and/or Data. If the Recipient Scientist wishes to include in a publication\nany information which has been provided by the Provider Institution with the\nMaterial and which was clearly marked as “confidential” and “proprietary” at the\npoint of disclosure (“Confidential Information”), the Recipient Scientist must obtain\nwri tten permission from the ProviPdaegr eI n\n3\ns otift\n8\nu tion, providing a copy of the text to\n\nallow a reasonable period for review before publication takes place, such\npermission not to be unreasonably withheld or delayed. If so requested by the\nProvider Institution, the Recipient Institution shall provide the Provider Institution\nwith a confidential copy of the findings of the Study."
+    },
+    {
+      "level": "green",
+      "clause_id": "13",
+      "clause_title": "13. The Recipient Institution shall keep all information relating to the Material and",
+      "snippet": "13. The Recipient Institution shall keep all information relating to the Material and Data confidential and shall not use it for any purpose other than as provided in this Agreement. This shall not apply to information …",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It excludes information already public, independently developed, previously known by the receiving party, and information legally required to be disclosed, which matches the Preferred tier. While the clause does not explicitly mention UoA's ability to disclose to agents and Affiliates or a specific duration, these omissions do not materially deviate from the Preferred tier for this contract type.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "13. The Recipient Institution shall keep all information relating to the Material and Data\nconfidential and shall not use it for any purpose other than as provided in this\nAgreement. This shall not apply to information to the extent it is in the public\ndomain, was or becomes known without any obligation of confidence from a source\nother than the Provider Institution, was independently developed by the Recipient\nInstitution or is required to be disclosed by law."
+    },
+    {
+      "level": "green",
+      "clause_id": "18",
+      "clause_title": "18. This Agreement shall not be amended except in writing by duly authorised",
+      "snippet": "18. This Agreement shall not be amended except in writing by duly authorised signatories of the Parties hereto.",
+      "rationale": "The clause aligns with the UoA Preferred Contracting Position POS-21 on 'Variations and Extensions,' which requires all variations to be negotiated and executed in writing prior to expiry of the current Agreement. This clause matches the preferred tier as it ensures amendments are formalised in writing by authorised signatories.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "18. This Agreement shall not be amended except in writing by duly authorised signatories of the Parties hereto."
+    },
+    {
+      "level": "green",
+      "clause_id": "23",
+      "clause_title": "23. Neither party shall use the names or trademarks of the other party or of any",
+      "snippet": "23. Neither party shall use the names or trademarks of the other party or of any of the other party's affiliated entities in any advertising, publicity, endorsement, or promotion unless the other party has provided prior written consent for the particular use contemplated.",
+      "rationale": "This clause aligns with UoA Position #POS-14 on Publicity, which states that neither party can use names or brands of the other or their personnel without prior written consent. The clause explicitly requires prior written consent for any use of names or trademarks, and therefore matches the Preferred tier.",
+      "standard_ref": "UoA Position #POS-14",
+      "text": "23. Neither party shall use the names or trademarks of the other party or of any of the other party's affiliated entities in any advertising, publicity, endorsement, or promotion unless the other party has provided prior written consent for the particular use contemplated. The terms of this section survive the termination, expiration, non-renewal, or rescission of this Agreement."
+    }
+  ],
+  "counts": {
+    "green": 5,
+    "amber": 7,
+    "red": 1,
+    "blue": 26
+  },
+  "generated_at": "2026-05-29T13:26:04.995724+00:00",
+  "metrics": {
+    "n_calls": 3,
+    "input_tokens": 5354,
+    "output_tokens": 1645,
+    "total_tokens": 6999,
+    "latency_ms": 55502.9,
+    "total_cost_usd": 0.029835,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)",
+    "UoA Template — UoA-Material_Transfer_Agreement incoming-Aug 2024.docx",
+    "UoA Template — UoA-Material_Transfer_Agreement_outgoing_Aug 2024.docx"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

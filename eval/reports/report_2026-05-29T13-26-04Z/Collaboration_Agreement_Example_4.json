@@ -1,0 +1,1338 @@
+{
+  "document_id": "Collaboration_Agreement_Example_4_pdf",
+  "filename": "Collaboration Agreement Example 4.pdf",
+  "contract_type": "Collaboration Agreement",
+  "contract_type_confidence": 0.98,
+  "summary": "The review of the collaboration agreement reveals a generally low-risk posture, with most flagged clauses falling outside the scope of UoA's Preferred Contracting Positions or requiring minor clarifications. However, there are critical issues in key areas such as confidentiality, intellectual property, liability, and publication rights, which deviate from UoA's Preferred or Acceptable tiers. Notably, the confidentiality clauses lack exclusions for public or independently developed information, IP clauses require referral to Auckland UniServices Ltd, and liability provisions need confirmation of caps and exclusions. The next step is to escalate flagged clauses to the appropriate stakeholders, including the Senior Manager, Research Grants and Contracts, and Auckland UniServices Ltd, for resolution and alignment with UoA policies.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "4",
+      "clause_title": "4. RESEARCH DURATION AND TERMINATION",
+      "snippet": "4. RESEARCH DURATION AND TERMINATION",
+      "rationale": "The clause text does not provide sufficient detail to confirm alignment with UoA's Preferred or Acceptable positions on Termination. Specifically, it lacks clarity on mutual two-way termination for material breach or insolvency, UoA's right to terminate for non-payment, and provisions for accrued rights and termination costs. This omission triggers escalation to the Senior Manager, Research Grants and Contracts for review and potential amendment.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "4. RESEARCH DURATION AND TERMINATION"
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "\"Confidential Information\" means any information or material disclosed by one",
+      "snippet": "\"Confidential Information\" means any information or material disclosed by one Party to the other Party that is marked at the time of disclosure as confidential (or other words of similar import). Where the information is not tangible, it will be considered confidential if it is confirmed in writing as being confidential within seven (7) days of disclosure;",
+      "rationale": "The clause defines 'Confidential Information' but does not align with UoA's Preferred Position under POS-11. Specifically, it does not exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not address UoA's ability to disclose to agents and Affiliates or specify a duration for confidentiality obligations. These omissions fall outside the Acceptable tier and require escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "\"Confidential Information\" means any information or material disclosed by one Party to the other Party that is marked at the time of disclosure as confidential (or other words of similar import). Where the information is not tangible, it will be considered confidential if it is confirmed in writing as being confidential within seven (7) days of disclosure;"
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "6A. PUBLICITY",
+      "snippet": "6A. PUBLICITY",
+      "rationale": "The clause text does not provide sufficient detail to confirm alignment with UoA Position #POS-14, which requires that neither party can use names or brands of the other or their personnel without prior written consent. The absence of explicit wording raises a material deviation from the Preferred Position. Escalation to University Marketing (brand@auckland.ac.nz) is required.",
+      "standard_ref": "UoA Position #POS-14",
+      "text": "6A. PUBLICITY"
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "6A.1 Save as otherwise provided under clause 6A.4, no Party shall make or authorise",
+      "snippet": "6A.1 Save as otherwise provided under clause 6A.4, no Party shall make or authorise the making of any announcement, publication or other disclosure concerning the existence or subject matter of this RCA unless the other Party has given its written consent to such announcement, publication or disclosure, such consent not to be unreasonably withheld or delayed.",
+      "rationale": "This clause restricts publication rights by requiring prior written consent from the other party, which conflicts with UoA's Preferred Position #POS-12 that guarantees the Principal Investigator's right to publish and protects student publication rights. The clause does not provide any stand-down period or exceptions for academic publications, nor does it address the rights of students to publish theses or academic works. This materially deviates from UoA's Preferred Position and requires escalation to the Senior Manager, Research Grants and Contracts for resolution.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "6A.1 Save as otherwise provided under clause 6A.4, no Party shall make or authorise the making of any announcement, publication or other disclosure concerning the existence or subject matter of this RCA unless the other Party has given its written consent to such announcement, publication or disclosure, such consent not to be unreasonably withheld or delayed."
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "6B. PUBLICATION",
+      "snippet": "6B. PUBLICATION",
+      "rationale": "The clause text provided ('6B. PUBLICATION') is too vague to determine compliance with UoA Position #POS-12 on Publication. The clause must explicitly address the Principal Investigator's right to publish, any stand-down period for patenting (≤60 days preferred, ≤12 months acceptable), and the retention of publication rights for students, including for theses or academic publications. Without this detail, the clause falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts for review.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "6B. PUBLICATION"
+    },
+    {
+      "level": "red",
+      "clause_id": "7.3",
+      "clause_title": "7.3A For clarity, the rights to the joint ownership of the Joint Research IP by the",
+      "snippet": "7.3A For clarity, the rights to the joint ownership of the Joint Research IP by the relevant Party/ies are conditional upon the Parties to uphold and remain in good financial, operational, and standing order and status …",
+      "rationale": "This clause materially deviates from UoA's Preferred and Acceptable positions on Termination (#POS-19) and Intellectual Property (#POS-IP). The forfeiture of Joint Research IP rights upon termination is problematic, as UoA's IP positions are governed by Auckland UniServices Ltd and require escalation regardless of wording. Additionally, the clause imposes conditions on IP ownership based on financial and operational standing, which is not aligned with UoA's Preferred or Acceptable positions. Escalation to both the Senior Manager, Research Grants and Contracts (for Termination) and Auckland UniServices Ltd (for IP) is required.",
+      "standard_ref": "UoA Position #POS-19 and #POS-IP",
+      "text": "7.3A For clarity, the rights to the joint ownership of the Joint Research IP by the relevant\nParty/ies are conditional upon the Parties to uphold and remain in good financial,\noperational, and standing order and status during the full term of the Research under\nthis RCA.\nNotwithstanding anything to the contrary in this RCA, in the event of termination in\naccordance with clauses 3.14 and 4.3(b) to (e) of this RCA, clauses 7.3(a)(ii) and 7.3(b)\nshall no longer apply. Instead, the causing Party (the Party being served the notice of\ntermination by the other Party) shall, to the maximum extent permitted under the law,\nforfeit its right to the Joint Research IP and assign such right to the other Joint Owner(s)\nin totality, without the need for any transfer or assignment to be executed unless such\ntransfer or assignment is required under law. The terminating Party’s rights and remedies\nunder this Clause 7.3A are independent of and without prejudice to any other rights and\nremedies of the terminating Party."
+    },
+    {
+      "level": "red",
+      "clause_id": "10",
+      "clause_title": "10 CONFIDENTIALITY",
+      "snippet": "10 CONFIDENTIALITY",
+      "rationale": "The clause text provided ('10 CONFIDENTIALITY') is insufficiently detailed to confirm alignment with UoA Position #POS-11. The Preferred tier requires specific exclusions for public information, independently developed information, previously known information, and legally required disclosures, as well as the ability for UoA to disclose to agents and Affiliates. Additionally, confidentiality duration must be limited to up to 5 years post-completion. Without these details, the clause materially deviates from the Preferred and Acceptable tiers, triggering escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10 CONFIDENTIALITY"
+    },
+    {
+      "level": "red",
+      "clause_id": "10.2",
+      "clause_title": "10.2 Each Party shall protect the confidentiality of the Confidential Information of the",
+      "snippet": "10.2 Each Party shall protect the confidentiality of the Confidential Information of the other Party in the same manner that it protects the confidentiality of its own similar information, but in no event using less tha…",
+      "rationale": "The clause does not align with UoA Position #POS-11 on Confidentiality. It lacks key elements such as the exclusion of information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not specify the duration of confidentiality obligations (e.g., up to 5 years post-completion). These omissions materially deviate from the Preferred tier and trigger escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10.2 Each Party shall protect the confidentiality of the Confidential Information of the other\nParty in the same manner that it protects the confidentiality of its own similar\ninformation, but in no event using less than reasonable care."
+    },
+    {
+      "level": "red",
+      "clause_id": "12",
+      "clause_title": "12 LIABILITY AND INDEMNITY",
+      "snippet": "12 LIABILITY AND INDEMNITY",
+      "rationale": "The clause text provided ('12 LIABILITY AND INDEMNITY') is insufficiently detailed to confirm alignment with UoA Position #POS-07 on Liability Limitations and Exclusions or #POS-08 on Indemnities. UoA requires specific limitations on liability (e.g., capped at NZD$500,000 or contract value, exclusion of indirect/consequential losses, and no 'hold harmless' clauses) and strict conditions for indemnities. Without further detail, this clause cannot be assessed as compliant and must be escalated to the Research Grants and Contracts Delegations for review.",
+      "standard_ref": "UoA Position #POS-07 and #POS-08",
+      "text": "12 LIABILITY AND INDEMNITY"
+    },
+    {
+      "level": "red",
+      "clause_id": "21.3",
+      "clause_title": "21.3 Any Party may release the liability hereunder of any other Party or grant to any",
+      "snippet": "21.3 Any Party may release the liability hereunder of any other Party or grant to any such Party time or other indulgence without affecting the liability of any other Party hereunder.",
+      "rationale": "The clause touches on liability but does not align with UoA's Preferred or Acceptable positions under POS-07. It introduces ambiguity regarding liability release and indulgence, which could conflict with UoA's strict liability limitations and exclusions. Specifically, UoA requires liability to be capped and limited to direct losses, with consequential or indirect losses explicitly excluded. This clause does not address these requirements and could potentially undermine UoA's liability protections. Escalation to Research Grants and Contracts Delegations is required.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "21.3 Any Party may release the liability hereunder of any other Party or grant to any such\nParty time or other indulgence without affecting the liability of any other Party\nhereunder."
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.3",
+      "clause_title": "3.3A The Research may be revised and amended by the Parties by written agreement,",
+      "snippet": "3.3A The Research may be revised and amended by the Parties by written agreement, subject to the Parties’ compliance with the relevant requirements in the Grant Documents, which may provide that the Grantor’s prior writ…",
+      "rationale": "The clause addresses the topic of Variations and Extensions, which is covered under UoA Position #POS-21. While it aligns with the requirement for written agreement and compliance with funder guidelines, it introduces additional conditions tied to the Grant Documents, such as prior approval or notification requirements. These conditions are not explicitly addressed in the Preferred or Acceptable tiers, making the clause a deviation that requires confirmation by the Contract Manager. The clause does not fall outside the Acceptable tier but warrants further review to ensure compliance with UoA's expectations.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "3.3A The Research may be revised and amended by the Parties by written agreement, subject to the Parties’ compliance with the relevant requirements in the Grant Documents, which may provide that the Grantor’s prior written approval is required or that the Grantor shall be notified in writing as soon as possible or that application(s) for extension be submitted before a certain time.  \n\n**Supervision / Coordination of the Research**"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.14",
+      "clause_title": "3.14 For Cash Contribution by a Party towards the Research, upon completion of the",
+      "snippet": "The paying Party shall make payment of the invoiced sum including any applicable GST to the receiving Party within thirty (30) days of the date of the receiving Party’s tax invoice.",
+      "rationale": "The clause touches on taxation by referencing GST, which aligns partially with UoA Position #POS-06. However, it does not explicitly state that costs are presented as 'excluding GST' for NZ contracts or 'excluding any applicable taxes and duties' for overseas contracts. This deviation requires confirmation by the Contract Manager and potential escalation to the Tax and Compliance team if offshore tax incorporation is required.",
+      "standard_ref": "UoA Position #POS-06",
+      "text": "3.14 For Cash Contribution by a Party towards the Research, upon completion of the\nrespective deliverable, the receiving Party shall complete and submit the\nAcknowledgement of Project Deliverables Form (“Form”) as set forth in Annex A to the\npaying Party. Upon receipt of the Form, the paying Party shall endorse and return the\nForm to the receiving Party within five (5) working days. The receiving Party shall then\nproceed to issue its tax invoice based on the Form endorsed by the Parties. The Form is\nnot required for upfront Cash Contribution, or any part of the Cash Contribution payable\nbased on project period and not based on deliverables. For such Cash Contributions, the\nreceiving Party shall invoice the paying Party directly based on the timeline indicated in\nthe payment schedule set out in Schedule 2. The paying Party shall make payment of the\ninvoiced sum including any applicable GST to the receiving Party within thirty (30) days\nof the date of the receiving Party’s tax invoice.\nFor funding disbursements from the Host Institution to the other Party, based on the\nGrant Documents, if it is decided that the Party acting as the Host Institution shall\nadminister the funding disbursements to the other Party acting as the Partner Institution,\nthe Party acting as the Partner Institution shall issue a requisition to the Party acting as\nthe Host Institution on a half-yearly basis, and the Host Institution shall disburse the\nfunds to the Partner Institution within sixty (60) days of its receipt of the relevant funds\nfrom the Grantor.\nThe paying Party acknowledges and agrees that non-payment of any sum under this\nclause 3.14 shall amount to a breach of this RCA by the paying Party, and the receiving\nParty shall have the right to terminate this RCA in accordance with the provisions under\nclause 4.3(a). In addition to other remedies provided in this RCA, subject to the relevant\nterms in the Grant Documents, reserves the right to suspend its work on the Research\nupon 5 working days’ prior written notice and without incurring liability if the full amount\nof any sum due to hereunder has not been paid within the agreed payment deadline.\nThe suspension of work in the Research for non-payment by or the insolvency of\nthe paying Party is without prejudice to the paying Party’s obligation to pay its\noutstanding and future sum due to under the RCA in full."
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.1",
+      "clause_title": "4.1 This RCA shall take effect from the start date set out in Schedule 3 (“T ”) and",
+      "snippet": "4.1 This RCA shall take effect from the start date set out in Schedule 3 (\u001cT \u001d) and shall 0 continue until the end date set out in Schedule 3, unless earlier terminated in accordance with this clause or clause 13, or un\u001e",
+      "rationale": "The clause addresses the topic of Variations and Extensions, specifically referencing extensions of time approved by the Grantor. While it does not explicitly state that extensions must be negotiated and executed in writing prior to expiry of the current Agreement (Preferred Position), it does not contradict the Acceptable Position, which allows extensions to be negotiated and executed in writing after expiry. The clause is therefore flagged as amber for further confirmation against UoA Position #POS-21.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "4.1 This RCA shall take effect from the start date set out in Schedule 3 (“T ”) and shall\n0\ncontinue until the end date set out in Schedule 3, unless earlier terminated in accordance\nwith this clause or clause 13, or unless an extension of time is approved by the Grantor."
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.2",
+      "clause_title": "4.2 may terminate this RCA immediately by written notice to the other Party in the",
+      "snippet": "4.2 may terminate this RCA immediately by written notice to the other Party in the event that the Grant is terminated by the Grantor.",
+      "rationale": "The clause addresses termination but does not align with the Preferred Position, which requires mutual two-way termination for material breach or insolvency, and includes specific provisions for termination costs and accrued rights. However, the clause is acceptable under the Position for NZ and International Funding Agency contracts, where termination provisions cannot always be altered. The clause does not explicitly address termination costs or accrued rights, which would need confirmation. Escalation to the Senior Manager, Research Grants and Contracts is required for further review.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "4.2 may terminate this RCA immediately by written notice to the other Party in the event\nthat the Grant is terminated by the Grantor."
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.3",
+      "clause_title": "4.3 Without prejudice to the Parties’ other rights under this RCA, either Party may",
+      "snippet": "4.3 Without prejudice to the Parties’ other rights under this RCA, either Party may terminate this RCA immediately by written notice to the other Party in the event: (a) The other Party breaches a term of this RCA and fails to remedy the breach within seven (7) days from the date it is notified of the breach; (b) The other Party ceases to carry on business; (c) Any mortgagee, chargee or encumbrancer takes possession, or a receiver is appointed over substantially the whole of the property or assets of the other Party; (d) The other Party makes a voluntary arrangement with its creditors; or (e) The other Party is under any proceedings for winding up, judicial management or liquidation; provided that termination of this RCA upon occurrence of any event under (b) to (e) shall not be permitted where such termination is prohibited under the Insolvency, Restructuring and Dissolution Act 2018.",
+      "rationale": "The clause addresses termination rights, which align partially with UoA Position #POS-19. It provides mutual two-way termination for material breach and insolvency, which is consistent with the Preferred tier. However, the clause introduces additional grounds for termination (e.g., voluntary arrangements with creditors, receivership, etc.) and includes a seven-day remedy period for breach, which deviates from the Preferred tier. The clause does not explicitly address termination costs or uncancellable obligations, which are required under the Preferred tier. While the clause is broadly acceptable, it requires confirmation by the Contract Manager to ensure alignment with UoA's termination policy and escalation to the Senior Manager, Research Grants and Contracts if necessary.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "4.3 Without prejudice to the Parties’ other rights under this RCA, either Party may terminate\nthis RCA immediately by written notice to the other Party in the event:\n(a) The other Party breaches a term of this RCA and fails to remedy the breach within\nseven (7) days from the date it is notified of the breach;\n(b) The other Party ceases to carry on business;\n(c) Any mortgagee, chargee or encumbrancer takes possession, or a receiver is\nappointed over substantially the whole of the property or assets of the other\nParty;\n(d) The other Party makes a voluntary arrangement with its creditors; or\n(e) The other Party is under any proceedings for winding up, judicial management\nor liquidation;\nprovided that termination of this RCA upon occurrence of any event under (b) to (e) shall\nnot be permitted where such termination is prohibited under the Insolvency,\nRestructuring and Dissolution Act 2018.\n7\n\n```\nConfidential"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.4",
+      "clause_title": "4.4 Upon termination of this RCA, each Party shall not incur any further expenditure",
+      "snippet": "4.4 Upon termination of this RCA, each Party shall not incur any further expenditure on the Research and, if applicable, shall return to the Grantor all monies that have not been expended under the Grant.",
+      "rationale": "The clause addresses termination-related obligations, specifically cessation of expenditure and return of unspent funds. While it does not conflict with UoA's Preferred Position on Termination (POS-19), it omits key elements such as mutual termination rights, accrued rights, and termination costs for uncancellable obligations. These omissions place the clause outside the Preferred tier but within the Acceptable tier for NZ and International Funding Agency contracts, where termination provisions cannot always be altered. Escalation to the Senior Manager, Research Grants and Contracts is recommended for confirmation.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "4.4 Upon termination of this RCA, each Party shall not incur any further expenditure on the Research and, if applicable, shall return to the Grantor all monies that have not been expended under the Grant."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6A.2 Save as otherwise provided under clause 6A.4, the Party making the",
+      "snippet": "6A.2 Save as otherwise provided under clause 6A.4, the Party making the announcement, publication or disclosure shall consult with the other Party in advance as to the form, content and timing of such announcement, publ…",
+      "rationale": "This clause addresses the topic of Publication, which is sensitive for UoA. While it allows publication after consultation and a one-month objection period, it does not explicitly preserve the Principal Investigator's right to publish or address student publication rights as required by UoA's Preferred Position. The one-month stand-down period is within the Acceptable tier (≤12 months), but the clause lacks explicit protections for student thesis publication rights and commercially sensitive content. Escalation to the Senior Manager, Research Grants and Contracts is recommended to ensure alignment with UoA Position #POS-12.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "6A.2 Save as otherwise provided under clause 6A.4, the Party making the announcement, publication or disclosure shall consult with the other Party in advance as to the form, content and timing of such announcement, publication or disclosure, and/or provide a copy of the proposed announcement, publication or disclosure. If no objection is made by the other Party within one (1) month, the first-mentioned Party may proceed to publish the announcement, publication or disclosure."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6A.3 Save as otherwise provided under clause 6A.4, where a Party notifies the other",
+      "snippet": "6A.3 Save as otherwise provided under clause 6A.4, where a Party notifies the other of its objection on the basis that the announcement, publication or disclosure contains its Confidential Information or patentable material, the Parties shall work together to modify the objectionable portions so as to allow the announcement, publication or disclosure to proceed.",
+      "rationale": "This clause touches on both Confidentiality and Publication, which are UoA-sensitive topics. While the clause provides a mechanism for resolving objections to publication or disclosure, it does not explicitly align with UoA's Preferred Position for Confidentiality (POS-11), which requires exclusions for public information, independently developed information, and legally required disclosures. Additionally, the clause does not specify a time limit for confidentiality obligations, which is required under POS-11. For Publication (POS-12), the clause does not explicitly preserve the Principal Investigator's right to publish or address reasonable patent stand-down periods. These deviations place the clause in the Acceptable tier, requiring confirmation by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11 and #POS-12",
+      "text": "6A.3 Save as otherwise provided under clause 6A.4, where a Party notifies the other of its objection on the basis that the announcement, publication or disclosure contains its Confidential Information or patentable material, the Parties shall work together to modify the objectionable portions so as to allow the announcement, publication or disclosure to proceed."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6A.4 The Parties agree that [REDACTED] may publicise the Research at [REDACTED]",
+      "snippet": "6A.4 The Parties agree that [REDACTED] may publicise the Research at [REDACTED] own platforms, provided that the publicity materials contain no Confidential Information or patentable material.",
+      "rationale": "The clause touches on the topic of Publicity, which is covered under UoA Position #POS-14. While the clause does not explicitly address the use of UoA's name or brand, it does involve publicising the research, which could indirectly implicate UoA's reputation or branding. Additionally, the clause references Confidential Information, which ties to UoA Position #POS-11. However, the clause does not fully align with the Preferred Position for Confidentiality, as it does not explicitly exclude information already public, independently developed, previously known, or legally required to be disclosed. The clause is flagged as amber because it deviates from the Preferred Position but does not fall outside the Acceptable tier. Contract Manager should confirm compliance with both Publicity and Confidentiality Positions.",
+      "standard_ref": "UoA Position #POS-14 and #POS-11",
+      "text": "6A.4 The Parties agree that [REDACTED] may publicise the Research at [REDACTED] own platforms, provided that the publicity materials contain no Confidential Information or patentable material."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6B.1 Any Party may publish and otherwise publicly disclose information it has gained",
+      "snippet": "6B.1 Any Party may publish and otherwise publicly disclose information it has gained in the course of the Research including but not limited to information relating to the Research IP (\"the Publishing Party\"), subject t…",
+      "rationale": "The clause addresses the sensitive topic of publication rights, which is covered under UoA Position #POS-12. While the clause allows publication and includes a reasonable patent stand-down period (60 days), it imposes additional procedural requirements, such as a 21-day review period and collaborative editing of objected portions, which are not explicitly aligned with the Preferred tier. The clause does preserve the right to publish and acknowledges contributions, which aligns with the Preferred tier in principle, but the procedural requirements and potential delays introduce deviations. The clause does not exceed the Acceptable tier, as the stand-down period is within the 12-month limit and does not impose unreasonable restrictions on publication rights. Escalation is not required unless the stand-down period exceeds 12 months or students' publication rights are compromised.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "6B.1 Any Party may publish and otherwise publicly disclose information it has gained in the course of the Research including but not limited to information relating to the Research IP (\"the Publishing Party\"), subject to the provisions in this clause. The Publishing Party will provide the other Party with a copy of each proposed publication or presentation in advance of publication or presentation (collectively referred to as the \"Publication\") and the other Party shall have twenty-one (21) days to review each\n```\n\nConfidential\nPublication to identify and notify the Publishing Party in writing of any subject matter\nthat is the confidential information of or proprietary to that Party or which\nconstitutes patentable subject matter; failing which that Party shall be deemed to\nhave approved the Publication. The Publishing Party and the other Party shall, within\nten (10) days of the Publishing Party's receipt of the other Party’ aforesaid notice,\nwork together to delete or modify the portions objected to by the other Party so as to\nallow the Publication to proceed as amended or modified or if the proposed Publication\ninvolves patentable subject matter, the Publication shall be delayed for a further\nperiod of sixty (60) days or longer as practically needed to allow for a patent to be filed.\nIf no decision is made within the aforementioned ten (10)-day period, the Publishing\nParty may proceed with the Publication with the necessary deletions of the portions\nobjected to by the other Party. The Parties shall ensure that all Publications pursuant to\nthis clause 6B.1 above acknowledge the funding support provided by the Grantor, the\nscientific and other contributions of the PI, Co-PI(s), Collaborator(s) and other parties in\naccordance with established norms."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6B.2 The Parties agree that Publication and their Final Research Data will be",
+      "snippet": "6B.2 The Parties agree that Publication and their Final Research Data will be deposited in Institutional Repository no later than twelve (12) months after the official date of publication. The Publication and Final Research Data will be retained in Institutional Repository in accordance with prevailing policies, which may include being made available for access by public. Exemptions from open access or an imposition of an embargo period can be negotiated and given to projects with pending patent applications or where the proprietary nature of the contents forbids their publication and dissemination.",
+      "rationale": "The clause addresses the sensitive topic of Publication and aligns partially with UoA Position #POS-12. The 12-month embargo period is within the acceptable tier for stand-down before publication. However, the clause introduces exemptions for open access and embargo periods for proprietary content or pending patent applications, which require further review to ensure compliance with UoA's publication rights for Principal Investigators and students. Escalation may be required if embargo periods exceed 12 months or if proprietary restrictions conflict with UoA's academic freedoms.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "6B.2 The Parties agree that Publication and their Final Research Data will be deposited in\nInstitutional Repository no later than twelve (12) months after the official date of\npublication. The Publication and Final Research Data will be retained in Institutional\nRepository in accordance with prevailing policies, which may include being made\navailable for access by public. Exemptions from open access or an imposition of an\nembargo period can be negotiated and given to projects with pending patent\napplications or where the proprietary nature of the contents forbids their publication\nand dissemination."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6",
+      "clause_title": "6B.3 For the purpose of this clause 6B, “Publication” includes preparation of and/or",
+      "snippet": "6B.3 For the purpose of this clause 6B, “Publication” includes preparation of and/or submission of monographs, eprints of academic journal articles, electronic theses or dissertations, conference proceedings, working pa…",
+      "rationale": "The clause addresses the topic of Publication, which is sensitive under UoA Position #POS-12. While it broadly defines 'Publication' and allows reporting to governmental entities or funders, it does not explicitly confirm the Principal Investigator's right to publish or address stand-down periods for patent filings. The clause does not conflict with UoA's Preferred or Acceptable tiers but lacks explicit alignment with them. Contract Manager should confirm whether the clause sufficiently protects PI and student publication rights, and whether any embargo or stand-down periods are implied elsewhere in the agreement.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "6B.3 For the purpose of this clause 6B, “Publication” includes preparation of and/or\nsubmission of monographs, eprints of academic journal articles, electronic theses or\ndissertations, conference proceedings, working papers or technical reports on the\nResearch or relating to the Research.\nFor clarity, nothing in the above clauses 6A and 6B shall prevent from making any\nreport or disclosure to any governmental entity or organisation that has funded the\nResearch in whole or in part."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7. INTELLECTUAL PROPERTY RIGHTS",
+      "snippet": "7. INTELLECTUAL PROPERTY RIGHTS Background IP",
+      "rationale": "The clause addresses Intellectual Property, specifically Background IP. UoA Contracting Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices Ltd (Head of IP) for review, regardless of wording. This clause falls under the 'acceptable' tier as per Position #POS-IP, which mandates referral.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7. INTELLECTUAL PROPERTY RIGHTS\nBackground IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.1",
+      "clause_title": "7.1 All Background IP shall remain the property of the Party introducing and/or",
+      "snippet": "7.1 All Background IP shall remain the property of the Party introducing and/or disclosing the same to the other Party for the purposes of the Research. The Parties agree that use of such Background IP shall be limited …",
+      "rationale": "The clause addresses Intellectual Property (Background IP), which is explicitly outside the scope of UoA's Preferred Contracting Positions. As per UoA Position #POS-IP, all IP-related clauses must be referred to Auckland UniServices Ltd (Head of IP) for review. This clause is flagged as AMBER because it requires further review by UniServices to ensure compliance with their IP policies.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.1 All Background IP shall remain the property of the Party introducing and/or disclosing\nthe same to the other Party for the purposes of the Research. The Parties agree that use\nof such Background IP shall be limited to the performance of each Party’s obligations\nunder this RCA."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.2",
+      "clause_title": "7.2 Where the use or commercialisation of Research IP requires the use of a Party’s",
+      "snippet": "7.2 Where the use or commercialisation of Research IP requires the use of a Party’s Background IP, the Parties agree that they will negotiate the licence for the use of such Background IP in good faith.",
+      "rationale": "This clause addresses Intellectual Property (IP), specifically Background IP licensing, which falls under UoA Position #POS-IP. UoA Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices Ltd, as IP positions are managed by UniServices and not covered by this protocol. The clause does not materially deviate from standard practices but requires referral for review by UniServices.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.2 Where the use or commercialisation of Research IP requires the use of a Party’s\nBackground IP, the Parties agree that they will negotiate the licence for the use of such\nBackground IP in good faith.\nOwnership of Research IP\n9\n\nConfidential"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.3",
+      "clause_title": "7.3 All Research IP shall be owned according to each Party’s Inventive Contribution",
+      "snippet": "7.3 All Research IP shall be owned according to each Party’s Inventive Contribution as follows: (a) Any Research IP that is: (i) solely created or developed by a Party without any Inventive Contribution from the other Party (\"Sole Research IP”) shall be solely owned by that Party; and (ii) jointly created or developed by the Parties (\"Joint Research IP”) shall be jointly owned by the Parties in equal and undivided shares (each a “Joint Owner”).",
+      "rationale": "This clause addresses Intellectual Property ownership, which falls under UoA Position #POS-IP. All IP clauses must be referred to Auckland UniServices Ltd regardless of wording. Additionally, the clause references dispute resolution mechanisms for resolving disagreements about inventive contributions, which touches on UoA Position #POS-18. While the dispute resolution process aligns with the acceptable tier (mediation and escalation to clause 25), the IP ownership structure itself requires referral to UniServices for review. The clause is flagged amber due to the sensitive nature of IP and dispute resolution topics.",
+      "standard_ref": "UoA Position #POS-IP and UoA Position #POS-18",
+      "text": "7.3 All Research IP shall be owned according to each Party’s Inventive Contribution as\nfollows:\n(a) Any Research IP that is:\n(i) solely created or developed by a Party without any Inventive\nContribution from the other Party (\"Sole Research IP”) shall be solely\nowned by that Party; and\n(ii) jointly created or developed by the Parties (\"Joint Research IP”) shall be\njointly owned by the Parties in equal and undivided shares (each a “Joint\nOwner”).\n(b) Each Party’s Inventive Contribution and resulting ownership of the Research IP\nshall be agreed on by the Parties and confirmed in writing no later than three (3)\nmonths after the expiration or earlier termination of this RCA or no later than\nthree (3) months after the date of submission of a technology disclosure in\nrespect of such Research IP, whichever occurs first.\nFailure to agree upon each Party’s Inventive Contribution or ownership of the Research\nIP shall be deemed to be a “dispute” within the meaning of clause 25."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.4",
+      "clause_title": "7.4 Each Party may assign any or all of its right, title and interest subsisting in and",
+      "snippet": "7.4 Each Party may assign any or all of its right, title and interest subsisting in and to its Sole Research IP, without further reference to the other Party or any obligation to obtain the other Party’s consent, save t…",
+      "rationale": "The clause pertains to Intellectual Property (IP), which is explicitly governed by Auckland UniServices Ltd under UoA Position POS-IP. Any IP-related clause must be referred to UniServices regardless of its wording. While the clause does not conflict with UoA Positions, it falls under UniServices' purview and requires their review.",
+      "standard_ref": "UoA Position POS-IP",
+      "text": "7.4 Each Party may assign any or all of its right, title and interest subsisting in and to its Sole\nResearch IP, without further reference to the other Party or any obligation to obtain the\nother Party’s consent, save that the assigning Party shall ensure that any such assignment\nis always subject to the rights and licences granted to the other Party under clauses 7.10\n, 7.13 and 8.1."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.5",
+      "clause_title": "7.5 A Joint Owner may assign any or all of its right, title and interest subsisting in",
+      "snippet": "7.5 A Joint Owner may assign any or all of its right, title and interest subsisting in and to the Joint Research IP, subject to: (a) the prior written consent of the other Joint Owner, whose consent should not be unreas…",
+      "rationale": "This clause addresses Intellectual Property (Joint Research IP), which falls under UoA Position #POS-IP. All IP-related clauses must be referred to Auckland UniServices Ltd regardless of wording. The clause does not materially deviate from standard IP practices but requires UniServices review due to the sensitive nature of IP ownership and assignment. The clause does not directly relate to Confidentiality (POS-11), as flagged by the comparator, but rather to IP assignment and licensing.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.5 A Joint Owner may assign any or all of its right, title and interest subsisting in and to the\nJoint Research IP, subject to:\n(a) the prior written consent of the other Joint Owner, whose consent should not\nbe unreasonably withheld; and\n(b) the assigning Joint Owner shall ensure that any such assignment is always subject\n10\n\nConfidential\nto the licences granted to the other Joint Owner under clauses 7.10, 7.11 and\n8.1."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.6",
+      "clause_title": "7.6 Each Party shall promptly and fully disclose to the other Party in writing any",
+      "snippet": "7.6 Each Party shall promptly and fully disclose to the other Party in writing any Research IP that it may have created or developed during the Research. For the avoidance of doubt, this requirement shall apply to all R\u0014",
+      "rationale": "This clause addresses Intellectual Property (Research IP) and confidentiality. Intellectual Property clauses are always flagged as AMBER because UoA Positions defer IP matters to Auckland UniServices Ltd. The confidentiality aspect aligns partially with UoA Position #POS-11, as it designates disclosed Research IP as Confidential Information. However, the clause does not explicitly exclude information already public, independently developed, or legally required to be disclosed, nor does it specify a duration for confidentiality obligations. These gaps require further review by the Senior Manager, Research Grants and Contracts and referral to UniServices for IP matters.",
+      "standard_ref": "UoA Position #POS-IP and UoA Position #POS-11",
+      "text": "7.6 Each Party shall promptly and fully disclose to the other Party in writing any Research IP\nthat it may have created or developed during the Research. For the avoidance of doubt,\nthis requirement shall apply to all Research IP developed during the Research, whether\npatentable or not. Such disclosure and all other relevant information shall be considered\nConfidential Information hereunder.\nProtection of Research IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.7",
+      "clause_title": "7.7 In the event that any Party intends to make an IP Application for any Joint",
+      "snippet": "7.7 In the event that any Party intends to make an IP Application for any Joint Research IP, such Party shall promptly inform the other Party of its intention, and the Parties shall negotiate in good faith and agree in writing as to the conduct of such IP Application, including on the following: (a) the lead Party who shall be responsible for preparing, filing, prosecuting and maintaining the IP Applications; (b) whether the IP Applications will be made in the Parties’ joint names; (c) the sharing of the costs and expenses associated with preparing, filing, prosecuting and maintaining the IP Applications; (d) the use and commercialisation of the Joint Research IP that is the subject of the IP Applications; (e) the sharing of the costs and expenses incurred in the commercialisation of any Joint Research IP that is the subject of the IP Applications; and (f) the sharing of the revenue generated or received from the commercialisation of any Joint Research IP that is the subject of the IP Applications.",
+      "rationale": "This clause addresses Intellectual Property (IP) matters, specifically Joint Research IP and its associated applications, costs, and commercialisation. UoA Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices Ltd, as UoA does not own IP positions. The clause does not align with any specific UoA Preferred or Acceptable tier, and its content falls under the purview of UniServices. Escalation to UniServices is required for review and approval.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.7 In the event that any Party intends to make an IP Application for any Joint Research IP,\nsuch Party shall promptly inform the other Party of its intention, and the Parties shall\nnegotiate in good faith and agree in writing as to the conduct of such IP Application,\nincluding on the following:\n(a) the lead Party who shall be responsible for preparing, filing, prosecuting and\nmaintaining the IP Applications;\n(b) whether the IP Applications will be made in the Parties’ joint names;\n(c) the sharing of the costs and expenses associated with preparing, filing,\nprosecuting and maintaining the IP Applications;\n(d) the use and commercialisation of the Joint Research IP that is the subject of the\nIP Applications;\n(e) the sharing of the costs and expenses incurred in the commercialisation of any\nJoint Research IP that is the subject of the IP Applications; and\n(f) the sharing of the revenue generated or received from the commercialisation of\nany Joint Research IP that is the subject of the IP Applications."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.8",
+      "clause_title": "7.8 Sole Research IP shall be independently managed by the Sole Research IP owner",
+      "snippet": "7.8 Sole Research IP shall be independently managed by the Sole Research IP owner at its absolute discretion, save that the Sole Research IP owner shall provide written notice to the other Party about any IP Application\u0006",
+      "rationale": "The clause pertains to Intellectual Property (IP), which is explicitly covered under UoA Position POS-IP. All IP clauses must be referred to Auckland UniServices Ltd for review, regardless of wording. This clause falls under the 'amber' tier because it requires referral to UniServices for compliance with their IP policies.",
+      "standard_ref": "UoA Position POS-IP",
+      "text": "7.8 Sole Research IP shall be independently managed by the Sole Research IP owner at its\nabsolute discretion, save that the Sole Research IP owner shall provide written notice to\nthe other Party about any IP Application filed for that Sole Research IP.\nUse of Research IP"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.9",
+      "clause_title": "7.9 Notwithstanding anything to the contrary in this RCA, each Party shall have the",
+      "snippet": "7.9 Notwithstanding anything to the contrary in this RCA, each Party shall have the free and unfettered right and licence to use any Research IP (whether Joint Research IP or each Party\u0019s Sole Research IP) for one or mo\u0019",
+      "rationale": "The clause addresses Intellectual Property (IP), which falls under the purview of Auckland UniServices Ltd as per UoA Position POS-IP. Any IP clause must be referred to UniServices regardless of wording. While the clause provides non-commercial rights to use Research IP, it does not conflict with UoA's general IP principles but requires UniServices review for compliance and alignment with their IP policies.",
+      "standard_ref": "UoA Position POS-IP",
+      "text": "7.9 Notwithstanding anything to the contrary in this RCA, each Party shall have the free and\nunfettered right and licence to use any Research IP (whether Joint Research IP or each\nParty’s Sole Research IP) for one or more of the following purposes, as long as it is non-\ncommercial in nature: (a) research use; (b) development use; (c) education use; (d)\nacademic use; and (e) other non-commercial use. The foregoing right and licence do not\ninclude a right to license the Research IP to third parties for any of these purposes."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.10",
+      "clause_title": "7.10 Notwithstanding anything to the contrary in this RCA, the Parties agree that",
+      "snippet": "7.10 Notwithstanding anything to the contrary in this RCA, the Parties agree that shall have a non-exclusive, perpetual, fully paid-up, irrevocable, royalty-free and worldwide right to use and license to third parties t…",
+      "rationale": "This clause deals with Intellectual Property (Joint Research IP and Sole Research IP), which falls under UoA Position #POS-IP. UoA Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices Ltd — Head of IP for review, regardless of wording. The clause does not align with any Preferred or Acceptable tier under UoA Positions because IP positions are managed externally by UniServices. Escalation is required.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.10 Notwithstanding anything to the contrary in this RCA, the Parties agree that shall have\na non-exclusive, perpetual, fully paid-up, irrevocable, royalty-free and worldwide right\nto use and license to third parties the Joint Research IP and Sole Research IP for\n11\n\nConfidential\npurposes usual to an institute of higher learning and/or an autonomous university in\nSingapore, which include but are not limited to research, education, training and\nacademic use."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.11",
+      "clause_title": "7.11 Each Party agrees that it shall not have any right, title or interest in any IP",
+      "snippet": "7.11 Each Party agrees that it shall not have any right, title or interest in any IP derived from or developed by the other Party or its authorised third parties using the right or licences to the Research IP granted to…",
+      "rationale": "The clause addresses Intellectual Property (IP), which is explicitly covered under UoA Position POS-IP. All IP-related clauses must be referred to Auckland UniServices Ltd for review, regardless of wording. This clause does not materially deviate from standard IP practices but falls under UniServices' domain for assessment.",
+      "standard_ref": "UoA Position POS-IP",
+      "text": "7.11 Each Party agrees that it shall not have any right, title or interest in any IP derived from\nor developed by the other Party or its authorised third parties using the right or licences\nto the Research IP granted to the other Party under this RCA."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.12",
+      "clause_title": "7.12 Each Party shall acknowledge the contribution of the PI, Co-PI(s) and",
+      "snippet": "7.12 Each Party shall acknowledge the contribution of the PI, Co-PI(s) and Collaborator(s) towards the creation, development, discovery or invention of the Research IP in any announcement, publication or disclosure, as well as include the names of the PI, Co-PI(s) and Collaborator(s) in any patent application.",
+      "rationale": "The clause touches on the UoA-sensitive topic of Publication and Intellectual Property. While the clause ensures acknowledgment of contributors in publications and patent applications, it does not explicitly preserve the Principal Investigator's right to publish or address reasonable patent stand-down periods, which are key elements of UoA Position #POS-12. Additionally, the mention of Research IP triggers UoA Position #POS-IP, which mandates referral to Auckland UniServices Ltd for any IP-related clauses. The clause does not materially deviate from acceptable publication practices but requires confirmation and referral for IP compliance.",
+      "standard_ref": "UoA Position #POS-12 and UoA Position #POS-IP",
+      "text": "7.12 Each Party shall acknowledge the contribution of the PI, Co-PI(s) and Collaborator(s)\ntowards the creation, development, discovery or invention of the Research IP in any\nannouncement, publication or disclosure, as well as include the names of the PI, Co-PI(s)\nand Collaborator(s) in any patent application."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.13",
+      "clause_title": "7.13 Neither Party warrants that the Research IP is or will be free from infringement",
+      "snippet": "7.13 Neither Party warrants that the Research IP is or will be free from infringement of patents, copyrights, trademarks, or other IP rights of any third party. The Parties make no representations, conditions or warrant…",
+      "rationale": "The clause addresses warranties related to Research IP and explicitly disclaims warranties such as 'fit for a particular purpose,' 'merchantable quality,' and 'durability.' While this does not align with the UoA Preferred Position on Warranties (POS-10), it does not conflict with the Acceptable tier, which allows for no other warranties to be offered. The clause does not impose additional obligations on UoA and is consistent with the principle of limiting warranties. However, as the clause pertains to Intellectual Property, it must be referred to Auckland UniServices Ltd for review, as per UoA Position #POS-IP.",
+      "standard_ref": "UoA Position #POS-10 and UoA Position #POS-IP",
+      "text": "7.13 Neither Party warrants that the Research IP is or will be free from infringement of\npatents, copyrights, trademarks, or other IP rights of any third party. The Parties make\nno representations, conditions or warranties, either express or implied, with respect to\nthe Research IP provided that the foregoing shall be without prejudice to the obligations\nrelating to the conduct of the Research by the Parties in this RCA. Without limiting the\ngenerality of the foregoing, the Parties expressly disclaim any implied warranty,\ncondition or representation that the Research IP is fit for a particular purpose, shall\ncorrespond with a particular description, is of a merchantable or satisfactory quality, or\nis durable for a reasonable period of time."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.14",
+      "clause_title": "7.14 The Parties acknowledge and agree that, in accordance with the Grants T&Cs:",
+      "snippet": "7.14 The Parties acknowledge and agree that, in accordance with the Grants T&Cs: (a) the Parties shall make the details of the Research IP to the Grantor for inspection at any time; (b) the management of all Research IP…",
+      "rationale": "The clause addresses Intellectual Property (IP), which is explicitly excluded from UoA Preferred Contracting Positions and must be referred to Auckland UniServices Ltd for review. The clause materially deviates from UoA's standard approach to IP, as it includes provisions for royalty-free, irrevocable, worldwide, perpetual, and non-exclusive rights for government and public sector agencies, as well as references to the Singapore National IP Protocol. These elements require UniServices' assessment to ensure alignment with UoA's IP policies and commercialisation strategies.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.14 The Parties acknowledge and agree that, in accordance with the Grants T&Cs:\n(a) the Parties shall make the details of the Research IP to the Grantor for inspection at\nany time;\n(b) the management of all Research IP shall have reference to and be guided by the\nkey principles of the Singapore National IP Protocol for Publicly Funded R&D; and\n(c) the Parties shall reserve a royalty-free, irrevocable, worldwide, perpetual and non-\nexclusive right for the Government and public sector agencies to use any licensed or\nassigned Research IP for their statutory functions, non-commercial and/or research\n& development purposes. Notwithstanding the foregoing, the Parties may seek a\nwaiver of this Clause 7.14(c) from the Grantor, if such waiver would support the\neffective commercialisation of the Research IP by a third party pursuant to the\nNational IP Protocol for Publicly Funded R&D, and that any waiver would be at the\nGrantor’s absolute discretion."
+    },
+    {
+      "level": "amber",
+      "clause_id": "8",
+      "clause_title": "\"Inventive Contribution\" means any intellectual contribution which brings about",
+      "snippet": "\"Inventive Contribution\" means any intellectual contribution which brings about the creation of Intellectual Property, whether patentable or not, made or to be made by a Party for the Research in accordance with this RCA. For the avoidance of doubt, Inventive Contribution can include contributions such as technical guidance and expertise provided by any Party. Inventive Contribution shall be agreed between the Parties in accordance with clause 7.3;",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly excluded from UoA Contracting Positions and must be referred to Auckland UniServices Ltd for review. This aligns with UoA Position #POS-IP, which mandates escalation of all IP-related clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "\"Inventive Contribution\" means any intellectual contribution which brings about the creation of Intellectual Property, whether patentable or not, made or to be made by a Party for the Research in accordance with this RCA. For the avoidance of doubt, Inventive Contribution can include contributions such as technical guidance and expertise provided by any Party. Inventive Contribution shall be agreed between the Parties in accordance with clause 7.3;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "8.1",
+      "clause_title": "8.1 Each Party shall have a non-exclusive, perpetual, fully paid-up, irrevocable,",
+      "snippet": "8.1 Each Party shall have a non-exclusive, perpetual, fully paid-up, irrevocable, royalty-free, sublicensable and worldwide right and licence to use the Research Data for its internal, research, development, academic an…",
+      "rationale": "This clause addresses the use of Research Data, which intersects with UoA's sensitive topics of Confidentiality and Publication. While the clause grants broad rights to both parties for internal, academic, and non-commercial purposes, it does not explicitly address confidentiality protections for Research Data or align with UoA's preferred confidentiality position (e.g., exclusions for public information, independently developed information, etc.). Additionally, the perpetual and sublicensable nature of the rights granted may require further scrutiny to ensure compliance with UoA's confidentiality and publication standards. Escalation to the Senior Manager, Research Grants and Contracts is recommended for review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "8.1 Each Party shall have a non-exclusive, perpetual, fully paid-up, irrevocable, royalty-free,\nsublicensable and worldwide right and licence to use the Research Data for its internal,\nresearch, development, academic and/or non-commercial purposes, including in\ncollaborative research projects carried out by it with any third party, without requiring\nthe prior consent of the other Party and without the need to make any form of payment\nfor such use. Each Party shall also be entitled to use Research Data in publications,\nsubject to compliance with clause 6.\n12\n\nConfidential"
+    },
+    {
+      "level": "amber",
+      "clause_id": "8.4",
+      "clause_title": "8.4 Neither Party shall use or disclose the Research Data in any manner that would",
+      "snippet": "8.4 Neither Party shall use or disclose the Research Data in any manner that would breach any of its obligations under law or this RCA with respect to the confidentiality, sensitivity1, ethics and security of the Resear…",
+      "rationale": "Touches the UoA-sensitive topic of Confidentiality; exact alignment is not obvious from the clause text. Contract Manager should confirm against: Preferred: Definition of confidential information excludes information already public, independently developed, previously known by receiving party, and information legally required to be disclosed. UoA must be able to disclose to agents and Affiliates. Duration up to 5 years post-completion of confidentiality period. | Acceptable: Confidentiality obligations limited in time (e.g. 5–7 years post-termination/expiry/disclosure). | Escalation: Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "8.4 Neither Party shall use or disclose the Research Data in any manner that would breach\nany of its obligations under law or this RCA with respect to the confidentiality,\nsensitivity1, ethics and security of the Research Data."
+    },
+    {
+      "level": "amber",
+      "clause_id": "9",
+      "clause_title": "\"IP Application\" means any patent application, division and all applications for",
+      "snippet": "\"IP Application\" means any patent application, division and all applications for registration of copyrights, designs, semi-conductor layout designs, trade names, trademarks, service marks, and any other IP registration relating to any Research IP;",
+      "rationale": "This clause pertains to Intellectual Property (IP), which is explicitly governed by Auckland UniServices Ltd under UoA Position #POS-IP. All IP-related clauses must be referred to UniServices for review, regardless of wording. The clause does not align with any Preferred or Acceptable tier under UoA Positions, as IP is outside the scope of this protocol.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "\"IP Application\" means any patent application, division and all applications for registration of copyrights, designs, semi-conductor layout designs, trade names, trademarks, service marks, and any other IP registration relating to any Research IP;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "10",
+      "clause_title": "\"Know-how\" means any method, technique, process, discovery, invention,",
+      "snippet": "\"Know-how\" means any method, technique, process, discovery, invention, innovation, unpatentable process, specification, recipe, formula, material, molecule, gene, protein, regulatory element, design, plan, documentation\u0006\u0006",
+      "rationale": "The clause touches on Confidentiality and Intellectual Property topics. While the definition of 'Know-how' includes technical information that is 'secret, substantial, and identified or identifiable,' it does not explicitly align with UoA's Preferred Position for Confidentiality (POS-11), which requires exclusions for public, independently developed, previously known, or legally required disclosures. Additionally, the clause references 'Research IP,' which falls under Intellectual Property (POS-IP), requiring referral to Auckland UniServices Ltd. The clause does not materially deviate from UoA's Acceptable tier for Confidentiality but requires confirmation of compliance with IP protocols.",
+      "standard_ref": "UoA Position #POS-11 and #POS-IP",
+      "text": "\"Know-how\" means any method, technique, process, discovery, invention, innovation, unpatentable process, specification, recipe, formula, material, molecule, gene, protein, regulatory element, design, plan, documentation, drawing, data or other technical information which is secret, substantial and identified or at least identifiable, that is to say, described or is able to be described in a sufficiently comprehensive manner.  \n\n[REDACTED]  \n\n3\n\nConfidential\n“Research IP” means any IP created in the course of or resulting from the Research;\n“RCA” means this Research Collaboration Agreement including all Schedules and\nAnnexes, as may be varied from time to time;\n“Research Data” means data or evidence (irrespective of their content or formats)\ncollected, observed, generated, created or otherwise obtained during the entire course\nof the Research, and includes but is not limited to numerical, descriptive, aural, visual, or\nphysical forms recorded by the persons involved in the Research, or generated by\nequipment and/or derived from experiments, models, or simulations."
+    },
+    {
+      "level": "amber",
+      "clause_id": "10.1",
+      "clause_title": "10.1 Each Party agrees that it shall use the Confidential Information of the other",
+      "snippet": "10.1 Each Party agrees that it shall use the Confidential Information of the other Party solely for carrying out work related to the Research. No Party acquires any rights or licences in or to the Confidential Informati…",
+      "rationale": "The clause addresses the use of Confidential Information but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, it does not specify the duration of confidentiality obligations or UoA's ability to disclose to agents and Affiliates. While the clause does not contradict UoA's positions, it lacks the necessary detail to confirm full compliance. Escalation to the Senior Manager, Research Grants and Contracts is recommended for review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10.1 Each Party agrees that it shall use the Confidential Information of the other Party solely\nfor carrying out work related to the Research. No Party acquires any rights or licences in\nor to the Confidential Information except for a limited licence to use the Confidential\nInformation as stated herein."
+    },
+    {
+      "level": "amber",
+      "clause_id": "10.3",
+      "clause_title": "10.3 Each Party shall restrict access to the Confidential Information to those of its",
+      "snippet": "10.3 Each Party shall restrict access to the Confidential Information to those of its employees (and in the case of its students) who need to know the Confidential Information in order to carry out work related to the R…",
+      "rationale": "The clause addresses confidentiality obligations but does not explicitly align with UoA's Preferred Position under POS-11. Specifically, it does not exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not mention UoA's ability to disclose to agents and Affiliates or specify a duration for confidentiality obligations. While the clause is generally acceptable in principle, it requires confirmation to ensure it aligns with UoA's Acceptable tier or needs escalation to the Senior Manager, Research Grants and Contracts for further review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10.3 Each Party shall restrict access to the Confidential Information to those of its employees\n(and in the case of its students) who need to know the Confidential Information in\norder to carry out work related to the Research, provided that such parties are bound by\nappropriate obligations of confidentiality."
+    },
+    {
+      "level": "amber",
+      "clause_id": "10.4",
+      "clause_title": "10.4 Each Party shall, at the option of the other Party, return or destroy the other",
+      "snippet": "10.4 Each Party shall, at the option of the other Party, return or destroy the other Party's Confidential Information in its possession upon termination or expiration of this RCA, unless otherwise allowed in writing to retain such Confidential Information. Return or destruction shall be certified within thirty (30) days by that Party’s signatory to this RCA (or equivalent), indicating that no remaining portion of Confidential Information has been retained or copied and retained.",
+      "rationale": "The clause addresses the handling of Confidential Information upon termination or expiration of the agreement, which is a sensitive topic under UoA Position #POS-11. While it specifies return or destruction of Confidential Information and certification within 30 days, it does not explicitly align with the Preferred Position, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not address UoA's ability to disclose to agents and Affiliates or the duration of confidentiality obligations. The clause falls outside the Preferred tier but does not materially deviate enough to trigger escalation, as it aligns with the Acceptable tier's focus on confidentiality obligations limited in time. Contract Manager should confirm compliance with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10.4 Each Party shall, at the option of the other Party, return or destroy the other Party's\nConfidential Information in its possession upon termination or expiration of this RCA,\nunless otherwise allowed in writing to retain such Confidential Information. Return or\n1 Sensitive data are data that can be used to identify an individual, species, object, process, or location that\nintroduces a risk of discrimination, harm, or unwanted attention. Major familiar categories of sensitive\ndata are personal data, health and medical data, and ecological data that may place vulnerable species at\nrisk. It can also be proprietary data and/or other restricted or confidential data that is protected from\nunauthorized access.\n13\n\nConfidential\ndestruction shall be certified within thirty (30) days by that Party’s signatory to this RCA\n(or equivalent), indicating that no remaining portion of Confidential Information has\nbeen retained or copied and retained."
+    },
+    {
+      "level": "amber",
+      "clause_id": "12.2",
+      "clause_title": "12.2 The Parties make no representations, conditions or warranties, either express or",
+      "snippet": "12.2 The Parties make no representations, conditions or warranties, either express or implied with respect to any of the Confidential Information and Background IP or Research IP disclosed to each other and/or with resp…",
+      "rationale": "The clause disclaims warranties, including 'fit for a particular purpose,' which aligns with UoA's preferred position to exclude all warranties except authority to enter into the contract and performance to a professional standard. However, the clause also references Background IP and Research IP, which falls under Intellectual Property considerations. Since IP clauses must be referred to Auckland UniServices Ltd regardless of wording, this clause is flagged as AMBER for referral to UniServices. The warranty disclaimer itself does not conflict with UoA Position #POS-10.",
+      "standard_ref": "UoA Position #POS-10 and UoA Position #POS-IP",
+      "text": "12.2 The Parties make no representations, conditions or warranties, either express or implied\nwith respect to any of the Confidential Information and Background IP or Research IP\ndisclosed to each other and/or with respect to the work performed pursuant to the terms\nof this RCA. Without limiting the generality of the foregoing, the Parties expressly\ndisclaim any implied warranty, condition or representation that any use thereof will not\ninfringe or violate any patent or other proprietary rights of any other person and\ndisclaims that the Background IP or Research IP and/or the information provided by such\nParty:-\n(a) shall correspond with a particular description;\n(b) is of a merchantable or satisfactory quality;\n(c) is fit for a particular purpose; or\n(d) is durable for a reasonable period of time.\n14\n\nConfidential"
+    },
+    {
+      "level": "amber",
+      "clause_id": "12.3",
+      "clause_title": "12.3 The Parties shall not be liable for any loss, whether indirect, consequential,",
+      "snippet": "12.3 The Parties shall not be liable for any loss, whether indirect, consequential, punitive, or incidental, or any special loss or damage (including loss of profits, loss of use, and loss of production) however caused …",
+      "rationale": "The clause addresses liability limitations and exclusions, which are sensitive under UoA Position #POS-07. While it excludes indirect, consequential, punitive, and incidental losses, it does not explicitly address the monetary cap on liability or carve-outs for fraud, wilful default, personal injury, or confidentiality obligations. The clause is therefore flagged as AMBER because it partially aligns with the Acceptable tier but requires confirmation that the total liability exposure is capped within the monetary limits specified in the Research Contract Delegations. Escalation to the Research Grants and Contracts Delegations is recommended to ensure compliance.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "12.3 The Parties shall not be liable for any loss, whether indirect, consequential, punitive, or\nincidental, or any special loss or damage (including loss of profits, loss of use, and loss of\nproduction) however caused (and whether arising out of contract, strict liability, or tort\nor under any legal or equitable theory of liability) which the other Party suffers arising\nfrom any defect, error, fault or failure to perform with respect to the Background IP or\nResearch IP."
+    },
+    {
+      "level": "amber",
+      "clause_id": "12.4",
+      "clause_title": "12.4 Save as expressly provided in this RCA, nothing in this RCA shall be construed as",
+      "snippet": "12.4 Save as expressly provided in this RCA, nothing in this RCA shall be construed as a warranty or representation by the Parties as to the title of any of the Background IP disclosed hereunder or that anything made, u…",
+      "rationale": "The clause pertains to Intellectual Property, specifically disclaiming warranties or representations regarding Background IP and Research IP. UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices Ltd (Head of IP) for review, as UoA does not set IP positions independently. This clause falls under the amber tier because it requires referral to UniServices for compliance verification.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "12.4 Save as expressly provided in this RCA, nothing in this RCA shall be construed as a\nwarranty or representation by the Parties as to the title of any of the Background IP\ndisclosed hereunder or that anything made, used, sold or otherwise disposed of in\nconnection with the same or the Research IP is or will be free from infringement of\npatents, copyrights, trademarks, industrial designs or other intellectual property rights\nof any third party."
+    },
+    {
+      "level": "amber",
+      "clause_id": "12.5",
+      "clause_title": "12.5 Each Party shall be solely responsible and liable for (i) the acts and omissions of",
+      "snippet": "12.5 Each Party shall be solely responsible and liable for (i) the acts and omissions of its authorised representatives; and (ii) its use of the Research IP, or findings, results, reports or materials from the Research.",
+      "rationale": "The clause addresses liability but does not explicitly align with UoA's Preferred Position #POS-07, which requires liability to be capped and indirect/consequential losses excluded. While the clause does not contradict the Preferred Position, it lacks specificity regarding liability limits, exclusions for indirect losses, and carve-outs for certain liabilities. This ambiguity places the clause in the Acceptable tier, as it does not outright breach UoA's policy but requires confirmation that liability exposure is appropriately capped and exclusions are applied. Escalation to the Research Grants and Contracts Delegations may be required to ensure compliance.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "12.5 Each Party shall be solely responsible and liable for (i) the acts and omissions of its\nauthorised representatives; and (ii) its use of the Research IP, or findings, results, reports\nor materials from the Research."
+    },
+    {
+      "level": "amber",
+      "clause_id": "12.6",
+      "clause_title": "12.6 Each Party shall take out and maintain sufficient insurance policies to cover its",
+      "snippet": "12.6 Each Party shall take out and maintain sufficient insurance policies to cover its liabilities under this RCA, and produce satisfactory documentary evidence of the same upon request by any other Party. Such insurance policies may include Public Liability, Professional Indemnity, Industrial All Risk and/or Work Injury Compensation.",
+      "rationale": "The clause aligns partially with UoA Position #POS-09 on Insurance Policies, which requires UoA to maintain sufficient insurance cover to conduct the work without reference to explicit policy limits. However, the clause introduces additional obligations, such as producing documentary evidence upon request and specifying types of insurance policies, which are not part of the Preferred or Acceptable tiers. These deviations require further review to ensure compliance with UoA's insurance protocols and policy limits.",
+      "standard_ref": "UoA Position #POS-09",
+      "text": "12.6 Each Party shall take out and maintain sufficient insurance policies to cover its liabilities\nunder this RCA, and produce satisfactory documentary evidence of the same upon\nrequest by any other Party. Such insurance policies may include Public Liability,\nProfessional Indemnity, Industrial All Risk and/or Work Injury Compensation."
+    },
+    {
+      "level": "amber",
+      "clause_id": "12.7",
+      "clause_title": "12.7 To the extent permitted by law, each Party’s total liability for claims, losses or",
+      "snippet": "12.7 To the extent permitted by law, each Party’s total liability for claims, losses or damages arising from or in connection with performance of its obligations under this RCA shall not exceed the liability cap set out…",
+      "rationale": "The clause addresses liability limitations but does not specify the monetary cap or exclusions for indirect/consequential losses, which are critical elements of UoA's Preferred Position under POS-07. While the clause references a liability cap in Schedule 3, the absence of explicit details in the clause text prevents confirmation of alignment with UoA's Preferred Position. This clause is flagged as AMBER because it may align with the Acceptable tier if the liability cap in Schedule 3 adheres to UoA's monetary limits and exclusions. Contract Manager should verify Schedule 3 to ensure compliance with POS-07.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "12.7 To the extent permitted by law, each Party’s total liability for claims, losses or damages\narising from or in connection with performance of its obligations under this RCA shall not\nexceed the liability cap set out in Schedule 3."
+    },
+    {
+      "level": "amber",
+      "clause_id": "13.3",
+      "clause_title": "13.3 In the event the Force Majeure event continues for more than sixty (60) days,",
+      "snippet": "13.3 In the event the Force Majeure event continues for more than sixty (60) days, either Party may terminate this Agreement in writing and neither Party shall have any other liability to the other arising out of or in connection with such termination.",
+      "rationale": "The clause addresses termination due to Force Majeure, which is not explicitly covered in UoA Preferred Contracting Positions. While it does not conflict with the Preferred or Acceptable positions for termination (POS-19), it introduces a termination mechanism that is outside the scope of material breach, insolvency, or failure to pay. The clause does not address accrued rights or termination costs, which are part of the Preferred position. This deviation places the clause in the amber tier, requiring confirmation by the Contract Manager to ensure alignment with UoA's interests.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "13.3 In the event the Force Majeure event continues for more than sixty (60) days, either\nParty may terminate this Agreement in writing and neither Party shall have any other\nliability to the other arising out of or in connection with such termination.\n15\n\nConfidential"
+    },
+    {
+      "level": "amber",
+      "clause_id": "20.4",
+      "clause_title": "20.4 Unless otherwise agreed, no variation shall constitute a waiver of any provisions",
+      "snippet": "20.4 Unless otherwise agreed, no variation shall constitute a waiver of any provisions of this RCA, nor shall it affect any rights, obligations or liabilities under or pursuant to this RCA which have already accrued up …",
+      "rationale": "The clause addresses the topic of Variations and Extensions, which is covered under UoA Position #POS-21. While the clause ensures that variations do not waive accrued rights or obligations and that rights and obligations remain in effect unless explicitly varied, it does not explicitly require that all variations be negotiated and executed in writing prior to the expiry of the agreement, as per the Preferred Position. However, it does not contradict the Acceptable Position either, which allows for extensions to be negotiated and executed in writing after the agreement has expired. The clause falls within the Acceptable tier but requires confirmation that the process for variations aligns with UoA's expectations.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "20.4 Unless otherwise agreed, no variation shall constitute a waiver of any provisions of this\nRCA, nor shall it affect any rights, obligations or liabilities under or pursuant to this RCA\nwhich have already accrued up to the date of variation. The rights and obligations of the\nParties under or pursuant to this RCA shall remain in full force and effect, except and only\nto the extent that they are varied."
+    },
+    {
+      "level": "amber",
+      "clause_id": "25",
+      "clause_title": "25 GOVERNING LAW AND DISPUTE RESOLUTION",
+      "snippet": "25 GOVERNING LAW AND DISPUTE RESOLUTION",
+      "rationale": "The clause addresses Governing Law and Dispute Resolution, which are sensitive topics under UoA Position #POS-16 and #POS-18. However, the clause text does not specify the governing law or dispute resolution process, making it impossible to confirm alignment with UoA's Preferred or Acceptable tiers. Governing Law should ideally be New Zealand, or one of the Acceptable jurisdictions (Australia, UK, Common European countries, Singapore, or non-exclusive jurisdiction of a specific US state for US-based clients). Dispute Resolution should include good faith discussions, escalation to senior management, mediation, and allowance for urgent interlocutory court action. Contract Manager should confirm details or escalate to General Counsel for Governing Law and Senior Manager Research Grants and Contracts for Dispute Resolution.",
+      "standard_ref": "UoA Position #POS-16 and #POS-18",
+      "text": "25 GOVERNING LAW AND DISPUTE RESOLUTION"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25.2",
+      "clause_title": "25.2 Any disputes arising out of or in connection with this RCA, including any question",
+      "snippet": "25.2 Any disputes arising out of or in connection with this RCA, including any question regarding its existence, validity or termination, shall in the first instance be resolved through meeting(s) between the senior rep…",
+      "rationale": "The clause addresses dispute resolution, which is covered under UoA Position #POS-18. While the clause aligns with the preferred position of requiring initial discussions between senior representatives, it does not explicitly include escalation to mediation or arbitration, nor does it specify that the process must not prevent urgent interlocutory action through courts. These omissions place the clause in the Acceptable tier, as it partially aligns with the UoA Position but lacks full compliance. No escalation is required unless the clause is part of an NZ or International Funding Agency contract where dispute clauses cannot be altered.",
+      "standard_ref": "UoA Position #POS-18",
+      "text": "25.2 Any disputes arising out of or in connection with this RCA, including any question\nregarding its existence, validity or termination, shall in the first instance be resolved\nthrough meeting(s) between the senior representatives of the Parties set out in Schedule\n3."
+    },
+    {
+      "level": "amber",
+      "clause_id": "26.1",
+      "clause_title": "26.1 Any expiration or termination of this RCA shall not affect the survival of any",
+      "snippet": "26.1 Any expiration or termination of this RCA shall not affect the survival of any provision which is intended to continue after such expiration or termination, including but not limited to clauses 7 (Intellectual Prop…",
+      "rationale": "The clause references multiple sensitive topics, including Governing Law and Jurisdiction (POS-16), Intellectual Property (POS-IP), Confidentiality (POS-11), and Liability and Indemnity (POS-07 and POS-08). While survival clauses are standard, the inclusion of these specific topics requires further review to ensure alignment with UoA's Preferred or Acceptable positions. For example, Governing Law and Jurisdiction must align with POS-16, and any Intellectual Property provisions must be referred to Auckland UniServices Ltd per POS-IP. The clause does not explicitly conflict with UoA Positions but requires confirmation that the referenced clauses comply with UoA standards.",
+      "standard_ref": "UoA Position #POS-16, POS-IP, POS-11, POS-07, POS-08",
+      "text": "26.1 Any expiration or termination of this RCA shall not affect the survival of any provision\nwhich is intended to continue after such expiration or termination, including but not\nlimited to clauses 7 (Intellectual Property Rights), 8 (Research Data), 9 (Asset Ownership),\n10 (Confidentiality), 12 (Liability and Indemnity), 25 (Governing Law and Dispute\nResolution), and 26 (Survival).\n18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "(B) Under the Grant T&Cs, [REDACTED] is named as the Host Institution where",
+      "snippet": "(B) Under the Grant T&Cs, [REDACTED] is named as the Host Institution whereas [REDACTED] and [REDACTED] are named as the Partner Institutions.",
+      "rationale": "The clause addresses the designation of Host and Partner Institutions under the Grant T&Cs, which is not a topic covered by the UoA Preferred Contracting Positions. As such, it falls outside the scope of the policy and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "(B) Under the Grant T&Cs, [REDACTED] is named as the Host Institution whereas [REDACTED] and [REDACTED] are named as the Partner Institutions."
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. DEFINITIONS",
+      "snippet": "1. DEFINITIONS",
+      "rationale": "The topic of definitions is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "1. DEFINITIONS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 All capitalised terms which are used in this RCA and in the Schedules and",
+      "snippet": "1.1 All capitalised terms which are used in this RCA and in the Schedules and Annexes but which are not otherwise defined herein shall have the same meaning as the definitions under clause 1 of the Grant T&Cs as annexed…",
+      "rationale": "The clause addresses the use and definition of capitalised terms and references external Grant T&Cs and documents. This topic is not covered in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null,
+      "text": "1.1 All capitalised terms which are used in this RCA and in the Schedules and Annexes but which are not otherwise defined herein shall have the same meaning as the definitions under clause 1 of the Grant T&Cs as annexed in Schedule 1. The relevant documents (including any annexures and attachments) relating to the Grant that all Parties are required to comply with, are annexed in Schedule 1, which may be updated and/or amended by Grantor from time to time (\"Grant Documents\"). Without prejudice to the above, in this RCA and in the Schedules unless defined elsewhere or the context requires otherwise:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 In this RCA:",
+      "snippet": "1.2 In this RCA:",
+      "rationale": "The clause appears to be introductory or definitional in nature, and its topic is not addressed in the UoA Preferred Contracting Positions. No specific policy or template guidance applies.",
+      "standard_ref": null,
+      "text": "1.2 In this RCA:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "(C) The Parties wish to collaborate and undertake the Research on the terms",
+      "snippet": "(C) The Parties wish to collaborate and undertake the Research on the terms and conditions hereinafter set out in this RCA. NOW THEREFORE the Parties agree as follows:",
+      "rationale": "The clause is a general preamble or recital that sets the context for the agreement. This topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the policy framework.",
+      "standard_ref": null,
+      "text": "(C) The Parties wish to collaborate and undertake the Research on the terms and conditions hereinafter set out in this RCA.  \n\nNOW THEREFORE the Parties agree as follows:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. RELATIONSHIP AMONGST THE PARTIES",
+      "snippet": "2. RELATIONSHIP AMONGST THE PARTIES",
+      "rationale": "The topic 'Relationship Amongst the Parties' is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "2. RELATIONSHIP AMONGST THE PARTIES"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Except as stated in this RCA, no relationship of agency, joint venture or",
+      "snippet": "2.1 Except as stated in this RCA, no relationship of agency, joint venture or partnership shall exist or be deemed to exist amongst the Parties.",
+      "rationale": "The clause addresses the topic of agency, joint venture, and partnership relationships, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the policy framework and cannot be evaluated against specific tiers.",
+      "standard_ref": null,
+      "text": "2.1 Except as stated in this RCA, no relationship of agency, joint venture or partnership shall\nexist or be deemed to exist amongst the Parties."
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2",
+      "clause_title": "2.2 Nothing in this RCA shall prevent a Party from carrying out its usual course of",
+      "snippet": "2.2 Nothing in this RCA shall prevent a Party from carrying out its usual course of business.",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. It does not conflict with any established policy and is therefore flagged as blue.",
+      "standard_ref": null,
+      "text": "2.2 Nothing in this RCA shall prevent a Party from carrying out its usual course of business."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. RESPONSIBILITIES OF EACH PARTY IN THE RESEARCH",
+      "snippet": "3. RESPONSIBILITIES OF EACH PARTY IN THE RESEARCH Collaboration on the Research",
+      "rationale": "The clause addresses 'Responsibilities of Each Party in the Research,' which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "3. RESPONSIBILITIES OF EACH PARTY IN THE RESEARCH\nCollaboration on the Research"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 The Parties intend to collaborate and work together on the Research, which is",
+      "snippet": "3.1 The Parties intend to collaborate and work together on the Research, which is as set forth in Section 2 of Schedule 1.",
+      "rationale": "The clause addresses the intent to collaborate and work together on the research, which is not covered by any specific topic in the UoA Preferred Contracting Positions. No escalation or pre-approved deviation applies.",
+      "standard_ref": null,
+      "text": "3.1 The Parties intend to collaborate and work together on the Research, which is as set forth\nin Section 2 of Schedule 1."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 The Parties agree to use their reasonable efforts to complete the Research in",
+      "snippet": "3.2 The Parties agree to use their reasonable efforts to complete the Research in accordance with the terms and conditions of this RCA.",
+      "rationale": "The clause addresses a general commitment to use reasonable efforts to complete the research, which is not covered by any specific topic in the UoA Preferred Contracting Positions. There is no applicable standard template for this contract type, and the clause does not conflict with any existing UoA policy.",
+      "standard_ref": null,
+      "text": "3.2 The Parties agree to use their reasonable efforts to complete the Research in accordance\nwith the terms and conditions of this RCA."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.3",
+      "clause_title": "3.3 The Parties recognise that the Research is research and/or innovative in nature",
+      "snippet": "3.3 The Parties recognise that the Research is research and/or innovative in nature and 4 Confidential hence completion within the period of performance indicated in this RCA, or within the limits of financial support a…",
+      "rationale": "This clause acknowledges the inherent uncertainty in research and innovation, stating that completion within the specified period, financial limits, or achievement of milestones/deliverables cannot be guaranteed. This topic is not explicitly covered by any UoA Preferred Contracting Position or template. While the clause mentions 'Confidential,' it does not directly address confidentiality obligations as defined in UoA Position #POS-11. Therefore, it falls outside the scope of the existing Positions and is flagged as BLUE.",
+      "standard_ref": "No UoA Position or Template",
+      "text": "3.3 The Parties recognise that the Research is research and/or innovative in nature and\n4\n\nConfidential  \n\nhence completion within the period of performance indicated in this RCA, or within the limits of financial support allocated, or the achievement of milestones and/or deliverables cannot be guaranteed."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.4",
+      "clause_title": "3.4 The Research shall be managed by the Principal Investigator (“PI”) named in",
+      "snippet": "3.4 The Research shall be managed by the Principal Investigator (\u001cPI\u001d) named in *Schedule 3*, who will be assisted by the Co-Principal Investigator(s) (\u001cCo-PI(s)\u001d) and Collaborators named in *Schedule 3*.",
+      "rationale": "The clause addresses the management of research by the Principal Investigator and Co-Principal Investigator(s), which is not covered by any UoA Preferred Contracting Positions or pre-approved Acceptable tier. No escalation is required as this topic falls outside the scope of the Positions document.",
+      "standard_ref": null,
+      "text": "3.4 The Research shall be managed by the Principal Investigator (“PI”) named in *Schedule 3*, who will be assisted by the Co-Principal Investigator(s) (“Co-PI(s)”) and Collaborators named in *Schedule 3*."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.5",
+      "clause_title": "3.5 Each Party shall inform the other of any change to the PI, Co-PI(s) or",
+      "snippet": "3.5 Each Party shall inform the other of any change to the PI, Co-PI(s) or Collaborator(s) (as the case may be) no later than two (2) weeks before such change is due to take place.",
+      "rationale": "The clause addresses notification of changes to personnel (PI, Co-PI(s), Collaborator(s)), which is not covered by any topic in the UoA Preferred Contracting Positions document. There is no applicable UoA Standard Template for this contract type, and no escalation route is specified for this topic.",
+      "standard_ref": null,
+      "text": "3.5 Each Party shall inform the other of any change to the PI, Co-PI(s) or Collaborator(s) (as the case may be) no later than two (2) weeks before such change is due to take place."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.6",
+      "clause_title": "3.6 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall meet at",
+      "snippet": "3.6 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall meet at agreed intervals from time to time to review the implementation of the Research. Each Party shall bear its own costs and expenses related to such Research review meetings.",
+      "rationale": "The clause addresses the scheduling of research review meetings and allocation of costs for such meetings, which is not covered by any topic in the UoA Preferred Contracting Positions document. As there is no applicable policy or template reference, the flag remains blue.",
+      "standard_ref": null,
+      "text": "3.6 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall meet at agreed intervals from time to time to review the implementation of the Research. Each Party shall bear its own costs and expenses related to such Research review meetings."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.7",
+      "clause_title": "3.7 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall maintain",
+      "snippet": "3.7 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall maintain records of the progress of the Research, including but not limited to all expenditure incurred for or in connection with the Research\u0014",
+      "rationale": "The clause addresses record-keeping and expenditure tracking, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.7 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) shall maintain records of the progress of the Research, including but not limited to all expenditure incurred for or in connection with the Research, and provide each other with such records as may be required from time to time."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.8",
+      "clause_title": "3.8 The Parties shall ensure that the Final Research Data is complete and legible,",
+      "snippet": "3.8 The Parties shall ensure that the Final Research Data is complete and legible, and allows traceability and validation of the Research findings should the need arise.",
+      "rationale": "The clause addresses the completeness, legibility, traceability, and validation of research data, which is not covered by any UoA Preferred Contracting Positions or standard template for Collaboration Agreements. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.8 The Parties shall ensure that the Final Research Data is complete and legible, and allows traceability and validation of the Research findings should the need arise."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.9",
+      "clause_title": "3.9 Each Party shall be responsible for the acts and/or omissions of its employees,",
+      "snippet": "3.9 Each Party shall be responsible for the acts and/or omissions of its employees, agents and/or sub-contractors that carry out any part of the Research.",
+      "rationale": "The clause addresses responsibility for acts and omissions of employees, agents, and sub-contractors, which is not covered by any UoA Preferred Contracting Positions or Standard Template. No escalation is required as the topic falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "3.9 Each Party shall be responsible for the acts and/or omissions of its employees, agents and/or sub-contractors that carry out any part of the Research."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.10",
+      "clause_title": "3.10 Each Party agrees that while its representatives are on the other Party’s",
+      "snippet": "3.10 Each Party agrees that while its representatives are on the other Party’s premises, its representatives shall adhere, at all times, to all applicable rules, regulations, policies and procedures, including, but not …",
+      "rationale": "The clause addresses adherence to rules, regulations, policies, and procedures while representatives are on the other Party's premises, as well as confirming skills, expertise, and training of representatives. This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. Therefore, it falls outside the scope of pre-defined tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.10 Each Party agrees that while its representatives are on the other Party’s premises, its representatives shall adhere, at all times, to all applicable rules, regulations, policies and procedures, including, but not limited to, those on health and safety, of the other Party. Each Party hereby confirms that to the best of its information, knowledge, and belief all its representatives who are engaged in the Research have the necessary skills, expertise and training, including on laboratory safety procedures, to perform their obligations."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.11",
+      "clause_title": "3.11 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) carry out the",
+      "snippet": "3.11 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) carry out the Research in accordance with all applicable laws, regulations, codes and guidelines.",
+      "rationale": "The clause addresses compliance with laws, regulations, codes, and guidelines, which is not explicitly covered by the UoA Preferred Contracting Positions or any registered template for this contract type. As such, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.11 The Parties shall ensure that the PI, Co-PI(s) and Collaborator(s) carry out the Research in accordance with all applicable laws, regulations, codes and guidelines."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.12",
+      "clause_title": "3.12 The Parties are committed to maintaining the highest standards of research",
+      "snippet": "3.12 The Parties are committed to maintaining the highest standards of research integrity and the responsible conduct of research as defined in the Singapore Statement on Research Integrity. The Parties agree to cooperate in investigation(s) which result from any accusations of research misconduct and malpractice arising from this research collaboration. The Parties shall report to the Grantor all incidents or allegations of any scientific misconduct or unethical behaviour at the earliest opportunity.",
+      "rationale": "The clause addresses research integrity and misconduct reporting, which is not explicitly covered by any UoA Preferred Contracting Position or template. While it touches on sensitive topics like confidentiality and ethical conduct, these are not directly tied to the confidentiality provisions outlined in POS-11. The clause does not conflict with UoA policies but falls outside the scope of defined positions, requiring no escalation.",
+      "standard_ref": "No UoA Position or Template",
+      "text": "3.12 The Parties are committed to maintaining the highest standards of research integrity and the responsible conduct of research as defined in the Singapore Statement on Research Integrity. The Parties agree to cooperate in investigation(s) which result from any accusations of research misconduct and malpractice arising from this research collaboration. The Parties shall report to the Grantor all incidents or allegations of any  \n\n[Page 5]\n\nConfidential\nscientific misconduct or unethical behaviour at the earliest opportunity.\nContributions to the Research"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.13",
+      "clause_title": "3.13 The Cash Contribution by the Parties towards the Research, and the Parties’",
+      "snippet": "3.13 The Cash Contribution by the Parties towards the Research, and the Parties’ in-kind contributions to the Research, are as set forth in Schedule 2.",
+      "rationale": "The clause addresses financial and in-kind contributions, a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.13 The Cash Contribution by the Parties towards the Research, and the Parties’ in-kind\ncontributions to the Research, are as set forth in Schedule 2."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.13",
+      "clause_title": "3.13A If [xxx] is not an entity incorporated or registered in Singapore, all applicable",
+      "snippet": "3.13A If [xxx] is not an entity incorporated or registered in Singapore, all applicable taxes and bank charges incurred in processing payment to (whether for Cash Contribution, licence fee or funding disbursement) shall\u000be borne by [xxx].",
+      "rationale": "The clause addresses a topic (taxes and bank charges related to payment processing) that is not explicitly covered by the UoA Preferred Contracting Positions document. There is no applicable standard or pre-approved position for this specific scenario, and no escalation route is defined for this topic.",
+      "standard_ref": null,
+      "text": "3.13A If [xxx] is not an entity incorporated or registered in Singapore, all applicable taxes and\nbank charges incurred in processing payment to (whether for Cash Contribution,\nlicence fee or funding disbursement) shall be borne by [xxx]."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.15",
+      "clause_title": "3.15 The Parties agree that the PI is allowed to vire the amounts between the",
+      "snippet": "3.15 The Parties agree that the PI is allowed to vire the amounts between the categories within its employer’s own budget without requiring the approval of the other Party, provided that the total budget of such employer is not affected. Any remaining amount in the respective Parties’ budgets (including Cash Contributions received by are to be retained or used by the respective Parties as they see fit.",
+      "rationale": "The clause addresses budgetary virement and allocation of remaining funds, which is not covered by any UoA Preferred Contracting Positions or Standard Template. As such, it falls outside the scope of pre-defined policy and requires independent review.",
+      "standard_ref": null,
+      "text": "3.15 The Parties agree that the PI is allowed to vire the amounts between the categories\nwithin its employer’s own budget without requiring the approval of the other Party,\nprovided that the total budget of such employer is not affected. Any remaining amount\nin the respective Parties’ budgets (including Cash Contributions received by are to\nbe retained or used by the respective Parties as they see fit."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.16",
+      "clause_title": "3.16 The Parties agree that students may be involved in the Research as part of their",
+      "snippet": "3.16 The Parties agree that students may be involved in the Research as part of their 6 Confidential learning and/or to fulfil coursework requirements of the students’ degree programmes. Compliance with Grant Documents",
+      "rationale": "The clause addresses student involvement in research and coursework requirements, which is not explicitly covered by any UoA Preferred Contracting Position or template. While the word 'Confidential' appears in the clause, it does not establish a confidentiality obligation or definition, nor does it conflict with UoA's confidentiality positions. The clause does not align with any specific policy or pre-approved deviation, and therefore falls outside the scope of the Positions document.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "3.16 The Parties agree that students may be involved in the Research as part of their\n6\n\nConfidential\nlearning and/or to fulfil coursework requirements of the students’ degree programmes.\nCompliance with Grant Documents"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.18",
+      "clause_title": "3.18 The Parties acknowledge that the use of the Grant and the performance of the",
+      "snippet": "3.18 The Parties acknowledge that the use of the Grant and the performance of the Research is subject to the terms and conditions stipulated in the Grant Documents. Each Party confirms that it has received a copy of the Grant Documents, and further agrees to observe and comply with the Grant Documents.",
+      "rationale": "The clause addresses compliance with Grant Documents, which is not covered by any UoA Preferred Contracting Positions or templates. As such, it falls outside the scope of the defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.18 The Parties acknowledge that the use of the Grant and the performance of the Research\nis subject to the terms and conditions stipulated in the Grant Documents. Each Party\nconfirms that it has received a copy of the Grant Documents, and further agrees to\nobserve and comply with the Grant Documents."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.19",
+      "clause_title": "3.19 The Parties agrees to cooperate with in good faith and do all things reasonably",
+      "snippet": "3.19 The Parties agrees to cooperate with in good faith and do all things reasonably necessary to enable to comply with the Grant Documents and to administer and coordinate all matters relating to the Grant, including b…",
+      "rationale": "The clause primarily addresses cooperation, compliance with grant documents, and reporting obligations, which are administrative and operational in nature. While it mentions 'good faith,' it does not directly address dispute resolution or arbitration/litigation processes as outlined in UoA Position #POS-18. The clause's topic is not covered by any specific UoA Position or template, and it does not materially conflict with any established policy.",
+      "standard_ref": "Not covered by UoA Position or template",
+      "text": "3.19 The Parties agrees to cooperate with in good faith and do all things reasonably\nnecessary to enable to comply with the Grant Documents and to administer and\ncoordinate all matters relating to the Grant, including but not limited to timely provision\nof information, records with regard to the qualifying expenditure incurred in relation to\nthe Research, and to provide reports reasonably requested by for the purposes of\nmeeting all reporting and auditing obligations under the Grant Documents."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.20",
+      "clause_title": "3.20 The Parties shall comply with and fulfil all terms of the Grant Documents and do",
+      "snippet": "3.20 The Parties shall comply with and fulfil all terms of the Grant Documents and do all things reasonably necessary to enable compliance and fulfilment by of its obligations to the Grantor under the Grant Documents. Where any terms in the Grant Documents do not expressly apply to The Parties but directly or indirectly require its cooperation in order for to comply with such terms or for the Grantor to exercise its rights under the Grant Documents, the Parties shall cooperate in good faith and do all things necessary to enable to comply with such terms or the Grantor to exercise its rights.",
+      "rationale": "The clause does not directly align with any specific UoA Preferred Contracting Position or Acceptable tier. While it mentions cooperation and good faith, it does not explicitly address dispute resolution or any other covered topic. The clause appears to focus on compliance with external Grant Documents, which is outside the scope of the UoA Positions document. Therefore, it is flagged as blue for being outside the scope of the defined topics.",
+      "standard_ref": "No applicable UoA Position",
+      "text": "3.20 The Parties shall comply with and fulfil all terms of the Grant Documents and do all things\nreasonably necessary to enable compliance and fulfilment by of its obligations to the\nGrantor under the Grant Documents. Where any terms in the Grant Documents do not\nexpressly apply to The Parties but directly or indirectly require its cooperation in order\nfor to comply with such terms or for the Grantor to exercise its rights under the Grant\nDocuments, the Parties shall cooperate in good faith and do all things necessary to\nenable to comply with such terms or the Grantor to exercise its rights."
+    },
+    {
+      "level": "blue",
+      "clause_id": "4.5",
+      "clause_title": "4.5 For the purposes of this clause, written notice of termination may only be",
+      "snippet": "4.5 For the purposes of this clause, written notice of termination may only be effected by the signatories to this RCA or by persons of equivalent or higher authority.",
+      "rationale": "The clause addresses procedural aspects of termination (who may issue written notice) rather than substantive termination rights or obligations. This procedural focus is not covered by UoA Position #POS-19, which deals with termination rights, mutuality, and financial consequences. As the clause does not conflict with or align to any specific UoA Position, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": "Not covered by UoA Position #POS-19 or any other Position.",
+      "text": "4.5 For the purposes of this clause, written notice of termination may only be effected by the signatories to this RCA or by persons of equivalent or higher authority."
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "\"Cash Contribution\" means actual monetary transfer from a Party to the other;",
+      "snippet": "\"Cash Contribution\" means actual monetary transfer from a Party to the other;",
+      "rationale": "The topic of 'Cash Contribution' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "\"Cash Contribution\" means actual monetary transfer from a Party to the other;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. DECLARATIONS BY PARTIES",
+      "snippet": "5. DECLARATIONS BY PARTIES",
+      "rationale": "The topic of 'Declarations by Parties' is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the established policy framework and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "5. DECLARATIONS BY PARTIES"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.2",
+      "clause_title": "5.2 Each Party has full power and authority to execute and deliver this RCA, and to",
+      "snippet": "5.2 Each Party has full power and authority to execute and deliver this RCA, and to carry out the Research, and such obligations shall be valid and legally binding and enforceable against it.",
+      "rationale": "The clause addresses the authority and enforceability of obligations, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "5.2 Each Party has full power and authority to execute and deliver this RCA, and to carry out the Research, and such obligations shall be valid and legally binding and enforceable against it."
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "\"Final Research Data\" (or the final dataset) means a set of data that has reached",
+      "snippet": "\"Final Research Data\" (or the final dataset) means a set of data that has reached the last stage of its lifecycle, where researchers have stopped making any further changes or adjustments to it;",
+      "rationale": "The topic of 'Final Research Data' is not addressed in the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, this clause falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null,
+      "text": "\"Final Research Data\" (or the final dataset) means a set of data that has reached the last stage of its lifecycle, where researchers have stopped making any further changes or adjustments to it;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "8 RESEARCH DATA",
+      "snippet": "8 RESEARCH DATA",
+      "rationale": "The topic of 'Research Data' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "8 RESEARCH DATA"
+    },
+    {
+      "level": "blue",
+      "clause_id": "8.2",
+      "clause_title": "8.2 Neither Party may grant to third parties an exclusive licence to use the Research",
+      "snippet": "8.2 Neither Party may grant to third parties an exclusive licence to use the Research Data without the consent of the other Party.",
+      "rationale": "The clause addresses restrictions on granting exclusive licences to third parties for Research Data, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policies and requires independent assessment.",
+      "standard_ref": null,
+      "text": "8.2 Neither Party may grant to third parties an exclusive licence to use the Research Data\nwithout the consent of the other Party."
+    },
+    {
+      "level": "blue",
+      "clause_id": "8.3",
+      "clause_title": "8.3 The Parties agree that, during the course of the Research, access to the Research",
+      "snippet": "8.3 The Parties agree that, during the course of the Research, access to the Research Data shall be limited to authorised members of the project team on a need-to-use basis for the purposes of carrying out the Research.…",
+      "rationale": "The clause addresses access to Research Data during and after the Term, which is not explicitly covered by any UoA Preferred Contracting Position or Standard Template. While the comparator flagged Termination as a related topic, this clause does not directly address termination rights or obligations. It instead focuses on data access and retention, which falls outside the scope of the Positions document.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "8.3 The Parties agree that, during the course of the Research, access to the Research Data\nshall be limited to authorised members of the project team on a need-to-use basis for\nthe purposes of carrying out the Research. The Parties further agree that, at all\nreasonable times during the Term and for five (5) years after the expiration or\ntermination of the Grant and/or the RCA, whichever is later, the Grantor and its\nauthorised representatives shall be granted unhindered access to the Research Data."
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "9 ASSET OWNERSHIP",
+      "snippet": "9 ASSET OWNERSHIP",
+      "rationale": "The topic of asset ownership is not covered in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of pre-defined UoA policy and requires independent review.",
+      "standard_ref": null,
+      "text": "9 ASSET OWNERSHIP"
+    },
+    {
+      "level": "blue",
+      "clause_id": "9.1",
+      "clause_title": "9.1 The Parties agree that ownership of all equipment including accessories",
+      "snippet": "9.1 The Parties agree that ownership of all equipment including accessories purchased by a Party for the Research shall vest in that Party. If a Party purchases any software licence(s) for the Research, only the Party t…",
+      "rationale": "The clause addresses ownership of equipment and software licenses, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of pre-defined policy tiers and cannot be evaluated against them.",
+      "standard_ref": null,
+      "text": "9.1 The Parties agree that ownership of all equipment including accessories purchased by a\nParty for the Research shall vest in that Party. If a Party purchases any software licence(s)\nfor the Research, only the Party that purchases the software licence(s) for the Research\nshall have the right(s) to use the software."
+    },
+    {
+      "level": "blue",
+      "clause_id": "9.2",
+      "clause_title": "9.2 The Parties agree that any remaining term of services purchased by a Party for",
+      "snippet": "9.2 The Parties agree that any remaining term of services purchased by a Party for the Research shall vest in that Party after the Research is completed.",
+      "rationale": "The clause addresses the vesting of remaining terms of services purchased by a Party after the Research is completed, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As the topic falls outside the scope of the documented positions, it is flagged as blue.",
+      "standard_ref": null,
+      "text": "9.2 The Parties agree that any remaining term of services purchased by a Party for the\nResearch shall vest in that Party after the Research is completed."
+    },
+    {
+      "level": "blue",
+      "clause_id": "10.7",
+      "clause_title": "10.7 The provisions of this clause 10 shall survive the expiry or earlier termination of",
+      "snippet": "10.7 The provisions of this clause 10 shall survive the expiry or earlier termination of this RCA for a period of two (2) years.",
+      "rationale": "The clause addresses survival of provisions post-termination or expiry, but does not directly address termination rights or obligations as outlined in UoA Position #POS-19. Survival clauses are not explicitly covered by the UoA Preferred Contracting Positions or flagged as sensitive in the Termination topic. Therefore, this clause falls outside the scope of the Positions document and does not trigger escalation.",
+      "standard_ref": "Not covered by UoA Position document",
+      "text": "10.7 The provisions of this clause 10 shall survive the expiry or earlier termination of this RCA\nfor a period of two (2) years."
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "11 PERSONAL DATA PROTECTION ACT 2012",
+      "snippet": "11 PERSONAL DATA PROTECTION ACT 2012",
+      "rationale": "The clause addresses compliance with the Personal Data Protection Act 2012, which is not covered by the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "11 PERSONAL DATA PROTECTION ACT 2012"
+    },
+    {
+      "level": "blue",
+      "clause_id": "11.1",
+      "clause_title": "11.1 Each Party will comply with the Personal Data Protection Act 2012 and all",
+      "snippet": "11.1 Each Party will comply with the Personal Data Protection Act 2012 and all subsidiary legislation related thereto with regard to any and all personal data received from the other Party.",
+      "rationale": "The clause addresses compliance with the Personal Data Protection Act 2012, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As the topic falls outside the scope of the provided policy framework, the flag remains blue.",
+      "standard_ref": null,
+      "text": "11.1 Each Party will comply with the Personal Data Protection Act 2012 and all subsidiary\nlegislation related thereto with regard to any and all personal data received from the\nother Party."
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "(a) A statutory provision shall include that provision and any regulations made",
+      "snippet": "(a) A statutory provision shall include that provision and any regulations made pursuant to it, as from time to time modified or re-enacted whether before or after the date of this RCA;",
+      "rationale": "The clause addresses statutory provisions and their modifications or re-enactments, which is not covered by any topic in the UoA Preferred Contracting Positions. No escalation or specific policy guidance applies.",
+      "standard_ref": null,
+      "text": "(a) A statutory provision shall include that provision and any regulations made\npursuant to it, as from time to time modified or re-enacted whether before or\nafter the date of this RCA;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "(b) “month” refers to a period starting on one day in a calendar month and ending",
+      "snippet": "(b) “month” refers to a period starting on one day in a calendar month and ending on the day before the numerically corresponding day in the next calendar month;",
+      "rationale": "The clause defines the term 'month' for the purposes of the agreement, but this topic is not addressed in the UoA Preferred Contracting Positions document. As there is no applicable policy or template reference, the flag remains blue.",
+      "standard_ref": null,
+      "text": "(b) “month” refers to a period starting on one day in a calendar month and ending\non the day before the numerically corresponding day in the next calendar\nmonth;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "13 FORCE MAJEURE",
+      "snippet": "13 FORCE MAJEURE",
+      "rationale": "The topic of force majeure is not addressed in the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined positions and requires independent review.",
+      "standard_ref": null,
+      "text": "13 FORCE MAJEURE"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13.1",
+      "clause_title": "13.1 If a Party (“Affected Party”) is unable to comply with any term or condition of",
+      "snippet": "13.1 If a Party (\u001cAffected Party\u001d) is unable to comply with any term or condition of this RCA by reason of a Force Majeure event (as defined in clause 17.5 of the Grant T&Cs) beyond the reasonable control of the Affecte\u001d\u001d\u001d",
+      "rationale": "The clause addresses Force Majeure, which is not covered by the UoA Preferred Contracting Positions or any registered template for Collaboration Agreements. As such, it falls outside the scope of pre-defined policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "13.1 If a Party (“Affected Party”) is unable to comply with any term or condition of this RCA\nby reason of a Force Majeure event (as defined in clause 17.5 of the Grant T&Cs) beyond\nthe reasonable control of the Affected Party, all Parties’ obligations under this RCA shall\nbe suspended during the time and to the extent that the Affected Party is prevented\nfrom complying with the obligations provided that it shall have first given written notice\nto (who will in turn notify the Grantor) specifying the nature and details of such Force\nMajeure event and the probable extent of the suspension."
+    },
+    {
+      "level": "blue",
+      "clause_id": "13.2",
+      "clause_title": "13.2 The Affected Party shall use reasonable efforts to minimize and reduce the",
+      "snippet": "13.2 The Affected Party shall use reasonable efforts to minimize and reduce the period of suspension occasioned by the Force Majeure event and to remove or remedy such cause with all reasonable dispatch.",
+      "rationale": "The clause addresses Force Majeure, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of pre-defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "13.2 The Affected Party shall use reasonable efforts to minimize and reduce the period of\nsuspension occasioned by the Force Majeure event and to remove or remedy such cause\nwith all reasonable dispatch."
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "(c) The Schedules and Annexes form part of this RCA. Where there is conflict",
+      "snippet": "(c) The Schedules and Annexes form part of this RCA. Where there is conflict between the terms of the RCA and the Schedules, the conflicts will be resolved in the following order of priority: (i) the terms of the Grant \u0014",
+      "rationale": "The clause addresses the resolution of conflicts between the RCA and its Schedules/Annexes, which is not covered by any UoA Preferred Contracting Positions or Standard Template. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(c) The Schedules and Annexes form part of this RCA. Where there is conflict\nbetween the terms of the RCA and the Schedules, the conflicts will be resolved\nin the following order of priority: (i) the terms of the Grant Documents in Section\n1 of Schedule 1; (ii) the terms of this RCA; and (iii) Section 2 of Schedule 1,\nSchedule 2, Schedule 3 and Annexes; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "14 ILLEGALITY",
+      "snippet": "14 ILLEGALITY",
+      "rationale": "The topic of 'Illegality' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "14 ILLEGALITY"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14.1",
+      "clause_title": "14.1 The illegality, invalidity or unenforceability of any provision of this RCA shall not",
+      "snippet": "14.1 The illegality, invalidity or unenforceability of any provision of this RCA shall not affect the legality, validity or enforceability of any other provision.",
+      "rationale": "The clause addresses severability, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "14.1 The illegality, invalidity or unenforceability of any provision of this RCA shall not affect\nthe legality, validity or enforceability of any other provision."
+    },
+    {
+      "level": "blue",
+      "clause_id": "14.2",
+      "clause_title": "14.2 If any provision of this RCA is held by a court of competent jurisdiction to be",
+      "snippet": "14.2 If any provision of this RCA is held by a court of competent jurisdiction to be wholly or partly illegal, invalid or unenforceable, it shall be deemed deleted. The Parties shall negotiate in good faith to agree on a replacement provision.",
+      "rationale": "This clause addresses severability and replacement provisions, which are not covered by any UoA Preferred Contracting Position or template. While it mentions 'good faith negotiation,' this does not directly tie to the Dispute Resolution topic under POS-18, as it pertains to replacing unenforceable provisions rather than resolving disputes. No escalation is required.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "14.2 If any provision of this RCA is held by a court of competent jurisdiction to be wholly or\npartly illegal, invalid or unenforceable, it shall be deemed deleted. The Parties shall\nnegotiate in good faith to agree on a replacement provision."
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "(d) Words importing the singular only shall also include the plural and vice versa",
+      "snippet": "(d) Words importing the singular only shall also include the plural and vice versa where the context requires.",
+      "rationale": "The clause addresses a general interpretive rule (singular/plural usage) that is not covered by the UoA Preferred Contracting Positions or any specific policy. It does not conflict with any established UoA positions and is therefore flagged as blue.",
+      "standard_ref": null,
+      "text": "(d) Words importing the singular only shall also include the plural and vice versa\nwhere the context requires."
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "15 COSTS",
+      "snippet": "15 COSTS",
+      "rationale": "The topic of 'Costs' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "15 COSTS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "15.1",
+      "clause_title": "15.1 Each Party will bear its own costs, fees and expenses incurred in the negotiation,",
+      "snippet": "15.1 Each Party will bear its own costs, fees and expenses incurred in the negotiation, preparation, execution and performance of its obligations under this RCA.",
+      "rationale": "The clause addresses cost allocation for negotiation, preparation, execution, and performance of obligations, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "15.1 Each Party will bear its own costs, fees and expenses incurred in the negotiation,\npreparation, execution and performance of its obligations under this RCA."
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "16 NOTICES",
+      "snippet": "16 NOTICES",
+      "rationale": "The topic of notices is not covered in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the defined policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "16 NOTICES"
+    },
+    {
+      "level": "blue",
+      "clause_id": "16.1",
+      "clause_title": "16.1 Each and every communication under this RCA shall be made in writing.",
+      "snippet": "16.1 Each and every communication under this RCA shall be made in writing. “Writing” shall include email but shall not include facsimile.",
+      "rationale": "The clause addresses communication methods, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "16.1 Each and every communication under this RCA shall be made in writing. “Writing” shall\ninclude email but shall not include facsimile."
+    },
+    {
+      "level": "blue",
+      "clause_id": "16.2",
+      "clause_title": "16.2 Each communication to be delivered to a Party shall be sent to that Party at the",
+      "snippet": "16.2 Each communication to be delivered to a Party shall be sent to that Party at the address set out in Schedule 3 (or as may be notified by that Party from time to time), and marked for the attention of the person des…",
+      "rationale": "The clause addresses communication and notification procedures, which is not covered by any topic in the UoA Preferred Contracting Positions document. There is no applicable UoA Standard Template for this contract type, and no escalation route is specified for this topic.",
+      "standard_ref": null,
+      "text": "16.2 Each communication to be delivered to a Party shall be sent to that Party at the address\nset out in Schedule 3 (or as may be notified by that Party from time to time), and marked\nfor the attention of the person designated by that Party for the purpose of this RCA."
+    },
+    {
+      "level": "blue",
+      "clause_id": "16.3",
+      "clause_title": "16.3 A communication given to a Party shall be deemed effective:",
+      "snippet": "16.3 A communication given to a Party shall be deemed effective: (a) If delivered by hand, when delivered to the address stated above; (b) If delivered by post, three (3) days after it is posted; (c) If sent by email, a…",
+      "rationale": "The clause addresses the topic of communication and deemed effectiveness, which is not covered in the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null,
+      "text": "16.3 A communication given to a Party shall be deemed effective:\n(a) If delivered by hand, when delivered to the address stated above;\n(b) If delivered by post, three (3) days after it is posted;\n(c) If sent by email, at the time of transmission."
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "17 FURTHER ASSURANCE",
+      "snippet": "17 FURTHER ASSURANCE",
+      "rationale": "The topic of 'Further Assurance' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "17 FURTHER ASSURANCE"
+    },
+    {
+      "level": "blue",
+      "clause_id": "17.1",
+      "clause_title": "17.1 Each Party shall do and execute or procure to be done and executed all further",
+      "snippet": "17.1 Each Party shall do and execute or procure to be done and executed all further acts, things and documents as may be necessary to give effect to the terms of this RCA and, so far as it is able to, provide such assis…",
+      "rationale": "The clause addresses a general obligation for cooperation and execution of necessary actions to give effect to the agreement. This topic is not explicitly covered in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, the clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "17.1 Each Party shall do and execute or procure to be done and executed all further acts,\nthings and documents as may be necessary to give effect to the terms of this RCA and,\nso far as it is able to, provide such assistance as the other Party may reasonably request\nto give effect to the spirit and intent of this RCA."
+    },
+    {
+      "level": "blue",
+      "clause_id": "18",
+      "clause_title": "18 ENTIRE AGREEMENT",
+      "snippet": "18 ENTIRE AGREEMENT",
+      "rationale": "The topic of 'Entire Agreement' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "18 ENTIRE AGREEMENT"
+    },
+    {
+      "level": "blue",
+      "clause_id": "18.1",
+      "clause_title": "18.1 This RCA constitutes the entire agreement and understanding between the",
+      "snippet": "18.1 This RCA constitutes the entire agreement and understanding between the Parties relating to its subject matter.",
+      "rationale": "The clause addresses the topic of 'entire agreement,' which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the policy framework and cannot be evaluated against specific tiers.",
+      "standard_ref": null,
+      "text": "18.1 This RCA constitutes the entire agreement and understanding between the Parties\nrelating to its subject matter."
+    },
+    {
+      "level": "blue",
+      "clause_id": "19",
+      "clause_title": "19 ASSIGNMENT",
+      "snippet": "19 ASSIGNMENT",
+      "rationale": "The topic of assignment is not covered in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of pre-defined UoA positions and requires independent review.",
+      "standard_ref": null,
+      "text": "19 ASSIGNMENT"
+    },
+    {
+      "level": "blue",
+      "clause_id": "19.1",
+      "clause_title": "19.1 Except as expressly provided for in this RCA, no Party shall assign, transfer, or",
+      "snippet": "19.1 Except as expressly provided for in this RCA, no Party shall assign, transfer, or otherwise deal with any of its rights under this RCA nor grant, declare or dispose of any right or interest in it without the prior …",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null,
+      "text": "19.1 Except as expressly provided for in this RCA, no Party shall assign, transfer, or otherwise\ndeal with any of its rights under this RCA nor grant, declare or dispose of any right or\ninterest in it without the prior written consent of the other Party."
+    },
+    {
+      "level": "blue",
+      "clause_id": "20",
+      "clause_title": "20 VARIATIONS",
+      "snippet": "20 VARIATIONS",
+      "rationale": "The clause text does not provide any substantive content or terms regarding variations, and the UoA Preferred Contracting Positions do not explicitly address this topic in detail. While POS-21 mentions variations and extensions, it provides guidance only for substantive clauses, and this clause lacks sufficient detail to evaluate compliance.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "20 VARIATIONS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "20.1",
+      "clause_title": "20.1 Any of the Schedules to this RCA may be amended by annexing a new Schedule",
+      "snippet": "20.1 Any of the Schedules to this RCA may be amended by annexing a new Schedule in the same format that has been discussed and agreed between the Parties.",
+      "rationale": "The clause addresses the amendment of schedules, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Collaboration Agreements. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "20.1 Any of the Schedules to this RCA may be amended by annexing a new Schedule in the\nsame format that has been discussed and agreed between the Parties."
+    },
+    {
+      "level": "blue",
+      "clause_id": "20.2",
+      "clause_title": "20.2 The new Schedule shall be signed by all Parties and shall take effect from the",
+      "snippet": "20.2 The new Schedule shall be signed by all Parties and shall take effect from the date the last signatory has signed off. The outdated Schedule shall be deemed cancelled on the date on which the updated Schedule is ef…",
+      "rationale": "The clause addresses the process for updating and replacing schedules, which is not explicitly covered in the UoA Preferred Contracting Positions. There is no applicable policy or template reference for this topic.",
+      "standard_ref": null,
+      "text": "20.2 The new Schedule shall be signed by all Parties and shall take effect from the date the\nlast signatory has signed off. The outdated Schedule shall be deemed cancelled on the\ndate on which the updated Schedule is effective. Outdated Schedules shall be retained\nas part of the RCA."
+    },
+    {
+      "level": "blue",
+      "clause_id": "21",
+      "clause_title": "21 REMEDIES AND WAIVERS",
+      "snippet": "21 REMEDIES AND WAIVERS",
+      "rationale": "The topic of 'Remedies and Waivers' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "21 REMEDIES AND WAIVERS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "21.1",
+      "clause_title": "21.1 No failure on the part of any Party to exercise, and no delay on its part in",
+      "snippet": "21.1 No failure on the part of any Party to exercise, and no delay on its part in exercising, any right or remedy under this RCA will operate as a waiver thereof, nor will any full or partial exercise of any right or re…",
+      "rationale": "The clause addresses waiver of rights and remedies, a topic not covered in the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "21.1 No failure on the part of any Party to exercise, and no delay on its part in exercising, any\nright or remedy under this RCA will operate as a waiver thereof, nor will any full or partial\nexercise of any right or remedy preclude any other or further exercise thereof or the\nexercise of any other right or remedy."
+    },
+    {
+      "level": "blue",
+      "clause_id": "21.2",
+      "clause_title": "21.2 The rights provided in this RCA are cumulative and are not exclusive of any",
+      "snippet": "21.2 The rights provided in this RCA are cumulative and are not exclusive of any rights or remedies provided by law.",
+      "rationale": "The clause addresses cumulative rights and remedies, which is not covered by any topic in the UoA Preferred Contracting Positions document. As there is no applicable UoA Standard Template for this contract type, the clause falls outside the scope of pre-defined positions.",
+      "standard_ref": null,
+      "text": "21.2 The rights provided in this RCA are cumulative and are not exclusive of any rights or\nremedies provided by law."
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "22 SEVERAL OBLIGATIONS",
+      "snippet": "22 SEVERAL OBLIGATIONS",
+      "rationale": "The clause topic 'Several Obligations' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "22 SEVERAL OBLIGATIONS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "22.1",
+      "clause_title": "22.1 All covenants, undertakings and other obligations given or entered into by the",
+      "snippet": "22.1 All covenants, undertakings and other obligations given or entered into by the Parties are given or entered into severally unless the context otherwise requires. 17 Confidential",
+      "rationale": "The clause does not directly address confidentiality as defined under UoA Position #POS-11. Instead, it appears to deal with the severability of obligations between the parties, which is not covered by any UoA Preferred Contracting Position or template. The reference to 'Confidential' in the clause text does not substantively tie to confidentiality obligations as defined in POS-11. Therefore, this clause falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": "Not covered by UoA Position or template",
+      "text": "22.1 All covenants, undertakings and other obligations given or entered into by the Parties\nare given or entered into severally unless the context otherwise requires.\n17\n\nConfidential"
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "23 COUNTERPARTS",
+      "snippet": "23 COUNTERPARTS",
+      "rationale": "The topic of counterparts (execution of the agreement in multiple copies or by electronic means) is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "23 COUNTERPARTS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "23.1",
+      "clause_title": "23.1 This RCA may be signed in any number of counterparts, all of which taken",
+      "snippet": "23.1 This RCA may be signed in any number of counterparts, all of which taken together shall constitute one and the same instrument.",
+      "rationale": "The clause addresses the execution of the agreement in counterparts, which is not covered by the UoA Preferred Contracting Positions or any registered template for this contract type. As such, it falls outside the scope of the Positions document.",
+      "standard_ref": null,
+      "text": "23.1 This RCA may be signed in any number of counterparts, all of which taken together shall\nconstitute one and the same instrument."
+    },
+    {
+      "level": "blue",
+      "clause_id": "23.2",
+      "clause_title": "23.2 Any Party may enter into this RCA by signing any such counterpart and each",
+      "snippet": "23.2 Any Party may enter into this RCA by signing any such counterpart and each counterpart shall be as valid and effectual as if executed as an original.",
+      "rationale": "The clause addresses the execution of the agreement via counterparts, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null,
+      "text": "23.2 Any Party may enter into this RCA by signing any such counterpart and each counterpart\nshall be as valid and effectual as if executed as an original."
+    },
+    {
+      "level": "blue",
+      "clause_id": "24",
+      "clause_title": "24 CONTRACTS (RIGHTS OF THIRD PARTIES) ACT 2001",
+      "snippet": "24 CONTRACTS (RIGHTS OF THIRD PARTIES) ACT 2001",
+      "rationale": "The clause addresses the Contracts (Rights of Third Parties) Act 2001, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy and requires independent review.",
+      "standard_ref": null,
+      "text": "24 CONTRACTS (RIGHTS OF THIRD PARTIES) ACT 2001"
+    },
+    {
+      "level": "blue",
+      "clause_id": "24.1",
+      "clause_title": "24.1 A person who is not a party to this RCA has no rights under the Contracts (Rights",
+      "snippet": "24.1 A person who is not a party to this RCA has no rights under the Contracts (Rights of Third Parties) Act 2001 to enforce any term of this RCA. This does not affect any right or remedy of a third party which exists o…",
+      "rationale": "The clause addresses third-party rights under the Contracts (Rights of Third Parties) Act 2001, which is not covered by the UoA Preferred Contracting Positions or any registered template for Collaboration Agreements. As such, it falls outside the scope of the UoA policy framework and cannot be evaluated against specific tiers.",
+      "standard_ref": null,
+      "text": "24.1 A person who is not a party to this RCA has no rights under the Contracts (Rights of Third\nParties) Act 2001 to enforce any term of this RCA. This does not affect any right or remedy\nof a third party which exists or is available apart from the said Act."
+    },
+    {
+      "level": "blue",
+      "clause_id": "26",
+      "clause_title": "26 SURVIVAL",
+      "snippet": "26 SURVIVAL",
+      "rationale": "The topic of survival clauses is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the existing guidance and is flagged as blue.",
+      "standard_ref": null,
+      "text": "26 SURVIVAL"
+    },
+    {
+      "level": "green",
+      "clause_id": "5.1",
+      "clause_title": "5.1 Each Party is an organisation duly organised, existing and registered under the",
+      "snippet": "5.1 Each Party is an organisation duly organised, existing and registered under the laws of their respective country of incorporation.",
+      "rationale": "This clause does not directly address the topic of Governing Law and Jurisdiction (POS-16). Instead, it is a standard representation of the legal status of the parties, which is unrelated to the governing law of the agreement. As such, it does not conflict with UoA's Preferred or Acceptable positions and does not require escalation.",
+      "standard_ref": "Not applicable to UoA Position #POS-16",
+      "text": "5.1 Each Party is an organisation duly organised, existing and registered under the laws of their respective country of incorporation."
+    },
+    {
+      "level": "green",
+      "clause_id": "10.5",
+      "clause_title": "10.5 Nothing in this RCA shall prohibit or limit a Party's use of information (including,",
+      "snippet": "10.5 Nothing in this RCA shall prohibit or limit a Party's use of information (including, but not limited to, ideas, concepts, Know-how, techniques, and methodologies): (a) previously known to it without an obligation n…",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It explicitly excludes information that is already public, independently developed, previously known, or legally required to be disclosed, which matches the Preferred tier. The clause does not conflict with UoA's ability to disclose to agents and Affiliates, nor does it impose unreasonable restrictions on confidentiality obligations.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10.5 Nothing in this RCA shall prohibit or limit a Party's use of information (including, but not\nlimited to, ideas, concepts, Know-how, techniques, and methodologies):\n(a) previously known to it without an obligation not to disclose such information;\n(b) independently developed by or for it without use of the other Party’s\nConfidential Information;\n(c) acquired by it from a third party which is not, to its knowledge, under an\nobligation not to disclose such information; or\n(d) which is or becomes publicly available through no breach of this RCA."
+    },
+    {
+      "level": "green",
+      "clause_id": "10.6",
+      "clause_title": "10.6 Notwithstanding the foregoing, a Party shall be entitled to make any disclosure",
+      "snippet": "10.6 Notwithstanding the foregoing, a Party shall be entitled to make any disclosure required by law, court order or by any governmental or other regulatory authority or relevant stock exchange of the other Party's Conf\u0014",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality, which explicitly allows disclosure of confidential information when required by law, court order, or regulatory authority. The clause also includes the requirement to inform the other party to the extent legally permitted, which is consistent with the Preferred tier. No escalation is required.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "10.6 Notwithstanding the foregoing, a Party shall be entitled to make any disclosure required\nby law, court order or by any governmental or other regulatory authority or relevant\nstock exchange of the other Party's Confidential Information provided that, to the extent\nlegally permitted, the other Party is informed of the same."
+    },
+    {
+      "level": "green",
+      "clause_id": "12.1",
+      "clause_title": "12.1 Each Party warrants and represents to each of the other Parties that it has full",
+      "snippet": "12.1 Each Party warrants and represents to each of the other Parties that it has full authority, power and capacity to enter into this RCA, and that all necessary actions have been taken to enable it lawfully to enter i…",
+      "rationale": "The clause aligns with UoA Position POS-10 on Warranties, which states that the University should warrant it has authority to enter into the contract. This clause matches the preferred tier as it addresses the authority to enter into the agreement without offering additional warranties.",
+      "standard_ref": "UoA Position #POS-10",
+      "text": "12.1 Each Party warrants and represents to each of the other Parties that it has full authority,\npower and capacity to enter into this RCA, and that all necessary actions have been taken\nto enable it lawfully to enter into this RCA."
+    },
+    {
+      "level": "green",
+      "clause_id": "12.8",
+      "clause_title": "12.8 No Party shall be liable to the other Party for any special, indirect or",
+      "snippet": "12.8 No Party shall be liable to the other Party for any special, indirect or consequential loss or damage or for any loss of business, income, profits or contracts arising from the second-mentioned Party’s participation in the Research.",
+      "rationale": "The clause explicitly excludes liability for special, indirect, or consequential losses, as well as for loss of business, income, profits, or contracts. This aligns with the UoA Preferred Position under POS-07, which requires the explicit exclusion of consequential or indirect losses, as well as losses related to profit, revenue, savings, business, and goodwill. The clause does not introduce any unacceptable carve-outs or deviations from the Preferred Position.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "12.8 No Party shall be liable to the other Party for any special, indirect or consequential loss\nor damage or for any loss of business, income, profits or contracts arising from the\nsecond-mentioned Party’s participation in the Research."
+    },
+    {
+      "level": "green",
+      "clause_id": "18.2",
+      "clause_title": "18.2 No Party has entered into this RCA in reliance upon any representation, warranty",
+      "snippet": "18.2 No Party has entered into this RCA in reliance upon any representation, warranty or undertaking of the other Parties which is not set out or referred to in this RCA.",
+      "rationale": "The clause aligns with UoA Position #POS-10 on Warranties, as it effectively excludes reliance on any warranties or representations not explicitly stated in the contract. This matches the Preferred tier, which requires the exclusion of all warranties except those explicitly stated (authority to enter into the contract and performance to a professional standard). No escalation is required.",
+      "standard_ref": "UoA Position #POS-10",
+      "text": "18.2 No Party has entered into this RCA in reliance upon any representation, warranty or\nundertaking of the other Parties which is not set out or referred to in this RCA."
+    },
+    {
+      "level": "green",
+      "clause_id": "18.3",
+      "clause_title": "18.3 Nothing in this clause shall limit or exclude liability for fraud.",
+      "snippet": "18.3 Nothing in this clause shall limit or exclude liability for fraud.",
+      "rationale": "The clause addresses a carve-out for fraud, which is explicitly listed as an acceptable carve-out from the liability cap in UoA Position #POS-07. This aligns with the Acceptable tier of the UoA Preferred Contracting Positions for Liability Limitations and Exclusions. No escalation is required.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "18.3 Nothing in this clause shall limit or exclude liability for fraud.\n16\n\nConfidential"
+    },
+    {
+      "level": "green",
+      "clause_id": "20.3",
+      "clause_title": "20.3 Apart from the above, no other variation of this RCA shall be valid unless it is in",
+      "snippet": "20.3 Apart from the above, no other variation of this RCA shall be valid unless it is in writing and signed by or on behalf of each Party. The expression \u001cvariation\u001d shall include any amendment, supplement, deletion, replacement or rescission.",
+      "rationale": "The clause aligns with UoA Position #POS-21, which requires that all variations be negotiated and executed in writing. The clause explicitly states that variations must be in writing and signed by both parties, which matches the Preferred tier of the UoA Position. The additional clarification of what constitutes a 'variation' (amendment, supplement, deletion, replacement, or rescission) does not conflict with the UoA Position.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "20.3 Apart from the above, no other variation of this RCA shall be valid unless it is in writing\nand signed by or on behalf of each Party. The expression “variation” shall include any\namendment, supplement, deletion, replacement or rescission."
+    },
+    {
+      "level": "green",
+      "clause_id": "20.5",
+      "clause_title": "20.5 A variation made in accordance with this Clause 20 shall not require",
+      "snippet": "20.5 A variation made in accordance with this Clause 20 shall not require consideration for the variation to be binding and enforceable.",
+      "rationale": "The clause addresses the enforceability of variations without requiring consideration, which is consistent with UoA's Preferred Position under POS-21. The clause does not contradict the requirement that all variations must be negotiated and executed in writing prior to expiry of the current Agreement, as it focuses solely on the legal enforceability of variations. This aligns with the Preferred Position for Variations and Extensions.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "20.5 A variation made in accordance with this Clause 20 shall not require consideration for\nthe variation to be binding and enforceable."
+    },
+    {
+      "level": "green",
+      "clause_id": "25.1",
+      "clause_title": "25.1 This RCA shall be governed by, and construed in accordance with the laws of",
+      "snippet": "25.1 This RCA shall be governed by, and construed in accordance with the laws of Singapore.",
+      "rationale": "The clause addresses the topic of Governing Law and Jurisdiction and specifies Singapore as the governing law. According to UoA Position #POS-16, Singapore is listed as an acceptable jurisdiction. Therefore, the clause aligns with the Acceptable tier and does not require escalation.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "25.1 This RCA shall be governed by, and construed in accordance with the laws of Singapore."
+    },
+    {
+      "level": "green",
+      "clause_id": "25.3",
+      "clause_title": "25.3 The Parties agree to submit to the exclusive jurisdiction of the courts of",
+      "snippet": "25.3 The Parties agree to submit to the exclusive jurisdiction of the courts of Singapore any dispute which cannot be resolved in the manner mentioned above.",
+      "rationale": "The clause aligns with UoA Position #POS-16, which lists Singapore as an acceptable jurisdiction for governing law and dispute resolution. Exclusive jurisdiction is consistent with the acceptable tier for Singapore.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "25.3 The Parties agree to submit to the exclusive jurisdiction of the courts of Singapore any\ndispute which cannot be resolved in the manner mentioned above."
+    }
+  ],
+  "counts": {
+    "green": 11,
+    "amber": 46,
+    "red": 10,
+    "blue": 78
+  },
+  "generated_at": "2026-05-29T13:26:04.990104+00:00",
+  "metrics": {
+    "n_calls": 5,
+    "input_tokens": 21261,
+    "output_tokens": 5033,
+    "total_tokens": 26294,
+    "latency_ms": 137725.7,
+    "total_cost_usd": 0.103483,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

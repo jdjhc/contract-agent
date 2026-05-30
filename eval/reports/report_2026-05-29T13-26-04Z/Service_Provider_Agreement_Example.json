@@ -1,0 +1,393 @@
+{
+  "document_id": "Service_Provider_Agreement_Example_pdf",
+  "filename": "Service Provider Agreement Example.pdf",
+  "contract_type": "Provision of Services Agreement",
+  "contract_type_confidence": 0.9,
+  "summary": "The review of the \"Service Provider Agreement Example.pdf\" indicates a moderate risk posture overall, with several clauses flagged for further review or escalation. Key issues include overly broad indemnity obligations (red flag) and deviations from UoA's Preferred Positions on confidentiality, intellectual property, and termination rights (amber flags). Immediate next steps should involve escalating flagged clauses to the appropriate UoA teams, such as the Senior Manager for Research Grants and Contracts and the Head of IP at UniServices, to ensure compliance with institutional policies and mitigate potential risks.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "24",
+      "clause_title": "(c) all other liabilities and expenses of whatever nature relating to the Service",
+      "snippet": "(c) all other liabilities and expenses of whatever nature relating to the Service Provider. The Service Provider indemnifies the Company against all such taxes, levies, insurance premiums and other expenses.",
+      "rationale": "The clause imposes an indemnity obligation on the Service Provider for 'all other liabilities and expenses of whatever nature,' which is overly broad and undefined. This conflicts with UoA's Preferred Contracting Position on indemnities (POS-08), which explicitly limits indemnities to damage/injury caused by negligent acts/omissions or wilful misconduct, and requires liability under indemnities to be capped within the total liability limit. Additionally, indemnities against taxes, levies, and insurance premiums are not addressed in the UoA Positions and are outside the scope of acceptable indemnity terms. Escalation to Auckland UniServices Ltd or the Research Grants and Contracts Delegations is required.",
+      "standard_ref": "UoA Position #POS-08",
+      "text": "(c) all other liabilities and expenses of whatever nature relating to the Service\nProvider.\nThe Service Provider indemnifies the Company against all such taxes, levies, insurance\npremiums and other expenses."
+    },
+    {
+      "level": "red",
+      "clause_id": "36",
+      "clause_title": "(f) not do anything to prejudice the good name of the Company in any dealings with",
+      "snippet": "(f) not do anything to prejudice the good name of the Company in any dealings with third parties including clients/customers;",
+      "rationale": "This clause falls under the 'No Disrepute Clauses' topic (POS-20). UoA's Preferred Position explicitly rejects clauses that preclude academic staff or students from actions that might bring the client into 'disrepute'. The clause does not include the required statutory academic freedom wording ('Nothing in this Agreement will limit the rights of the University's personnel to exercise the academic freedoms enshrined in s267 of the Education and Training Act 2020 (NZ)'). Without this safeguard, the clause materially deviates from UoA's Preferred Position and triggers escalation to the Senior Manager Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-20",
+      "text": "(f) not do anything to prejudice the good name of the Company in any dealings with\nthird parties including clients/customers;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.1",
+      "clause_title": "2.1 The Service Provider’s appointment will commence on the date specified in Item 6",
+      "snippet": "2.1 The Service Provider’s appointment will commence on the date specified in Item 6 of the Schedule and, subject to clauses 2.6 and 9, will terminate on the date specified in Item 7 of the Schedule without the need for either party to give the other party any notice.",
+      "rationale": "The clause touches on termination but does not explicitly align with UoA's Preferred Position for mutual two-way termination for material breach or insolvency, nor does it provide a clear right for UoA to terminate for failure to pay. The absence of notice for termination raises concerns about accrued rights and benefits, as well as termination costs, which are critical under UoA Position #POS-19. While the clause does not outright contradict the Acceptable tier, it requires further review to ensure compliance with UoA's termination standards.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "2.1 The Service Provider’s appointment will commence on the date specified in Item 6 of\nthe Schedule and, subject to clauses 2.6 and 9, will terminate on the date specified in\nItem 7 of the Schedule without the need for either party to give the other party any\nnotice."
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.3",
+      "clause_title": "2.3 The parties agree that the Service Provider’s Key Personnel defined in Item 10 of",
+      "snippet": "2.3 The parties agree that the Service Provider’s Key Personnel defined in Item 10 of the Schedule, are the person(s) to provide the Services on behalf of the Service Provider. Any variation to the Service Provider’s Key Personnel must be approved in writing by the Company. Either party may terminate this Agreement on notice to the other party if the parties fail to agree a replacement Key Personnel within 30 days of the Company’s receipt of the Service Provider’s notice under this clause 2.3.",
+      "rationale": "This clause touches on termination rights, which are sensitive under UoA Position #POS-19. While the clause allows termination for failure to agree on replacement Key Personnel, it does not explicitly align with UoA's preferred position of mutual two-way termination for material breach or insolvency, nor does it address accrued rights or termination costs. However, it does not fall outside the acceptable tier, as termination for convenience is not explicitly invoked, and the clause is specific to personnel replacement. Escalation to the Senior Manager, Research Grants and Contracts is recommended for further review.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "2.3 The parties agree that the Service Provider’s Key Personnel defined in Item 10 of the\nSchedule, are the person(s) to provide the Services on behalf of the Service Provider.\nAny variation to the Service Provider’s Key Personnel must be approved in writing by\nthe Company. Either party may terminate this Agreement on notice to the other party\nif the parties fail to agree a replacement Key Personnel within 30 days of the Company’s\nreceipt of the Service Provider’s notice under this clause 2.3."
+    },
+    {
+      "level": "amber",
+      "clause_id": "10",
+      "clause_title": "(b) developed independently of this Agreement and any information of the",
+      "snippet": "(b) developed independently of this Agreement and any information of the Disclosing Party; or received by the Recipient from a third party without restriction and without any breach of any obligation of confidentiality.",
+      "rationale": "The clause touches on the topic of Confidentiality, specifically the definition of confidential information. While it aligns partially with UoA Position #POS-11 by excluding information independently developed or received from a third party without restriction, it does not explicitly address UoA's preferred position regarding public information, previously known information, or legally required disclosures. Additionally, the clause does not specify the duration of confidentiality obligations, which is a critical aspect of UoA's preferred and acceptable tiers. This deviation places the clause in the amber tier, requiring confirmation or adjustment by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) developed independently of this Agreement and any information of the\nDisclosing Party; or received by the Recipient from a third party without\nrestriction and without any breach of any obligation of confidentiality.\nData Outputs means the output of the Algorithm in the form of lists of raw product\nrecommendations (inventory choices) for each iteration of product orders.\nDocumentation means details of the algorithm processes (but not the code) and\nprocessing environment."
+    },
+    {
+      "level": "amber",
+      "clause_id": "22",
+      "clause_title": "(a) its own liability for all taxes, payments, and levies under any relevant legislation",
+      "snippet": "(a) its own liability for all taxes, payments, and levies under any relevant legislation including the Income Tax Act 2007 and all accident compensation legislation;",
+      "rationale": "The clause addresses taxation, which is a UoA-sensitive topic under Position #POS-06. While it specifies liability for taxes and levies under relevant legislation, it does not explicitly align with the Preferred Position for NZ contracts ('costs presented as excluding GST') or overseas contracts ('costs excluding any applicable taxes and duties, payable by the Client on any taxable supplies'). The clause does not contradict the Position but lacks the specificity required for full alignment. Escalation to the Tax and Compliance team is recommended to confirm compliance with UoA's tax-related requirements.",
+      "standard_ref": "UoA Position #POS-06",
+      "text": "(a) its own liability for all taxes, payments, and levies under any relevant legislation\nincluding the Income Tax Act 2007 and all accident compensation legislation;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "23",
+      "clause_title": "(b) registering for GST and complying with the Goods and Services Tax Act 1985 and",
+      "snippet": "(b) registering for GST and complying with the Goods and Services Tax Act 1985 and all GST requirements;",
+      "rationale": "The clause addresses GST compliance, which is relevant to UoA Position #POS-06 on Taxation. However, it does not explicitly align with the Preferred Position, which specifies that NZ contracts should present costs as 'excluding GST' and overseas contracts should present costs as 'excluding any applicable taxes and duties, payable by the Client on any taxable supplies.' The clause does not clarify whether these requirements are met, and further review by the Tax and Compliance team may be necessary to ensure compliance with UoA's tax-related standards.",
+      "standard_ref": "UoA Position #POS-06",
+      "text": "(b) registering for GST and complying with the Goods and Services Tax Act 1985 and\nall GST requirements;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "C",
+      "clause_title": "Confidential Information of a party (Disclosing Party) means all information that is",
+      "snippet": "Confidential Information of a party (Disclosing Party) means all information that is about the Disclosing Party, its Affiliates, or its or its Affiliates’ affairs, or obtained by the other party (Recipient) directly or indirectly from the Disclosing Party or its Affiliates in connection with this Agreement, and includes the terms and conditions of this Agreement, but excludes information:",
+      "rationale": "The clause addresses the definition of Confidential Information but does not explicitly exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed, as required by UoA's Preferred Position. Additionally, the clause does not specify the duration of confidentiality obligations (up to 5 years post-completion as per Preferred Position). These omissions place the clause in the Acceptable tier, requiring confirmation of compliance with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "Confidential Information of a party (Disclosing Party) means all information that is\nabout the Disclosing Party, its Affiliates, or its or its Affiliates’ affairs, or obtained by\nthe other party (Recipient) directly or indirectly from the Disclosing Party or its\nAffiliates in connection with this Agreement, and includes the terms and conditions of\nthis Agreement, but excludes information:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "I",
+      "clause_title": "Improvement means any improvement, development, enhancement, modification or",
+      "snippet": "Improvement means any improvement, development, enhancement, modification or derivative of any product, design, process or Intellectual Property Right that cannot be used independently of such product, design, process o…",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices Ltd for review. UoA Position #POS-IP mandates that all IP clauses, regardless of wording, require referral to the Head of IP at UniServices.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "Improvement means any improvement, development, enhancement, modification or\nderivative of any product, design, process or Intellectual Property Right that cannot be\nused independently of such product, design, process or Intellectual Property Right;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "I",
+      "clause_title": "Intellectual Property Rights means all intellectual property rights conferred by law",
+      "snippet": "Intellectual Property Rights means all intellectual property rights conferred by law and includes the rights to, and any interests in, any patent, trade mark, service mark, copyright, moral right, trade name, brand name…",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly excluded from UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "Intellectual Property Rights means all intellectual property rights conferred by law\nand includes the rights to, and any interests in, any patent, trade mark, service mark,\ncopyright, moral right, trade name, brand name, logo, corporate dress, right to use,\ndomain name, social media presence, handle and account, technical information, right\nin computer software, databases and lists, right in inventions, right in a design, know-\nhow, trade secret, confidential information and any other proprietary right or form of\nintellectual property rights (whether or not registered or capable of registration), and\nthe right to register, renew or extend any of the foregoing rights;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "P",
+      "clause_title": "Pre-existing IP means the Intellectual Property Rights that a party makes available to",
+      "snippet": "Pre-existing IP means the Intellectual Property Rights that a party makes available to the other party under this Agreement which existed prior to the Commencement Date or which were created independently to the perform…",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "Pre-existing IP means the Intellectual Property Rights that a party makes available to\nthe other party under this Agreement which existed prior to the Commencement Date\nor which were created independently to the performance of this Agreement, and in the\ncase of the Service Provider’s Pre-existing IP, includes any Improvements to those\nIntellectual Property Rights;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. Interpretation",
+      "snippet": "1. Interpretation",
+      "rationale": "The topic of 'Interpretation' is not covered by the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "1. Interpretation"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 In this Agreement, unless the context otherwise requires:",
+      "snippet": "1.1 In this Agreement, unless the context otherwise requires:",
+      "rationale": "The clause is a general interpretive provision and does not fall under any specific topic addressed in the UoA Preferred Contracting Positions. It is standard legal boilerplate and does not conflict with any UoA policy.",
+      "standard_ref": null,
+      "text": "1.1 In this Agreement, unless the context otherwise requires:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 In this Agreement:",
+      "snippet": "1.2 In this Agreement:",
+      "rationale": "The clause appears to be introductory or definitional in nature, and its topic is not addressed in the UoA Preferred Contracting Positions. No specific policy or template guidance applies.",
+      "standard_ref": null,
+      "text": "1.2 In this Agreement:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. Appointment and term",
+      "snippet": "2. Appointment and term",
+      "rationale": "The topic of 'Appointment and term' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "2. Appointment and term"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2",
+      "clause_title": "2.2 The Service Provider will be responsible for:",
+      "snippet": "2.2 The Service Provider will be responsible for:",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of predefined policy or guidance.",
+      "standard_ref": null,
+      "text": "2.2 The Service Provider will be responsible for:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.4",
+      "clause_title": "2.4 The Service Provider will perform the Services and will not incur any obligations on",
+      "snippet": "2.4 The Service Provider will perform the Services and will not incur any obligations on behalf of the Company without the Company’s prior written consent.",
+      "rationale": "The clause addresses the Service Provider's obligation not to incur obligations on behalf of the Company without prior written consent. This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null,
+      "text": "2.4 The Service Provider will perform the Services and will not incur any obligations on\nbehalf of the Company without the Company’s prior written consent."
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.5",
+      "clause_title": "2.5 The parties acknowledge that the Service Provider is not in partnership, joint venture,",
+      "snippet": "2.5 The parties acknowledge that the Service Provider is not in partnership, joint venture, or integrated into the business of the Company and is in business on the Service Provider’s own account.",
+      "rationale": "The clause addresses the relationship between the parties (e.g., not a partnership or joint venture), which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null,
+      "text": "2.5 The parties acknowledge that the Service Provider is not in partnership, joint venture,\nor integrated into the business of the Company and is in business on the Service\nProvider’s own account."
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.6",
+      "clause_title": "2.6 If the parties agree that the Service Provider’s appointment will continue after the",
+      "snippet": "2.6 If the parties agree that the Service Provider’s appointment will continue after the date specified in Item 7 of the Schedule, both parties’ authorised representatives defined in Item 2 and Item 3 should be notified.",
+      "rationale": "The clause addresses a procedural matter regarding notification of authorised representatives for an extension of the Service Provider's appointment. This topic is not covered in the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "2.6 If the parties agree that the Service Provider’s appointment will continue after the\ndate specified in Item 7 of the Schedule, both parties’ authorised representatives\ndefined in Item 2 and Item 3 should be notified."
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. Obligations of the Service Provider",
+      "snippet": "3. Obligations of the Service Provider",
+      "rationale": "The clause addresses 'Obligations of the Service Provider,' which is not explicitly covered in the UoA Preferred Contracting Positions or tied to any specific policy. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3. Obligations of the Service Provider"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 The Service Provider will:",
+      "snippet": "3.1 The Service Provider will:",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "3.1 The Service Provider will:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 The Service Provider warrants that the Services will meet the quality standards and",
+      "snippet": "3.2 The Service Provider warrants that the Services will meet the quality standards and specifications set out in Item 4 of the Schedule, within the timetable (if any) set out in Item 4 of the Schedule.",
+      "rationale": "The clause addresses a warranty regarding the quality standards and specifications of the services, which is not explicitly covered in the UoA Preferred Contracting Positions. There is no specific guidance or template for this topic, and it does not conflict with any existing UoA positions.",
+      "standard_ref": null,
+      "text": "3.2 The Service Provider warrants that the Services will meet the quality standards and\nspecifications set out in Item 4 of the Schedule, within the timetable (if any) set out in\nItem 4 of the Schedule."
+    },
+    {
+      "level": "blue",
+      "clause_id": "9",
+      "clause_title": "(a) which is or becomes public knowledge, other than as a result of any fault of the",
+      "snippet": "(a) which is or becomes public knowledge, other than as a result of any fault of the Recipient or its permitted disclosees;",
+      "rationale": "The clause addresses confidentiality exclusions, specifically public knowledge not caused by the Recipient or its disclosees. While confidentiality is covered under UoA Position POS-11, this specific phrasing does not align with the Preferred or Acceptable tiers and is not explicitly addressed in the Positions document. Therefore, it falls outside the scope of the defined policy.",
+      "standard_ref": null,
+      "text": "(a) which is or becomes public knowledge, other than as a result of any fault of the\nRecipient or its permitted disclosees;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "(a) clause and other headings are for ease of reference only and will not be deemed",
+      "snippet": "(a) clause and other headings are for ease of reference only and will not be deemed to form any part of the context or to affect the interpretation of this Agreement; and",
+      "rationale": "The clause addresses the interpretation of headings in the agreement, a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null,
+      "text": "(a) clause and other headings are for ease of reference only and will not be deemed\nto form any part of the context or to affect the interpretation of this Agreement;\nand"
+    },
+    {
+      "level": "blue",
+      "clause_id": "18",
+      "clause_title": "(b) words importing the singular include the plural and vice versa.",
+      "snippet": "(b) words importing the singular include the plural and vice versa.",
+      "rationale": "The clause addresses a general interpretative rule (singular/plural usage) that is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null,
+      "text": "(b) words importing the singular include the plural and vice versa."
+    },
+    {
+      "level": "blue",
+      "clause_id": "31",
+      "clause_title": "(a) perform the Services on the terms set out in this Agreement with due care, skill",
+      "snippet": "(a) perform the Services on the terms set out in this Agreement with due care, skill and diligence and in a timely and professional manner;",
+      "rationale": "The clause addresses the standard of performance for services (due care, skill, diligence, timeliness, and professionalism). This topic is not explicitly covered in the UoA Preferred Contracting Positions or tied to any specific policy. As such, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(a) perform the Services on the terms set out in this Agreement with due care, skill\nand diligence and in a timely and professional manner;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "32",
+      "clause_title": "(b) provide the Company with such information, and prepare such reports, in relation",
+      "snippet": "(b) provide the Company with such information, and prepare such reports, in relation to the Services as the Company may reasonably require as outlined in the Schedule;",
+      "rationale": "The clause addresses reporting and information provision requirements, which are not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(b) provide the Company with such information, and prepare such reports, in relation\nto the Services as the Company may reasonably require as outlined in the\nSchedule;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "33",
+      "clause_title": "(c) give priority to the Company’s requirements in the carrying out of the Services;",
+      "snippet": "(c) give priority to the Company’s requirements in the carrying out of the Services;",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template. There is no specific policy guidance or escalation route for clauses requiring prioritization of the Company's requirements.",
+      "standard_ref": null,
+      "text": "(c) give priority to the Company’s requirements in the carrying out of the Services;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "(d) may, with the prior written consent of the Company, engage a nominated sub-",
+      "snippet": "(d) may, with the prior written consent of the Company, engage a nominated sub- Service Provider provided they are suitably skilled to perform the Services and are beforehand approved by the Company to carry out any par…",
+      "rationale": "The clause addresses subcontracting, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy guidance exists for this topic.",
+      "standard_ref": null,
+      "text": "(d) may, with the prior written consent of the Company, engage a nominated sub-\nService Provider provided they are suitably skilled to perform the Services and are\nbeforehand approved by the Company to carry out any part of the Services but,\nin such event, will take full responsibility for all aspects of the sub-Service\nProvider’s performance, remuneration and compliance with the terms of this\nagreement and of any relevant legislation or regulations;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "35",
+      "clause_title": "(e) comply with the Health and Safety at Work Act 2015, and any health and safety",
+      "snippet": "(e) comply with the Health and Safety at Work Act 2015, and any health and safety procedures of the Company and of any site where the Services are being carried out;",
+      "rationale": "The clause addresses compliance with health and safety laws and procedures, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(e) comply with the Health and Safety at Work Act 2015, and any health and safety\nprocedures of the Company and of any site where the Services are being carried\nout;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "37",
+      "clause_title": "(g) at its own cost, make good any errors or omissions in the Services of which the",
+      "snippet": "(g) at its own cost, make good any errors or omissions in the Services of which the Company notifies the Service Provider in writing during the term of this Agreement; and",
+      "rationale": "The clause addresses the obligation of the Service Provider to rectify errors or omissions at its own cost during the term of the Agreement. This topic is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(g) at its own cost, make good any errors or omissions in the Services of which the\nCompany notifies the Service Provider in writing during the term of this\nAgreement; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(h) notify the Company of any interest the Service Provider may have which conflicts",
+      "snippet": "(h) notify the Company of any interest the Service Provider may have which conflicts with the Company’s interests immediately on becoming aware of such conflict.",
+      "rationale": "The clause addresses a conflict-of-interest notification requirement, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(h) notify the Company of any interest the Service Provider may have which conflicts\nwith the Company’s interests immediately on becoming aware of such conflict."
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Agreement means this Service Provider Agreement including the Schedule.",
+      "snippet": "Agreement means this Service Provider Agreement including the Schedule.",
+      "rationale": "The clause defines the term 'Agreement' but does not address any topic covered by the UoA Preferred Contracting Positions. As there is no UoA Standard Template for this contract type, the clause falls outside the scope of the Positions document.",
+      "standard_ref": null,
+      "text": "Agreement means this Service Provider Agreement including the Schedule."
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Algorithm means a set of code created under the Services for an inventory",
+      "snippet": "Algorithm means a set of code created under the Services for an inventory management solution.",
+      "rationale": "The clause defines 'Algorithm' as a set of code created under the Services for an inventory management solution. This topic is not addressed in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "Algorithm means a set of code created under the Services for an inventory\nmanagement solution."
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Data Outputs means the output of the Algorithm in the form of lists of raw product",
+      "snippet": "Data Outputs means the output of the Algorithm in the form of lists of raw product recommendations (inventory choices) for an iteration of product orders.",
+      "rationale": "The clause defines 'Data Outputs' in relation to the Algorithm's output, which is not a topic covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Data Outputs means the output of the Algorithm in the form of lists of raw product\nrecommendations (inventory choices) for an iteration of product orders."
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Documentation means details of the algorithm processes (but not the code) and",
+      "snippet": "Documentation means details of the algorithm processes (but not the code) and processing environment.",
+      "rationale": "The clause defines 'Documentation' in terms of algorithm processes and processing environment, which is not addressed in the UoA Preferred Contracting Positions or covered by any UoA Standard Template. As such, it falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "Documentation means details of the algorithm processes (but not the code) and\nprocessing environment."
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Services means the services to be performed by the Service Provider as described in",
+      "snippet": "Services means the services to be performed by the Service Provider as described in Item 4 of the Schedule; and",
+      "rationale": "The clause defines 'Services' but does not address any topic covered by the UoA Preferred Contracting Positions. No applicable policy or template exists for this definition, making it outside the scope of the Positions document.",
+      "standard_ref": null,
+      "text": "Services means the services to be performed by the Service Provider as described in\nItem 4 of the Schedule; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "This Agreement is made on the date set out in Item 1 of the Schedule",
+      "snippet": "This Agreement is made on the date set out in Item 1 of the Schedule Between (1) The company whose name appears in Item 2 of the Schedule (the Company) And The University of Auckland (2) The company whose name appears i…",
+      "rationale": "The clause addresses introductory and procedural matters related to the agreement's formation and parties involved. This topic is not covered by the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null,
+      "text": "This Agreement is made on the date set out in Item 1 of the Schedule\nBetween\n(1) The company whose name appears in Item 2 of the Schedule (the Company)\nAnd The University of Auckland\n(2) The company whose name appears in Item 3 of the Schedule (the\nService Provider).\nIntroduction\nA. The Company wishes to appoint the Service Provider to carry out certain services and\nthe Service Provider has agreed to accept such appointment.\nB. The parties wish to record the terms and conditions upon which the Services will be\ncarried out.\nC. The Service Provider has appointed its wholly-owned subsidiary, Auckland\nUniServices Limited (UniServices), as its agent to procure and enter into agreements\non the Service Provider’s behalf in relation to the performance of these types of\nservices.\nIt is agreed"
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "Working Day means a day on which businesses and banks in Auckland are generally",
+      "snippet": "Working Day means a day on which businesses and banks in Auckland are generally open for business.",
+      "rationale": "The clause defines 'Working Day,' which is not addressed in the UoA Preferred Contracting Positions or tied to any specific policy. As such, it falls outside the scope of the Positions document and does not conflict with any established UoA standards.",
+      "standard_ref": null,
+      "text": "Working Day means a day on which businesses and banks in Auckland are generally\nopen for business."
+    },
+    {
+      "level": "green",
+      "clause_id": "3.3",
+      "clause_title": "3.3 The Service Provider agrees that this Agreement does not in any way prevent, restrict",
+      "snippet": "3.3 The Service Provider agrees that this Agreement does not in any way prevent, restrict or limit the Company from engaging other persons to provide the same or similar services and that no claim shall like against the Company should the Company exercise such rights.",
+      "rationale": "This clause does not impose any liability on the University or materially deviate from UoA's Preferred or Acceptable positions on liability limitations and exclusions. It simply clarifies that the Company may engage other service providers without liability. There is no indication of liability exposure, indemnities, or indirect/consequential losses that would trigger escalation under UoA Position #POS-07.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "3.3 The Service Provider agrees that this Agreement does not in any way prevent, restrict\nor limit the Company from engaging other persons to provide the same or similar\nservices and that no claim shall like against the Company should the Company exercise\nsuch rights.\n4. Obligations of the Company\n4.1 The Company will pay the Service Provider for the Services the fees and expenses set\nout in Item 5 of the Schedule at the times and in the manner set out in clause 6 and\nItem 5 of the Schedule on receipt of an itemised GST invoice from the Service Provider.\nThe Company shall make all necessary withholding tax deductions from the charges\npayable to the Service Provider unless this is not required, or the Service Provider\nsupplies the Company with a Certificate of Exemption.\n4.2 The Company will co-operate with the Service Provider and will provide the Service\nProvider with all information in its possession which may be relevant to the provision\nof the Services.\n5. Progress meetings\n5.1 During the term of this Agreement, the parties will hold progress meetings for the\npurpose of allowing the Company and the Service Provider to discuss the performance\nof the Services. These meetings will be held at such times and locations as the Company\nmay reasonably require.\n6. Payment\n6.1 If any invoice submitted by the Service Provider is disputed by the Company, the\nCompany will notify the Service Provider of the reasons for the dispute but will\notherwise pay that part of the invoice which is not disputed. Any disputed amount will\nbe resolved in accordance with clause 10.\n\n6.2 The Service Provider will be responsible for all expenses incurred in the carrying out of\nthe Services unless as otherwise listed in the Schedule.\n7. Intellectual Property & Confidential information\n7.1 The Service Provider acknowledges the strict confidentiality and proprietary nature of\nall Confidential Information and that no right, entitlement or interest in the Confidential\nInformation is extended to or conveyed to the Service Provider other than for the strict\npurpose of performing the Services. The Service Provider also acknowledges that the\nService Provider may become aware of or be given Confidential Information which the\nCompany has invested considerable time and cost in obtaining and developing for the\npurposes of its business. The Service Provider agrees that any breach of its obligations\nof confidentiality in this Agreement would cause the Company to suffer serious and\nirreparable loss and damage for which damages would not be an adequate remedy,\nand in the event of any threatened, apparent or actual breach of this Agreement, the\nCompany is entitled to seek immediate injunctive relief.\n7.2 The Service Provider undertakes that it will:\n(a) only use the Confidential Information for the purpose of performing the Services,\nand will not use, or attempt to use, in any way the Confidential Information for its\nown purposes or the purposes of any third party;\n(b) keep all of the Confidential Information confidential;\n(c) except as provided under clause 7.2(e), not, without the prior written consent of\nthe Company, disclose in any form, the whole or any part of the Confidential\nInformation to any third person;\n(d) at the request of the Company, and in any event on the termination of this\nAgreement, promptly return to the Company all documents and other material\nrelating to the Confidential Information and all copies of those items;\n(e) only disclose the Confidential Information to its employees (if any) directly\ninvolved with the Service Provider in the fulfilment of the Service Provider’s\nobligations under this Agreement, and/or to legal or accounting advisers for the\npurpose of providing to the Service Provider legal or accounting advice in relation\nto this Agreement, and in each case the Service Provider will ensure that such\nemployees and advisers are aware of, and comply with, these obligations as to\nconfidentiality; and\n\n7.3 The obligations of confidentiality set out in clauses 7.1 and 7.2 will not apply to any\ninformation which:\n(a) the Service Provider can clearly show was independently available to the Service\nProvider from a third party having the right to disclose it;\n(b) at the time of execution of this Agreement is in the public domain, or\nsubsequently enters the public domain, through no fault of the Service Provider\nor any other person the Service Provider has disclosed the information to or who\nhas obtained access to the information (whether directly or indirectly) through\nthe acts or omissions of the Service Provider;\n(c) the Service Provider can show by written record is in the Service Provider’s lawful\npossession and was not obtained by the Service Provider from the Company;\n(d) is independently developed by the Service Provider without reference to the\nCompany’s Confidential Information; or\n(e) the parties agree in writing will be exempted from the confidentiality provisions\nof this Agreement.\n7.4 If the Service Provider is required by law or an order of a court of competent jurisdiction\nor any competent judicial, governmental or regulatory body to disclose any Confidential\nInformation, the Service Provider must:\n(a) first inform the Company of this obligation;\n(b) allow the Company reasonable time to avoid the disclosure having to be made;\n(c) give the Company such assistance (at the Company’s cost) as the Company\nreasonably requests in doing this; and\n(d) only disclose such Confidential Information to the minimum extent required.\n7.5 Each party acknowledges the strict confidentiality and proprietary nature of the other’s\nPre-existing IP and that no right, entitlement or interest in a party’s Pre-existing IP is\nextended to or conveyed to the other party, except as expressly stated in this\nAgreement.\n7.6 Each party acknowledges that anything created under this Agreement which is an\nImprovement to a party’s Pre-existing IP is and will be owned by that party owning the\n\nrelevant Pre-existing IP. At the intended owner’s cost, each party will do all things and\nsign all instruments reasonably required to give effect to this clause 7.6.\n7.7 All Data Outputs will be owned by and the exclusive property of the Company, and the\nService Provider will assign any and all of the Service Provider’s rights, title and interest\nin and to the Data Outputs to the Company.\n7.8 The Algorithm and any models used in relation to the Services will be owned by the\nService Provider.\n7.9 The Company will grant the Service Provider a non-exclusive, royalty free license during\nthe term of this Agreement to use, copy, modify, enhance and sub-license any Pre-\nexisting IP of the Company to the extent that such use, copying, modification,\nenhancement or sub-licensing is required to enable the Service Provider to perform the\nServices.\n7.10 The Service Provider warrants that, to the best of the Service Provider’s knowledge and\nbelief, the Created Materials will not contain any code or other materials that may\ninfringe the Intellectual Property Rights of any third party.\n7.11 The obligations of confidentiality imposed upon the Service Provider will continue\nindefinitely notwithstanding termination of this Agreement.\n8. Non-solicitation / Non-dealing\n8.1 Subject to clause 8.2, the Service Provider is free to undertake any work of any nature,\nwhether as an employee or as an independent Service Provider, provided that the\nService Provider continues to carry out the Services and comply with its obligations\nunder this Agreement. The Service Provider acknowledges the terms of clause 7 of this\nAgreement apply when undertaking work for anyone other than the Company. Where\nthe Company has given an exclusive commitment to a client it will advise the Service\nProvider of this. Where the Service Provider is carrying out work which would be in\nconflict with that commitment it will advise the Company of this and the Company may\ndiscontinue the Service Provider’s involvement with such client’s work.\n8.2 The Service Provider shall not during the term of this Agreement and for the period of\ntime set out in Item 9 of the Schedule following the date of termination of the\nAgreement either directly or indirectly for itself or on behalf of or in conjunction with\nany other person:\n\n(a) solicit or entice any employees or Service Providers of the Company to terminate\ntheir employment or engagement with the Company, provided that this clause\nwill not prevent the Service Provider from employing an employee of the\nCompany that has responded without solicitation or enticement to a general\nemployment advertisement placed by the Service Provider; and\n(b) solicit, entice, accept the custom of, provide services to (whether as an employee\nor Service Provider) or deal with, any person, firm, organisation or company to\nwhich the Service Provider has provided services under the terms of this\nAgreement and where such person, firm, organisation or company remains a\nclient of the Company; and\n(c) Whether as an employee or Service Provider or in any capacity, solicit, entice,\naccept the custom of, provide services to or deal with any client of the Company\nor provide services to or deal with any strategic partner of the Company or for\nany company or organisation in which the Company has a financial interest,\nwhether the Service Provider has provided services to that client or company or\norganisation during the term of the Agreement or not. “Any client” includes\nanyone who has been a client of the Company in the 24 months immediately\npreceding the date of termination of this Agreement and that the Service Provider\nhas engaged with through the performance of Services for the Company.\n9. Termination\n9.1 The Company may terminate this Agreement:\n(a) at any time during its term upon giving the notice set out in Item 8 of the\nSchedule, in writing to the Service Provider;\n(b) immediately by written notice if the Service Provider is in breach of clause 7 or if\nthere is any other serious breach of this Agreement;\n(c) immediately by written notice if the Service Provider is carrying out work which is\nin conflict with any commitment made by the Company to a client as\ncontemplated in clause 8.1, the Company has discontinued the Service Provider’s\ninvolvement with such client’s work and no other work is being carried out by the\nService Provider for the Company;\n(d) if the Service Provider breaches any other term of this Agreement and fails to\nremedy the breach within 10 Working Days of receipt of notice from the Company\nrequiring the breach to be remedied; or\n\n(e) if the Service Provider becomes bankrupt, goes or is put into liquidation, has a\nreceiver or statutory manager appointed of any of its assets, becomes insolvent,\nceases to carry on its business or makes any composition or arrangement with its\ncreditors.\n9.2 The Service Provider may terminate this Agreement:\n(a) at any time during its term upon giving the notice set out in Item 8 in the Schedule\nin writing to the Company; or\n(b) if the Company breaches any other term of this Agreement and fails to remedy\nthe breach within 10 Working Days of receipt of notice from the Service Provider\nrequiring the breach to be remedied; or\n(c) if the Company becomes bankrupt, goes or is put into liquidation, has a receiver\nor statutory manager appointed of any of its assets, becomes insolvent, ceases to\ncarry on its business or makes any composition or arrangement with its creditors.\n9.3 If this Agreement is terminated for any reason, the Service Provider will refund to the\nCompany, within 2 Working Days following termination, any amount paid by the\nCompany to the Service Provider pursuant to this Agreement in relation to Services that\nhave not been performed prior to termination.\n9.4 Termination of this Agreement will be without prejudice to the rights and obligations\nof the parties prior to termination and to any of the provisions of this Agreement which\nare expressed to survive termination.\n9.5 On termination of this agreement both parties will immediately return to the other all\ndocuments, records, reports or other material, in paper or electronic form.\n10. Disputes\n10.1 If a dispute arises out of or relates to this Agreement (the Dispute) a party to the\nAgreement may not commence any court or arbitration proceedings relating to the\nDispute unless it has complied with the following paragraphs of this clause except\nwhere the party seeks urgent interlocutory relief.\n10.2 A party claiming the Dispute has arisen under or in relation to this Agreement must\ngive written notice to the other party specifying the nature of the Dispute.\n\n10.3 On receipt of that notice, the parties will use all reasonable endeavours to resolve the\nDispute by discussion, consultation, negotiation, or other informal means.\n10.4 If the Dispute is not resolved within 15 Working Days of the notice being given pursuant\nto clause 10.2 (or within such further period agreed in writing by the parties) either\nparty may seek resolution of the dispute by whatever means available at law.\n11. Liability\n11.1 The maximum aggregate liability of the Service Provider to the Company under or in\nconnection with this Agreement is limited to an amount equal to the total amount\npaid by the Company to the Service Provider under this Agreement up to the date of\nthe first event giving rise to liability.\n11.2 The Service Provider will not be liable to the Company under or in connection with\nthis Agreement for any loss of profit, revenue, savings, business or goodwill, or for any\nconsequential, indirect, incidental or special damage or loss of any kind.\n11.3 The Company acknowledges that UniServices acts in respect of this Agreement solely\nas agent for the Service Provider. To the extent permitted by law, UniServices will not\nbe liable to the Company for damage or loss of any kind in connection with this\nAgreement, the Services or the Results, whether in contract, tort (including\nnegligence), breach of statutory duty or otherwise.\n12. Publicity\n12.1 Neither party may use the names, logos or trade marks of the other party, its Affiliates\nor it or its Affiliates’ personnel in any publicity or marketing without the other party’s\nprior written consent (and which, in the case of consent from the Service Provider,\nmay be withdrawn at any time).\n13. General\n13.1 Any notice to be given in terms of this Agreement must be made in writing, by email or\nby post to the postal address, or by delivery to the registered office, of the other party\nor to such other address as may be notified by either party to the other from time to\ntime. Any communication by email will be deemed to be received when transmitted to\nthe correct email address of the recipient. Any other communication in writing will be\ndeemed to be received when left at the registered office of the Company or if posted\nto the postal address, on the third day following the date of posting. The initial, email,\n\npostal, and physical registered office addresses of the Company and the Service\nProvider are set out in Items 2 and 3 of the Schedule.\n13.2 No waiver of any breach of this Agreement will be deemed to be a waiver of any other\nor any subsequent breach. The failure of any party to enforce any provision of this\nAgreement will not be interpreted as a waiver of the provision.\n13.3 This Agreement, constitutes the entire agreement between the parties and supersedes\nall previous negotiations, commitments and/or writings, provided that, where a\nconfidentiality agreement has previously been signed by the parties, that confidentiality\nagreement will continue in full force and effect, except to the extent of any\ninconsistency with this Agreement.\n13.4 No alteration of this Agreement will be binding unless it is in writing and executed by\nboth parties.\n13.5 The Service Provider may not assign or transfer any of its rights or obligations under\nthis Agreement without the prior written consent of the Company.\n13.6 If any provision of this Agreement is invalid or unenforceable, the remaining provisions\nof this Agreement will not be affected and will continue in full force.\n13.7 This Agreement may be executed by the parties in counterparts, each of which will be\ndeemed to be an original and all of which will constitute one and the same agreement.\n13.8 This Agreement is subject to the laws of New Zealand and the parties submit to the\nexclusive jurisdiction of the New Zealand courts. In addition to any other rights and\nremedies available to the Company for breach of this Agreement, the Company will be\nentitled to enforcement by court injunction or restraining order."
+    }
+  ],
+  "counts": {
+    "green": 1,
+    "amber": 9,
+    "red": 2,
+    "blue": 28
+  },
+  "generated_at": "2026-05-29T13:26:04.998792+00:00",
+  "metrics": {
+    "n_calls": 3,
+    "input_tokens": 15129,
+    "output_tokens": 1971,
+    "total_tokens": 17100,
+    "latency_ms": 34691.6,
+    "total_cost_usd": 0.057533,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

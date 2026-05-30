@@ -56,14 +56,19 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    window.localStorage.setItem(
-      REVIEW_SESSIONS_KEY,
-      JSON.stringify(
-        reviewSessions
-          .filter((session) => session.phase === "done" && session.review)
-          .slice(0, 20),
-      ),
-    );
+    const toStore = reviewSessions
+      .filter((session) => session.phase === "done" && session.review)
+      .slice(0, 20)
+      .map(({ clauses: _c, compareResult: _cr, augmentResult: _ar, ...rest }) => rest);
+    try {
+      window.localStorage.setItem(REVIEW_SESSIONS_KEY, JSON.stringify(toStore));
+    } catch {
+      try {
+        window.localStorage.setItem(REVIEW_SESSIONS_KEY, JSON.stringify(toStore.slice(0, 5)));
+      } catch {
+        window.localStorage.removeItem(REVIEW_SESSIONS_KEY);
+      }
+    }
   }, [reviewSessions]);
 
   async function runPipeline(file: File) {

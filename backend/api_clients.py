@@ -231,9 +231,16 @@ async def call_llm(
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ],
-            "temperature": temperature,
-            "max_tokens": max_tokens,
         }
+        # gpt-5 / o-series reasoning models use max_completion_tokens and
+        # only support the default temperature; older chat models use the
+        # classic max_tokens + custom temperature.
+        _dep = AZURE_OPENAI_CHAT_DEPLOYMENT.lower()
+        if any(x in _dep for x in ("gpt-5", "o1", "o3", "o4")):
+            kwargs["max_completion_tokens"] = max_tokens
+        else:
+            kwargs["temperature"] = temperature
+            kwargs["max_tokens"] = max_tokens
         if json_mode:
             kwargs["response_format"] = {"type": "json_object"}
         resp = await client.chat.completions.create(**kwargs)
@@ -310,10 +317,15 @@ async def call_vision_ocr(
         api_key=AZURE_OPENAI_API_KEY,
         api_version=AZURE_OPENAI_API_VERSION,
     )
+    _vdep = AZURE_OPENAI_CHAT_DEPLOYMENT.lower()
+    _token_kw = (
+        {"max_completion_tokens": 4096}
+        if any(x in _vdep for x in ("gpt-5", "o1", "o3", "o4"))
+        else {"max_tokens": 4096, "temperature": 0}
+    )
     resp = await client.chat.completions.create(
         model=AZURE_OPENAI_CHAT_DEPLOYMENT,
-        max_tokens=4096,
-        temperature=0,
+        **_token_kw,
         messages=[
             {
                 "role": "system",

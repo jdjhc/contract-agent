@@ -1,0 +1,402 @@
+{
+  "document_id": "Consultancy_Services_Agreement_Example_pdf",
+  "filename": "Consultancy Services Agreement Example.pdf",
+  "contract_type": "Consultancy Services Agreement",
+  "contract_type_confidence": 0.99,
+  "summary": "The review of the Consultancy Services Agreement indicates a low overall risk posture, with most clauses flagged as \"blue,\" signifying they fall outside the scope of the University of Auckland's Preferred Contracting Positions and require independent review. However, a \"red\" flag on the \"Extension of Term\" clause highlights a material deviation from UoA Position #POS-21, necessitating escalation to the Contract Manager to ensure compliance with procedural requirements. Additionally, an \"amber\" flag on the \"Intellectual Property\" clause requires referral to Auckland UniServices Ltd for alignment with UoA's IP policies. The next step is to address the flagged clauses with the relevant stakeholders to ensure alignment with UoA's standards and mitigate any potential risks.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "E",
+      "clause_title": "Extension of Term",
+      "snippet": "Extension of Term 13",
+      "rationale": "The clause text 'Extension of Term 13' is too vague and does not specify whether extensions are negotiated and executed in writing prior to expiry of the current Agreement, nor does it clarify if extensions are permissible after expiry. This materially deviates from UoA Position #POS-21, which requires clear procedural compliance for variations and extensions. Escalation to the Contract Manager is necessary to ensure alignment with UoA's preferred or acceptable positions.",
+      "standard_ref": "UoA Position #POS-21",
+      "text": "Extension of Term 13"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7 INTELLECTUAL PROPERTY",
+      "snippet": "7 INTELLECTUAL PROPERTY 21 Intellectual Property of Consultant Error! Bookmark not defined. Intellectual Property of Error! Bookmark not defined. Intellectual Property Warranty and Indemnity\\ Error! Bookmark not defined...",
+      "rationale": "The clause addresses Intellectual Property, which falls under UoA Position #POS-IP. UoA does not own IP, and all IP clauses must be referred to Auckland UniServices Ltd regardless of wording. This clause requires further review by UniServices to ensure compliance with their IP policies.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7 INTELLECTUAL PROPERTY 21\nIntellectual Property of Consultant Error! Bookmark not defined.\nIntellectual Property of Error! Bookmark not defined.\nIntellectual Property Warranty and Indemnity\\ Error! Bookmark not defined.\n8 FURTHER PROPOSALS 21\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 11 - Part 2\nSchedule of Particulars\n9 PAYMENT 21\nGeneral 21\nFull Remuneration 22\nAdditional Services 22\nRequest for Payment 22\nDispute in Payment 23\nDate for Payment 23\nMode of Payment 23\nCurrency 23\nTaxes 23\nWithholding Tax 23\n10 CHANGED CIRCUMSTANCES 24\nCircumstances beyond the Control of the Consultant 24\nDuty to Mitigate 25\nAccrued Obligations 25\nRight to Terminate 25\n11 WARRANTY AND LIABILITY 25\nWarranty Error! Bookmark not defined.\nDefective Services Error! Bookmark not defined.\nCompliance Error! Bookmark not defined.\nIndemnity 25\nExclusion of Indirect and Consequential Loss Error! Bookmark not defined.\nNo Limitation Error! Bookmark not defined.\n12 INSURANCE 26\n13 CONFIDENTIALITY, CONFLICT OF INTEREST AND PRIVACY 27\nConsultant Conflict of Interest 27\nPublicity and Publication 27\nConfidentiality 27\nPrivacy 27\n14 TERMINATION 28\nTermination or Suspension by 28\nTermination with Cause 29\nPost Termination 29\nTermination by the Consultant 30\nSurvival 30\n15 TRANSITION SERVICES 30\nTransition Services 30\nPayment for Transition Services 30\n16 SETTLEMENT OF DISPUTES 31\nDisputes 31\nReferral to CEOs 31\nArbitration 31\nInterlocutory or Injunctive relief 32\n17 CONSUMER GUARANTEES ACT WILL NOT APPLY 32\n18 CORPORATE RESPONSIBILITY 33\nSupplier Code of Conduct. 33\nModern Slavery. 33\nEthical Business Conduct. 33\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 12 - Part 2\nSchedule of Particulars\nGifts. 33\nSanctions. 33\n19 MISCELLANEOUS 33\nNotices, Consents and Approvals 33\nAmbiguities 33\nEntire Agreement 34\nEnglish Language 34\nNo Waiver 34\nSeverance 34\nFurther Assurances 34\nCounterparts 35\nGoverning Law 35\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 13 - Part 4\nTerms and Conditions\nPART 4 - TERMS AND CONDITIONS\n1 CONDITIONS PRECEDENT\nAgreement to Come into Effect\nThis Agreement is conditional upon satisfaction or waiver of the Conditions.\nConditions Precedent\nThe Conditions are conditions precedent and are inserted solely for the benefit of\nCancellation\nIf the Conditions are likely to not be satisfied by or the Consultant (as required\nby the Schedule of Particulars) or waived by by the Conditional Date, then:\n(a) may at any time before the Conditional Date require an extension of the\nConditional Date of up to 12 months;\n(b) If any Condition is not satisfied, or waived by by the Conditional Date\nor the extended Conditional Date (if any), may terminate this\nAgreement by notice to the Consultant; and\n(c) Upon termination of this Agreement under this clause, this Agreement shall\ncome to an end and neither party shall have any further claim against the other\narising under or in connection with that termination.\n2 COMMENCEMENT / COMPLETION\nAgreement Effective\nThis Agreement is effective from the Effective Date, notwithstanding the signing of this\nAgreement on any other date.\nTerm\nThe Consultant shall provide the Services for the term identified in the Schedule of\nParticulars or until the Agreement is earlier terminated.\nServices Prior to Execution of this Agreement\nAny Services provided prior to the date of this Agreement or satisfaction, or waiver of\nthe Conditions (whichever occurs latest) shall be deemed to have been provided under\nand on the terms and conditions set out in this Agreement, and any payments which\nhas agreed to make for the Services (or in relation to anything covered by the\nServices) shall be treated as advanced payment of the Fee.\nExtension of Term\nmay, at any time prior to the expiry of the term (if any) identified in the Schedule\nof Particulars, serve notice on the Consultant requesting an extension of such term,\nand the Consultant shall then negotiate such extension with in good faith.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 14 - Part 4\nTerms and Conditions\n3 OBLIGATIONS OF CONTACT\nInformation\n(a) shall provide to the Consultant (without charge) all information that is\navailable to and that is not prevented from disclosing due to\nconfidentiality requirements, and which appears to to be necessary and\nnot otherwise available to the Consultant, to enable the Consultant to provide\nthe Services.\n(b) shall keep the Consultant informed on such matters as may appear to\nto materially affect the Services.\nEquipment and Facilities\n(a) shall make the equipment and facilities described in the Schedule of\nParticulars available to the Consultant, within a reasonable time of a request at\nthe cost agreed upon in the Schedule of Particulars, for the purpose of providing\nthe Services. The Consultant shall not be entitled to use any other equipment\nor facilities of (including on the Site) except with the prior written\nconsent of\n(b) does not warrant that any equipment and facilities supplied by it are\nsuitable for the intended work or of acceptable quality or condition. The\nConsultant acknowledges that it uses equipment and facilities at its\nown risk in all respects.\n4 OBLIGATIONS OF THE CONSULTANT\nProvision of the Services\nThe Consultant shall:\n(a) promptly and diligently provide the Services in accordance with this Agreement;\n(b) comply with:\n(i) all of instructions in relation to the Services;\n(ii) programme for provision of the Services (including using\nreasonable endeavours to meet deadlines set by for provision of\nthe Services);\n(c) assist with any assessment of:\n(i) progress in the provision of the Services; and\n(ii) payment of the Consultant as against the Schedule of Fees (if any);\n(d) advise of the consequences of any changes in the programme; and\n(e) advise and assist on all matters relating to the Services.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 15 - Part 4\nTerms and Conditions\nStandard of Care\n(a) Notwithstanding anything elsewhere in this Agreement, the Consultant\nundertakes to that it has exercised and shall continue to exercise in the\nprovision of the Services the skill, care, diligence, prudence and foresight\nordinarily expected of a properly qualified and competent professional adviser\nwith the necessary resources and experience in providing services of a similar\nnature, scope and complexity to the Services, having regard to best industry\npractice both internationally and in New Zealand.\n(b) The Consultant shall provide the Services in accordance with all applicable Law,\nany contract related to the provision of the Services and any applicable listing\nrules. If the Consultant becomes aware of any act or omission that will, or is\nlikely to, breach any Law, any contract related to the provision of the Services\nor any applicable listing rules it shall as soon as reasonably practical notify\nand shall follow instructions.\nAuthority of the Consultant\n(a) The Consultant warrants that it has full legal capacity and authority to enter into\nand complete this Agreement and that it has complied with all legal\nrequirements necessary for it to enter into a binding contract with\n(b) The Consultant has no authority to act as agent on any matter, save\nwhere expressly identified in Part 5 - The Services. The Consultant shall not be\nregarded as and shall not hold itself out as being agent or partner for\nany other purpose and shall not bind or attempt to commit the credit of\nsave as expressly authorised by this Agreement.\nPresence on Site\nThe Consultant shall, with prior agreement, visit and be represented upon\nthe Site and visit all off-Site places of manufacture as often as may be necessary to\nperform its obligations under this Agreement.\nInformation to be supplied by the Consultant\n(a) The Consultant shall keep informed on all matters relating to the\nServices, including, without limitation, details of all staff employed by the\nConsultant in the provision of the Services.\n(b) The Consultant shall promptly:\n(i) supply to such information as reasonably requests,\nincluding documentation containing sufficient instructions and detail for\nto make full and proper use of the Services; and\n(ii) answer all enquiries received from in relation to the Services.\n(c) On termination or expiry of this Agreement, the Consultant shall, if required by\nprovide to all Documents and other information held by the\nConsultant in relation to the supply of the Services.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 16 - Part 4\nTerms and Conditions\nProperty\n(a) shall:\n(i) continue to have title to anything it supplies to the Consultant (including\nany accessories to, or spare parts for, anything it supplies to the\nConsultant); and\n(ii) obtain title to anything it purchases from the Consultant on payment or\nupon resolution if there is any dispute as to when a payment is due,\ntogether “ Property”.\n(b) Where practicable the Consultant shall mark any such property in its possession\nor control as Property. When the Services are completed or\nterminated the Consultant shall furnish inventories to of any of\nProperty that has not been consumed in the provision of the Services.\nThe Consultant shall deliver any of Property remaining upon\ncompletion, expiry or termination as directed by\n(c) Property shall be at the risk of the Consultant from the date it is\nsupplied to the Consultant or produced by the Consultant (as applicable) until:\n(i) such property is delivered to or\n(ii) such property is consumed in the provision of the Services in accordance\nwith this Agreement.\n(d) The Consultant acknowledges that:\n(i) may be deemed to have a security interest (for the purposes of\nthe Personal Property Securities Act 1999 (“PPSA”)) in\nProperty;\n(ii) Part 9 of the PPSA shall not apply to that deemed security interest; and\n(iii) may register a financing statement on the Personal Property\nSecurities Register in respect of that security interest.\n(e) The Consultant shall:\n(i) provide such information and assistance as may reasonably\nrequire to register the financing statement, and waives its rights under\nsection 148 of the PPSA to receive a copy of the verification statement\nreceives; and\n(ii) ensure that any other security interest it grants or has granted excludes\nProperty.\nCo-operation\nThe Consultant undertakes to co-operate at all times with any other consultants which\nare from time to time employed by\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 17 - Part 4\nTerms and Conditions\nRetention of Documents and Audit Inspection\n(a) The Consultant shall retain all Documents from the Effective Date for the period\nspecified in the Schedule of Particulars, subject to clause 4.5(c).\n(b) The Consultant acknowledges right to access such Documents and\nshall allow its representatives and any authorised public officers to\ninspect any Documents and shall answer queries or supply information\nrequested by them on reasonable notice.\n(c) To the extent that any Documents are to be either or both created and\nmaintained on computer or other electronic storage device, then the Consultant\nshall adhere to the procedure for backup of copies of those Documents notified\nby\nApproval of Documents\n(a) The Consultant shall when so requested by submit for\napproval, or amend, such of the Documents as may specify or require.\n(b) No such approval shall affect the responsibility of the Consultant to provide the\nServices or relieve it of its obligations under this Agreement.\nInstructions to Others by Consultant\nNot used.\nAttendance at Meetings\nThe Consultant shall attend all meetings convened by to which it may be\nsummoned.\nHealth, Safety and Environment\n(a) The Consultant shall, and shall ensure that all persons engaged by it (including\nsub-contractors):\n(i) comply with the requirements of the Health and Safety at Work Act 2015,\nregulations made under that Act and any other relevant New Zealand\nlegislative requirements;\n(ii) where required by undertake site hazard assessments and a\nworksite safety plan in an approved format prior to commencement of\nwork and ensure any person performing work on their behalf is familiar\nwith these. The site hazard assessment and a worksite safety plan shall\nbe periodically updated if required by\n(iii) immediately advise of any hazards or risks identified during the\ncourse of the work, should there be risk of harm all work activities must\nbe suspended until appropriate controls are agreed and implemented;\n(iv) immediately report all incidents and near misses to and actively\nparticipate in Learning From Events processes as required;\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 18 - Part 4\nTerms and Conditions\n(v) ensure that all areas over which it has control or at which it performs work\nfor including all equipment owned or operated, are in an orderly\nstate and used and maintained in a manner appropriate to avoid harm to\nall persons, property and environment;\n(vi) use only personnel who are qualified and appropriately trained for the\nwork being performed;\n(vii) provide reporting on HSE performance as shall reasonably\ndetermine;\n(viii) ensure that all appropriate personal protective and safety equipment is\navailable and utilised whilst performing work for\n(ix) undertake all HSE inductions and training in specific work control\nprocedures as required by\n(x) at all times comply with all site signage;\n(xi) comply with site instructions, HSE policies and procedures and\nactively participate in HSE programmes, if relevant to the\nServices, as notified by from time to time;\n(xii) are not adversely affected by fatigue or by prescription medication, drugs\nor alcohol and that they comply with Alcohol and Drugs policy,\na copy of which shall be provided to the Consultant.\n(b) may prior to the start of any work by the Consultant or any persons\nengaged by it (including sub-contractors), require the Consultant to develop and\nsubmit for approval a HSE Management Plan in the form shall\nadvise. The Consultant and any persons engaged by it (including sub-\ncontractors) shall, at all times, work in compliance with the requirements of the\napproved HSE Management Plan; and\n(c) may monitor and audit the compliance of the Consultant or any persons\nengaged by it (including sub-contractors) with the requirements of this clause.\nWithout prejudice to any other rights it may have, will discuss with the\nConsultant any non-compliance that is identified. The Consultant will take all\nreasonable steps to as soon as reasonably practicable remedy such non-\ncompliance.\nInformation Technology\n(a) By mutual written agreement between the parties, the Consultant shall promptly\nsupply:\n(i) reasonable support and maintenance services in relation to information\ntechnology and other technology Deliverables (“IT Deliverables”) to be\nagreed by the parties to ensure that can effectively utilise the IT\nDeliverables and that the IT Deliverables remain error free and operate in\nconformity with this Agreement; and\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 19 - Part 4\nTerms and Conditions\n(ii) the source code in respect of any software provided to sufficient\nto enable a reasonably competent programmer to maintain and modify the\nIT Deliverables.\nReporting\nThe Consultant shall provide to a report at the frequency and containing the\ndetails required by the Schedule of Particulars. The Consultant shall also provide any\nother information described in the Schedule of Particulars at the frequency described\nin the Schedule of Particulars.\n5 PERSONNEL\nKey Personnel\n(a) The Consultant has appointed the persons identified in the Schedule of\nParticulars as Key Personnel to carry out the functions respectively allocated to\nthem in the Schedule of Particulars. Such persons (or any replacement) shall\nhave full authority to act on behalf of the Consultant in accordance with their\nrespective functions, in respect of all matters connected with this Agreement.\n(b) The Consultant shall not remove any such Key Personnel (or any replacements)\nwithout the prior written consent of (such consent not to be\nunreasonably withheld) unless such persons (or any replacements) become\nincapacitated or are no longer in the employment of the Consultant. The\nConsultant shall give notice forthwith on becoming aware of any such\nevent.\n(c) Any replacement Key Personnel shall have experience and expertise\nappropriate to carry out the work (which the Consultant shall demonstrate to\nif requested in writing to do so including by providing their curricula vitae\nand previous employer references) and shall be subject to the prior written\napproval of (such approval not to be unreasonably withheld).\nOther Personnel\n(a) Any other personnel provided by the Consultant shall be suitably qualified,\nexperienced and competent as required for the performance of the Consultant’s\nobligations under this Agreement.\n(b) The Consultant shall be responsible for all staff it engages to provide the\nServices, whether or not employed directly by them.\nRemoval of Personnel\n(a) shall be entitled after consultation with the Consultant to require the\nremoval from the provision of the Services of any person employed by the\nConsultant whose performance or conduct in providing the Services is, in the\nreasonable opinion of unsatisfactory. This right is subject to (i)\nproviding prior notice to the Consultant (where reasonably practicable) of any\nconcerns it has regarding performance of the Consultant’s Personnel; and (b)\nthe relevant Personnel being provided a reasonable opportunity to remedy their\nperformance or conduct.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 20 - Part 4\nTerms and Conditions\n(b) In the event that any Key Personnel (or any replacements) are removed under\nclause 5.3(a), the Consultant shall at no cost to replace such person\nwith a person of experience and expertise appropriate to perform the functions\nallocated to him whose identity shall be subject to the prior written approval of\n(such approval not to be unreasonably withheld).\n(c) In the event that any other personnel are removed under clause 5.3(a), the\nConsultant shall at no cost to replace such person with a person of\nexperience and expertise appropriate to provide the Services.\nMeeting with Staff\nIf calls on any individual member or members of the Consultant’s staff to\ndiscuss, explain and or make presentations on any part of the Services, such individual\nor individuals shall be readily available to do so on reasonable notice.\nRepresentative\nhas nominated the person or persons specified in the Schedule of Particulars\nto be its representative in respect of this Agreement. may from time to time\nappoint alternative or further persons to so act and shall give the Consultant written\nnotice of such appointment. The Consultant shall not act on the instructions of any\nother person. Any written approval given by Representative will be deemed\nto be the approval of and will bind and the Consultant accordingly.\nConsultant’s Representative\nThe person identified in the Schedule of Particulars as the Consultant’s representative\nshall be available to receive all instructions from and shall be authorised by the\nConsultant to act on its behalf in relation to all matters arising under this Agreement.\nshall not be obliged to issue instructions to any other person. Any written\napproval given by the Consultant’s representative will be deemed to be the approval of\nthe Consultant and will bind the Consultant accordingly.\n6 ASSIGNMENT\nAssignment or Subcontracting by the Consultant\nThe Consultant shall not assign, subcontract or transfer any right or obligation arising\nout of, under or in connection with this Agreement to any person without prior\nwritten consent. No such assignment, subcontract, transfer or consent by shall\nin any way relieve the Consultant from any obligations or liability under this Agreement.\nConsent of\n(a) The consent of to the assignment, subcontracting or transfer of the\nConsultant’s rights and obligations under this Agreement shall not be\nunreasonably withheld or delayed, but may withhold its consent if\nis not reasonably satisfied that the person to whom such assignment,\nsubcontract or transfer is proposed to be made:\n(i) has the technical expertise necessary to perform its obligations under\nthis Agreement;\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 21 - Part 4\nTerms and Conditions\n(ii) is of such financial strength and standing as to ensure is not\nexposed to any risks in consenting to the assignment; and\n(iii) does not have any interests in real or apparent conflict with the provision\nof the Services or interests generally.\n(b) may as a condition of its approval of any sub-consultant require that\nsub-consultant to execute a warranty in favour of in a form prepared\nby\nAssignment by\nmay, without the requirement for the consent of the Consultant, at any time by\nnotice to the Consultant assign its entire rights and obligations under this Agreement.\n7 INTELLECTUAL PROPERTY\nIntellectual Property of Consultant\nIntellectual Property of the Consultant existing at the Effective Date, including any\nmodification to such Intellectual Property effected without reference to\nIntellectual Property, (“Consultant’s Intellectual Property”) shall remain the\nproperty of the Consultant.\nIntellectual Property of\n(a) All Intellectual Property in the Deliverables shall vest in upon receipt by\nthe Consultant of payment in full for the Services. .\n(b) Intellectual Property of existing at the Effective Date, including any\nmodification to such intellectual property, shall remain the property of\n8 FURTHER PROPOSALS\n8.1 If requested by the Consultant shall submit proposals for altering the\nServices and the Fee shall be adjusted accordingly provided that such variations are\nfirst agreed upon by the parties in writing.\n8.2 If the parties cannot agree on any proposals for alteration to the Services, this\nAgreement shall remain in full force and effect and neither party shall have any claim\nagainst the other as a result of such proposed alteration to the Services.\n9 PAYMENT\nGeneral\n(a) In consideration of the provision of the Services in accordance with this\nAgreement, will pay the Consultant the Fee. The Fee shall be paid in\nthe instalments shown in Part 6, the Schedule of Fees together with any costs\nor expenses reimbursable pursuant to the Schedule of Particulars or clause\n9.2(b) of this Agreement. If no Schedule of Fees is prescribed, the Consultant\nshall be paid at the rates and times otherwise specified in the Schedule of\nParticulars. The maximum Fee payable to the Consultant by under this\nAgreement shall be that set out in the Schedule of Particulars (if any).\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 22 - Part 4\nTerms and Conditions\n(b) It shall be a condition precedent to consideration of the Consultant’s\napplication for payment and the Consultant’s entitlement to payment under this\nclause 9 that it shall have:\n(i) submitted a report and any other information in accordance with clause\n14.4 (where required); and\n(ii) achieved any milestones by the dates identified in the Schedule of\nParticulars (if any).\nFull Remuneration\n(a) Subject only where expressly provided otherwise, the Fee shall be full\nremuneration to the Consultant for all costs, expenses or overheads incurred,\nlosses suffered or profit earned or to be earned in connection with the Services\nand the performance of all of its other obligations under this Agreement.\n(b) The Consultant shall be entitled to additional reimbursement at cost (excluding\noverheads, depreciation and profit) for other expenses, not included in the Fee,\nexpressly authorised in writing by prior to their being incurred.\nAdditional Services\n(a) If and the Consultant agree that the Consultant is to provide services\nwhich are additional to the Services, such additional services shall (subject to\nexpress agreement otherwise) either be charged on a lump sum, or time\ncharge, basis calculated using the rates set out in the Schedule of Particulars.\n(b) The Consultant shall maintain up to date records for all reimbursable costs and\nexpenses incurred in providing such additional services, and in any other case\nwhere Services are to be carried out on a time charge basis, and such records\nshall clearly identify the relevant time incurred and work performed.\nRequest for Payment\n(a) Within 5 working days of the expiry of one month after the Effective Date and\nwithin 5 working days of the expiry of each month thereafter, the Consultant\nmay, subject to the provisions of the Schedule of Fees set out in the Schedule\nof Particulars (if any), apply to for payment of an instalment of the Fee\nand reimbursement of all costs and expenses for the Services provided during\nthe preceding month by submitting a tax invoice, for the amount due plus goods\nand services tax, if any, charged in accordance with the Goods and Services\nTax Act 1985.\n(b) Each such application shall:\n(i) state the amount claimed in accordance with the Schedule of Fees;\n(ii) where the invoice includes sums claimed under clause 9.2(b) or 9.3, be\nsupported by any vouchers, time-sheets, receipts and other information\nwhich may be necessary to establish that such amounts are properly due\nand payable under this Agreement; and\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 23 - Part 4\nTerms and Conditions\n(iii) include a description of the Services provided in that month and their\nvalue, and any other items requested by\nDispute in Payment\nIf disputes the accuracy of any of the Consultant’s invoice or wishes to dispute\nany claim for underpayment or make a claim for overpayment, shall notify the\nConsultant within 7 days of receipt of the invoice. If and the Consultant cannot\nsettle the dispute within 14 days of notification, then the dispute shall be\ndetermined in accordance with clause 16. shall pay any undisputed amount\nin accordance with this clause 9.\nDate for Payment\nshall pay all sums due to the Consultant in accordance with this Agreement\n(less any amount disputed)by the 20th day of the following month from the date of the\nConsultant’s valid tax invoice.\nMode of Payment\nThe Fee may be paid by electronic funds transfer to an account designated by the\nConsultant for this purpose.\nCurrency\nThe Fee shall be paid in New Zealand dollars unless otherwise stated. No adjustment\nshall be made to the Fee (or any element thereof) or any other payment on account of\nany variation in any exchange rate.\nTaxes\n(a) shall pay, in addition to the Fee, all goods and services taxes levied in\nrespect of any supply of the Services.\n(b) Subject to clause 9.10, the Consultant shall pay all other charges, levies, duties,\ntaxes or impositions payable in respect of the Services.\nWithholding Tax\nClauses 9.10(a) to (f) below shall apply if, and to the extent that, any amount paid or\npayable under this Agreement is an amount that is non resident withholding income or\na withholding payment, or another amount from which New Zealand tax Law requires\nany amount to be withheld or deducted:\n(a) shall be entitled to make any such deduction or withholding and shall\nonly be liable to pay the net amount to the Consultant.\n(b) The amount of any such payment that is subject to a deduction or withholding\nreferred to in clause 9.10(a) shall be determined by the parties. However, the\nConsultant is prima facie responsible for notifying of the appropriate\ngross amount that is subject to such a deduction or withholding.\n(c) If the amounts payable under this Agreement are withholding payments,\n(specifically, but not limited to, payments to non resident contractors) the\nConsultant may be entitled to exemptions or relief from the deductions or\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 24 - Part 4\nTerms and Conditions\nwithholding referred to in clause 9.10(a) above. Specifically, no deductions will\nbe made from payments made to the Consultant if:\n(i) the Consultant delivers to a valid certificate of exemption issued\nby the Inland Revenue before the payment is made that applies to the\nrelevant payment; or\n(ii) the Consultant delivers to a statement on the Consultant’s\nletterhead signed by an authorised representative that:\n1. the Consultant has not and does not intend to have any employees\nin New Zealand (in connection with the Services or any other\nproject) who in aggregate have not been present or will not be\npresent in New Zealand for 92 days or more in any 12 month period;\n2. the Consultant has maintained a record of the number of days in\nwhich its employees have performed services in New Zealand that\ncan be provided to if requested; and\n3. the Consultant is eligible for relief from New Zealand income tax in\naccordance with the double tax agreement between New Zealand\nand the Consultant’s country of residence.\n(d) The Consultant will ensure in relation to any payment received by it that the\ncorrect amount of withholding has been made and, to the extent that it has not,\nshall immediately notify to rectify the situation including refunding an\nappropriate amount of the payment to meet the withholding tax liability\notherwise required to be made.\n(e) If for whatever reason an incorrect amount of withholding has been deducted\nand accounted for by then the Consultant shall pay to the full\namount of that withholding tax liability (including any penalties and/or use of\nmoney interest) to put in the same after tax position it would have been\nin had correctly deducted and accounted for that withholding.\n(f) Clause 9.10(e) above does not apply to amounts (and only in relation to those\namounts) deducted by that have not been remitted by to the\nInland Revenue Department.\n10 CHANGED CIRCUMSTANCES\nCircumstances beyond the Control of the Consultant\n(a) If circumstances arise following the date of execution of this Agreement for\nwhich a party is not responsible and which are genuinely beyond its control and\nwhich make it illegal or impossible for that party (“Affected Party”) to perform\nits obligations in whole or in part in accordance with this Agreement, then the\nAffected Party shall promptly notify the other party.\n(b) The Affected Party shall not be liable for any failure to perform its obligations to\nthe extent the failure is caused by such circumstances, provided that this clause\nwill not apply to any:\n(i) lack of funds or solvency issues of the Affected Party;\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 25 - Part 4\nTerms and Conditions\n(ii) inclement weather conditions adversely affecting progress of the\nobligations;\n(iii) strikes, lock-outs or other industrial action;\n(iv) failure by the Affected Party’s subcontractors or suppliers or the non-\navailability or shortage of equipment, labour, utility services, goods or\nmaterials; or\n(v) event that makes the performance of the obligations more expensive or\ndifficult.\nDuty to Mitigate\nThe Consultant shall exercise its best endeavours to avoid or remove the changed\ncircumstances, and to mitigate their effect.\nAccrued Obligations\nThe existence of changed circumstances will not affect any rights or obligations which\nmay have accrued prior to such circumstances.\nRight to Terminate\nIf any changed circumstances arise in terms of clause 10.1 and their effect continues\nfor a period of 120 days or more, may give to the Consultant notice of\ntermination, which shall take effect 20 days after the giving of the notice if at the end of\nthe 20 day period the effect continues.\n11 WARRANTY AND LIABILITY\nWarranty\nThe Consultant warrants, without prejudice to any other provision of this\nAgreement, that the Services supplied by the Consultant under this Agreement\nshall be performed in accordance with:\n(a) all applicable Laws; and\n(b) the requirements of the Agreement.\nDefective Services\nIf any Services provided by the Consultant under this Agreement are defective\nor partly or wholly unperformed by the due date for performance (“Non-\nCompliant Services”) and the parties have not agreed an extension to the due\ndate, may require the Consultant to rectify, perform or re-perform such\nNon-Compliant Services at the Consultant’s own cost.\nCompliance\nThe Consultant is responsible for the payment of any fine or penalty imposed on\nthe Consultant as a result of the Consultant’s failure to comply with any Law.\nNot used.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 26 - Part 4\nTerms and Conditions\nExclusion of Loss\n(a) The maximum aggregate liability of one party to the other under or in\nconnection with this Agreement is limited to .\n(b) Neither party shall be liable to the other party in connection with this\nAgreement for any indirect or consequential loss (including loss of profit).\nNo Limitation\nClause Error! Reference source not found. shall not apply to:\n(a) personal injury to or death of any person;\n(b) any liability that cannot be excluded pursuant to any Law; or\na fraudulent act or omission.\n12 INSURANCE\n12.1\nThe Consultant shall maintain insurance as specified in item M of the Schedule of Particulars\nfrom the date of commencement of this agreement for the time period stated in item\nM of the Schedule of Particulars.\n12.2 Not used.\n12.3 If requested to do so, the Consultant shall provide with copies of policies,\ncertificates of insurance or other evidence that it has complied, and continues to\ncomply, with its obligations under clause 12.\n12.4 All insurance taken out by the Consultant shall be effected with a financially secure\ninsurer.\n12.5 The Consultant shall promptly notify of any circumstances or event of which it\nis aware, or which comes to its attention, which could reasonably give rise to a claim\nrelating to this Agreement under any of the insurance policies referred to in item O of\nthe Schedule of Particulars.\n12.6 If Consultant fails to effect and keep in force any of the insurances it is required to effect\nand maintain under the Agreement, or fails to provide satisfactory evidence and copies\nof policies in accordance with clause 12, may (at its option and without\nprejudice to any other right or remedy) effect insurance for the relevant coverage and\npay the premiums due and recover the premiums from the Consultant.\n12.7 Nothing in clause 12 limits the obligations, liabilities or responsibilities of the\nConsultant or under the other terms of the Agreement or otherwise.\n12.8 Any deductibles in respect of the insurances maintained pursuant to this clause 12\nshall be payable by the Consultant except to the extent the deductible directly relates\nto a claim in connection with any negligent act, omission or default of\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 27 - Part 4\nTerms and Conditions\n13 CONFIDENTIALITY, CONFLICT OF INTEREST AND PRIVACY\nConsultant Conflict of Interest\n(a) The Consultant will advise of any conflicts of interest in relation to the\nprovision of the Services. The parties will discuss and agree a conflict of interest\nmitigation plan if required.\nPublicity and Publication\nUnless otherwise specified, the Consultant shall not release public or media statements\nor publish material related to the Services without the prior written approval of\nConfidentiality\n(a) Both parties undertake to each other that they will treat as strictly confidential\nthe terms of this Agreement, the affairs of the other party as may be\ncommunicated to them, and all information obtained by them in the context of\nthis Agreement, and shall not divulge these without the prior written approval of\nthe other party, except:\n(i) to their respective officers or employees where this is necessary for the\nperformance of its obligations under this Agreement;\n(ii) as expressly provided in and permitted by this Agreement;\n(iii) as required to enable a determination to be made in accordance with\nclause 16;\n(iv) where the information is generally available in the public domain other\nthan as a result of a breach of this clause; or\n(v) as required by Law; or\n(vi) where disclosure is required by any exchange where shares\nmay be listed.\n(b) Neither party shall use any information obtained by it under this Agreement for\nany purpose other than the performance of its obligations under this Agreement.\n(c) The obligations contained in this clause 0 shall endure beyond the expiry or\ntermination of this Agreement.\nPrivacy\n(a) Without limiting anything in this clause 13.4 or clause 13.3, to the extent that\nany information disclosed to either party includes personal information (as that\nterm is defined in the Privacy Act 2020) the receiving party will treat all such\npersonal information in accordance with the disclosing party’s instructions and\nthe requirements of the Privacy Act 2020, and will not use, store or transfer any\nsuch personal information for the party’s own purposes or the purposes of any\nthird party.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 28 - Part 4\nTerms and Conditions\n(b) If either party becomes aware or suspects that any unauthorised person has\nobtained, attempted to obtain, or may obtain access to any information\ncontaining personal information (as that term is defined in the Privacy Act 2020)\nrelated to this Agreement or has altered, used or attempted to use any of that\ninformation for purposes not authorised or permitted by the terms of this\nAgreement or that any of that information has been lost, destroyed or otherwise\nmade unavailable on a permanent or temporary basis without the divulging\nparty's prior written consent or if there is any near miss in relation to any of the\nforegoing (\"Security Breach\") in respect of this Agreement:\n(i) that party will, on becoming aware of such Security Breach, immediately\nnotify the other party of that Security Breach;\n(ii) the parties will assist each other to follow any respective privacy breach\nprocesses, which includes Breach Guidance and\nCrisis Management Process (as provided to the Supplier from time to\ntime). The Consultant in consultation with will:\nA. take such steps as are available to it to identify any relevant\nunauthorised person(s);\nB. contain and mitigate the Security Breach;\nC. assess the nature of the Security Breach, including as to the type of\ninformation disclosed, lost or accessed and the scope of any parties\nto which it may have been disclosed or accessed;\nD. investigate the cause(s) of the Security Breach and, to avoid any\ndoubt, the Consultant must disclose to details of all causes or\nlikely causes of the Security Breach;\nE. make all relevant personnel and subcontractors available to\nto assist with the consequences and implications arising from the\nSecurity Breach;\nF. if requires, assist to notify any affected individuals or\nrelevant regulatory agencies and the Consultant agrees that it shall\nnot make any such notifications without the prior written consent of\n(not to be unreasonably withheld or delayed); and\nG. on mutual agreement, make reasonable changes to its operations (at\nits own cost) that are necessary to prevent, as far as is practicable,\nthe occurrence of the same or similar Security Breaches in the future..\n14 TERMINATION\nTermination or Suspension by\n(a) may at any time, in addition to any other rights and remedies which it\nmay have, by 30 working days prior notice to the Consultant, terminate or\nsuspend the Consultant’s engagement under this Agreement.\n(b) Upon any termination or suspension of the Consultant’s engagement under\nclause 10.4 or 14.1(a), shall pay to the Consultant any instalments of\nthe Fee and any other sums due to the Consultant which have accrued due prior\nto:\n(i) in the case of termination under clause 10.4, the date on which the\nchanged circumstances first arose;\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 29 - Part 4\nTerms and Conditions\n(ii) in the case of termination under clause 14.1(a), the date of such\ntermination or suspension; or\n(iii) the Consultant having committed to appropriate non-cancellable\nobligations before receipt of the notice of termination.\nTermination with Cause\n(a) may terminate or suspend this Agreement (at its option) immediately\nupon notice to the Consultant in the event that:\n(i) believes on reasonable grounds that the Consultant is not\ncomplying with or is reasonable likely to not comply with any of the\nrequirements of clause 4.12.\n(b) In the event that the Consultant:\n(i) goes into receivership or liquidation, passes a resolution for winding up or\nassigning its assets or a substantial part of it for the benefit of creditors,\nor is otherwise declared insolvent, and in the event of any equivalent or\nanalogous proceedings by whatever name and in whatever jurisdiction; or\n(ii) commits a material breach of this Agreement,\nmay serve notice on the Consultant of its intention to terminate this\nAgreement. Unless the Consultant takes remedial action and/or has\ncommenced and is diligently proceeding to procure the rectification of such\nevent, in a manner satisfactory to within 10 working days of such notice,\nmay thereafter immediately either terminate or suspend this\nAgreement, at its option.\nPost Termination\n(a) Upon receipt of a notice of termination or suspension under clause 10.4, 14.1(a)\nor 14.2, the Consultant shall:\n(i) subject to clause 15.1, promptly take steps to bring the Services to an end\nin an orderly manner as soon as reasonably practicable and shall use its\nbest endeavours to minimise ongoing costs in relation to the\nServices, with all reasonable speed and economy; and\n(ii) subject to clause 15.1, forward to all Documents (whether or not\ncompleted) in the Consultant’s possession of the Consultant or any\nsubcontractor, supplier or sub-consultant.\n(b) Termination or suspension of the Consultant’s engagement under this\nAgreement, howsoever arising, shall be without prejudice to the rights and\nremedies of either of the parties which have accrued prior to such termination,\nprovided that shall not be liable to compensate the Consultant for any\nloss of profit or other loss suffered by the Consultant as a result of the\ntermination or suspension of the Consultant’s engagement under this\nAgreement.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 30 - Part 4\nTerms and Conditions\n(c) Following a suspension of the Services under clause 14.1(a) or 14.2(b), whether\nor not the Consultant has rectified its default, may at any time require\nthe Consultant to resume the provision of the Services in accordance with this\nAgreement and any payments made under clause 14.1(b) shall be treated as\npayments on account of the Fee.\n(d) Upon termination of this Agreement under clause 14.2, the Consultant shall\nreimburse for all costs additional to the fees and costs payable to the\nConsultant under this Agreement that are incurred by in completing this\nAgreement by other means.\nTermination by the Consultant\nIf fails to pay any amount due to the Consultant under this Agreement, or,\nhaving suspended the Consultant’s appointment under clause 14.1(a), has not issued\nan instruction to resume provision of the Services under clause 14.3(c) within 120 days,\nthen the Consultant may serve notice on requiring payment, or a resumption\nof the Services as appropriate, within 20 working days. If fails to pay such\namount due, or legitimately dispute the Consultant’s entitlement to such payment, or\norder the resumption of the Services, as appropriate, then the Consultant may\nterminate this Agreement upon 10 working days’ notice.\nSurvival\nClauses 4.5(c), 7, 11, 13.2, 0, 14, 15 and 16 shall survive termination or expiry of this\nAgreement.\n15 TRANSITION SERVICES\nTransition Services\n(a) Upon expiry or termination of this Agreement for any reason, the Consultant\nshall provide mutually agreed Transition Services to and provide\nwith reasonable assistance to enable the smooth and efficient\nhandover of the provision of any uncompleted Services, Intellectual\nProperty and Property, together with all Documents. Nothing in this\nclause limits rights to recover damages from the Consultant under\nthis Agreement or to pursue any additional or alternative remedies provided by\nLaw.\n(b) The Consultant will upon request in the course of Transition Services:\n(i) provide all reasonable migration assistance;\n(ii) answer questions and provide information; and\n(iii) surrender any remaining reports or documentation belonging to\n(iv).\nPayment for Transition Services\n(a) Subject to clause 15.2(b), during the period during which requires\nthe Transition Services:\n(i) will pay the relevant charges for any services the Consultant is\nstill continuing to supply;\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 31 - Part 4\nTerms and Conditions\n(ii) the Consultant will continue to perform such Services, as mutually agreed,\nto effect an orderly transition; and\n(iii) Transition Services will be provided at the rates set out in the Schedule of\nParticulars or at such other rates agreed in writing by the parties.\n(b)\n16 SETTLEMENT OF DISPUTES\nDisputes\n(a) Any dispute or difference of any kind whatsoever arising between and\nthe Consultant in connection with or arising out of this Agreement or of the\ncarrying out of the Services and whether during the provision of the Services or\nafter their completion and whether before or after the termination, abandonment\nor breach of this Agreement (“a dispute”) shall be settled in accordance with the\nprovisions of this clause 16.\n(b) A dispute shall be deemed to arise when one party serves on the other a notice\n(“a notice of dispute”) stating the nature of the dispute, together with brief\nparticulars of the facts and circumstances relied on by the party serving the\nnotice of dispute.\n(c) Within 10 working days of the service of the notice of dispute the parties shall\nmeet, negotiate and seek to resolve the dispute in good faith.\nReferral to CEOs\n(a) If the parties are unable to resolve the dispute or make material progress\ntowards its resolution within 20 working days of the service of the notice of\ndispute, then as a condition precedent to the referral of the dispute to arbitration\npursuant to clause 16.3, the dispute shall be referred to the chief executive\nofficers of and the Consultant for discussion and agreement.\n(b) The chief executive officers shall meet within 10 working days after the expiry\nof 20 working days of service of the notice of dispute and shall attempt to settle\nthe dispute.\n(c) If either chief executive officer is not available, he or she may appoint a senior\nmanager to meet in their place pursuant to this clause, provided that any senior\nmanager appointed has not previously been involved in the dispute and has the\nability to enter into a binding agreement on behalf of the company.\nArbitration\n(a) If the dispute is not resolved within 10 working days of when the dispute was\nfirst referred to the chief executive officers or senior managers in accordance\nwith clause 16.2 then either the Consultant or may require the dispute\nto be referred to arbitration.\n(b) Pending the arbitrator’s decision, the parties shall continue to perform all their\nobligations under this Agreement without prejudice.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 32 - Part 4\nTerms and Conditions\n(c) The Second Schedule to the Arbitration Act 1993 shall apply to the arbitration.\nArbitration shall take place in the place stated in the Schedule of Particulars\nusing a single arbitrator appointed by the parties, or if they cannot agree upon\nan arbitrator within 10 working days from the date of the referral, by the person\nidentified in the Schedule of Particulars. The award (including the right to\ndetermine damages) shall be final and binding on the parties.\nInterlocutory or Injunctive relief\nThis clause does not affect either party’s right to seek urgent interlocutory and/or\ninjunctive relief from any court of competent jurisdiction.\n17 CONSUMER GUARANTEES ACT WILL NOT APPLY\n17.1 To the maximum extent permitted by the Consumer Guarantees Act (CGA), and\nnotwithstanding any other term of this Agreement, the parties agree that the\nprovisions of the CGA will not apply to this Agreement on the basis:\n17.1.1 the goods and/or services (as applicable) covered by this Agreement are, or\n(in connection only with the guarantee of acceptable quality in section 7A of\nthe CGA, the gas or electricity) is, both supplied and acquired in trade; and\n17.1.2 the parties to this Agreement are in trade and agree to contract out of the\nprovisions of the CGA.\n17.2 Subject to any determination by a court to the contrary, each party acknowledges and\nagrees it is fair and reasonable for them to be bound by this clause.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 33 - Part 4\nTerms and Conditions\n18 CORPORATE RESPONSIBILITY\nSupplier Code of Conduct\nThe Consultant acknowledges that is committed to an ethical and sustainable\nsupply chain. The Consultant will comply with Supplier Code of Conduct found\nat\n(Code). The Consultant will provide such information as reasonably requested\nby to evidence that the Consultant is complying with the Code.\nModern Slavery\nThe Consultant acknowledges Modern Slavery Statement found at\n. The Consultant will have in place practices to prevent modern slavery in both\nthe Consultant’s own operations and to manage the risk of modern slavery in their supply\nchain. The Consultant will comply with all New Zealand labour Laws and all applicable\noverseas labour and modern slavery laws.\nEthical Business Conduct\nThe Consultant will conduct their business activities with integrity and in accordance with\nall applicable laws, regulations, and ethical standards, including those relating to\ncompetition, fair trading and insider trading.\nGifts\nThe Consultant will not make or offer payments or gifts to personnel that are\noutside of those permitted by Code of Conduct, see:\n. The Consultant will keep a register of gifts provided to and will provide\na report of these gifts at request.\nSanctions\nThe Consultant will comply with all sanctions, prohibitions or restrictions under United\nNations resolutions or the trade or economic sanctions, laws or regulations of the\nEuropean Union, United Kingdom, United States of America, Australia or New Zealand.\n19 MISCELLANEOUS\nNotices, Consents and Approvals\nAll notices, claims, reports, consents, approvals, agreements and other\ncommunications under this Agreement will be in writing and take effect from receipt at\nthe address for service stated in the Schedule of Particulars. Delivery may be by hand\nor facsimile message or email against a confirmation of receipt (or, in the case of email,\nthe date of return to office specified in any out of office message) or by registered letter.\nAmbiguities\n(a) The several documents forming this Agreement shall be read together and in\nthe event of ambiguities or discrepancies the same shall be explained and\nadjusted by\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 34 - Part 4\nTerms and Conditions\n(b) When explaining or adjusting any such ambiguity or discrepancy shall\nhave regard to the following descending order of priority of the various parts of\nthis Agreement:\n(i) Part 1 - Articles of Agreement;\n(ii) Part 2 - Definitions;\n(iii) Part 3 - Schedule of Particulars;\n(iv) Part 4 - Terms and Conditions; and then\n(v) Part 5 - The Services.\nEntire Agreement\nNotwithstanding anything to the contrary expressed in or to be implied from this\nAgreement, this Agreement comprises only the documents referred to in the definition\nof “Agreement” in Part 2 and it supersedes all previous agreements between the parties\nin relation to the provision of the Services, save for any agreement which by its express\nterms survives this Agreement. Additional or different terms of other forms of\nagreement proposed by the Consultant during negotiations (including conditions\nattached to any acceptance) shall not be applicable unless expressly accepted by\nin writing.\nEnglish Language\nThe English language is the ruling language of this Agreement which shall be construed\nand interpreted accordingly. If there is a conflict between the English language version\nand any other language version of this Agreement, the English language version shall\nprevail. All correspondence, instructions, notices, drawings, design data, certificates,\nspecifications and information to be prepared by the Consultant under or in connection\nwith this Agreement shall be in the English language.\nNo Waiver\nNo failure to exercise and no delay in exercising any right, power or remedy under this\nAgreement will operate as a waiver. Nor will any single or partial exercise of any right,\npower or remedy preclude any other or further exercise of that or any other right, power\nor remedy.\nSeverance\nAny provision of this Agreement which is prohibited or unenforceable in any jurisdiction\nwill be ineffective in that jurisdiction to the extent of the prohibition or unenforceability.\nThat will not invalidate the remaining provisions of this Agreement or effect the validity\nor unenforceability of that provision in any other jurisdiction.\nFurther Assurances\nEach party shall take all steps, execute all documents and do everything reasonably\nrequired by the other party to give effect to any of the actions contemplated by this\nAgreement.\nDocument Reference:\nLong Form Consultancy Services Agreement\n\nUniversity of Auckland Consultancy Agreement\n- 35 - Part 4\nTerms and Conditions\nCounterparts\nThis Agreement may be executed in any number of counterparts. All counterparts will\nbe taken to constitute one instrument.\nGoverning Law\nThis Agreement shall in all respects be construed and governed by the laws of\nNew Zealand and unless the parties otherwise agree the jurisdiction to hear and\ndetermine all disputes touching or concerning this Agreement shall be exclusively that\nof the courts of New Zealand.\nDocument Reference:\nLong Form Consultancy Services Agreement"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1 CONDITIONS PRECEDENT",
+      "snippet": "1 CONDITIONS PRECEDENT 13",
+      "rationale": "The topic of 'Conditions Precedent' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "1 CONDITIONS PRECEDENT 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2 COMMENCEMENT / COMPLETION",
+      "snippet": "2 COMMENCEMENT / COMPLETION 13",
+      "rationale": "The topic of commencement and completion is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "2 COMMENCEMENT / COMPLETION 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3 OBLIGATIONS OF CONTACT",
+      "snippet": "3 OBLIGATIONS OF CONTACT 14",
+      "rationale": "The clause's topic ('Obligations of Contact') is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "3 OBLIGATIONS OF CONTACT 14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4 OBLIGATIONS OF THE CONSULTANT",
+      "snippet": "4 OBLIGATIONS OF THE CONSULTANT 14",
+      "rationale": "The clause addresses 'Obligations of the Consultant,' which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "4 OBLIGATIONS OF THE CONSULTANT 14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5 PERSONNEL",
+      "snippet": "5 PERSONNEL 19",
+      "rationale": "The topic of 'Personnel' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "5 PERSONNEL 19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "6",
+      "clause_title": "6 ASSIGNMENT",
+      "snippet": "6 ASSIGNMENT 20",
+      "rationale": "The topic of assignment is not covered in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the defined policy and cannot be evaluated against any specific UoA position.",
+      "standard_ref": null,
+      "text": "6 ASSIGNMENT 20"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Agreement to Come into Effect",
+      "snippet": "Agreement to Come into Effect 13",
+      "rationale": "The topic 'Agreement to Come into Effect' is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Consultancy Services Agreements. As such, it falls outside the scope of the policy framework and cannot be evaluated against specific tiers.",
+      "standard_ref": null,
+      "text": "Agreement to Come into Effect 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Agreement Effective",
+      "snippet": "Agreement Effective 13 Term 13",
+      "rationale": "The topic of 'Agreement Effective' is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Agreement Effective 13\nTerm 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Authority of the Consultant",
+      "snippet": "Authority of the Consultant 15",
+      "rationale": "The topic 'Authority of the Consultant' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "Authority of the Consultant 15"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Approval of Documents",
+      "snippet": "Approval of Documents 17",
+      "rationale": "The topic of 'Approval of Documents' is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "Approval of Documents 17"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Attendance at Meetings",
+      "snippet": "Attendance at Meetings 17",
+      "rationale": "The topic of 'Attendance at Meetings' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Attendance at Meetings 17"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Assignment or Subcontracting by the Consultant",
+      "snippet": "Assignment or Subcontracting by the Consultant 20",
+      "rationale": "The topic of assignment or subcontracting by the consultant is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Assignment or Subcontracting by the Consultant 20"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Assignment by",
+      "snippet": "Assignment by 21",
+      "rationale": "The topic of assignment is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of pre-defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Assignment by 21"
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Conditions Precedent",
+      "snippet": "Conditions Precedent 13",
+      "rationale": "The topic of 'Conditions Precedent' is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of pre-defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Conditions Precedent 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Cancellation",
+      "snippet": "Cancellation 13",
+      "rationale": "The topic of 'Cancellation' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Cancellation 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Co-operation",
+      "snippet": "Co-operation 16",
+      "rationale": "The topic of 'Co-operation' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Co-operation 16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Consultant’s Representative",
+      "snippet": "Consultant’s Representative 20",
+      "rationale": "The topic of 'Consultant’s Representative' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Consultant’s Representative 20"
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Consent of",
+      "snippet": "Consent of 20 Change in Share Capital of Consultant Error! Bookmark not defined.",
+      "rationale": "The clause addresses a topic (change in share capital of the consultant) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Consultancy Services Agreements. As such, it falls outside the scope of the policy framework and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Consent of 20\nChange in Share Capital of Consultant Error! Bookmark not defined."
+    },
+    {
+      "level": "blue",
+      "clause_id": "E",
+      "clause_title": "Equipment and Facilities",
+      "snippet": "Equipment and Facilities 14",
+      "rationale": "The topic of 'Equipment and Facilities' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Equipment and Facilities 14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "H",
+      "clause_title": "Health, Safety and Environment",
+      "snippet": "Health, Safety and Environment 17",
+      "rationale": "The topic of Health, Safety and Environment is not addressed in the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "Health, Safety and Environment 17"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "Information",
+      "snippet": "Information 14",
+      "rationale": "The clause topic 'Information' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "Information 14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "Information to be supplied by the Consultant",
+      "snippet": "Information to be supplied by the Consultant 15",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Consultancy Services Agreements. As such, it falls outside the scope of the policy framework and cannot be evaluated against specific tiers.",
+      "standard_ref": null,
+      "text": "Information to be supplied by the Consultant 15"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "Instructions to Others by Consultant",
+      "snippet": "Instructions to Others by Consultant 17",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Consultancy Services Agreements. No specific policy guidance or escalation route applies.",
+      "standard_ref": null,
+      "text": "Instructions to Others by Consultant 17"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "Information Technology",
+      "snippet": "Information Technology 18",
+      "rationale": "The topic of 'Information Technology' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the established policy framework and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Information Technology 18"
+    },
+    {
+      "level": "blue",
+      "clause_id": "K",
+      "clause_title": "Key Personnel",
+      "snippet": "Key Personnel 19",
+      "rationale": "The topic of 'Key Personnel' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Key Personnel 19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "M",
+      "clause_title": "Meeting with Staff",
+      "snippet": "Meeting with Staff 20",
+      "rationale": "The topic of 'Meeting with Staff' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Meeting with Staff 20"
+    },
+    {
+      "level": "blue",
+      "clause_id": "O",
+      "clause_title": "Other Personnel",
+      "snippet": "Other Personnel 19",
+      "rationale": "The topic 'Other Personnel' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Other Personnel 19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "PART 4 - TERMS AND CONDITIONS",
+      "snippet": "PART 4 - TERMS AND CONDITIONS TABLE OF CONTENTS",
+      "rationale": "The clause is a table of contents and does not address any substantive contractual topic covered by the UoA Preferred Contracting Positions. It falls outside the scope of the Positions document and no UoA template exists for this contract type.",
+      "standard_ref": null,
+      "text": "PART 4 - TERMS AND CONDITIONS\nTABLE OF CONTENTS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Provision of the Services",
+      "snippet": "Provision of the Services 14",
+      "rationale": "The clause addresses 'Provision of the Services,' which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Provision of the Services 14"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Presence on Site",
+      "snippet": "Presence on Site 15",
+      "rationale": "The topic 'Presence on Site' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Presence on Site 15"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Property",
+      "snippet": "Property 16",
+      "rationale": "The topic 'Property' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, the clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Property 16"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Retention of Documents and Audit Inspection",
+      "snippet": "Retention of Documents and Audit Inspection 17",
+      "rationale": "The topic of retention of documents and audit inspection is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of pre-defined positions and requires independent review.",
+      "standard_ref": null,
+      "text": "Retention of Documents and Audit Inspection 17"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Reporting",
+      "snippet": "Reporting 19",
+      "rationale": "The topic of reporting is not covered in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, the clause cannot be evaluated against any established UoA policy or template.",
+      "standard_ref": null,
+      "text": "Reporting 19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Removal of Personnel",
+      "snippet": "Removal of Personnel 19",
+      "rationale": "The topic of 'Removal of Personnel' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the established policy framework and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Removal of Personnel 19"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "Representative",
+      "snippet": "Representative 20",
+      "rationale": "The topic of 'Representative' is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "Representative 20"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Services Prior to Execution of this Agreement",
+      "snippet": "Services Prior to Execution of this Agreement 13",
+      "rationale": "The clause addresses a topic (services provided prior to contract execution) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Consultancy Services Agreements. As such, it falls outside the scope of pre-defined policy tiers and requires independent review.",
+      "standard_ref": null,
+      "text": "Services Prior to Execution of this Agreement 13"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Standard of Care",
+      "snippet": "Standard of Care 15",
+      "rationale": "The topic 'Standard of Care' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Standard of Care 15"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "Term",
+      "snippet": "Terms and Conditions",
+      "rationale": "The topic of 'Term' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "Terms and Conditions"
+    },
+    {
+      "level": "blue",
+      "clause_id": "U",
+      "clause_title": "University of Auckland Consultancy Agreement",
+      "snippet": "University of Auckland Consultancy Agreement - 10 - Part 4",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions. It appears to be a header or general reference to the agreement rather than a substantive clause.",
+      "standard_ref": null,
+      "text": "University of Auckland Consultancy Agreement\n- 10 - Part 4"
+    }
+  ],
+  "counts": {
+    "green": 0,
+    "amber": 1,
+    "red": 1,
+    "blue": 39
+  },
+  "generated_at": "2026-05-29T13:26:04.990777+00:00",
+  "metrics": {
+    "n_calls": 3,
+    "input_tokens": 35178,
+    "output_tokens": 732,
+    "total_tokens": 35910,
+    "latency_ms": 15028.4,
+    "total_cost_usd": 0.095265,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

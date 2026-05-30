@@ -1,0 +1,574 @@
+{
+  "document_id": "NDA_student_work_experience_example_1_pdf",
+  "filename": "NDA student work experience example 1.pdf",
+  "contract_type": "Student Research Agreement",
+  "contract_type_confidence": 0.85,
+  "summary": "The review of the \"NDA student work experience example 1.pdf\" reveals a mixed risk posture, with several clauses requiring further attention. While many provisions align with the University of Auckland's (UoA) standard templates and policies, key issues arise around confidentiality (e.g., incomplete definitions, unclear exclusions, and unspecified durations), intellectual property ownership, and liability caps, which are either redacted or deviate from UoA's preferred positions. Immediate next steps include escalating flagged clauses to the Senior Manager, Research Grants and Contracts, and Auckland UniServices for review and potential renegotiation to ensure compliance with UoA's contracting standards.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "C",
+      "clause_title": "Confidential Information",
+      "snippet": "Confidential Information to the University for the Permitted Purpose.",
+      "rationale": "The clause is incomplete and does not provide sufficient detail to align with UoA Position #POS-11. It lacks a definition of 'Confidential Information,' exclusions for public or independently developed information, and a specified duration for confidentiality obligations. Additionally, it does not address UoA's ability to disclose to agents and Affiliates. This falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "Confidential Information to the University for the Permitted Purpose."
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.3",
+      "clause_title": "1.3. **Permitted disclosure:** The University may disclose Confidential",
+      "snippet": "1.3. **Permitted disclosure:** The University may disclose Confidential Information to the University Personnel provided that:",
+      "rationale": "The clause touches on the topic of Confidentiality, which is sensitive under UoA Position #POS-11. While the clause mentions disclosure to University Personnel, it does not explicitly align with the Preferred Position requiring the ability to disclose to agents and Affiliates, nor does it specify exclusions for public knowledge, independently developed information, or legally required disclosures. The clause also lacks clarity on the duration of confidentiality obligations. This deviation places the clause in the Acceptable tier, requiring confirmation by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "1.3. **Permitted disclosure:** The University may disclose Confidential Information to the University Personnel provided that:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.4",
+      "clause_title": "1.4. **Exceptions to obligations:** The provisions of clause 1.1 will not",
+      "snippet": "1.4. **Exceptions to obligations:** The provisions of clause 1.1 will not apply to Confidential Information that the University can conclusively demonstrate by written evidence:",
+      "rationale": "This clause addresses exceptions to confidentiality obligations, which is a UoA-sensitive topic. While the clause text aligns with the concept of excluding certain types of information (e.g., information that can be conclusively demonstrated by written evidence), it does not explicitly cover all elements of the UoA Preferred Position, such as the ability to disclose to agents and Affiliates or the duration of confidentiality obligations. The clause falls within the Acceptable tier but requires confirmation against the broader confidentiality framework outlined in UoA Position #POS-11. Escalation to the Senior Manager, Research Grants and Contracts may be required for final validation.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "1.4. **Exceptions to obligations:** The provisions of clause 1.1 will not apply to Confidential Information that the University can conclusively demonstrate by written evidence:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "2.1",
+      "clause_title": "2.1. As between the parties, [REDACTED] will retain sole ownership of all",
+      "snippet": "2.1. As between the parties, [REDACTED] will retain sole ownership of all Confidential Information and all intellectual property rights in the Confidential Information.",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "2.1. As between the parties, [REDACTED] will retain sole ownership of all Confidential Information and all intellectual property rights in the Confidential Information.  \n\n---"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.2",
+      "clause_title": "3.2. Upon the return to [REDACTED] or destruction (as the case may be) of",
+      "snippet": "3.2. Upon the return to [REDACTED] or destruction (as the case may be) of all such Confidential Information, the University will provide to [REDACTED] on request a written confirmation stating that the Confidential Info…",
+      "rationale": "The clause addresses the return or destruction of Confidential Information and requires the University to confirm that all such information has been handled accordingly. While this aligns with confidentiality obligations, it does not explicitly address the exclusions for public, independently developed, or previously known information, nor does it confirm the University's ability to disclose to agents and Affiliates. Additionally, the clause does not specify a time limit for confidentiality obligations, which is a key aspect of UoA's Preferred and Acceptable positions. This deviation requires confirmation and potential adjustment to ensure compliance with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "3.2. Upon the return to [REDACTED] or destruction (as the case may be) of all such Confidential Information, the University will provide to [REDACTED] on request a written confirmation stating that the Confidential Information returned or destroyed comprises all the Confidential Information in the University’s possession or control.  \n\n---"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.1",
+      "clause_title": "4.1. This Agreement will not be construed to require [REDACTED] to",
+      "snippet": "4.1. This Agreement will not be construed to require [REDACTED] to disclose any Confidential Information to the University. No warranty or representation, express or implied, is given as to the accuracy, efficacy, compl…",
+      "rationale": "The clause touches on warranties, which are a sensitive topic for UoA. While the clause excludes warranties and representations regarding the accuracy, efficacy, completeness, or capabilities of materials or information provided, it does not explicitly align with the UoA Preferred Position, which requires the University to warrant only authority to enter into the contract and performance to a professional standard, while excluding all other warranties. The clause does not contradict the Acceptable tier, which allows no other warranties to be offered. However, the exact alignment with UoA's Preferred Position is unclear, requiring confirmation by the Contract Manager. Escalation to the Senior Manager, Research Grants and Contracts may be necessary if further clarification is required.",
+      "standard_ref": "UoA Position #POS-10",
+      "text": "4.1. This Agreement will not be construed to require [REDACTED] to disclose any Confidential Information to the University. No warranty or representation, express or implied, is given as to the accuracy, efficacy, completeness or capabilities of any materials or information provided under this Agreement."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6.1",
+      "clause_title": "6.1. The maximum aggregate liability of each party to the other party under",
+      "snippet": "6.1. The maximum aggregate liability of each party to the other party under or in connection with this Agreement is limited to [REDACTED].",
+      "rationale": "The clause addresses the topic of Liability Limitations and Exclusions, which is sensitive under UoA Position #POS-07. However, the exact liability cap is redacted, making it impossible to confirm alignment with the Preferred or Acceptable tier. The clause must be reviewed to ensure compliance with UoA's Preferred Position: liability capped at the lesser of NZD$500,000 or the amount paid under the contract, with exclusions for indirect/consequential losses, loss of profit, data, revenue, savings, business, and goodwill. If the liability cap is uncapped or exceeds NZD$500,000, escalation to the Research Grants and Contracts Delegations is required.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "6.1. The maximum aggregate liability of each party to the other party under or in connection with this Agreement is limited to [REDACTED]."
+    },
+    {
+      "level": "amber",
+      "clause_id": "10",
+      "clause_title": "[Redacted] agrees to make Confidential Information available to the",
+      "snippet": "[Redacted] agrees to make Confidential Information available to the University on the terms of this agreement (the \u001c",
+      "rationale": "The clause touches on the topic of Confidentiality, which is a UoA-sensitive area. However, the clause text provided is incomplete and does not provide sufficient detail to confirm alignment with UoA's Preferred or Acceptable positions. Specifically, it is unclear whether the definition of Confidential Information excludes public, independently developed, or previously known information, or whether UoA retains the ability to disclose to agents and Affiliates. Additionally, the duration of confidentiality obligations is not specified. This requires confirmation and potential revision to ensure compliance with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "[Redacted] agrees to make Confidential Information available to the University on the terms of this agreement (the “"
+    },
+    {
+      "level": "amber",
+      "clause_id": "25",
+      "clause_title": "(a) treat the Confidential Information as confidential and commercially",
+      "snippet": "(a) treat the Confidential Information as confidential and commercially sensitive information of [Redacted].",
+      "rationale": "The clause addresses Confidentiality but does not provide sufficient detail to confirm alignment with UoA's Preferred Position under POS-11. Specifically, it lacks exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, it does not specify the duration of confidentiality obligations or the ability for UoA to disclose to agents and Affiliates. These omissions place the clause in the amber tier, requiring confirmation or adjustment by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) treat the Confidential Information as confidential and commercially sensitive information of [Redacted]."
+    },
+    {
+      "level": "amber",
+      "clause_id": "26",
+      "clause_title": "(b) not use, copy, reproduce or modify the Confidential Information (or",
+      "snippet": "(b) not use, copy, reproduce or modify the Confidential Information (or permit it to be used, copied, reproduced or modified) for any purpose other than the Permitted Purpose, without the express written authorisation of [Redacted].",
+      "rationale": "The clause addresses the use and modification of Confidential Information, which is a UoA-sensitive topic under Position #POS-11. While the clause restricts use to the 'Permitted Purpose' and requires express written authorisation for any other use, it does not explicitly align with the Preferred Position, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not specify the ability for UoA to disclose to agents and Affiliates or the confidentiality duration. These omissions place the clause in the Acceptable tier, requiring confirmation by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) not use, copy, reproduce or modify the Confidential Information (or permit it to be used, copied, reproduced or modified) for any purpose other than the Permitted Purpose, without the express written authorisation of [Redacted].\n```"
+    },
+    {
+      "level": "amber",
+      "clause_id": "27",
+      "clause_title": "(c) not disclose the Confidential Information, except in accordance with",
+      "snippet": "(c) not disclose the Confidential Information, except in accordance with clause 1.3 or with the express written authorisation of [REDACTED] and [REDACTED]; and",
+      "rationale": "The clause addresses confidentiality obligations but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for public information, independently developed information, and legally required disclosures. Additionally, UoA must be able to disclose to agents and Affiliates, which is not evident here. The clause does not specify a time limit for confidentiality obligations, which is a key aspect of the Acceptable tier (5–7 years post-termination/expiry). Escalation to the Senior Manager, Research Grants and Contracts is recommended to confirm compliance or negotiate amendments.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(c) not disclose the Confidential Information, except in accordance with clause 1.3 or with the express written authorisation of [REDACTED] and [REDACTED]; and"
+    },
+    {
+      "level": "amber",
+      "clause_id": "31",
+      "clause_title": "(a) the University Personnel have entered into legally binding",
+      "snippet": "(a) the University Personnel have entered into legally binding confidentiality obligations in favour of the University (including under any employment agreement) on terms equivalent to the University\u0019s obligations to [REDACTED] under this Agreement; and",
+      "rationale": "This clause addresses confidentiality obligations of University personnel, which aligns with the topic of Confidentiality under UoA Position #POS-11. However, the clause does not explicitly confirm compliance with the Preferred tier requirements, such as the exclusion of public, independently developed, or previously known information, nor does it specify the duration of confidentiality obligations. The clause is therefore flagged as AMBER for further confirmation by the Contract Manager to ensure alignment with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) the University Personnel have entered into legally binding confidentiality obligations in favour of the University (including under any employment agreement) on terms equivalent to the University’s obligations to [REDACTED] under this Agreement; and"
+    },
+    {
+      "level": "amber",
+      "clause_id": "32",
+      "clause_title": "(b) the University must ensure that the University Personnel do not do or",
+      "snippet": "(b) the University must ensure that the University Personnel do not do or omit to do anything which, if done or omitted to be done by the University, would constitute a breach of this Agreement and the University will remain responsible for any acts or omissions of a University Personnel relating to Confidential Information.",
+      "rationale": "The clause addresses confidentiality obligations and the University's responsibility for its personnel's actions or omissions. While it aligns with the general principle of ensuring confidentiality, it does not explicitly reference the exclusions for public, independently developed, or legally required disclosures, nor does it specify the duration of confidentiality obligations. This deviation from the Preferred Position requires confirmation that the clause aligns with UoA's confidentiality standards. Escalation to the Senior Manager, Research Grants and Contracts is recommended for review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) the University must ensure that the University Personnel do not do or omit to do anything which, if done or omitted to be done by the University, would constitute a breach of this Agreement and the University will remain responsible for any acts or omissions of a University Personnel relating to Confidential Information."
+    },
+    {
+      "level": "amber",
+      "clause_id": "39",
+      "clause_title": "(ii) at [REDACTED] request seek to persuade the court, agency or",
+      "snippet": "(ii) at [REDACTED] request seek to persuade the court, agency or authority to have the information treated in a confidential manner (where this is possible under the court’s, agency’s or authority’s procedures).",
+      "rationale": "The clause relates to Confidentiality and aligns partially with UoA Position #POS-11. While it does not contradict the Preferred or Acceptable tiers, it introduces an obligation to actively seek confidential treatment in legal or regulatory settings, which is not explicitly covered in the UoA Position. This deviation requires confirmation by the Contract Manager to ensure it does not impose undue obligations on UoA. Escalation to the Senior Manager, Research Grants and Contracts, is recommended if further clarification is needed.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(ii) at [REDACTED] request seek to persuade the court, agency or authority to have the information treated in a confidential manner (where this is possible under the court’s, agency’s or authority’s procedures).  \n\n---"
+    },
+    {
+      "level": "amber",
+      "clause_id": "40",
+      "clause_title": "**2. OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS**",
+      "snippet": "**2. OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS**",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "**2. OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS**"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. UNIVERSITY’S OBLIGATIONS",
+      "snippet": "1. UNIVERSITY’S OBLIGATIONS",
+      "rationale": "The clause topic 'University’s Obligations' is not explicitly addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined contracting positions and templates.",
+      "standard_ref": null,
+      "text": "1. UNIVERSITY’S OBLIGATIONS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1. Undertakings: The University will:",
+      "snippet": "1.1. Undertakings: The University will:",
+      "rationale": "The clause topic 'Undertakings: The University will' is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null,
+      "text": "1.1. Undertakings: The University will:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5. REMEDY",
+      "snippet": "5. REMEDY",
+      "rationale": "The clause titled '5. REMEDY' is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. No specific policy or template reference exists for this topic.",
+      "standard_ref": null,
+      "text": "5. REMEDY"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.1",
+      "clause_title": "5.1. The parties acknowledge that monetary damages alone may be an",
+      "snippet": "5.1. The parties acknowledge that monetary damages alone may be an inadequate remedy for breach of the University's obligations under this Agreement. In addition to any other remedy that may be available in law or equity, [REDACTED] may be entitled to interlocutory injunctive relief to prevent a breach of this Agreement and to compel specific performance of this Agreement.",
+      "rationale": "The clause addresses remedies for breach, including interlocutory injunctive relief and specific performance, which are not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As the topic is outside the scope of existing policies and templates, it is flagged as blue.",
+      "standard_ref": null,
+      "text": "5.1. The parties acknowledge that monetary damages alone may be an inadequate remedy for breach of the University's obligations under this Agreement. In addition to any other remedy that may be available in law or equity, [REDACTED] may be entitled to interlocutory injunctive relief to prevent a breach of this Agreement and to compel specific performance of this Agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "7",
+      "clause_title": "7. GENERAL",
+      "snippet": "7. GENERAL",
+      "rationale": "The clause titled '7. GENERAL' is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. It appears to cover general provisions that are standard in contracts but fall outside the scope of specific UoA policies.",
+      "standard_ref": null,
+      "text": "7. GENERAL"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.1",
+      "clause_title": "7.1. No assignment: The University may not assign, transfer, novate or",
+      "snippet": "7.1. No assignment: The University may not assign, transfer, novate or subcontract this Agreement or any rights or obligations under this Agreement, without the prior written consent of [REDACTED].",
+      "rationale": "The topic of assignment, transfer, novation, or subcontracting is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, this clause falls outside the scope of the defined policy tiers and is flagged as blue.",
+      "standard_ref": null,
+      "text": "7.1. No assignment: The University may not assign, transfer, novate or subcontract this Agreement or any rights or obligations under this Agreement, without the prior written consent of [REDACTED]."
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.2",
+      "clause_title": "7.2. Waiver: No failure or delay by either party in exercising any right,",
+      "snippet": "7.2. Waiver: No failure or delay by either party in exercising any right, power or privilege under this Agreement will operate as a waiver of such right, power or privilege. No single or partial exercise will preclude any other or further exercise or the exercise of any right, power or privilege under this Agreement.",
+      "rationale": "The topic of waiver is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, this clause falls outside the scope of the defined policy and template, and is flagged as blue.",
+      "standard_ref": null,
+      "text": "7.2. Waiver: No failure or delay by either party in exercising any right, power or privilege under this Agreement will operate as a waiver of such right, power or privilege. No single or partial exercise will preclude any other or further exercise or the exercise of any right, power or privilege under this Agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "means in relation to the Project:",
+      "snippet": "means in relation to the Project:",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template. It appears to be an incomplete or placeholder definition without substantive content.",
+      "standard_ref": null,
+      "text": "means in relation to the Project:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "- all information of whatever kind or nature that the University obtains",
+      "snippet": "- all information of whatever kind or nature that the University obtains from (and/or is granted access to by) [Redacted] or a student in connection with this Agreement, whether or not the information is:",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. No specific policy or template reference applies.",
+      "standard_ref": null,
+      "text": "- all information of whatever kind or nature that the University obtains from (and/or is granted access to by) [Redacted] or a student in connection with this Agreement, whether or not the information is:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "o in tangible or documented form; or",
+      "snippet": "o in tangible or documented form; or",
+      "rationale": "The clause does not align with any specific topic or policy outlined in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. It appears to be part of a larger clause or definition but lacks sufficient context to evaluate further.",
+      "standard_ref": null,
+      "text": "o in tangible or documented form; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "15",
+      "clause_title": "o marked or identified as being proprietary to or under the control of",
+      "snippet": "o marked or identified as being proprietary to or under the control of [Redacted]",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. There is no applicable policy or template reference to evaluate this clause against.",
+      "standard_ref": null,
+      "text": "o marked or identified as being proprietary to or under the control of [Redacted]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "- all notes, records or copies of such information made by the University.",
+      "snippet": "- all notes, records or copies of such information made by the University.",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. There is no specific policy or template reference to evaluate this clause against.",
+      "standard_ref": null,
+      "text": "- all notes, records or copies of such information made by the University."
+    },
+    {
+      "level": "blue",
+      "clause_id": "37",
+      "clause_title": "(d) is required to be disclosed to the courts of any competent",
+      "snippet": "(d) is required to be disclosed to the courts of any competent jurisdiction, or to any government regulatory agency or financial authority, provided that the University will:",
+      "rationale": "This clause addresses disclosure obligations to courts, regulatory agencies, or financial authorities, which is a confidentiality-related topic. However, it does not directly pertain to Governing Law and Jurisdiction (POS-16) as flagged. The clause's subject matter is not covered by any UoA Preferred Contracting Position or the UoA Standard Template for Student Research Agreements. Therefore, it falls outside the scope of the comparator's flagged reference.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "(d) is required to be disclosed to the courts of any competent jurisdiction, or to any government regulatory agency or financial authority, provided that the University will:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(i) immediately inform [REDACTED] that such a requirement has arisen;",
+      "snippet": "(i) immediately inform [REDACTED] that such a requirement has arisen; and",
+      "rationale": "The clause addresses a procedural obligation to inform a party of a requirement, but the topic is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null,
+      "text": "(i) immediately inform [REDACTED] that such a requirement has arisen; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "42",
+      "clause_title": "**3. RETURN OF CONFIDENTIAL INFORMATION**",
+      "snippet": "**3. RETURN OF CONFIDENTIAL INFORMATION**",
+      "rationale": "The clause title suggests it pertains to the return of confidential information, but no substantive text is provided to evaluate its alignment with UoA Position #POS-11 on Confidentiality. The clause topic is not explicitly covered by the Preferred or Acceptable tiers, nor does it appear in the UoA Standard Template for Student Research Agreements. Without further detail, this clause falls outside the scope of existing UoA Positions and templates.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "**3. RETURN OF CONFIDENTIAL INFORMATION**"
+    },
+    {
+      "level": "blue",
+      "clause_id": "45",
+      "clause_title": "**4. NO IMPLIED RIGHTS**",
+      "snippet": "**4. NO IMPLIED RIGHTS** ```",
+      "rationale": "The clause topic 'No Implied Rights' is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy tiers and requires independent assessment.",
+      "standard_ref": null,
+      "text": "**4. NO IMPLIED RIGHTS**\n\n```"
+    },
+    {
+      "level": "blue",
+      "clause_id": "56",
+      "clause_title": "[REDACTED]                                      University of Auckland",
+      "snippet": "[REDACTED] University of Auckland",
+      "rationale": "The clause topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. Without further context or identifiable content, it cannot be mapped to any existing policy or template.",
+      "standard_ref": null,
+      "text": "[REDACTED]                                      University of Auckland"
+    },
+    {
+      "level": "blue",
+      "clause_id": "58",
+      "clause_title": "[REDACTED]                                     [REDACTED]",
+      "snippet": "[REDACTED] [REDACTED]",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. Without specific policy guidance or template reference, the clause cannot be evaluated against existing tiers.",
+      "standard_ref": null,
+      "text": "[REDACTED]                                     [REDACTED]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "Agreement",
+      "snippet": "Agreement\u001d).\n\nConfidential Information",
+      "rationale": "The clause text provided is incomplete and does not provide sufficient context to evaluate alignment with UoA's Preferred or Acceptable positions on Confidentiality. The snippet appears to be a fragment rather than a full clause, and no substantive confidentiality terms are discernible. This clause falls outside the scope of evaluation due to lack of clarity and context.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "Agreement”).\n\nConfidential Information"
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "Between: [Redacted]",
+      "snippet": "Between: [Redacted]",
+      "rationale": "The clause 'Between: [Redacted]' is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. It appears to be a placeholder or introductory clause identifying the parties, which is not covered by any specific policy or template guidance.",
+      "standard_ref": null,
+      "text": "Between: [Redacted]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "Background",
+      "snippet": "Background",
+      "rationale": "The 'Background' clause is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. It is a general introductory clause and does not fall under any specific policy or template guidance.",
+      "standard_ref": null,
+      "text": "Background"
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Collectively: the “parties”",
+      "snippet": "Collectively: the “parties”",
+      "rationale": "The clause is a definitional statement that groups the entities involved in the agreement under the term 'parties.' This topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. It does not conflict with any existing policy or template.",
+      "standard_ref": null,
+      "text": "Collectively: the “parties”"
+    },
+    {
+      "level": "blue",
+      "clause_id": "D",
+      "clause_title": "Date:                                          Date:",
+      "snippet": "Date: Date: [REDACTED] [REDACTED]",
+      "rationale": "The clause pertains to the execution date of the agreement, which is a procedural element not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. Execution dates are standard administrative details and do not require policy alignment.",
+      "standard_ref": null,
+      "text": "Date:                                          Date:  \n[REDACTED]                                     [REDACTED]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "E",
+      "clause_title": "Effective Date: 13 April 2026",
+      "snippet": "Effective Date: 13 April 2026",
+      "rationale": "The clause specifies the effective date of the agreement, which is a procedural detail not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. No policy or template reference applies.",
+      "standard_ref": null,
+      "text": "Effective Date: 13 April 2026"
+    },
+    {
+      "level": "blue",
+      "clause_id": "E",
+      "clause_title": "Expiry Date: The end date of the relevant University course",
+      "snippet": "Expiry Date: The end date of the relevant University course",
+      "rationale": "The clause specifies the expiry date as the end date of the relevant University course. This topic is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined positions and templates.",
+      "standard_ref": null,
+      "text": "Expiry Date: The end date of the relevant University course"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "In connection with the Project, the University will provide academic",
+      "snippet": "In connection with the Project, the University will provide academic oversight and support through the University Personnel. For that purpose, [Redacted] or the relevant students may disclose",
+      "rationale": "The clause addresses academic oversight and support, which is not explicitly covered in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and is flagged as blue.",
+      "standard_ref": null,
+      "text": "In connection with the Project, the University will provide academic oversight and support through the University Personnel. For that purpose, [Redacted] or the relevant students may disclose"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "Name and position                              Name and position",
+      "snippet": "Name and position Name and position",
+      "rationale": "The clause pertains to administrative details (e.g., placeholders for names and positions) and is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. It does not fall under any specific policy or template guidance.",
+      "standard_ref": null,
+      "text": "Name and position                              Name and position"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Permitted Purpose: Enabling the University, through the University",
+      "snippet": "Permitted Purpose: Enabling the University, through the University Personnel, to supervise, support and engage with the Project",
+      "rationale": "The clause addresses a topic (Permitted Purpose) that is not covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of pre-defined policy tiers and requires no escalation unless it conflicts with other clauses.",
+      "standard_ref": null,
+      "text": "Permitted Purpose: Enabling the University, through the University Personnel, to supervise, support and engage with the Project"
+    },
+    {
+      "level": "blue",
+      "clause_id": "P",
+      "clause_title": "Project: An inventory analysis project as agreed as part of work",
+      "snippet": "Project: An inventory analysis project as agreed as part of work experience with the relevant students for a term of 10 weeks commencing on the Effective Date",
+      "rationale": "The clause describes the specific project scope and duration, which is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. This falls outside the scope of the provided policy framework.",
+      "standard_ref": null,
+      "text": "Project: An inventory analysis project as agreed as part of work experience with the relevant students for a term of 10 weeks commencing on the Effective Date"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Signed by:",
+      "snippet": "Signed by:",
+      "rationale": "The clause pertains to the execution of the agreement (signature block), which is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template. Execution clauses are standard administrative elements and do not fall under any specific policy or template guidance.",
+      "standard_ref": null,
+      "text": "Signed by:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "S",
+      "clause_title": "Signature:                                     Signature:",
+      "snippet": "Signature: Signature: [REDACTED] [REDACTED] ```",
+      "rationale": "The clause pertains to signatures, which is a procedural element not covered by the UoA Preferred Contracting Positions or the UoA Standard Template. Signature clauses are standard and necessary for contract execution but do not fall under any specific policy or template guidance.",
+      "standard_ref": null,
+      "text": "Signature:                                     Signature:  \n[REDACTED]                                     [REDACTED]\n```"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The University has students enrolled for a course for which participation",
+      "snippet": "The University has students enrolled for a course for which participation in a real-world project is required. [Redacted] has agreed that certain students may participate in the Project.",
+      "rationale": "The clause addresses the participation of students in a real-world project as part of their academic course, which is not explicitly covered by the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance.",
+      "standard_ref": null,
+      "text": "The University has students enrolled for a course for which participation in a real-world project is required. [Redacted] has agreed that certain students may participate in the Project."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The parties agree as follows:",
+      "snippet": "The parties agree as follows:",
+      "rationale": "This clause is introductory and does not address any specific topic covered by the UoA Preferred Contracting Positions or the UoA Standard Template. It serves as a general preamble and is not subject to specific policy requirements.",
+      "standard_ref": null,
+      "text": "The parties agree as follows:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "U",
+      "clause_title": "UNIVERSITY NDA - STUDENT WORK EXPERIENCE AGREEMENT",
+      "snippet": "UNIVERSITY NDA - STUDENT WORK EXPERIENCE AGREEMENT",
+      "rationale": "The clause appears to introduce a topic related to a 'UNIVERSITY NDA - STUDENT WORK EXPERIENCE AGREEMENT,' which is not addressed in the UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of existing guidance and requires further review.",
+      "standard_ref": null,
+      "text": "UNIVERSITY NDA - STUDENT WORK EXPERIENCE AGREEMENT"
+    },
+    {
+      "level": "blue",
+      "clause_id": "U",
+      "clause_title": "University Personnel: [Redacted]",
+      "snippet": "University Personnel: [Redacted] Agreement",
+      "rationale": "The clause addresses 'University Personnel,' which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for Student Research Agreements. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "University Personnel: [Redacted]\n\nAgreement"
+    },
+    {
+      "level": "green",
+      "clause_id": "1.2",
+      "clause_title": "1.2. **Continuing obligations:** The University’s obligations of",
+      "snippet": "1.2. **Continuing obligations:** The University’s obligations of confidentiality and non-use under this Agreement survive expiry or termination of this Agreement for a period of five (5). The release of part of the Confidential Information by [REDACTED] into the public domain will not of itself cause the University’s obligations under this Agreement to cease in respect of any Confidential Information that has not entered the public domain.",
+      "rationale": "This clause aligns with UoA Position #POS-11 on Confidentiality. The definition of confidential information excludes information already public, and the duration of confidentiality obligations is limited to 5 years post-termination/expiry, which matches the Preferred tier. The clause also ensures obligations persist for information not yet public, which is consistent with UoA's standard approach.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "1.2. **Continuing obligations:** The University’s obligations of confidentiality and non-use under this Agreement survive expiry or termination of this Agreement for a period of five (5). The release of part of the Confidential Information by [REDACTED] into the public domain will not of itself cause the University’s obligations under this Agreement to cease in respect of any Confidential Information that has not entered the public domain."
+    },
+    {
+      "level": "green",
+      "clause_id": "3.1",
+      "clause_title": "3.1. **Return:** At [REDACTED] written request, the University will",
+      "snippet": "3.1. **Return:** At [REDACTED] written request, the University will promptly, at [REDACTED] election, return to [REDACTED], destroy or erase, or procure the destruction or erasure of, any or all of the Confidential Information, except as reasonably required by the University or its permitted disclosees’ for archival, audit, legal or regulatory purposes.",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It allows the University to retain Confidential Information for archival, audit, legal, or regulatory purposes, which is consistent with the Preferred tier. The clause does not impose unreasonable restrictions on the University’s ability to manage Confidential Information and does not conflict with the definition of Confidential Information or the ability to disclose to agents and Affiliates.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "3.1. **Return:** At [REDACTED] written request, the University will promptly, at [REDACTED] election, return to [REDACTED], destroy or erase, or procure the destruction or erasure of, any or all of the Confidential Information, except as reasonably required by the University or its permitted disclosees’ for archival, audit, legal or regulatory purposes."
+    },
+    {
+      "level": "green",
+      "clause_id": "6",
+      "clause_title": "6. LIABILITY",
+      "snippet": "6. LIABILITY",
+      "rationale": "The clause aligns with UoA Position #POS-07 on Liability Limitations and Exclusions. The liability cap is set at NZD$30,000, which is well below the NZD$500,000 threshold. Liability is limited to direct losses, and consequential or indirect losses (including loss of profit, revenue, savings, business, and goodwill) are explicitly excluded. This matches the Preferred tier of the UoA Position.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "6. LIABILITY"
+    },
+    {
+      "level": "green",
+      "clause_id": "7.3",
+      "clause_title": "7.3. Governing law: This Agreement will be subject to and construed and",
+      "snippet": "7.3. Governing law: This Agreement will be subject to and construed and interpreted in accordance with the laws of New Zealand and will be subject to the non-exclusive jurisdiction of the Courts of New Zealand.",
+      "rationale": "The clause explicitly states that the governing law is New Zealand and the jurisdiction is non-exclusive to the Courts of New Zealand. This aligns perfectly with the UoA Preferred Contracting Position #POS-16, which specifies New Zealand as the preferred governing law and jurisdiction. No deviation or escalation is required.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "7.3. Governing law: This Agreement will be subject to and construed and interpreted in accordance with the laws of New Zealand and will be subject to the non-exclusive jurisdiction of the Courts of New Zealand."
+    },
+    {
+      "level": "green",
+      "clause_id": "28",
+      "clause_title": "(d) put in place and maintain reasonable security measures to protect the",
+      "snippet": "(d) put in place and maintain reasonable security measures to protect the Confidential Information from unauthorised use or access, which are no less than the security measures that it applies to its own Confidential Information.",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It requires reasonable security measures to protect Confidential Information, which is consistent with the Preferred tier's requirement to safeguard such information. The clause does not conflict with the exclusions for public, independently developed, or legally required disclosures, nor does it limit UoA's ability to disclose to agents and Affiliates. No escalation is required.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(d) put in place and maintain reasonable security measures to protect the Confidential Information from unauthorised use or access, which are no less than the security measures that it applies to its own Confidential Information."
+    },
+    {
+      "level": "green",
+      "clause_id": "34",
+      "clause_title": "(a) is independently acquired or developed by the University without",
+      "snippet": "(a) is independently acquired or developed by the University without breaching any of the University\u0019s obligations under this Agreement and without use of the Confidential Information;",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It explicitly excludes information independently developed by the University without breaching obligations or using Confidential Information, which matches the Preferred tier definition of confidential information. The clause does not introduce any deviation or escalation triggers.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) is independently acquired or developed by the University without breaching any of the University’s obligations under this Agreement and without use of the Confidential Information;"
+    },
+    {
+      "level": "green",
+      "clause_id": "35",
+      "clause_title": "(b) is subsequently disclosed to the University, without any obligations",
+      "snippet": "(b) is subsequently disclosed to the University, without any obligations of confidence, by a third party who has not derived it directly or indirectly from [REDACTED] or [REDACTED];",
+      "rationale": "This clause aligns with the UoA Preferred Contracting Position POS-11 on Confidentiality, which excludes information received from a third party without restriction and without breach of confidentiality obligations. The clause matches the preferred tier as it ensures that such information is not treated as confidential.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) is subsequently disclosed to the University, without any obligations of confidence, by a third party who has not derived it directly or indirectly from [REDACTED] or [REDACTED];"
+    },
+    {
+      "level": "green",
+      "clause_id": "36",
+      "clause_title": "(c) is or becomes public knowledge, other than as a result of any fault",
+      "snippet": "(c) is or becomes public knowledge, other than as a result of any fault of the relevant student, the University or its permitted disclosees;",
+      "rationale": "This clause aligns with the confidentiality exclusions outlined in UoA Preferred Contracting Position POS-11, which specifies that confidential information excludes information already public or independently developed. The clause matches the preferred tier as it ensures confidentiality obligations are appropriately limited.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(c) is or becomes public knowledge, other than as a result of any fault of the relevant student, the University or its permitted disclosees;"
+    },
+    {
+      "level": "green",
+      "clause_id": "A",
+      "clause_title": "And: University of Auckland, a university constituted under the University",
+      "snippet": "And: University of Auckland, a university constituted under the University of Auckland Act 1961 and a tertiary education provider under the Education and Training Act 2020, of 22 Princes Street, Auckland, New Zealand wi…",
+      "rationale": "This clause matches the UoA Standard Template for the Student Research Agreement, which includes the same wording for the University’s identification and address. The inclusion of the email address does not materially deviate from the template and is consistent with standard practices.",
+      "standard_ref": "UoA-Student Research Agreement Template (April 2018).docx",
+      "text": "And: University of Auckland, a university constituted under the University of Auckland Act 1961 and a tertiary education provider under the Education and Training Act 2020, of 22 Princes Street, Auckland, New Zealand with email address [contracts@auckland.ac.nz] (the “University”);"
+    },
+    {
+      "level": "green",
+      "clause_id": "P",
+      "clause_title": "Parties",
+      "snippet": "Parties",
+      "rationale": "The 'Parties' clause matches the UoA Standard Template for the Student Research Agreement. It is consistent with the template's structure and content, which defines the parties involved in the agreement.",
+      "standard_ref": "UoA-Student Research Agreement Template (April 2018)",
+      "text": "Parties"
+    }
+  ],
+  "counts": {
+    "green": 10,
+    "amber": 14,
+    "red": 1,
+    "blue": 35
+  },
+  "generated_at": "2026-05-29T13:26:04.998053+00:00",
+  "metrics": {
+    "n_calls": 4,
+    "input_tokens": 3908,
+    "output_tokens": 2497,
+    "total_tokens": 6405,
+    "latency_ms": 102623.6,
+    "total_cost_usd": 0.03474,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)",
+    "UoA Template — UoA-Student Research Agreement Template (April 2018).docx"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

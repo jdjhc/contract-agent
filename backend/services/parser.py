@@ -179,17 +179,41 @@ def _needs_llm_fallback(text: str, clauses: list[Clause]) -> bool:
     return longest > 0.7 * len(text)
 
 
-def _anchor_in_text(text: str, heading: str, start: int) -> int:
-    """Locate a heading in text, tolerating whitespace/OCR drift."""
-    idx = text.find(heading, start)
+def _fuzzy_search(text: str, snippet: str, start: int) -> tuple[int, int]:
+    """Find snippet in text[start:], tolerating whitespace/OCR drift.
+
+    Returns (match_start, match_end) or (-1, -1).
+    """
+    idx = text.find(snippet, start)
     if idx >= 0:
-        return idx
-    tokens = heading.split()
-    if len(tokens) < 2:
-        return -1
-    pattern = r"\s+".join(re.escape(t) for t in tokens[:6])
+        return idx, idx + len(snippet)
+    tokens = snippet.split()
+    if not tokens:
+        return -1, -1
+    pattern = r"\s+".join(re.escape(t) for t in tokens[: min(8, len(tokens))])
     m = re.search(pattern, text[start:])
-    return start + m.start() if m else -1
+    if m:
+        return start + m.start(), start + m.end()
+    return -1, -1
+
+
+def _anchor_with_context(text: str, before: str, heading: str) -> int:
+    """Locate a heading using its preceding-context snippet to disambiguate.
+
+    The `before` snippet is what separates a real body heading from its
+    table-of-contents twin: the body heading is preceded by the previous
+    clause's wording, the TOC entry by another TOC line. We search for the
+    `before+heading` pair and return the position where the heading starts.
+    """
+    if before:
+        _, be = _fuzzy_search(text, before, 0)
+        if be >= 0:
+            hs, _ = _fuzzy_search(text, heading, be)
+            if hs >= 0:
+                return hs
+    # No context, or context not found — fall back to plain heading search.
+    hs, _ = _fuzzy_search(text, heading, 0)
+    return hs
 
 
 def _clause_id_from_heading(heading: str, fallback_index: int) -> str:
@@ -203,17 +227,34 @@ def _clause_id_from_heading(heading: str, fallback_index: int) -> str:
     return str(fallback_index)
 
 
-_LLM_SYSTEM_PROMPT = (
-    "You are a contract structure analyser. Identify the first 40-80 "
-    "characters of every clause, numbered section, or lettered "
-    "subsection in the contract — copied VERBATIM from the document, "
-    "in document order. Do not paraphrase, do not add or remove "
-    "characters. Respond with strict JSON of the form "
-    '{"headings": ["<verbatim opening 1>", "<verbatim opening 2>", ...]}.'
-)
+_LLM_SYSTEM_PROMPT = """\
+You are a contract structure analyser. Identify every clause or section \
+HEADING that introduces real body content, and for each return two short \
+verbatim snippets that let us locate it unambiguously in the source text.
+
+For each heading return an object:
+  {"before": "<last ~6 words of the text immediately PRECEDING the heading>",
+   "heading": "<the heading and first few words after it, ~40-80 chars>"}
+
+RULES — read carefully:
+1. A heading is a numbered or lettered label introducing a new clause/section, \
+e.g. "1.", "1.1", "2.1.3", "Article 5", "Section 3", "(a)", "DEFINITIONS", \
+"14. Travel Stipends".
+2. Return ONLY headings of the ACTUAL BODY. IGNORE the table of contents / \
+index entirely (its lines end in page numbers). If the same heading appears \
+both in a table of contents and in the body, return it ONCE, using the BODY \
+occurrence's surrounding text.
+3. "before" must be the verbatim text that comes right before the heading in \
+the body (use "" only for the very first heading). This is what disambiguates \
+a body heading from its table-of-contents twin.
+4. Copy both snippets VERBATIM from the document.
+5. Output in document order.
+6. Respond with strict JSON: \
+{"headings": [{"before": "...", "heading": "..."}, ...]}\
+"""
 
 
-async def _llm_headings_for_chunk(chunk: str) -> list[str]:
+async def _llm_headings_for_chunk(chunk: str) -> list[dict[str, str]]:
     from api_clients import call_llm
 
     user = f"Contract text:\n---\n{chunk}\n---"
@@ -226,12 +267,17 @@ async def _llm_headings_for_chunk(chunk: str) -> list[str]:
         raw_headings = data.get("headings", [])
     except (json.JSONDecodeError, ValueError):
         return []
-    headings: list[str] = []
+    headings: list[dict[str, str]] = []
     for h in raw_headings:
-        if isinstance(h, str):
+        if isinstance(h, dict):
+            heading = str(h.get("heading", "")).strip()
+            before = str(h.get("before", "")).strip()
+            if 4 <= len(heading) <= 200:
+                headings.append({"before": before, "heading": heading})
+        elif isinstance(h, str):  # tolerate old flat-string shape
             h = h.strip()
             if 4 <= len(h) <= 200:
-                headings.append(h)
+                headings.append({"before": "", "heading": h})
     return headings
 
 
@@ -262,7 +308,7 @@ async def _split_with_llm(text: str) -> list[Clause]:
     window across the text, gather all headings, then dedupe by position.
     """
     offsets = _chunk_offsets(text)
-    all_headings: list[str] = []
+    all_headings: list[dict[str, str]] = []
     for off in offsets:
         chunk = text[off : off + _LLM_CHUNK_SIZE]
         headings = await _llm_headings_for_chunk(chunk)
@@ -270,10 +316,10 @@ async def _split_with_llm(text: str) -> list[Clause]:
 
     found: list[tuple[int, str]] = []
     for h in all_headings:
-        idx = _anchor_in_text(text, h, 0)
+        idx = _anchor_with_context(text, h.get("before", ""), h["heading"])
         if idx < 0:
             continue
-        found.append((idx, h))
+        found.append((idx, h["heading"]))
 
     found.sort(key=lambda p: p[0])
     positions: list[tuple[int, str]] = []
@@ -307,22 +353,50 @@ async def _split_with_llm(text: str) -> list[Clause]:
     return clauses
 
 
+# If any single clause exceeds this character count the split is considered
+# poor and a retry is warranted (~500 words ≈ 3000 chars).
+_RETRY_MAX_CLAUSE_CHARS = 3000
+_SPLIT_MAX_RETRIES = 3
+
+
+def _split_quality_ok(clauses: list[Clause]) -> bool:
+    """Return True if no single clause exceeds the character-count threshold."""
+    if not clauses:
+        return False
+    return max(len(c.text) for c in clauses) <= _RETRY_MAX_CLAUSE_CHARS
+
+
 async def split_clauses_async(text: str) -> list[Clause]:
     """Async clause splitter — LLM anchor method is the primary path.
 
     Regex (`split_clauses`) is kept as a fallback for when LLM is not
     configured, fails, or produces too few clauses to be trustworthy.
+
+    If the LLM produces a poor split (one clause > 40 % of total text),
+    the call is retried up to _SPLIT_MAX_RETRIES times before falling back
+    to the regex splitter.
     """
     from api_clients import is_configured
 
     if not is_configured() or len(text) < 1500:
         return split_clauses(text)
 
-    try:
-        llm_clauses = await _split_with_llm(text)
-    except Exception:
-        return split_clauses(text)
+    best: list[Clause] = []
 
-    if len(llm_clauses) < 3:
-        return split_clauses(text)
-    return llm_clauses
+    for attempt in range(_SPLIT_MAX_RETRIES):
+        try:
+            llm_clauses = await _split_with_llm(text)
+        except Exception:
+            break
+
+        if len(llm_clauses) >= 3 and _split_quality_ok(llm_clauses):
+            return llm_clauses
+
+        # Keep the attempt with the most clauses as a fallback.
+        if len(llm_clauses) > len(best):
+            best = llm_clauses
+
+    # Use best LLM result if it produced enough clauses, else regex.
+    if len(best) >= 3:
+        return best
+    return split_clauses(text)

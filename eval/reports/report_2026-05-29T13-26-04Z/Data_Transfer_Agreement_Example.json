@@ -1,0 +1,1518 @@
+{
+  "document_id": "Data_Transfer_Agreement_Example_pdf",
+  "filename": "Data Transfer Agreement Example.pdf",
+  "contract_type": "Data Transfer Agreement",
+  "contract_type_confidence": 0.95,
+  "summary": "The review of the Data Transfer Agreement indicates a moderate risk posture, with several clauses requiring escalation or further review. Key issues include deviations from UoA's Preferred Positions on confidentiality (POS-11), liability limitations (POS-07), and intellectual property (POS-IP). Notably, confidentiality clauses lack critical exclusions and time limits, liability caps are unspecified or absent, and intellectual property provisions require referral to Auckland UniServices Ltd. The next step is to escalate flagged clauses to the Senior Manager, Research Grants and Contracts, and Auckland UniServices for alignment with UoA's standards.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "1.2",
+      "clause_title": "1.2 Confidential Information means:",
+      "snippet": "1.2 Confidential Information means:",
+      "rationale": "The clause text provided is incomplete and does not define 'Confidential Information' or address the key elements required by UoA Position #POS-11. Specifically, it does not confirm whether the definition excludes information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. It also does not specify whether UoA can disclose to agents and Affiliates or whether confidentiality obligations are limited in time. Without this information, the clause cannot be assessed as compliant with either the Preferred or Acceptable tiers. Escalation to the Senior Manager, Research Grants and Contracts is required to ensure alignment with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "1.2 Confidential Information means:"
+    },
+    {
+      "level": "red",
+      "clause_id": "3",
+      "clause_title": "3 DISCLOSURE AND USE OF CONFIDENTIAL INFORMATION",
+      "snippet": "3 DISCLOSURE AND USE OF CONFIDENTIAL INFORMATION",
+      "rationale": "The clause text does not provide sufficient detail to confirm alignment with UoA Position #POS-11 on Confidentiality. Specifically, it lacks information on exclusions for public information, independently developed information, previously known information, and legally required disclosures. It also does not specify the duration of confidentiality obligations or UoA's ability to disclose to agents and Affiliates. This falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts for review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "3 DISCLOSURE AND USE OF CONFIDENTIAL INFORMATION"
+    },
+    {
+      "level": "red",
+      "clause_id": "5.1",
+      "clause_title": "5.1 The Recipient must only use the Confidential Information for the Purpose.",
+      "snippet": "5.1 The Recipient must only use the Confidential Information for the Purpose.",
+      "rationale": "The clause does not align with UoA Position #POS-11 on Confidentiality. It lacks critical elements such as exclusions for information already public, independently developed, previously known, or legally required to be disclosed. It also does not specify the duration of confidentiality obligations or allow UoA to disclose to agents and Affiliates. These omissions materially deviate from the Preferred and Acceptable tiers, requiring escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "5.1 The Recipient must only use the Confidential Information for the Purpose."
+    },
+    {
+      "level": "red",
+      "clause_id": "5.3",
+      "clause_title": "5.3 The Recipient must ensure that all Confidential Information is signified",
+      "snippet": "5.3 The Recipient must ensure that all Confidential Information is signified as the property of the Discloser and must not cause or have caused any pledge, lien, charge, mortgage, encumbrance of a third party or any oth…",
+      "rationale": "The clause imposes restrictions on the handling of Confidential Information that are not aligned with UoA's Preferred or Acceptable positions under POS-11. Specifically, it does not address the exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause introduces obligations regarding the property designation and prohibition of encumbrances, which are not standard UoA requirements and could conflict with UoA's ability to disclose to agents and Affiliates. This deviation requires escalation to the Senior Manager, Research Grants and Contracts for review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "5.3 The Recipient must ensure that all Confidential Information is signified as the property of the Discloser and must not cause or have caused any pledge, lien, charge, mortgage, encumbrance of a third party or any other security interest to be placed on any part of the Confidential Information or any database (whether electronic or otherwise) in which such the Confidential Information is stored."
+    },
+    {
+      "level": "red",
+      "clause_id": "6",
+      "clause_title": "6 ACKNOWLEDGMENT AND INDEMNITY",
+      "snippet": "6 ACKNOWLEDGMENT AND INDEMNITY",
+      "rationale": "The clause title suggests it addresses indemnities, which are a UoA-sensitive topic. However, the clause text is missing, making it impossible to confirm alignment with UoA Position #POS-08. Indemnities must meet strict criteria: no indemnities offered unless for Trusted Funders under specific conditions, liability under indemnity must be capped, and indemnities against IP infringement are generally prohibited. Without the full clause text, this clause falls outside the Acceptable tier and triggers escalation to the Research Contract Delegations for review.",
+      "standard_ref": "UoA Position #POS-08",
+      "text": "6 ACKNOWLEDGMENT AND INDEMNITY"
+    },
+    {
+      "level": "red",
+      "clause_id": "6.2",
+      "clause_title": "6.2 The Discloser indemnifies the Recipient against all losses, damages,",
+      "snippet": "6.2 The Discloser indemnifies the Recipient against all losses, damages, expenses and legal costs (on a solicitor and own client basis and whether incurred by or awarded against the Discloser) that the Discloser may rea…",
+      "rationale": "The clause involves indemnities, which are addressed under UoA Preferred Contracting Positions POS-08. The clause deviates materially from the preferred and acceptable positions. Specifically, it offers an indemnity without limiting liability to the agreed liability cap, does not include proportionate reduction for contributory negligence, and does not require obligations on each party to mitigate losses. Additionally, it indemnifies against indirect losses, which is explicitly excluded under POS-07. This clause requires escalation to the Research Contract Delegations for review and potential amendment.",
+      "standard_ref": "UoA Position #POS-08",
+      "text": "6.2 The Discloser indemnifies the Recipient against all losses, damages, expenses and legal costs (on a solicitor and own client basis and whether incurred by or awarded against the Discloser) that the Discloser may reasonably sustain or incur as a result, whether directly or indirectly, of any breach by the Recipient of this agreement."
+    },
+    {
+      "level": "red",
+      "clause_id": "9",
+      "clause_title": "9 TERMINATION",
+      "snippet": "9 TERMINATION",
+      "rationale": "The clause text does not provide sufficient detail to confirm alignment with UoA's Preferred or Acceptable positions on Termination. UoA's Preferred position requires mutual two-way termination for material breach or insolvency, a clear right for UoA to terminate for non-payment, protection of accrued rights, and client responsibility for termination costs including uncancellable obligations. The Acceptable position allows termination for convenience only in Consulting contracts under specific conditions. Without further detail, this clause falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts for review.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "9 TERMINATION"
+    },
+    {
+      "level": "red",
+      "clause_id": "15",
+      "clause_title": "15 GOVERNING LAW",
+      "snippet": "15 GOVERNING LAW",
+      "rationale": "The clause text does not specify the governing law or jurisdiction, which is a critical omission for UoA contracts. Governing law must be explicitly stated to align with UoA Position #POS-16. Preferred governing law is New Zealand, with acceptable alternatives including Australia, the United Kingdom, Common European countries, Singapore, or non-exclusive jurisdiction of a specific US state for US-based clients. Escalation to General Counsel is required to address this omission.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "15 GOVERNING LAW"
+    },
+    {
+      "level": "red",
+      "clause_id": "16",
+      "clause_title": "16 PUBLICATIONS",
+      "snippet": "16 PUBLICATIONS",
+      "rationale": "The clause lacks substantive content and does not address the publication rights of the Principal Investigator, students, or any stand-down period for patent filing, as required by UoA Position #POS-12. This omission materially deviates from the Preferred tier and triggers escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-12",
+      "text": "16 PUBLICATIONS"
+    },
+    {
+      "level": "red",
+      "clause_id": "50",
+      "clause_title": "(c) Loss of Data;",
+      "snippet": "(c) Loss of Data;",
+      "rationale": "The clause explicitly references 'Loss of Data' without providing any context or limitation, which materially deviates from UoA Position #POS-07. The Preferred Position requires liability for loss of data to be explicitly excluded, and the Acceptable Position allows liability for indirect losses only if capped within monetary limits. This clause does not align with either tier and lacks any liability cap or exclusion language. Escalation to the Research Grants and Contracts Delegations is required to assess compliance and negotiate appropriate limitations.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "(c) Loss of Data;"
+    },
+    {
+      "level": "red",
+      "clause_id": "95",
+      "clause_title": "(a) use the Confidential Information held by Recipient other than for the",
+      "snippet": "(a) use the Confidential Information held by Recipient other than for the Purpose;",
+      "rationale": "The clause restricts the use of Confidential Information to the Purpose but does not address key elements of UoA's Preferred Position for Confidentiality. Specifically, it lacks exclusions for information already public, independently developed, previously known by the recipient, or legally required to be disclosed. It also does not specify the ability for UoA to disclose to agents and Affiliates or define a duration for confidentiality obligations. These omissions materially deviate from UoA Position #POS-11 and require escalation to the Senior Manager, Research Grants and Contracts for review and amendment.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) use the Confidential Information held by Recipient other than for the Purpose;"
+    },
+    {
+      "level": "red",
+      "clause_id": "97",
+      "clause_title": "(c) copy, decompile, modify, reverse engineer or create derivative works out",
+      "snippet": "(c) copy, decompile, modify, reverse engineer or create derivative works out of any of the Confidential Information; or",
+      "rationale": "The clause imposes restrictions on the handling of Confidential Information that are overly broad and potentially conflict with UoA's Preferred Position on Confidentiality (POS-11). Specifically, the Preferred Position requires that the definition of Confidential Information exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. This clause does not provide such exclusions and could restrict UoA's ability to disclose to agents and Affiliates or use information that is not genuinely confidential. Additionally, the clause does not specify a time limit for confidentiality obligations, which is required under both the Preferred and Acceptable tiers. Escalation to the Senior Manager, Research Grants and Contracts is required to address these issues.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(c) copy, decompile, modify, reverse engineer or create derivative works out of any of the Confidential Information; or"
+    },
+    {
+      "level": "red",
+      "clause_id": "98",
+      "clause_title": "(d) alter the Confidential Information in any way, other than contemplated",
+      "snippet": "(d) alter the Confidential Information in any way, other than contemplated by the parties for the Purpose.",
+      "rationale": "The clause does not align with UoA Position #POS-11 on Confidentiality. It introduces ambiguity regarding the alteration of Confidential Information, which is not addressed in the Preferred or Acceptable tiers. UoA's Preferred position requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed, and does not contemplate alteration of Confidential Information. This clause requires escalation to the Senior Manager, Research Grants and Contracts for review and potential amendment.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(d) alter the Confidential Information in any way, other than contemplated by the parties for the Purpose."
+    },
+    {
+      "level": "red",
+      "clause_id": "112",
+      "clause_title": "(c) Confidential Information has been lost in circumstances where",
+      "snippet": "(c) Confidential Information has been lost in circumstances where unauthorised access to, or unauthorised disclosure of, it may occur (Loss of Data),",
+      "rationale": "The clause introduces liability for loss of data without explicitly limiting liability to direct losses or excluding consequential/indirect losses, as required by UoA Position #POS-07. Additionally, it does not specify a monetary cap for liability exposure, which is critical for compliance with UoA's Preferred and Acceptable tiers. This materially deviates from the UoA Position and triggers escalation to the Research Grants and Contracts Delegations for review.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "(c) Confidential Information has been lost in circumstances where unauthorised access to, or unauthorised disclosure of, it may occur (Loss of Data),"
+    },
+    {
+      "level": "red",
+      "clause_id": "126",
+      "clause_title": "(c) to the extent not excluded by law, the Discloser disclaims and excludes",
+      "snippet": "(c) to the extent not excluded by law, the Discloser disclaims and excludes all liability for all claims, expenses, losses, damages and costs that the Discloser may incur as a result of the Confidential Information, for\nny reason, being inaccurate or incomplete in any way or incapable of achieving any purpose.",
+      "rationale": "This clause materially deviates from UoA Position #POS-07 on Liability Limitations and Exclusions. It broadly disclaims all liability for inaccuracies or incompleteness of Confidential Information without any monetary cap or limitation to direct losses. UoA's Preferred Position requires liability to be capped at the lesser of NZD$500,000 or the contract value, and excludes consequential or indirect losses explicitly. The clause does not align with either the Preferred or Acceptable tier and requires escalation to the Research Grants and Contracts Delegations for review.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "(c) to the extent not excluded by law, the Discloser disclaims and excludes all liability for all claims, expenses, losses, damages and costs that the Discloser may incur as a result of the Confidential Information, for any reason, being inaccurate or incomplete in any way or incapable of achieving any purpose."
+    },
+    {
+      "level": "red",
+      "clause_id": "148",
+      "clause_title": "all Confidential Information of the Discloser in the Recipient’s possession",
+      "snippet": "all Confidential Information of the Discloser in the Recipient’s possession or control.",
+      "rationale": "The clause does not align with UoA Position #POS-11 on Confidentiality. It lacks critical exclusions for information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not specify a time limit for confidentiality obligations (e.g., 5–7 years post-termination/expiry/disclosure). These omissions materially deviate from both the Preferred and Acceptable tiers, requiring escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "all Confidential Information of the Discloser in the Recipient’s possession or control."
+    },
+    {
+      "level": "red",
+      "clause_id": "C",
+      "clause_title": "C. The Recipient has agreed to keep confidential the information disclosed to",
+      "snippet": "C. The Recipient has agreed to keep confidential the information disclosed to it by the Discloser. IT IS NOW AGREED:",
+      "rationale": "The clause addresses confidentiality but lacks critical elements required by UoA's Preferred Position (POS-11). Specifically, it does not define exclusions for information already public, independently developed, previously known, or legally required to be disclosed. It also does not specify a time limit for confidentiality obligations (e.g., up to 5 years post-completion). These omissions materially deviate from UoA's Preferred and Acceptable tiers, requiring escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "C. The Recipient has agreed to keep confidential the information disclosed to it by the Discloser.  \n\nIT IS NOW AGREED:"
+    },
+    {
+      "level": "red",
+      "clause_id": "E",
+      "clause_title": "Either party may terminate this agreement by giving the other party 30 days",
+      "snippet": "Either party may terminate this agreement by giving the other party 30 days prior written notice in writing.",
+      "rationale": "The clause allows for termination for convenience by either party with 30 days' notice, which is not aligned with UoA's Preferred Position for termination. UoA's Preferred Position requires mutual two-way termination for material breach or insolvency, with specific provisions for termination due to non-payment and coverage of termination costs. Termination for convenience is only acceptable for Consulting contracts under specific conditions, which are not mentioned here. This clause falls outside the Acceptable tier and requires escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-19",
+      "text": "Either party may terminate this agreement by giving the other party 30 days prior written notice in writing."
+    },
+    {
+      "level": "red",
+      "clause_id": "T",
+      "clause_title": "The obligations of confidentiality under this agreement continue to apply to",
+      "snippet": "The obligations of confidentiality under this agreement continue to apply to the parties (in addition to any permitted assignee) after assignment or termination of this agreement or completion of the Purpose.",
+      "rationale": "The clause does not specify a time limit for confidentiality obligations, which is a critical requirement under UoA Position #POS-11. Preferred wording limits confidentiality obligations to a maximum of 5 years post-completion, and acceptable wording allows up to 7 years. The absence of a time limit materially deviates from UoA's Preferred and Acceptable tiers, triggering escalation to the Senior Manager, Research Grants and Contracts.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "The obligations of confidentiality under this agreement continue to apply to the parties (in addition to any permitted assignee) after assignment or termination of this agreement or completion of the Purpose."
+    },
+    {
+      "level": "red",
+      "clause_id": "T",
+      "clause_title": "The Recipient and its officers and employees may include the Confidential",
+      "snippet": "The Recipient and its officers and employees may include the Confidential Information in any academic publication or presentation of Results (Publication).",
+      "rationale": "This clause conflicts with UoA Position #POS-11 on Confidentiality. The clause allows the Recipient to include Confidential Information in academic publications or presentations without any limitation or safeguards, which is inconsistent with the Preferred Position requiring exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not specify a duration for confidentiality obligations, which is required under both the Preferred and Acceptable tiers. Escalation to the Senior Manager, Research Grants and Contracts is necessary to address these issues.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "The Recipient and its officers and employees may include the Confidential Information in any academic publication or presentation of Results (Publication)."
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.1",
+      "clause_title": "1.1 Background Intellectual Property means Intellectual Property prepared or",
+      "snippet": "1.1 Background Intellectual Property means Intellectual Property prepared or developed prior to the Execution Date by any party, and includes improvements to such Intellectual Property developed during the period of thi…",
+      "rationale": "The clause addresses Intellectual Property, specifically Background IP and improvements to it. UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices Ltd (Head of IP) for review, as IP positions are not governed by the UoA protocol. This clause falls under the 'acceptable' tier for IP clauses, pending UniServices review.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "1.1 Background Intellectual Property means Intellectual Property prepared or developed prior to the Execution Date by any party, and includes improvements to such Intellectual Property developed during the period of this agreement;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.12",
+      "clause_title": "1.12 Intellectual Property means all intellectual and industrial property",
+      "snippet": "1.12 Intellectual Property means all intellectual and industrial property rights and includes any patent, design, copyright, trade mark, plant breeders rights, technology, know-how, and Confidential Information, and all\n",
+      "rationale": "The clause defines Intellectual Property broadly, covering various rights including patents, designs, copyrights, trademarks, and Confidential Information. UoA Contracting Positions explicitly state that all IP-related clauses must be referred to Auckland UniServices Ltd (Head of IP) for review, as UoA does not set IP positions independently. This clause falls under the 'acceptable' tier for referral to UniServices.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "1.12 Intellectual Property means all intellectual and industrial property rights and includes any patent, design, copyright, trade mark, plant breeders rights, technology, know-how, and Confidential Information, and all  \n```\n\n```"
+    },
+    {
+      "level": "amber",
+      "clause_id": "1.21",
+      "clause_title": "1.21 Project Intellectual Property has the meaning set out in clause 7.3;",
+      "snippet": "1.21 Project Intellectual Property has the meaning set out in clause 7.3;",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA's Preferred Contracting Positions. All IP clauses must be referred to Auckland UniServices (Head of IP) for review, as per UoA Position #POS-IP. This clause is flagged as AMBER to ensure the necessary referral is made.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "1.21 Project Intellectual Property has the meaning set out in clause 7.3;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.3",
+      "clause_title": "3.3 The Recipient may disclose Confidential Information only to those of its",
+      "snippet": "3.3 The Recipient may disclose Confidential Information only to those of its officers, affiliates, and employees who:",
+      "rationale": "The clause touches on the topic of Confidentiality, which is sensitive under UoA Position #POS-11. While the clause allows disclosure to officers, affiliates, and employees, it does not explicitly address the exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not specify a duration for confidentiality obligations, which is a key requirement under UoA's Preferred Position. The clause falls within the Acceptable tier if confidentiality obligations are limited in time (e.g., 5–7 years post-termination/expiry/disclosure). Contract Manager should confirm alignment with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "3.3 The Recipient may disclose Confidential Information only to those of its officers, affiliates, and employees who:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "3.5",
+      "clause_title": "3.5 The Recipient must not profit from the use of any of the Discloser’s",
+      "snippet": "3.5 The Recipient must not profit from the use of any of the Discloser’s Confidential Information, except in respect of the Purpose.",
+      "rationale": "The clause addresses Confidentiality, which is covered under UoA Position #POS-11. While the clause restricts the Recipient from profiting from the Discloser’s Confidential Information except for the stated Purpose, it does not explicitly align with the Preferred or Acceptable tier requirements regarding the definition of confidential information, disclosure rights, or duration of confidentiality obligations. The clause does not contradict UoA Positions but lacks sufficient detail to confirm full compliance. Escalation to the Senior Manager, Research Grants and Contracts is recommended for further review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "3.5 The Recipient must not profit from the use of any of the Discloser’s Confidential Information, except in respect of the Purpose."
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.2",
+      "clause_title": "4.2 As the Confidential Information contains Relevant Information collected",
+      "snippet": "4.2 As the Confidential Information contains Relevant Information collected and owned by the Discloser, the Recipient must:",
+      "rationale": "The clause touches on Confidentiality, which is a UoA-sensitive topic. However, the clause text does not provide sufficient detail to confirm alignment with UoA's Preferred or Acceptable positions. Specifically, it does not address exclusions for information already public, independently developed, previously known, or legally required to be disclosed, nor does it specify the duration of confidentiality obligations. This ambiguity places the clause in the amber tier, requiring confirmation or negotiation to ensure compliance with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "4.2 As the Confidential Information contains Relevant Information collected and owned by the Discloser, the Recipient must:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "4.3",
+      "clause_title": "4.3 If the Recipient becomes aware that it has used or disclosed, the",
+      "snippet": "4.3 If the Recipient becomes aware that it has used or disclosed, the Confidential Information in contravention of this agreement, the Recipient must promptly give the Discloser notice of the full details of the contravention.",
+      "rationale": "The clause addresses confidentiality obligations but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for public information, independently developed information, previously known information, and legally required disclosures. Additionally, the clause does not specify the duration of confidentiality obligations, which is a key aspect of UoA's Preferred and Acceptable tiers. While the clause does not contradict UoA's Positions, it lacks the specificity required for a green flag and should be reviewed further to ensure compliance with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "4.3 If the Recipient becomes aware that it has used or disclosed, the Confidential Information in contravention of this agreement, the Recipient must promptly give the Discloser notice of the full details of the contravention."
+    },
+    {
+      "level": "amber",
+      "clause_id": "5.6",
+      "clause_title": "5.6 Whilst the Confidential Information is in the possession of or under the",
+      "snippet": "5.6 Whilst the Confidential Information is in the possession of or under the control of the Recipient, the Recipient must regularly advise the Discloser of any system, configuration and other requirements and instructions necessary to facilitate the receipt and restoration of Confidential Information in the manner and format contemplated under clause 5.5.",
+      "rationale": "The clause addresses the handling of Confidential Information but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for public, independently developed, previously known, or legally required disclosures, as well as the ability for UoA to disclose to agents and Affiliates. The clause also lacks clarity on the duration of confidentiality obligations, which is a key aspect of the Preferred and Acceptable tiers. While it does not outright conflict with UoA's Positions, it requires further review to ensure compliance with confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "5.6 Whilst the Confidential Information is in the possession of or under the control of the Recipient, the Recipient must regularly advise the Discloser of any system, configuration and other requirements and instructions necessary to facilitate the receipt and restoration of Confidential Information in the manner and format contemplated under clause 5.5."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6.1",
+      "clause_title": "6.1 The Recipient acknowledges that it is aware that any breach of this",
+      "snippet": "6.1 The Recipient acknowledges that it is aware that any breach of this agreement will result in the Discloser suffering damage, and that an award of damages may be insufficient to compensate the Discloser for that brea…",
+      "rationale": "The clause partially aligns with UoA Position #POS-18 on Dispute Resolution, as it includes a requirement for both parties to meet and discuss disputes in good faith, which is part of the Preferred tier. However, the clause also introduces injunctive relief as a remedy, which is not explicitly addressed in the UoA Position. While injunctive relief does not contradict the Position, it adds a layer of legal remedy that may require further review to ensure it does not conflict with UoA's preferred dispute resolution process. Escalation to the Senior Manager, Research Grants and Contracts or General Counsel is recommended for confirmation.",
+      "standard_ref": "UoA Position #POS-18",
+      "text": "6.1 The Recipient acknowledges that it is aware that any breach of this agreement will result in the Discloser suffering damage, and that an award of damages may be insufficient to compensate the Discloser for that breach. Each party must use all reasonable efforts to meet and discuss in good faith any dispute arising in relation to this Agreement. Accordingly, in addition to other remedies that may be available, the Discloser may seek and obtain injunctive relief against such a breach or a threatened breach."
+    },
+    {
+      "level": "amber",
+      "clause_id": "6.4",
+      "clause_title": "6.4 The maximum aggregate liability of one party to the other in relation to",
+      "snippet": "6.4 The maximum aggregate liability of one party to the other in relation to this Agreement is limited to NZD [ ]. Neither party will be liable to the other party in relation to this Agreement for any loss of profit, re…",
+      "rationale": "This clause addresses the topic of Liability Limitations and Exclusions, which is covered under UoA Position #POS-07. The clause aligns with the Preferred tier in excluding liability for loss of profit, revenue, savings, business, goodwill, and consequential/indirect losses. However, the monetary cap is unspecified (NZD [ ]), which prevents full confirmation of compliance with the Preferred tier. If the cap is set at or below NZD$500,000 or aligns with Research Contract Delegations, the clause would meet the Preferred tier. If the cap exceeds NZD$500,000, escalation to the Research Grants and Contracts Delegations is required. The clause does not include carve-outs for fraud, wilful default, personal injury, or confidentiality obligations, which are acceptable exceptions under the Acceptable tier. Contract Manager should confirm the monetary cap and escalate if necessary.",
+      "standard_ref": "UoA Position #POS-07",
+      "text": "6.4 The maximum aggregate liability of one party to the other in relation to this Agreement is limited to NZD [ ]. Neither party will be liable to the other party in relation to this Agreement for any loss of profit, revenue, savings, business or goodwill, or for any consequential, indirect, incidental or special damage or loss of any kind."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7",
+      "clause_title": "7 INTELLECTUAL PROPERTY RIGHTS",
+      "snippet": "7 INTELLECTUAL PROPERTY RIGHTS",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7 INTELLECTUAL PROPERTY RIGHTS"
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.1",
+      "clause_title": "7.1 The Background Intellectual Property of each party remains the property",
+      "snippet": "7.1 The Background Intellectual Property of each party remains the property of that party.",
+      "rationale": "The clause pertains to Intellectual Property, specifically Background IP. UoA Contracting Positions explicitly state that all IP clauses must be referred to Auckland UniServices (Head of IP) for review, regardless of wording. This clause falls under the 'acceptable' tier for IP clauses, as it aligns with standard practice but requires referral.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.1 The Background Intellectual Property of each party remains the property of that party."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.3",
+      "clause_title": "7.3 Intellectual Property created or developed as a result of the Recipient’s",
+      "snippet": "7.3 Intellectual Property created or developed as a result of the Recipient’s use of the Confidential Information (Project Intellectual Property), excluding Background IP already existed in the Confidential Information,…",
+      "rationale": "The clause addresses Intellectual Property ownership, which is explicitly outside the scope of UoA's Preferred Contracting Positions and must be referred to Auckland UniServices Ltd for review. This aligns with UoA Position #POS-IP, which mandates that all IP clauses, regardless of wording, be referred to UniServices.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.3 Intellectual Property created or developed as a result of the Recipient’s use of the Confidential Information (Project Intellectual Property), excluding Background IP already existed in the Confidential Information, will be jointly owned by Discloser and Recipient."
+    },
+    {
+      "level": "amber",
+      "clause_id": "7.4",
+      "clause_title": "7.4 The Recipient must not commercialise or exploit the Project Intellectual",
+      "snippet": "7.4 The Recipient must not commercialise or exploit the Project Intellectual Property created or developed as a result of the Recipient\u0019s access to the Confidential Information unless either:",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "7.4 The Recipient must not commercialise or exploit the Project Intellectual Property created or developed as a result of the Recipient’s access to the Confidential Information unless either:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "9",
+      "clause_title": "(a) de-identified clinical data and other information, records, containing",
+      "snippet": "(a) de-identified clinical data and other information, records, containing Intellectual Property;",
+      "rationale": "The clause involves Intellectual Property, which is explicitly outside the scope of UoA's Preferred Contracting Positions. All IP-related clauses must be referred to Auckland UniServices (Head of IP) for review, as per UoA Position #POS-IP. This clause is flagged as AMBER because it requires further review by UniServices.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "(a) de-identified clinical data and other information, records, containing Intellectual Property;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "11",
+      "clause_title": "(c) all unpatented inventions (including those the subject of a patent",
+      "snippet": "(c) all unpatented inventions (including those the subject of a patent application), ideas, know-how, concepts, trade secrets, processes, techniques, software, products and all other intellectual property, financial and business information and all other commercially valuable information relating to the Discloser which the Discloser regards as confidential, and includes any such information in the Discloser’s possession, power or control concerning or belonging to any other person;",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly excluded from UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "(c) all unpatented inventions (including those the subject of a patent application), ideas, know-how, concepts, trade secrets, processes, techniques, software, products and all other intellectual property, financial and business information and all other commercially valuable information relating to the Discloser which the Discloser regards as confidential, and includes any such information in the Discloser’s possession, power or control concerning or belonging to any other person;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "27",
+      "clause_title": "other intellectual property as defined in Article 2 of the convention of 1967",
+      "snippet": "other intellectual property as defined in Article 2 of the convention of 1967 establishing the World Intellectual Property Organisation;",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "other intellectual property as defined in Article 2 of the convention of 1967 establishing the World Intellectual Property Organisation;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "61",
+      "clause_title": "(a) to use all Confidential Information of the Discloser solely for the",
+      "snippet": "(a) to use all Confidential Information of the Discloser solely for the Purpose;",
+      "rationale": "The clause addresses the use of Confidential Information but does not explicitly align with UoA's Preferred Position under POS-11, which requires exclusions for public information, independently developed information, previously known information, and legally required disclosures. Additionally, the clause does not specify the duration of confidentiality obligations or UoA's ability to disclose to agents and Affiliates. These omissions place the clause in the amber tier, requiring confirmation or negotiation to ensure compliance with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) to use all Confidential Information of the Discloser solely for the Purpose;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "62",
+      "clause_title": "(b) to keep confidential all Confidential Information of the Discloser",
+      "snippet": "(b) to keep confidential all Confidential Information of the Discloser (subject to disclosure permitted under clause 3.3);",
+      "rationale": "The clause addresses confidentiality but does not explicitly align with UoA's Preferred Position under POS-11, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not specify a time limit for confidentiality obligations, which is a key requirement under both the Preferred and Acceptable tiers. The clause should be reviewed to ensure compliance with these standards, and escalation to the Senior Manager, Research Grants and Contracts may be required for further clarification or amendment.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) to keep confidential all Confidential Information of the Discloser (subject to disclosure permitted under clause 3.3);"
+    },
+    {
+      "level": "amber",
+      "clause_id": "68",
+      "clause_title": "(b) are aware that Confidential Information of the Discloser must be kept",
+      "snippet": "(b) are aware that Confidential Information of the Discloser must be kept confidential and are subject to appropriate obligations of confidentiality; and",
+      "rationale": "The clause addresses confidentiality but does not explicitly align with UoA's Preferred Position under POS-11, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. It also does not specify the ability for UoA to disclose to agents and Affiliates or a defined duration for confidentiality obligations (e.g., up to 5 years post-completion). While confidentiality obligations are mentioned, the lack of these specific elements places the clause in the Acceptable tier, requiring confirmation of compliance with UoA's broader confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) are aware that Confidential Information of the Discloser must be kept confidential and are subject to appropriate obligations of confidentiality; and"
+    },
+    {
+      "level": "amber",
+      "clause_id": "72",
+      "clause_title": "(a) ensure, at all times, that each officer and employee to whom Confidential",
+      "snippet": "(a) ensure, at all times, that each officer and employee to whom Confidential Information has been disclosed under clause 3.2 complies with:",
+      "rationale": "The clause addresses confidentiality obligations but does not provide sufficient detail to confirm alignment with UoA's Preferred Position #POS-11. Specifically, it lacks explicit exclusions for information already public, independently developed, previously known, or legally required to be disclosed. It also does not specify the duration of confidentiality obligations or UoA's ability to disclose to agents and Affiliates. These omissions place the clause in the amber tier, requiring confirmation or amendment to ensure compliance with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) ensure, at all times, that each officer and employee to whom Confidential Information has been disclosed under clause 3.2 complies with:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "78",
+      "clause_title": "(c) immediately take all steps to prevent or stop the suspected or actual",
+      "snippet": "(c) immediately take all steps to prevent or stop the suspected or actual breach of: (i) this agreement; or (ii) a Confidentiality Agreement;",
+      "rationale": "The clause touches on confidentiality obligations but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for public information, independently developed information, previously known information, and legally required disclosures. Additionally, the clause does not specify a time limit for confidentiality obligations (e.g., 5–7 years post-termination/expiry/disclosure), which is required for alignment with the Acceptable tier. The clause's general phrasing leaves ambiguity about whether UoA's ability to disclose to agents and Affiliates is preserved. Escalation to the Senior Manager, Research Grants and Contracts is recommended for further review.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(c) immediately take all steps to prevent or stop the suspected or actual breach of:  \n   (i) this agreement; or  \n   (ii) a Confidentiality Agreement;"
+    },
+    {
+      "level": "amber",
+      "clause_id": "87",
+      "clause_title": "(c) the Laws and all other applicable privacy and data protection laws with",
+      "snippet": "(c) the Laws and all other applicable privacy and data protection laws with respect to any act done or practice engaged in by the Recipient for the purposes of this agreement, in the same way and to the same extent as t…",
+      "rationale": "The clause addresses confidentiality obligations and compliance with privacy and data protection laws. While it aligns with the general principles of UoA Position #POS-11, it does not explicitly address the preferred exclusions for confidential information (e.g., public information, independently developed information, etc.) or the ability for UoA to disclose to agents and Affiliates. Additionally, the clause does not specify a duration for confidentiality obligations, which is a key aspect of the UoA Preferred Position. This deviation places the clause in the Acceptable tier, requiring confirmation by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(c) the Laws and all other applicable privacy and data protection laws with respect to any act done or practice engaged in by the Recipient for the purposes of this agreement,  \nin the same way and to the same extent as the Discloser would have been bound by them in respect of the receipt, storage and use and disclosure of the Confidential Information.\n\n```"
+    },
+    {
+      "level": "amber",
+      "clause_id": "104",
+      "clause_title": "(d) all Confidential Information in the possession, custody or control of",
+      "snippet": "(d) all Confidential Information in the possession, custody or control of the Recipient, that:",
+      "rationale": "The clause touches on Confidentiality but does not provide sufficient detail to confirm alignment with UoA's Preferred or Acceptable positions. Specifically, it lacks clarity on exclusions for public information, independently developed information, previously known information, or legally required disclosures. It also does not specify the duration of confidentiality obligations or whether UoA can disclose to agents and Affiliates. These omissions require further review to ensure compliance with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(d) all Confidential Information in the possession, custody or control of the Recipient, that:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "110",
+      "clause_title": "(a) any of its personnel is using or disclosing, or has used or disclosed the",
+      "snippet": "(a) any of its personnel is using or disclosing, or has used or disclosed the Confidential Information in contravention of this agreement (Data Contravention);",
+      "rationale": "The clause addresses confidentiality obligations but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not specify a duration for confidentiality obligations, which is a key requirement under both the Preferred and Acceptable tiers. While the clause does not outright contradict UoA's positions, it lacks sufficient detail to confirm compliance, necessitating further review by the Contract Manager.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) any of its personnel is using or disclosing, or has used or disclosed the Confidential Information in contravention of this agreement (Data Contravention);"
+    },
+    {
+      "level": "amber",
+      "clause_id": "111",
+      "clause_title": "(b) there has been unauthorised access to, or unauthorised disclosure of any",
+      "snippet": "(b) there has been unauthorised access to, or unauthorised disclosure of any Confidential Information (Data Breach); or",
+      "rationale": "The clause addresses the topic of Confidentiality, specifically referencing unauthorised access or disclosure of confidential information. While the clause aligns with the general principle of protecting confidential information, it does not explicitly include the exclusions required by UoA's Preferred Position (e.g., information already public, independently developed, previously known, or legally required to be disclosed). Additionally, the clause does not specify a time limit for confidentiality obligations, which is a key aspect of the Acceptable tier (5–7 years post-termination/expiry/disclosure). As such, the clause falls into the Acceptable tier but requires confirmation that the broader confidentiality provisions in the contract align with UoA Position #POS-11.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) there has been unauthorised access to, or unauthorised disclosure of any Confidential Information (Data Breach); or"
+    },
+    {
+      "level": "amber",
+      "clause_id": "133",
+      "clause_title": "(a) the parties have entered into an agreement regarding collaboration,",
+      "snippet": "(a) the parties have entered into an agreement regarding collaboration, and/or commercialization and exploitation of the Project Intellectual Property; or",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly outside the scope of UoA Contracting Positions and must be referred to Auckland UniServices Ltd (Head of IP) for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "(a) the parties have entered into an agreement regarding collaboration, and/or commercialization and exploitation of the Project Intellectual Property; or"
+    },
+    {
+      "level": "amber",
+      "clause_id": "T",
+      "clause_title": "The Discloser grants the Recipient a limited, non-exclusive, non-transferable,",
+      "snippet": "The Discloser grants the Recipient a limited, non-exclusive, non-transferable, irrevocable licence for the course of this Agreement, to access, copy and use the Confidential Information strictly for the Purpose on the t…",
+      "rationale": "This clause involves Confidential Information, which is a UoA-sensitive topic under Position #POS-11. While the clause grants a licence to use Confidential Information, it does not explicitly address the exclusions required by UoA's Preferred Position (e.g., information already public, independently developed, previously known, or legally required to be disclosed). Additionally, the clause does not specify a duration for confidentiality obligations, which is critical for compliance with UoA's Preferred or Acceptable tiers. The clause should be reviewed by the Senior Manager, Research Grants and Contracts to ensure alignment with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "The Discloser grants the Recipient a limited, non-exclusive, non-transferable, irrevocable licence for the course of this Agreement, to access, copy and use the Confidential Information strictly for the Purpose on the terms and conditions of this agreement (Licence) and the Recipient accepts the grant of the Licence on the terms and conditions of this agreement."
+    },
+    {
+      "level": "amber",
+      "clause_id": "T",
+      "clause_title": "The obligations of confidentiality under this agreement do not extend to",
+      "snippet": "The obligations of confidentiality under this agreement do not extend to information which:",
+      "rationale": "The clause touches on the topic of Confidentiality, which is governed by UoA Position #POS-11. However, the clause text provided is incomplete and does not specify whether the exclusions align with the Preferred or Acceptable tier (e.g., excluding information already public, independently developed, previously known, or legally required to be disclosed). Additionally, it does not address whether UoA can disclose to agents and Affiliates or whether the confidentiality duration is limited to 5–7 years post-completion. The clause requires further review to confirm alignment with UoA's Preferred or Acceptable positions.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "The obligations of confidentiality under this agreement do not extend to information which:"
+    },
+    {
+      "level": "amber",
+      "clause_id": "U",
+      "clause_title": "Upon discussion and reaching mutual agreement by both parties, the Discloser",
+      "snippet": "Upon discussion and reaching mutual agreement by both parties, the Discloser may require the Recipient to cease using the Discloser\u0019s Confidential Information. On receiving such a notice the Recipient\u0019s, and on completion of the Purpose the Discloser\u0019s, right to possess or use Confidential Information of the Discloser ceases and the Recipient must immediately, at the Discloser\u0019s option:",
+      "rationale": "The clause addresses confidentiality obligations but does not explicitly align with UoA's Preferred Position #POS-11, which requires exclusions for information already public, independently developed, previously known, or legally required to be disclosed. Additionally, the clause does not specify a duration for confidentiality obligations, which is a key requirement under both the Preferred and Acceptable tiers. While the clause does not outright contradict UoA's positions, it lacks critical elements that would make it fully compliant. Escalation to the Senior Manager, Research Grants and Contracts is recommended to ensure alignment with UoA's confidentiality standards.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "Upon discussion and reaching mutual agreement by both parties, the Discloser may require the Recipient to cease using the Discloser’s Confidential Information. On receiving such a notice the Recipient’s, and on completion of the Purpose the Discloser’s, right to possess or use Confidential Information of the Discloser ceases and the Recipient must immediately, at the Discloser’s option:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1 DEFINITIONS",
+      "snippet": "1 DEFINITIONS In this agreement:",
+      "rationale": "The topic of definitions is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "1 DEFINITIONS  \nIn this agreement:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.3",
+      "clause_title": "1.3 Confidentiality Agreement has the meaning set out in clause 3.4(a)(ii);",
+      "snippet": "1.3 Confidentiality Agreement has the meaning set out in clause 3.4(a)(ii);",
+      "rationale": "The clause is a definitional reference and does not itself establish confidentiality obligations or terms. It does not directly address the substantive requirements of UoA Position #POS-11, such as exclusions for public information, disclosure to agents, or duration limits. As such, it falls outside the scope of the Preferred or Acceptable tiers for confidentiality and does not trigger escalation. The clause's meaning depends entirely on clause 3.4(a)(ii), which must be reviewed separately.",
+      "standard_ref": "Not covered by UoA Position #POS-11",
+      "text": "1.3 Confidentiality Agreement has the meaning set out in clause 3.4(a)(ii);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.4",
+      "clause_title": "1.4 Data Breach has the meaning set out in clause 5.7(b);",
+      "snippet": "1.4 Data Breach has the meaning set out in clause 5.7(b);",
+      "rationale": "The clause defines 'Data Breach' but the topic is not addressed in the UoA Preferred Contracting Positions or tied to any specific policy. As there is no UoA Standard Template for this contract type, the clause cannot be evaluated against a predefined standard.",
+      "standard_ref": null,
+      "text": "1.4 Data Breach has the meaning set out in clause 5.7(b);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.5",
+      "clause_title": "1.5 Data Contravention has the meaning set out in clause 5.7(a);",
+      "snippet": "1.5 Data Contravention has the meaning set out in clause 5.7(a);",
+      "rationale": "The clause defines 'Data Contravention' but this topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined positions and requires independent review.",
+      "standard_ref": null,
+      "text": "1.5 Data Contravention has the meaning set out in clause 5.7(a);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.6",
+      "clause_title": "1.6 Discloser means [REDACTED]",
+      "snippet": "1.6 Discloser means [REDACTED]",
+      "rationale": "The clause defines 'Discloser,' which is not a topic addressed in the UoA Preferred Contracting Positions. As there is no UoA Standard Template for this contract type, the clause falls outside the scope of existing guidance.",
+      "standard_ref": null,
+      "text": "1.6 Discloser means [REDACTED]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.7",
+      "clause_title": "1.7 Execution Date means the date upon which this agreement is signed by the",
+      "snippet": "1.7 Execution Date means the date upon which this agreement is signed by the parties; End date means the date upon which this Agreement will expire, is 2 years from the Execution Date, unless agreed otherwise by both pa…",
+      "rationale": "The clause defines 'Execution Date' and 'End Date,' which are procedural terms related to contract timelines. This topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, the clause falls outside the scope of the defined policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "1.7 Execution Date means the date upon which this agreement is signed by the parties; End date means the date upon which this Agreement will expire, is 2 years from the Execution Date, unless agreed otherwise by both parties."
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.8",
+      "clause_title": "1.8 Health Act means the Health Act 1958 (NZ);",
+      "snippet": "1.8 Health Act means the Health Act 1958 (NZ);",
+      "rationale": "The clause defines a term related to the Health Act 1958 (NZ), which is not addressed in the UoA Preferred Contracting Positions document. No applicable policy or template exists for this topic.",
+      "standard_ref": null,
+      "text": "1.8 Health Act means the Health Act 1958 (NZ);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.9",
+      "clause_title": "1.9 Health Information as the context so permits has the meaning as set out",
+      "snippet": "1.9 Health Information as the context so permits has the meaning as set out in the:",
+      "rationale": "The clause addresses the definition of 'Health Information,' which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "1.9 Health Information as the context so permits has the meaning as set out in the:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.10",
+      "clause_title": "1.10 Health Records Act means the Health Records Act 2008 (Vic);",
+      "snippet": "1.10 Health Records Act means the Health Records Act 2008 (Vic);",
+      "rationale": "The clause defines a term related to the Health Records Act 2008 (Vic), which is not covered by any UoA Preferred Contracting Positions or associated templates. As the topic falls outside the scope of UoA's documented policies, it is flagged as blue.",
+      "standard_ref": null,
+      "text": "1.10 Health Records Act means the Health Records Act 2008 (Vic);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.11",
+      "clause_title": "1.11 Health Services Act means the Health Services Act 1988 (Vic);",
+      "snippet": "1.11 Health Services Act means the Health Services Act 1988 (Vic);",
+      "rationale": "The clause defines a term related to the Health Services Act 1988 (Vic), which is specific to Victorian legislation. This topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, the clause falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null,
+      "text": "1.11 Health Services Act means the Health Services Act 1988 (Vic);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.13",
+      "clause_title": "1.13 Laws includes the applicable:",
+      "snippet": "1.13 Laws includes the applicable:",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy guidance exists for this clause.",
+      "standard_ref": null,
+      "text": "1.13 Laws includes the applicable:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.14",
+      "clause_title": "1.14 Licence has the meaning set out in clause 2;",
+      "snippet": "1.14 Licence has the meaning set out in clause 2;",
+      "rationale": "The clause defines 'Licence' but does not address any topic covered by the UoA Preferred Contracting Positions. No UoA Standard Template exists for this contract type, and the clause does not conflict with any established policy.",
+      "standard_ref": null,
+      "text": "1.14 Licence has the meaning set out in clause 2;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.15",
+      "clause_title": "1.15 Loss of Data has the meaning set out in clause 5.7(c);",
+      "snippet": "1.15 Loss of Data has the meaning set out in clause 5.7(c);",
+      "rationale": "The clause defines 'Loss of Data' by reference to another clause (5.7(c)) but does not itself address liability limitations or exclusions directly. While 'Loss of Data' is a keyword under UoA Position #POS-07 (Liability Limitations and Exclusions), this clause is purely definitional and does not establish any liability terms. The clause's topic is not covered by any UoA Position or template, and further review of clause 5.7(c) is required to assess alignment with UoA liability standards.",
+      "standard_ref": "Not covered by UoA Position or template",
+      "text": "1.15 Loss of Data has the meaning set out in clause 5.7(c);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.16",
+      "clause_title": "1.16 Personal Information as the context so permits, has the meaning set out",
+      "snippet": "1.16 Personal Information as the context so permits, has the meaning set out in the:",
+      "rationale": "The clause addresses the definition of 'Personal Information,' which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the provided policy framework.",
+      "standard_ref": null,
+      "text": "1.16 Personal Information as the context so permits, has the meaning set out in the:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.17",
+      "clause_title": "1.17 Purpose means solely for clinical research to be conducted by the",
+      "snippet": "1.17 Purpose means solely for clinical research to be conducted by the Recipient and for no other purpose;",
+      "rationale": "The clause defines the purpose of the data transfer as solely for clinical research conducted by the Recipient. This topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, the clause falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "1.17 Purpose means solely for clinical research to be conducted by the Recipient and for no other purpose;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.18",
+      "clause_title": "1.18 Principles means, as the context so permits the principles governing the",
+      "snippet": "1.18 Principles means, as the context so permits the principles governing the collection, use, management, disclosure, transfer and destruction of:",
+      "rationale": "The clause addresses principles governing data collection, use, management, disclosure, transfer, and destruction, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and requires independent review.",
+      "standard_ref": null,
+      "text": "1.18 Principles means, as the context so permits the principles governing the collection, use, management, disclosure, transfer and destruction of:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.19",
+      "clause_title": "1.19 Privacy Act means the Privacy Act 2020 (NZ);",
+      "snippet": "1.19 Privacy Act means the Privacy Act 2020 (NZ);",
+      "rationale": "The clause defines the Privacy Act 2020 (NZ), which is not a topic addressed in the UoA Preferred Contracting Positions. As there is no guidance or template for this topic, it falls outside the scope of the policy framework.",
+      "standard_ref": null,
+      "text": "1.19 Privacy Act means the Privacy Act 2020 (NZ);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.20",
+      "clause_title": "1.20 Privacy and Data Protection Act means the Privacy and Data Protection",
+      "snippet": "1.20 Privacy and Data Protection Act means the Privacy and Data Protection Act 2014 (Vic);",
+      "rationale": "The clause defines the Privacy and Data Protection Act 2014 (Vic), which is specific to Victoria, Australia. Privacy and data protection topics are not addressed in the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the UoA Positions document.",
+      "standard_ref": null,
+      "text": "1.20 Privacy and Data Protection Act means the Privacy and Data Protection Act 2014 (Vic);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.22",
+      "clause_title": "1.22 Relevant Event means, as the context so permits either a:",
+      "snippet": "1.22 Relevant Event means, as the context so permits either a:",
+      "rationale": "The clause defines 'Relevant Event,' which is not a topic covered by the UoA Preferred Contracting Positions or tied to any specific policy. As there is no UoA Standard Template for this contract type, the clause falls outside the scope of pre-defined positions.",
+      "standard_ref": null,
+      "text": "1.22 Relevant Event means, as the context so permits either a:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.23",
+      "clause_title": "1.23 Relevant Information means, as the context so permits:",
+      "snippet": "1.23 Relevant Information means, as the context so permits:",
+      "rationale": "The clause defines 'Relevant Information,' which is not a topic covered by the UoA Preferred Contracting Positions or tied to any specific policy. As there is no UoA Standard Template for this contract type, the clause falls outside the scope of pre-defined positions.",
+      "standard_ref": null,
+      "text": "1.23 Relevant Information means, as the context so permits:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.24",
+      "clause_title": "1.24 Representatives means the partners, directors, officers, employees,",
+      "snippet": "1.24 Representatives means the partners, directors, officers, employees, affiliates, representatives (including, without limitation, financial advisers, legal advisers and accountants) or agents of any party.",
+      "rationale": "The clause defines 'Representatives' but this topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "1.24 Representatives means the partners, directors, officers, employees, affiliates, representatives (including, without limitation, financial advisers, legal advisers and accountants) or agents of any party."
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.25",
+      "clause_title": "1.25 Results means all data, information, research findings, discoveries,",
+      "snippet": "1.25 Results means all data, information, research findings, discoveries, inventions, reports and other results arising from the Recipient\u0019s use of the Confidential Information in accordance with the Purpose.",
+      "rationale": "The clause defines 'Results' but does not directly address confidentiality obligations or exclusions as outlined in UoA Position #POS-11. While it references 'Confidential Information,' it does not establish confidentiality terms or durations, nor does it conflict with UoA's preferred or acceptable positions. The clause's topic (definition of 'Results') is not covered by any UoA Position or template, making it outside the scope of the provided policy framework.",
+      "standard_ref": "No applicable UoA Position or template.",
+      "text": "1.25 Results means all data, information, research findings, discoveries, inventions, reports and other results arising from the Recipient’s use of the Confidential Information in accordance with the Purpose."
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2 LICENCE",
+      "snippet": "2 LICENCE",
+      "rationale": "The topic of 'Licence' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of pre-defined positions and requires independent review.",
+      "standard_ref": null,
+      "text": "2 LICENCE"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 The Recipient acknowledges that the Discloser is subject to the Laws and",
+      "snippet": "3.1 The Recipient acknowledges that the Discloser is subject to the Laws and various other laws and principles with respect to collection, storage, security, use, and disclosure of personal and Relevant Information.",
+      "rationale": "The clause addresses compliance with laws related to personal and Relevant Information, which is not covered by any UoA Preferred Contracting Positions or standard template for this contract type. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.1 The Recipient acknowledges that the Discloser is subject to the Laws and various other laws and principles with respect to collection, storage, security, use, and disclosure of personal and Relevant Information.\n```"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 In consideration of the Discloser disclosing its Confidential Information",
+      "snippet": "3.2 In consideration of the Discloser disclosing its Confidential Information to the Recipient, the Recipient agrees:",
+      "rationale": "The clause introduces the topic of Confidentiality but does not provide substantive terms or definitions. It does not align with the UoA Preferred or Acceptable tiers under Position #POS-11, nor does it materially deviate from them. The clause is incomplete and lacks sufficient detail to evaluate alignment. As the clause text does not provide actionable content, it falls outside the scope of the Positions document and requires further review to determine its implications.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "3.2 In consideration of the Discloser disclosing its Confidential Information to the Recipient, the Recipient agrees:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.4",
+      "clause_title": "3.4 The Recipient must, at its own expense:",
+      "snippet": "3.4 The Recipient must, at its own expense:",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null,
+      "text": "3.4 The Recipient must, at its own expense:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "4",
+      "clause_title": "4 PRIVACY",
+      "snippet": "4 PRIVACY",
+      "rationale": "The topic of privacy is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the defined positions and requires independent review.",
+      "standard_ref": null,
+      "text": "4 PRIVACY"
+    },
+    {
+      "level": "blue",
+      "clause_id": "4.1",
+      "clause_title": "4.1 The Recipient agrees to be bound by and comply with:",
+      "snippet": "4.1 The Recipient agrees to be bound by and comply with:",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. It is a general compliance statement without substantive content tied to UoA policies.",
+      "standard_ref": null,
+      "text": "4.1 The Recipient agrees to be bound by and comply with:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5",
+      "clause_title": "5 DATA PROTECTION",
+      "snippet": "5 DATA PROTECTION",
+      "rationale": "The topic of 'Data Protection' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and requires independent review.",
+      "standard_ref": null,
+      "text": "5 DATA PROTECTION"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.2",
+      "clause_title": "5.2 The Recipient must not:",
+      "snippet": "5.2 The Recipient must not:",
+      "rationale": "The clause topic is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "5.2 The Recipient must not:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.4",
+      "clause_title": "5.4 The Recipient must establish and maintain safeguards against:",
+      "snippet": "5.4 The Recipient must establish and maintain safeguards against:",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy tiers and requires independent assessment.",
+      "standard_ref": null,
+      "text": "5.4 The Recipient must establish and maintain safeguards against:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.5",
+      "clause_title": "5.5 Without limiting the rights or obligations of any party under this",
+      "snippet": "5.5 Without limiting the rights or obligations of any party under this agreement, the Recipient must promptly on request by the Discloser at any time whilst in the Recipient’s possession, provide the Discloser with a copy of all Confidential Information stored by the Recipient on its servers or otherwise in its possession or control, in such format as is reasonably directed by the Discloser.",
+      "rationale": "The clause addresses the handling and provision of Confidential Information, but this specific obligation is not covered by any UoA Preferred Contracting Position or template. While confidentiality is addressed in POS-11, this clause imposes additional operational requirements (e.g., providing copies of stored Confidential Information) that are not explicitly covered by the UoA Positions document. Therefore, it falls outside the scope of the defined tiers and is flagged as blue.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "5.5 Without limiting the rights or obligations of any party under this agreement, the Recipient must promptly on request by the Discloser at any time whilst in the Recipient’s possession, provide the Discloser with a copy of all Confidential Information stored by the Recipient on its servers or otherwise in its possession or control, in such format as is reasonably directed by the Discloser."
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.7",
+      "clause_title": "5.7 If the Recipient becomes aware or suspects that:",
+      "snippet": "5.7 If the Recipient becomes aware or suspects that:",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "5.7 If the Recipient becomes aware or suspects that:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "5.8",
+      "clause_title": "5.8 If the Discloser becomes aware, or suspects, that a Relevant Event has",
+      "snippet": "5.8 If the Discloser becomes aware, or suspects, that a Relevant Event has occurred then the Recipient must: ``` ```",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy tiers and requires independent review.",
+      "standard_ref": null,
+      "text": "5.8 If the Discloser becomes aware, or suspects, that a Relevant Event has occurred then the Recipient must:  \n```\n\n```"
+    },
+    {
+      "level": "blue",
+      "clause_id": "6.3",
+      "clause_title": "6.3 The Recipient acknowledges that:",
+      "snippet": "6.3 The Recipient acknowledges that:",
+      "rationale": "The clause does not address any topic covered by the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "6.3 The Recipient acknowledges that:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "7.2",
+      "clause_title": "7.2 The Recipient is not authorised to cause any third-party to reverse",
+      "snippet": "7.2 The Recipient is not authorised to cause any third-party to reverse engineer or decompile any of the products or derivative works of the Discloser; nor may the Recipient itself engage in reverse engineering or decom…",
+      "rationale": "Topic not addressed in the UoA Preferred Contracting Positions.",
+      "standard_ref": null,
+      "text": "7.2 The Recipient is not authorised to cause any third-party to reverse engineer or decompile any of the products or derivative works of the Discloser; nor may the Recipient itself engage in reverse engineering or decompilation of any of the products or derivative works of the Discloser."
+    },
+    {
+      "level": "blue",
+      "clause_id": "8",
+      "clause_title": "8 EXCLUSIONS",
+      "snippet": "8 EXCLUSIONS",
+      "rationale": "The clause topic 'Exclusions' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy tiers.",
+      "standard_ref": null,
+      "text": "8 EXCLUSIONS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "(b) all de-identified Health Information, Personal Information, health",
+      "snippet": "(b) all de-identified Health Information, Personal Information, health records, radiological and medical images, health data, collected and owned by the Discloser irrespective of form;",
+      "rationale": "The clause addresses the ownership and categorization of de-identified health information and personal data, which is not explicitly covered in the UoA Preferred Contracting Positions. As there is no guidance or template for this topic, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null,
+      "text": "(b) all de-identified Health Information, Personal Information, health records, radiological and medical images, health data, collected and owned by the Discloser irrespective of form;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "10",
+      "clause_title": "10 RETURN OF CONFIDENTIAL INFORMATION",
+      "snippet": "10 RETURN OF CONFIDENTIAL INFORMATION",
+      "rationale": "The clause title suggests it pertains to the return of confidential information, but the clause text itself is absent or incomplete, making it impossible to evaluate alignment with UoA Position #POS-11 on Confidentiality. The topic of 'return of confidential information' is not explicitly covered in the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. This clause requires further clarification or expansion to determine its compliance.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "10 RETURN OF CONFIDENTIAL INFORMATION"
+    },
+    {
+      "level": "blue",
+      "clause_id": "11",
+      "clause_title": "11 CONTINUING OBLIGATIONS",
+      "snippet": "11 CONTINUING OBLIGATIONS",
+      "rationale": "The clause addresses 'Continuing Obligations,' a topic not covered in the UoA Preferred Contracting Positions or associated templates. As no guidance exists, it is flagged as blue for further review.",
+      "standard_ref": null,
+      "text": "11 CONTINUING OBLIGATIONS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "(d) all copies, notes and records and all related information generated by",
+      "snippet": "(d) all copies, notes and records and all related information generated by the Recipient to the extent incorporating or derived from any information referred to in paragraphs (a), (b) and (c); and",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. It appears to relate to confidentiality or data handling, but no specific guidance exists for this phrasing.",
+      "standard_ref": null,
+      "text": "(d) all copies, notes and records and all related information generated by the Recipient to the extent incorporating or derived from any information referred to in paragraphs (a), (b) and (c); and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "12 WAIVER",
+      "snippet": "12 WAIVER",
+      "rationale": "The topic of 'waiver' is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "12 WAIVER"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "(e) any physical items, compounds, components or other materials,",
+      "snippet": "(e) any physical items, compounds, components or other materials,",
+      "rationale": "The clause addresses physical items, compounds, components, or materials, which is not covered by any UoA Preferred Contracting Positions or standard template for this contract type. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null,
+      "text": "(e) any physical items, compounds, components or other materials,"
+    },
+    {
+      "level": "blue",
+      "clause_id": "13",
+      "clause_title": "13 ASSIGNMENT",
+      "snippet": "13 ASSIGNMENT",
+      "rationale": "The topic of assignment is not covered in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of pre-defined UoA policy and requires independent review.",
+      "standard_ref": null,
+      "text": "13 ASSIGNMENT"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "(f) [REDACTED]",
+      "snippet": "(f) [REDACTED] disclosed by or on behalf of the Discloser before, on or after the Execution Date for the Purpose;",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. Without specific guidance or policy, it cannot be evaluated against UoA's tiers.",
+      "standard_ref": null,
+      "text": "(f) [REDACTED]  \n   disclosed by or on behalf of the Discloser before, on or after the Execution Date for the Purpose;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "14 ELECTRONIC EXECUTION",
+      "snippet": "14 ELECTRONIC EXECUTION",
+      "rationale": "The topic of electronic execution is not addressed in the UoA Preferred Contracting Positions document, nor is there a standard template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific UoA policy.",
+      "standard_ref": null,
+      "text": "14 ELECTRONIC EXECUTION"
+    },
+    {
+      "level": "blue",
+      "clause_id": "22",
+      "clause_title": "(a) Health Records Act; or",
+      "snippet": "(a) Health Records Act; or",
+      "rationale": "The clause references the Health Records Act, which is not covered by the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(a) Health Records Act; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "23",
+      "clause_title": "(b) Health Act;",
+      "snippet": "(b) Health Act;",
+      "rationale": "The clause references the Health Act, which is not covered by the UoA Preferred Contracting Positions or any registered UoA template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(b) Health Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "29",
+      "clause_title": "(a) Health Act;",
+      "snippet": "(a) Health Act;",
+      "rationale": "The clause references the Health Act, which is not addressed in the UoA Preferred Contracting Positions or covered by any UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and requires independent review.",
+      "standard_ref": null,
+      "text": "(a) Health Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "30",
+      "clause_title": "(b) Health Records Act;",
+      "snippet": "(b) Health Records Act;",
+      "rationale": "The clause references the Health Records Act, which is not addressed in the UoA Preferred Contracting Positions or covered by any UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(b) Health Records Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "31",
+      "clause_title": "(c) Health Services Act;",
+      "snippet": "(c) Health Services Act;",
+      "rationale": "The clause references the Health Services Act, which is not addressed in the UoA Preferred Contracting Positions or covered by any standard template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(c) Health Services Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "32",
+      "clause_title": "(d) Privacy Act; and",
+      "snippet": "(d) Privacy Act; and",
+      "rationale": "The clause references the Privacy Act, which is not addressed in the UoA Preferred Contracting Positions or covered by a UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and requires independent assessment.",
+      "standard_ref": null,
+      "text": "(d) Privacy Act; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "33",
+      "clause_title": "(e) Privacy and Data Protection Act;",
+      "snippet": "(e) Privacy and Data Protection Act;",
+      "rationale": "The clause addresses privacy and data protection, which is not covered in the UoA Preferred Contracting Positions or associated templates. As there is no specific policy guidance or template for this topic, the flag remains blue.",
+      "standard_ref": null,
+      "text": "(e) Privacy and Data Protection Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "37",
+      "clause_title": "(a) Privacy and Data Protection Act; or",
+      "snippet": "(a) Privacy and Data Protection Act; or",
+      "rationale": "The clause addresses privacy and data protection, which is not covered in the UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of pre-defined policy tiers and requires independent review.",
+      "standard_ref": null,
+      "text": "(a) Privacy and Data Protection Act; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "38",
+      "clause_title": "(b) Privacy Act;",
+      "snippet": "(b) Privacy Act;",
+      "rationale": "The clause references the Privacy Act, which is not addressed in the UoA Preferred Contracting Positions or covered by a UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions and requires independent assessment.",
+      "standard_ref": null,
+      "text": "(b) Privacy Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "41",
+      "clause_title": "(a) Health Information in Victoria, Australia and are made pursuant to",
+      "snippet": "(a) Health Information in Victoria, Australia and are made pursuant to the Health Records Act;",
+      "rationale": "The clause addresses compliance with the Health Records Act in Victoria, Australia, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented positions and requires further review to ensure alignment with UoA's interests and obligations.",
+      "standard_ref": null,
+      "text": "(a) Health Information in Victoria, Australia and are made pursuant to the Health Records Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "42",
+      "clause_title": "(b) data and Personal Information in Victoria, Australia made pursuant",
+      "snippet": "(b) data and Personal Information in Victoria, Australia made pursuant to the Privacy and Data Protection Act; and",
+      "rationale": "The clause addresses compliance with the Privacy and Data Protection Act in Victoria, Australia, which is a topic not covered by the UoA Preferred Contracting Positions. No specific policy or template exists for this subject matter.",
+      "standard_ref": null,
+      "text": "(b) data and Personal Information in Victoria, Australia made pursuant to the Privacy and Data Protection Act; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "43",
+      "clause_title": "(c) Personal Information in New Zealand made pursuant to the Privacy",
+      "snippet": "(c) Personal Information in New Zealand made pursuant to the Privacy Act;",
+      "rationale": "The clause addresses the handling of personal information under the Privacy Act, which is not covered in the UoA Preferred Contracting Positions. As there is no specific guidance or template for this topic, it falls outside the scope of the existing policy framework.",
+      "standard_ref": null,
+      "text": "(c) Personal Information in New Zealand made pursuant to the Privacy Act;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "48",
+      "clause_title": "(a) Data Breach;",
+      "snippet": "(a) Data Breach;",
+      "rationale": "The topic of 'Data Breach' is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and requires independent assessment.",
+      "standard_ref": null,
+      "text": "(a) Data Breach;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "49",
+      "clause_title": "(b) Data Contravention; and / or",
+      "snippet": "(b) Data Contravention; and / or",
+      "rationale": "The clause addresses 'Data Contravention,' which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of pre-defined policy and requires independent review.",
+      "standard_ref": null,
+      "text": "(b) Data Contravention; and / or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "52",
+      "clause_title": "(a) Health Information; and / or",
+      "snippet": "(a) Health Information; and / or",
+      "rationale": "The clause addresses 'Health Information,' which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the established policy framework for review.",
+      "standard_ref": null,
+      "text": "(a) Health Information; and / or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "53",
+      "clause_title": "(b) Personal Information; and",
+      "snippet": "(b) Personal Information; and",
+      "rationale": "The clause addresses 'Personal Information,' which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(b) Personal Information; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "63",
+      "clause_title": "(c) otherwise to comply with the terms of this agreement.",
+      "snippet": "(c) otherwise to comply with the terms of this agreement.",
+      "rationale": "The clause addresses a general obligation to comply with the terms of the agreement, which is not specifically covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "(c) otherwise to comply with the terms of this agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "64",
+      "clause_title": "(d) The Discloser will make the Confidential Information available to the",
+      "snippet": "(d) The Discloser will make the Confidential Information available to the Recipient free of charge on or as soon as practical after the Execution Date(s) and",
+      "rationale": "The clause addresses the timing and cost of making Confidential Information available, but does not define or limit confidentiality obligations, nor does it address exclusions, duration, or disclosure rights as required by UoA Position #POS-11. This clause does not directly align with the confidentiality provisions outlined in the Preferred or Acceptable tiers of POS-11, nor does it conflict with them. The clause's topic is not explicitly covered by any UoA Position or template, and therefore falls outside the scope of the Positions document.",
+      "standard_ref": "Not covered by UoA Position #POS-11",
+      "text": "(d) The Discloser will make the Confidential Information available to the Recipient free of charge on or as soon as practical after the Execution Date(s) and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "65",
+      "clause_title": "(e) in accordance with any arrangements for secure transfer mutually agreed",
+      "snippet": "(e) in accordance with any arrangements for secure transfer mutually agreed by both parties.",
+      "rationale": "The clause addresses secure transfer arrangements, which is not covered by any topic in the UoA Preferred Contracting Positions document. No UoA Standard Template exists for this contract type, so the clause cannot be evaluated against a canonical wording.",
+      "standard_ref": null,
+      "text": "(e) in accordance with any arrangements for secure transfer mutually agreed by both parties."
+    },
+    {
+      "level": "blue",
+      "clause_id": "67",
+      "clause_title": "(a) have a need to know (and only to the extent that each has a need to",
+      "snippet": "(a) have a need to know (and only to the extent that each has a need to know);",
+      "rationale": "The clause addresses a 'need to know' principle, which is not covered by any topic in the UoA Preferred Contracting Positions document. There is no applicable UoA Standard Template for this contract type, and the clause does not fall under any pre-defined policy area.",
+      "standard_ref": null,
+      "text": "(a) have a need to know (and only to the extent that each has a need to know);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "69",
+      "clause_title": "(c) if requested by the Discloser, have agreed in writing to comply with the",
+      "snippet": "(c) if requested by the Discloser, have agreed in writing to comply with the terms of this agreement as if the officer or employee were a party;",
+      "rationale": "The clause addresses obligations for officers or employees to comply with the terms of the agreement as if they were parties, but this topic is not covered in the UoA Preferred Contracting Positions document. No applicable standard template exists for this contract type, and no escalation route is specified for this topic.",
+      "standard_ref": null,
+      "text": "(c) if requested by the Discloser, have agreed in writing to comply with the terms of this agreement as if the officer or employee were a party;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "70",
+      "clause_title": "(d) or if (but only to the extent) required by law to do so.",
+      "snippet": "(d) or if (but only to the extent) required by law to do so.",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. It appears to be a general legal compliance provision, which is outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "(d) or if (but only to the extent) required by law to do so."
+    },
+    {
+      "level": "blue",
+      "clause_id": "73",
+      "clause_title": "(i) this agreement; and",
+      "snippet": "(i) this agreement; and",
+      "rationale": "The clause does not address any specific topic covered by the UoA Preferred Contracting Positions, nor is there a standard template for this contract type. It appears to be part of a larger clause or enumeration without substantive content on its own.",
+      "standard_ref": null,
+      "text": "(i) this agreement; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "74",
+      "clause_title": "(ii) any agreement contemplated by clauses 3.3(b) and 3.3(c) (a",
+      "snippet": "(ii) any agreement contemplated by clauses 3.3(b) and 3.3(c) (a Confidentiality Agreement);",
+      "rationale": "The clause references a Confidentiality Agreement but does not provide sufficient detail to evaluate alignment with UoA Position #POS-11. The clause text does not specify the definition of confidential information, duration, or disclosure rights, which are critical elements of the UoA Preferred and Acceptable tiers for confidentiality. As the clause lacks substantive content, it falls outside the scope of the Positions document and cannot be assessed against the Preferred or Acceptable tiers. Escalation is not required unless further details emerge.",
+      "standard_ref": "Not covered by UoA Position #POS-11",
+      "text": "(ii) any agreement contemplated by clauses 3.3(b) and 3.3(c) (a Confidentiality Agreement);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "75",
+      "clause_title": "(b) notify the Discloser immediately if it becomes aware of a suspected or",
+      "snippet": "(b) notify the Discloser immediately if it becomes aware of a suspected or actual breach of:",
+      "rationale": "The clause addresses a notification obligation related to suspected or actual breaches, which is not explicitly covered in the UoA Preferred Contracting Positions. As there is no guidance or template for this topic, it falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "(b) notify the Discloser immediately if it becomes aware of a suspected or actual breach of:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "76",
+      "clause_title": "(i) this agreement; or",
+      "snippet": "(i) this agreement; or",
+      "rationale": "The clause does not correspond to any specific topic or policy outlined in the UoA Preferred Contracting Positions document. Without a UoA Standard Template for this contract type, there is no basis for further evaluation.",
+      "standard_ref": null,
+      "text": "(i) this agreement; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "77",
+      "clause_title": "(ii) a Confidentiality Agreement;",
+      "snippet": "(ii) a Confidentiality Agreement;",
+      "rationale": "The clause mentions a Confidentiality Agreement but does not provide any substantive details about its terms, scope, or duration. Without further context or specific wording, it cannot be evaluated against UoA Position #POS-11. The clause falls outside the scope of the Preferred or Acceptable tiers and does not trigger escalation. It is therefore flagged as blue.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(ii) a Confidentiality Agreement;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "79",
+      "clause_title": "(d) comply with any direction issued by the Discloser and provide any",
+      "snippet": "(d) comply with any direction issued by the Discloser and provide any assistance reasonably requested by it from time to time regarding enforcement of: (i) this agreement; or",
+      "rationale": "The clause's topic, which involves compliance with directions and assistance in enforcement, is not addressed in the UoA Preferred Contracting Positions. There is no applicable guidance or standard template for this type of provision in the provided documentation.",
+      "standard_ref": null,
+      "text": "(d) comply with any direction issued by the Discloser and provide any assistance reasonably requested by it from time to time regarding enforcement of:  \n   (i) this agreement; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "80",
+      "clause_title": "(ii) a Confidentiality Agreement; and",
+      "snippet": "(ii) a Confidentiality Agreement; and",
+      "rationale": "The clause mentions a Confidentiality Agreement but does not provide any substantive details about its terms, scope, or duration. Without further context or specific wording, it cannot be evaluated against UoA Position #POS-11. The clause falls outside the scope of the Preferred or Acceptable tiers and does not trigger escalation. It is marked as blue because the clause topic is not covered by any Position and no template exists for this contract type.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(ii) a Confidentiality Agreement; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "81",
+      "clause_title": "(e) assign any Confidentiality Agreement to the Discloser at its request.",
+      "snippet": "(e) assign any Confidentiality Agreement to the Discloser at its request.",
+      "rationale": "The clause does not align with any specific UoA Preferred Contracting Position or Acceptable tier under POS-11 (Confidentiality). It introduces a concept of assigning a Confidentiality Agreement to the Discloser, which is not covered by the UoA Positions document. This clause requires further review to determine its implications and whether it aligns with UoA's broader confidentiality practices.",
+      "standard_ref": "Not covered by UoA Position or Template",
+      "text": "(e) assign any Confidentiality Agreement to the Discloser at its request."
+    },
+    {
+      "level": "blue",
+      "clause_id": "85",
+      "clause_title": "(a) each of the Principles;",
+      "snippet": "(a) each of the Principles;",
+      "rationale": "The clause does not correspond to any topic covered in the UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. It is therefore flagged as blue, indicating it falls outside the scope of the established policy framework.",
+      "standard_ref": null,
+      "text": "(a) each of the Principles;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "86",
+      "clause_title": "(b) privacy procedures or policies that form part of the Discloser’s",
+      "snippet": "(b) privacy procedures or policies that form part of the Discloser’s policies; and",
+      "rationale": "The clause addresses privacy procedures or policies, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(b) privacy procedures or policies that form part of the Discloser’s policies; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "89",
+      "clause_title": "(a) take all reasonable steps to ensure that the Relevant Information is",
+      "snippet": "(a) take all reasonable steps to ensure that the Relevant Information is protected against misuse and loss, and from unauthorised access, modification or disclosure; and",
+      "rationale": "The clause addresses data protection obligations, which are not covered by any specific UoA Preferred Contracting Position or template for this contract type. As such, it falls outside the scope of the documented positions and cannot be evaluated against them.",
+      "standard_ref": null,
+      "text": "(a) take all reasonable steps to ensure that the Relevant Information is protected against misuse and loss, and from unauthorised access, modification or disclosure; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "90",
+      "clause_title": "(b) give the Discloser notice as soon as the Recipient becomes aware that",
+      "snippet": "(b) give the Discloser notice as soon as the Recipient becomes aware that use or disclosure of the Relevant Information is required or authorised by or under Law.",
+      "rationale": "The clause addresses notification obligations related to legal requirements for disclosure of information. This topic is not explicitly covered in the UoA Preferred Contracting Positions or associated templates for Data Transfer Agreements. As such, it falls outside the scope of the documented positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(b) give the Discloser notice as soon as the Recipient becomes aware that use or disclosure of the Relevant Information is required or authorised by or under Law."
+    },
+    {
+      "level": "blue",
+      "clause_id": "96",
+      "clause_title": "(b) purport to sell, let for hire, assign rights in or otherwise dispose of",
+      "snippet": "(b) purport to sell, let for hire, assign rights in or otherwise dispose of any Confidential Information;",
+      "rationale": "The clause addresses restrictions on the handling of Confidential Information, but it does not directly align with the UoA Preferred Contracting Positions for Confidentiality (POS-11). Specifically, it does not define Confidential Information or address exclusions (e.g., public information, independently developed information, etc.), nor does it specify a duration for confidentiality obligations. However, the clause does not contradict UoA Positions either, and the topic is not fully covered by the Preferred or Acceptable tiers. As there is no explicit conflict or alignment, this clause falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) purport to sell, let for hire, assign rights in or otherwise dispose of any Confidential Information;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "101",
+      "clause_title": "(a) the destruction, loss or alteration of;",
+      "snippet": "(a) the destruction, loss or alteration of;",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy guidance exists for this clause.",
+      "standard_ref": null,
+      "text": "(a) the destruction, loss or alteration of;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "102",
+      "clause_title": "(b) the misuse of, or interference with; and",
+      "snippet": "(b) the misuse of, or interference with; and",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(b) the misuse of, or interference with; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "103",
+      "clause_title": "(c) the unauthorised access to, modification or disclosure of,",
+      "snippet": "(c) the unauthorised access to, modification or disclosure of,",
+      "rationale": "The clause addresses unauthorised access, modification, or disclosure, which is not covered by any topic in the UoA Preferred Contracting Positions. No UoA Standard Template exists for this contract type, so the clause cannot be evaluated against a predefined standard.",
+      "standard_ref": null,
+      "text": "(c) the unauthorised access to, modification or disclosure of,"
+    },
+    {
+      "level": "blue",
+      "clause_id": "105",
+      "clause_title": "(e) are no less rigorous than those safeguards employed by the Discloser,",
+      "snippet": "(e) are no less rigorous than those safeguards employed by the Discloser, and in any event are no less rigorous than safeguards that meet generally accepted industry standards; and",
+      "rationale": "The clause addresses the standard of safeguards for confidentiality or data protection, which is not explicitly covered in the UoA Preferred Contracting Positions document. No applicable template exists for this contract type, and the clause does not conflict with any stated UoA positions.",
+      "standard_ref": null,
+      "text": "(e) are no less rigorous than those safeguards employed by the Discloser, and in any event are no less rigorous than safeguards that meet generally accepted industry standards; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "106",
+      "clause_title": "(f) comply with all Laws.",
+      "snippet": "(f) comply with all Laws.",
+      "rationale": "The clause requires compliance with all applicable laws, which is a general legal obligation. This topic is not specifically addressed in the UoA Preferred Contracting Positions or tied to any specific policy. Therefore, it falls outside the scope of the Positions document and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(f) comply with all Laws."
+    },
+    {
+      "level": "blue",
+      "clause_id": "113",
+      "clause_title": "then the Recipient must immediately notify the Discloser of that Relevant",
+      "snippet": "then the Recipient must immediately notify the Discloser of that Relevant Event.",
+      "rationale": "The clause addresses a notification obligation, which is not explicitly covered by any UoA Preferred Contracting Positions or associated keywords. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null,
+      "text": "then the Recipient must immediately notify the Discloser of that Relevant Event."
+    },
+    {
+      "level": "blue",
+      "clause_id": "115",
+      "clause_title": "(a) promptly disclose to the Discloser all information relevant to that",
+      "snippet": "(a) promptly disclose to the Discloser all information relevant to that actual or suspected Relevant Event, including all relevant information;",
+      "rationale": "The clause addresses a topic that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. There is no applicable policy or guidance to evaluate this clause.",
+      "standard_ref": null,
+      "text": "(a) promptly disclose to the Discloser all information relevant to that actual or suspected Relevant Event, including all relevant information;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "116",
+      "clause_title": "(b) co-operate with the Discloser in investigating whether a Relevant Event",
+      "snippet": "(b) co-operate with the Discloser in investigating whether a Relevant Event has occurred and the circumstances surrounding that Relevant Event; and",
+      "rationale": "The clause addresses cooperation in investigating a 'Relevant Event,' which is not covered by any topic in the UoA Preferred Contracting Positions document. No applicable UoA Standard Template exists for this contract type, leaving the clause outside the scope of pre-defined positions.",
+      "standard_ref": null,
+      "text": "(b) co-operate with the Discloser in investigating whether a Relevant Event has occurred and the circumstances surrounding that Relevant Event; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "117",
+      "clause_title": "(c) provide the Discloser with access to and copies of relevant records",
+      "snippet": "(c) provide the Discloser with access to and copies of relevant records relating to the investigation.",
+      "rationale": "The clause addresses a topic (access to records) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for Data Transfer Agreements. As such, it falls outside the scope of pre-defined policy tiers and requires independent assessment.",
+      "standard_ref": null,
+      "text": "(c) provide the Discloser with access to and copies of relevant records relating to the investigation."
+    },
+    {
+      "level": "blue",
+      "clause_id": "124",
+      "clause_title": "(i) the accuracy or completeness of the Confidential Information; or",
+      "snippet": "(i) the accuracy or completeness of the Confidential Information; or",
+      "rationale": "The clause does not align with the confidentiality provisions outlined in UoA Position #POS-11. It appears to disclaim responsibility for the accuracy or completeness of confidential information, which is not explicitly covered by the Preferred or Acceptable tiers for confidentiality. The clause does not address the definition, duration, or disclosure rights of confidential information as required by UoA Positions. Since this specific disclaimer is not addressed in the Positions document, it falls outside the scope of the defined policy and requires further review.",
+      "standard_ref": "Not covered by UoA Position #POS-11",
+      "text": "(i) the accuracy or completeness of the Confidential Information; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "125",
+      "clause_title": "(ii) its usefulness in achieving any purpose; and",
+      "snippet": "(ii) its usefulness in achieving any purpose; and",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy guidance exists to evaluate this clause.",
+      "standard_ref": null,
+      "text": "(ii) its usefulness in achieving any purpose; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "134",
+      "clause_title": "(b) the Discloser grants the Recipient its prior written consent.",
+      "snippet": "(b) the Discloser grants the Recipient its prior written consent.",
+      "rationale": "The clause's topic is not addressed in the UoA Preferred Contracting Positions document, and there is no UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "(b) the Discloser grants the Recipient its prior written consent."
+    },
+    {
+      "level": "blue",
+      "clause_id": "144",
+      "clause_title": "(a) return to the Discloser;",
+      "snippet": "(a) return to the Discloser;",
+      "rationale": "The clause addresses a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy guidance exists for this clause.",
+      "standard_ref": null,
+      "text": "(a) return to the Discloser;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "145",
+      "clause_title": "(b) either:",
+      "snippet": "(b) either:",
+      "rationale": "The clause text '(b) either:' does not provide sufficient context to determine its relevance to any of the UoA Preferred Contracting Positions. The topic is not addressed in the Positions document, and there is no UoA Standard Template for this contract type to compare against.",
+      "standard_ref": null,
+      "text": "(b) either:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "146",
+      "clause_title": "(i) destroy and certify in writing to the Discloser the destruction of; or",
+      "snippet": "(i) destroy and certify in writing to the Discloser the destruction of; or",
+      "rationale": "The clause addresses a topic (certification of destruction) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "(i) destroy and certify in writing to the Discloser the destruction of; or"
+    },
+    {
+      "level": "blue",
+      "clause_id": "147",
+      "clause_title": "(ii) destroy and permit the Discloser to witness the destruction of -",
+      "snippet": "(ii) destroy and permit the Discloser to witness the destruction of -",
+      "rationale": "The clause addresses a topic (destruction of information or materials) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No escalation is required as the clause falls outside the scope of existing policies.",
+      "standard_ref": null,
+      "text": "(ii) destroy and permit the Discloser to witness the destruction of -"
+    },
+    {
+      "level": "blue",
+      "clause_id": "157",
+      "clause_title": "(a) each party may sign and deliver this agreement electronically;",
+      "snippet": "(a) each party may sign and deliver this agreement electronically;",
+      "rationale": "The topic of electronic signatures and delivery is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "(a) each party may sign and deliver this agreement electronically;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "158",
+      "clause_title": "(b) the electronic signature, whether digital or encrypted, of a party on",
+      "snippet": "(b) the electronic signature, whether digital or encrypted, of a party on this agreement has the same force and effect as his or her manual or ‘wet ink’ signature; and",
+      "rationale": "The clause addresses electronic signatures, a topic not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As there is no policy guidance or template reference, the flag remains blue.",
+      "standard_ref": null,
+      "text": "(b) the electronic signature, whether digital or encrypted, of a party on this agreement has the same force and effect as his or her manual or ‘wet ink’ signature; and"
+    },
+    {
+      "level": "blue",
+      "clause_id": "159",
+      "clause_title": "(c) transmission by electronic means of a signed counterpart of this",
+      "snippet": "(c) transmission by electronic means of a signed counterpart of this agreement (whether signed electronically or otherwise) has the same effect as physical delivery of the hard copy bearing an original manual or ‘wet ink’ signature of the signatory.",
+      "rationale": "The clause addresses electronic transmission and equivalence of signatures, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "(c) transmission by electronic means of a signed counterpart of this agreement (whether signed electronically or otherwise) has the same effect as physical delivery of the hard copy bearing an original manual or ‘wet ink’ signature of the signatory."
+    },
+    {
+      "level": "blue",
+      "clause_id": "165",
+      "clause_title": "the Recipient will ensure that Publications do not include any information",
+      "snippet": "the Recipient will ensure that Publications do not include any information in a form that could reasonably be expected to identify those individuals.",
+      "rationale": "The clause addresses the topic of anonymization in publications, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "the Recipient will ensure that Publications do not include any information in a form that could reasonably be expected to identify those individuals.\n```"
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "A. The Discloser holds de-identified clinical data which it intends to provide",
+      "snippet": "A. The Discloser holds de-identified clinical data which it intends to provide to the Recipient for the Purpose.",
+      "rationale": "The clause addresses the provision of de-identified clinical data, which is not explicitly covered by the UoA Preferred Contracting Positions. There is no applicable UoA Standard Template for this contract type, and the clause does not conflict with any existing positions.",
+      "standard_ref": null,
+      "text": "A. The Discloser holds de-identified clinical data which it intends to provide to the Recipient for the Purpose."
+    },
+    {
+      "level": "blue",
+      "clause_id": "A",
+      "clause_title": "A party may not assign or otherwise transfer any or all of its rights arising",
+      "snippet": "A party may not assign or otherwise transfer any or all of its rights arising out of this agreement without the written consent of each other party.",
+      "rationale": "The clause addresses assignment and transfer of rights, which is not covered by any UoA Preferred Contracting Positions or templates for this contract type. As such, it falls outside the scope of the documented policies and is flagged as blue.",
+      "standard_ref": null,
+      "text": "A party may not assign or otherwise transfer any or all of its rights arising out of this agreement without the written consent of each other party."
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "B. The Discloser has agreed to disclose information to the Recipient on the",
+      "snippet": "B. The Discloser has agreed to disclose information to the Recipient on the terms of this agreement.",
+      "rationale": "The clause addresses the disclosure of information, which is not explicitly covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "B. The Discloser has agreed to disclose information to the Recipient on the terms of this agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "C",
+      "clause_title": "Confidentiality and Data Sharing Agreement",
+      "snippet": "Confidentiality and Data Sharing Agreement Date of agreement: [REDACTED] BETWEEN [REDACTED] Australian Company Number [REDACTED] of [REDACTED] AND The University of Auckland of 22 Princes Street, Auckland, New Zealand (Recipient).",
+      "rationale": "The clause is a header and introductory text for the agreement, identifying the parties involved. It does not contain substantive confidentiality terms or obligations that can be evaluated against UoA Position #POS-11. As such, it falls outside the scope of the Preferred or Acceptable tiers and does not trigger escalation. The clause topic is not covered by any specific UoA Position or template.",
+      "standard_ref": "Not covered by UoA Position or template",
+      "text": "Confidentiality and Data Sharing Agreement\n\nDate of agreement: [REDACTED]\n\nBETWEEN  \n[REDACTED] Australian Company Number [REDACTED] of [REDACTED]  \nAND  \nThe University of Auckland of 22 Princes Street, Auckland, New Zealand (Recipient)."
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "RECITALS",
+      "snippet": "RECITALS",
+      "rationale": "The topic of 'Recitals' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "RECITALS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The failure of a party at any time to insist on performance of any provision",
+      "snippet": "The failure of a party at any time to insist on performance of any provision of this agreement is not a waiver of its right at any later time to insist on performance of that or any other provision of this agreement.",
+      "rationale": "The clause addresses waiver of rights, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "The failure of a party at any time to insist on performance of any provision of this agreement is not a waiver of its right at any later time to insist on performance of that or any other provision of this agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "Without limiting to any other method of signing or delivery permitted by law,",
+      "snippet": "Without limiting to any other method of signing or delivery permitted by law, each party agrees that:",
+      "rationale": "The clause addresses a topic related to methods of signing or delivery, which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "Without limiting to any other method of signing or delivery permitted by law, each party agrees that:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "Where the Data includes or is derived from, information about identifiable",
+      "snippet": "Where the Data includes or is derived from, information about identifiable individuals and/or de-identified information about individuals,",
+      "rationale": "The clause addresses the handling of identifiable and de-identified information about individuals, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null,
+      "text": "Where the Data includes or is derived from, information about identifiable individuals and/or de-identified information about individuals,"
+    },
+    {
+      "level": "green",
+      "clause_id": "122",
+      "clause_title": "(a) the Confidential Information is being provided ‘as is’;",
+      "snippet": "(a) the Confidential Information is being provided ‘as is’;",
+      "rationale": "The clause aligns with UoA's preferred position on Warranties (POS-10). The phrase 'as is' matches the requirement that the University must expressly exclude all other warranties beyond its authority to enter into the contract and performance to a professional standard. This clause does not introduce any additional warranties and is therefore compliant with the preferred tier.",
+      "standard_ref": "UoA Position #POS-10",
+      "text": "(a) the Confidential Information is being provided ‘as is’;"
+    },
+    {
+      "level": "green",
+      "clause_id": "123",
+      "clause_title": "(b) the Discloser makes no representations or warranties as to:",
+      "snippet": "(b) the Discloser makes no representations or warranties as to:",
+      "rationale": "The clause aligns with UoA Position #POS-10 on Warranties, which prefers the exclusion of all warranties except those explicitly stated (authority to enter into the contract and performance to a professional standard). The clause explicitly excludes representations and warranties, which matches the Preferred tier.",
+      "standard_ref": "UoA Position #POS-10",
+      "text": "(b) the Discloser makes no representations or warranties as to:"
+    },
+    {
+      "level": "green",
+      "clause_id": "137",
+      "clause_title": "(a) is in or becomes part of the public domain otherwise than through breach",
+      "snippet": "(a) is in or becomes part of the public domain otherwise than through breach of this agreement or an obligation of confidence owed to the Discloser;",
+      "rationale": "This clause aligns with the confidentiality exclusions outlined in UoA Position #POS-11, which specifies that confidential information excludes information already public or independently developed. The clause matches the Preferred tier for confidentiality exclusions.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(a) is in or becomes part of the public domain otherwise than through breach of this agreement or an obligation of confidence owed to the Discloser;"
+    },
+    {
+      "level": "green",
+      "clause_id": "138",
+      "clause_title": "(b) the Recipient can prove by contemporaneous written documentation was",
+      "snippet": "(b) the Recipient can prove by contemporaneous written documentation was already known to it at the time of its disclosure by the Discloser or any of its Representatives (unless such knowledge arose from disclosure or use of information in breach of an obligation of confidentiality); or",
+      "rationale": "The clause aligns with UoA Position #POS-11 on Confidentiality. It excludes information already known to the recipient at the time of disclosure, provided such knowledge did not arise from a breach of confidentiality. This matches the Preferred tier, which specifies that confidential information excludes information previously known by the receiving party. No escalation is required.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(b) the Recipient can prove by contemporaneous written documentation was already known to it at the time of its disclosure by the Discloser or any of its Representatives (unless such knowledge arose from disclosure or use of information in breach of an obligation of confidentiality); or\n```\n\n```"
+    },
+    {
+      "level": "green",
+      "clause_id": "139",
+      "clause_title": "(c) the Recipient acquired from a source other than the Discloser or any of",
+      "snippet": "(c) the Recipient acquired from a source other than the Discloser or any of the Discloser’s Representatives, where such source is entitled to disclose or use it without an obligation of confidence.",
+      "rationale": "This clause pertains to confidentiality exclusions, specifically addressing information that is acquired from a third party entitled to disclose it without an obligation of confidence. This aligns with UoA Position #POS-11, which specifies that confidential information exclusions should include information already public, independently developed, previously known, or legally required to be disclosed. The clause matches the Preferred tier for confidentiality exclusions.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "(c) the Recipient acquired from a source other than the Discloser or any of the Discloser’s Representatives, where such source is entitled to disclose or use it without an obligation of confidence."
+    },
+    {
+      "level": "green",
+      "clause_id": "T",
+      "clause_title": "This agreement is governed by the non-exclusive jurisdiction of the State of",
+      "snippet": "This agreement is governed by the non-exclusive jurisdiction of the State of Victoria, Australia.",
+      "rationale": "The clause aligns with the Acceptable tier of UoA Position #POS-16, which permits governing law and jurisdiction in Australia. Victoria, Australia, falls within the acceptable jurisdictions listed in the Position document. No escalation is required.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "This agreement is governed by the non-exclusive jurisdiction of the State of Victoria, Australia."
+    }
+  ],
+  "counts": {
+    "green": 6,
+    "amber": 30,
+    "red": 20,
+    "blue": 109
+  },
+  "generated_at": "2026-05-29T13:26:04.995123+00:00",
+  "metrics": {
+    "n_calls": 7,
+    "input_tokens": 8441,
+    "output_tokens": 6549,
+    "total_tokens": 14990,
+    "latency_ms": 849397.4,
+    "total_cost_usd": 0.086593,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

@@ -1,0 +1,411 @@
+{
+  "document_id": "Subcontract_Example_2_pdf",
+  "filename": "Subcontract Example 2.pdf",
+  "contract_type": "Commercial Research Contract",
+  "contract_type_confidence": 0.9,
+  "summary": "The review of \"Subcontract Example 2.pdf\" indicates a generally low-risk posture, with most clauses falling outside the scope of the University of Auckland's Preferred Contracting Positions and flagged as informational (blue). However, two critical issues were identified: the confidentiality clause does not align with UoA Position #POS-11, requiring exclusions for public or independently developed information and a five-year confidentiality limit, and the warranty clause introduces obligations beyond UoA Position #POS-10, necessitating escalation. Additionally, the intellectual property clause must be referred to Auckland UniServices Ltd as per UoA Position #POS-IP. The next step is to escalate the flagged clauses to the Senior Manager, Research Grants and Contracts, for review and negotiation.",
+  "flags": [
+    {
+      "level": "red",
+      "clause_id": "13",
+      "clause_title": "“Confidential Information” means all non-public, proprietary, or confidential",
+      "snippet": "“Confidential Information” means all non-public, proprietary, or confidential information disclosed by one party to the other, whether orally, in writing, or in any other form, including but not limited to technical data, trade secrets, know-how, research, product plans, products, services, customers, customer lists, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances, or other business information;",
+      "rationale": "The clause does not align with UoA Position #POS-11 on Confidentiality. It fails to exclude information already public, independently developed, previously known by the receiving party, or legally required to be disclosed. Additionally, it does not specify UoA's ability to disclose to agents and Affiliates, nor does it limit the duration of confidentiality obligations to 5 years post-completion. These omissions materially deviate from the Preferred tier and require escalation to the Senior Manager, Research Grants and Contracts for review and amendment.",
+      "standard_ref": "UoA Position #POS-11",
+      "text": "“Confidential Information” means all non-public, proprietary, or confidential information disclosed by one party to the other, whether orally, in writing, or in any other form, including but not limited to technical data, trade secrets, know-how, research, product\n\nplans, products, services, customers, customer lists, markets, software, developments,\ninventions, processes, formulas, technology, designs, drawings, engineering, hardware\nconfiguration information, marketing, finances, or other business information;"
+    },
+    {
+      "level": "red",
+      "clause_id": "T",
+      "clause_title": "The Developer warrants that all work performed under this Agreement will be:",
+      "snippet": "The Developer warrants that all work performed under this Agreement will be: - Performed in a professional and workmanlike manner; - Completed in accordance with the specifications and requirements set forth herein; - Free from defects in materials and workmanship; - Compliant with all applicable laws, regulations, and industry standards.",
+      "rationale": "The clause introduces warranties beyond the UoA Preferred Contracting Position (POS-10), which explicitly limits warranties to (a) authority to enter into the contract and (b) performance to a professional standard/usual good practice. The additional warranties regarding 'free from defects in materials and workmanship' and 'compliance with all applicable laws, regulations, and industry standards' materially deviate from the Preferred Position and are not pre-approved under the Acceptable tier. This requires escalation to the Senior Manager, Research Grants and Contracts for review and potential negotiation.",
+      "standard_ref": "UoA Position #POS-10",
+      "text": "The Developer warrants that all work performed under this Agreement will be: -\nPerformed in a professional and workmanlike manner; - Completed in accordance with the\nspecifications and requirements set forth herein; - Free from defects in materials and\nworkmanship; - Compliant with all applicable laws, regulations, and industry standards."
+    },
+    {
+      "level": "amber",
+      "clause_id": "15",
+      "clause_title": "“Intellectual Property” means all intellectual property rights of any kind,",
+      "snippet": "“Intellectual Property” means all intellectual property rights of any kind, including but not limited to patents, patent applications, trademarks, trademark applications, service marks, trade names, copyrights, trade secrets, know-how, inventions, processes, formulas, source and object codes, data, programs, other works of authorship, discoveries, improvements, and other proprietary rights;",
+      "rationale": "The clause pertains to Intellectual Property, which is explicitly excluded from UoA Contracting Positions and must be referred to Auckland UniServices Ltd for review. This aligns with UoA Position #POS-IP, which mandates referral of all IP clauses regardless of wording.",
+      "standard_ref": "UoA Position #POS-IP",
+      "text": "“Intellectual Property” means all intellectual property rights of any kind, including but\nnot limited to patents, patent applications, trademarks, trademark applications, service\nmarks, trade names, copyrights, trade secrets, know-how, inventions, processes, formulas,\nsource and object codes, data, programs, other works of authorship, discoveries,\nimprovements, and other proprietary rights;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1",
+      "clause_title": "1. DEFINITIONS AND INTERPRETATION",
+      "snippet": "1. DEFINITIONS AND INTERPRETATION",
+      "rationale": "The topic of definitions and interpretation is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the provided guidance.",
+      "standard_ref": null,
+      "text": "1. DEFINITIONS AND INTERPRETATION"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.1",
+      "clause_title": "1.1 Definitions",
+      "snippet": "1.1 Definitions",
+      "rationale": "The clause addresses definitions, which is not covered by any UoA Preferred Contracting Positions or associated templates. Definitions are typically standard and do not fall under specific policy guidance.",
+      "standard_ref": null,
+      "text": "1.1 Definitions"
+    },
+    {
+      "level": "blue",
+      "clause_id": "1.2",
+      "clause_title": "1.2 Interpretation",
+      "snippet": "1.2 Interpretation",
+      "rationale": "The clause addresses 'Interpretation,' which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the policy framework.",
+      "standard_ref": null,
+      "text": "1.2 Interpretation"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2",
+      "clause_title": "2. PURPOSE AND SCOPE OF WORK",
+      "snippet": "2. PURPOSE AND SCOPE OF WORK",
+      "rationale": "The topic of 'Purpose and Scope of Work' is not addressed in the UoA Preferred Contracting Positions, and there is no UoA Standard Template for this contract type. As such, this clause falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "2. PURPOSE AND SCOPE OF WORK"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.1",
+      "clause_title": "2.1 Project Description",
+      "snippet": "2.1 Project Description",
+      "rationale": "The clause addresses the project description, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null,
+      "text": "2.1 Project Description"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.2",
+      "clause_title": "2.2 Scope of Work",
+      "snippet": "2.2 Scope of Work",
+      "rationale": "The clause addresses 'Scope of Work,' which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. No specific policy or template guidance exists for this topic.",
+      "standard_ref": null,
+      "text": "2.2 Scope of Work"
+    },
+    {
+      "level": "blue",
+      "clause_id": "2.3",
+      "clause_title": "2.3 Performance Standards",
+      "snippet": "2.3 Performance Standards",
+      "rationale": "The topic of 'Performance Standards' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "2.3 Performance Standards"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3",
+      "clause_title": "3. DEVELOPER’S OBLIGATIONS AND BEST ENDEAVOURS",
+      "snippet": "3. DEVELOPER’S OBLIGATIONS AND BEST ENDEAVOURS",
+      "rationale": "The clause topic 'Developer’s Obligations and Best Endeavours' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "3. DEVELOPER’S OBLIGATIONS AND BEST ENDEAVOURS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.1",
+      "clause_title": "3.1 Best Endeavours Commitment",
+      "snippet": "3.1 Best Endeavours Commitment",
+      "rationale": "The clause addresses a 'Best Endeavours Commitment,' which is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "3.1 Best Endeavours Commitment"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.2",
+      "clause_title": "3.2 Performance Standards",
+      "snippet": "3.2 Performance Standards",
+      "rationale": "The topic of 'Performance Standards' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined policy framework.",
+      "standard_ref": null,
+      "text": "3.2 Performance Standards"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.3",
+      "clause_title": "3.3 Progress Reporting",
+      "snippet": "3.3 Progress Reporting",
+      "rationale": "The topic of progress reporting is not covered in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of pre-defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "3.3 Progress Reporting"
+    },
+    {
+      "level": "blue",
+      "clause_id": "3.4",
+      "clause_title": "3.4 Key Personnel",
+      "snippet": "3.4 Key Personnel",
+      "rationale": "The topic of 'Key Personnel' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the established policy framework and cannot be evaluated against any specific tier.",
+      "standard_ref": null,
+      "text": "3.4 Key Personnel"
+    },
+    {
+      "level": "blue",
+      "clause_id": "12",
+      "clause_title": "“Agreement” means this Research and Development Agreement, including all",
+      "snippet": "“Agreement” means this Research and Development Agreement, including all schedules and appendices attached hereto, as may be amended from time to time in accordance with the terms hereof;",
+      "rationale": "The clause defines the term 'Agreement' and its scope, which is a standard definitional clause. This topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, the clause falls outside the scope of the Positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "“Agreement” means this Research and Development Agreement, including all schedules and appendices attached hereto, as may be amended from time to time in accordance with the terms hereof;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "14",
+      "clause_title": "“Deliverables” means all work product, materials, documentation, reports,",
+      "snippet": "“Deliverables” means all work product, materials, documentation, reports, prototypes, designs, specifications, software, hardware, and other items to be delivered by the Developer to the Client under this Agreement, as …",
+      "rationale": "The clause defines 'Deliverables' but this topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of pre-established policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "“Deliverables” means all work product, materials, documentation, reports, prototypes,\ndesigns, specifications, software, hardware, and other items to be delivered by the\nDeveloper to the Client under this Agreement, as more particularly described in Schedule A\n(Work Plan);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "16",
+      "clause_title": "“Milestone” means a specific deliverable or achievement point as set forth in",
+      "snippet": "“Milestone” means a specific deliverable or achievement point as set forth in Schedule A (Work Plan);",
+      "rationale": "The clause defines 'Milestone' as a deliverable or achievement point, which is a procedural definition not covered by any UoA Preferred Contracting Positions or standard template. No escalation is required as this is outside the scope of UoA policy.",
+      "standard_ref": null,
+      "text": "“Milestone” means a specific deliverable or achievement point as set forth in Schedule A\n(Work Plan);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "17",
+      "clause_title": "“Project” means the research and development work to be performed by the",
+      "snippet": "“Project” means the research and development work to be performed by the Developer as described in Section 2 and Schedule A (Work Plan);",
+      "rationale": "The clause defines the term 'Project' but does not address any topic covered by the UoA Preferred Contracting Positions. As there is no applicable policy or template for this definition, the flag remains blue.",
+      "standard_ref": null,
+      "text": "“Project” means the research and development work to be performed by the Developer as\ndescribed in Section 2 and Schedule A (Work Plan);"
+    },
+    {
+      "level": "blue",
+      "clause_id": "18",
+      "clause_title": "“Work Plan” means the detailed work plan attached hereto as Schedule A,",
+      "snippet": "“Work Plan” means the detailed work plan attached hereto as Schedule A, which forms an integral part of this Agreement.",
+      "rationale": "The clause defines a 'Work Plan' and specifies its inclusion as part of the Agreement. This topic is not addressed in the UoA Preferred Contracting Positions, nor is there a UoA Standard Template for this contract type. Therefore, it falls outside the scope of the Positions document.",
+      "standard_ref": null,
+      "text": "“Work Plan” means the detailed work plan attached hereto as Schedule A, which forms an\nintegral part of this Agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "31",
+      "clause_title": "a) Dedicate appropriate and sufficient resources, including qualified personnel,",
+      "snippet": "a) Dedicate appropriate and sufficient resources, including qualified personnel, equipment, and facilities, to the performance of the Project;",
+      "rationale": "The clause addresses resource dedication, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "a) Dedicate appropriate and sufficient resources, including qualified personnel,\nequipment, and facilities, to the performance of the Project;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "32",
+      "clause_title": "b) Use all reasonable efforts, skill, and diligence that would be expected from a",
+      "snippet": "b) Use all reasonable efforts, skill, and diligence that would be expected from a competent provider of research and development services in similar circumstances;",
+      "rationale": "The clause addresses a standard of performance ('reasonable efforts, skill, and diligence') but this topic is not explicitly covered in the UoA Preferred Contracting Positions or tied to any specific policy. No escalation or pre-approved deviation applies.",
+      "standard_ref": null,
+      "text": "b) Use all reasonable efforts, skill, and diligence that would be expected from a\ncompetent provider of research and development services in similar circumstances;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "33",
+      "clause_title": "c) Employ industry best practices and maintain professional standards throughout",
+      "snippet": "c) Employ industry best practices and maintain professional standards throughout the performance of the work;",
+      "rationale": "The clause addresses a topic (industry best practices and professional standards) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "c) Employ industry best practices and maintain professional standards throughout the\nperformance of the work;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "34",
+      "clause_title": "d) Promptly notify the Client of any circumstances that may materially affect the",
+      "snippet": "d) Promptly notify the Client of any circumstances that may materially affect the Developer’s ability to meet agreed milestones or deliverables;",
+      "rationale": "The clause addresses a notification obligation related to milestones or deliverables, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented positions.",
+      "standard_ref": null,
+      "text": "d) Promptly notify the Client of any circumstances that may materially affect the\nDeveloper’s ability to meet agreed milestones or deliverables;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "35",
+      "clause_title": "e) Take all reasonable steps to mitigate any delays or obstacles that may arise",
+      "snippet": "e) Take all reasonable steps to mitigate any delays or obstacles that may arise during the course of the Project;",
+      "rationale": "The clause addresses mitigation of delays or obstacles, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the documented policy.",
+      "standard_ref": null,
+      "text": "e) Take all reasonable steps to mitigate any delays or obstacles that may arise during the\ncourse of the Project;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "36",
+      "clause_title": "f) Maintain regular communication with the Client regarding project progress",
+      "snippet": "f) Maintain regular communication with the Client regarding project progress and any issues that may impact successful completion.",
+      "rationale": "The clause addresses a topic (communication regarding project progress) that is not covered by the UoA Preferred Contracting Positions or any registered UoA Standard Template for this contract type. As such, it falls outside the scope of the defined policy tiers.",
+      "standard_ref": null,
+      "text": "f) Maintain regular communication with the Client regarding project progress and any\nissues that may impact successful completion."
+    },
+    {
+      "level": "blue",
+      "clause_id": "B",
+      "clause_title": "BETWEEN:",
+      "snippet": "BETWEEN: The UNIVERSITY OF AUCKLAND, a university constituted under the University of Auckland Act 1961 and a tertiary education provider under the Education and Training Act 2020, of 22 Princes Street, Auckland, New Ze…",
+      "rationale": "The clause pertains to the identification of parties and their legal status, which is not covered by the UoA Preferred Contracting Positions document. No specific policy or template exists for this topic.",
+      "standard_ref": null,
+      "text": "BETWEEN:  \n\nThe UNIVERSITY OF AUCKLAND, a university constituted under the University of Auckland Act 1961 and a tertiary education provider under the Education and Training Act 2020, of 22 Princes Street, Auckland, New Zealand (“Client”)"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "In this Agreement, unless the context otherwise requires:",
+      "snippet": "In this Agreement, unless the context otherwise requires:",
+      "rationale": "The clause is a general interpretive provision and does not address any specific topic covered by the UoA Preferred Contracting Positions. It is not tied to any policy or standard template.",
+      "standard_ref": null,
+      "text": "In this Agreement, unless the context otherwise requires:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "I",
+      "clause_title": "In this Agreement: - References to clauses, schedules, and appendices are",
+      "snippet": "In this Agreement: - References to clauses, schedules, and appendices are references to clauses, schedules, and appendices of this Agreement; - Headings are for convenience only and do not affect interpretation; - Words importing the singular include the plural and vice versa; - References to any statute or statutory provision include any subordinate legislation made under it and any modification, extension, or re-enactment thereof; - The word 'including' shall mean 'including without limitation.'",
+      "rationale": "This clause deals with general interpretation rules for the agreement, such as references, headings, singular/plural usage, statutory references, and the meaning of 'including.' It does not touch on the specific topic of Variations and Extensions (UoA Position #POS-21) or any other UoA Preferred Contracting Position. The clause is unrelated to any flagged policy area and falls outside the scope of the Positions document.",
+      "standard_ref": "Not covered by UoA Positions or Template",
+      "text": "In this Agreement: - References to clauses, schedules, and appendices are references to\nclauses, schedules, and appendices of this Agreement; - Headings are for convenience only\nand do not affect interpretation; - Words importing the singular include the plural and vice\nversa; - References to any statute or statutory provision include any subordinate legislation\nmade under it and any modification, extension, or re-enactment thereof; - The word\n“including” shall mean “including without limitation.”"
+    },
+    {
+      "level": "blue",
+      "clause_id": "N",
+      "clause_title": "NOW THEREFORE, in consideration of the mutual covenants and agreements",
+      "snippet": "NOW THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:",
+      "rationale": "The clause is a standard introductory recital acknowledging mutual agreement and consideration. This topic is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, it falls outside the scope of the policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "NOW THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "RESEARCH AND DEVELOPMENT AGREEMENT",
+      "snippet": "RESEARCH AND DEVELOPMENT AGREEMENT",
+      "rationale": "The clause title 'RESEARCH AND DEVELOPMENT AGREEMENT' does not address any specific topic covered by the UoA Preferred Contracting Positions. It is a generic heading and does not contain substantive content requiring evaluation.",
+      "standard_ref": null,
+      "text": "RESEARCH AND DEVELOPMENT AGREEMENT"
+    },
+    {
+      "level": "blue",
+      "clause_id": "R",
+      "clause_title": "RECITALS",
+      "snippet": "RECITALS",
+      "rationale": "The topic of 'Recitals' is not addressed in the UoA Preferred Contracting Positions document, nor is there a UoA Standard Template for this contract type. As such, this clause falls outside the scope of the defined positions and is flagged as blue.",
+      "standard_ref": null,
+      "text": "RECITALS"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Developer agrees to perform research and development work for the Client",
+      "snippet": "The Developer agrees to perform research and development work for the Client involving the design and development of a datalogging system associated with (the \u001cProject\u001d).",
+      "rationale": "The clause describes the scope of work for the project but does not address any specific topic covered in the UoA Preferred Contracting Positions. As such, it falls outside the scope of the Positions document and does not conflict with any established policy.",
+      "standard_ref": null,
+      "text": "The Developer agrees to perform research and development work for the Client involving\nthe design and development of a datalogging system associated with\n(the “Project”)."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The scope of work is outlined in Schedule A of this Agreement.",
+      "snippet": "The scope of work is outlined in Schedule A of this Agreement.",
+      "rationale": "The clause addresses the scope of work, which is not covered by any UoA Preferred Contracting Positions or associated templates. As such, it falls outside the scope of the policy framework and is flagged as blue.",
+      "standard_ref": null,
+      "text": "The scope of work is outlined in Schedule A of this Agreement."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Developer shall perform all work in accordance with: - Applicable New",
+      "snippet": "The Developer shall perform all work in accordance with: - Applicable New Zealand standards and regulations; - Quality assurance protocols as mutually agreed between the parties; - Environmental and safety requirements …",
+      "rationale": "The clause addresses performance standards, quality assurance, and environmental/safety requirements, which are not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policies.",
+      "standard_ref": null,
+      "text": "The Developer shall perform all work in accordance with: - Applicable New Zealand\nstandards and regulations; - Quality assurance protocols as mutually agreed between the\nparties; - Environmental and safety requirements applicable to the intended use."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Developer hereby covenants and agrees that it will apply its best",
+      "snippet": "The Developer hereby covenants and agrees that it will apply its best endeavours to meet all milestones, deliverables, and performance standards set forth in this Agreement and Schedule A (Work Plan). For the purposes o…",
+      "rationale": "The clause addresses the concept of 'best endeavours' in relation to milestones, deliverables, and performance standards, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template. As such, it falls outside the scope of the documented policy framework.",
+      "standard_ref": null,
+      "text": "The Developer hereby covenants and agrees that it will apply its best endeavours to meet\nall milestones, deliverables, and performance standards set forth in this Agreement and\nSchedule A (Work Plan). For the purposes of this Agreement, “best endeavours” means the\nDeveloper shall:"
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Developer shall provide the Client with regular progress reports as",
+      "snippet": "The Developer shall provide the Client with regular progress reports as specified in Schedule A (Work Plan), including but not limited to: - Monthly written progress reports detailing work completed, milestones achieved, and upcoming activities; - Immediate notification of any material changes to project scope, timeline, or deliverables; - Access to work-in-progress materials and documentation as reasonably requested by the Client.",
+      "rationale": "The clause addresses reporting obligations, which is not covered by any UoA Preferred Contracting Positions or the UoA Standard Template for this contract type. As such, it falls outside the scope of the documented policy and is flagged as blue.",
+      "standard_ref": null,
+      "text": "The Developer shall provide the Client with regular progress reports as specified in\nSchedule A (Work Plan), including but not limited to: - Monthly written progress reports\ndetailing work completed, milestones achieved, and upcoming activities; - Immediate\nnotification of any material changes to project scope, timeline, or deliverables; - Access to\nwork-in-progress materials and documentation as reasonably requested by the Client."
+    },
+    {
+      "level": "blue",
+      "clause_id": "T",
+      "clause_title": "The Developer will allocate the named individuals identified in Schedule A",
+      "snippet": "The Developer will allocate the named individuals identified in Schedule A (Work Plan) to perform the work. The Developer will inform the Client of any changes to the availability of Key Personnel, who will have the right to review and approve any changes.",
+      "rationale": "This clause addresses personnel allocation and changes to Key Personnel availability, which is not covered by any UoA Preferred Contracting Position or template. It does not directly relate to Governing Law and Jurisdiction as flagged by the comparator.",
+      "standard_ref": "No applicable UoA Position or template",
+      "text": "The Developer will allocate the named individuals identified in Schedule A (Work Plan) to\nperform the work. The Developer will inform the Client of any changes to the availability of\nKey Personnel, who will have the right to review and approve any changes.\n4. LIABILITY\n4.1 Each party:\n- acknowledges that the Services are being supplied and acquired in trade;\n- agrees that the provisions of the Consumer Guarantees Act 1993 and sections 9, 12A\nand 13 of the Fair Trading Act will not apply to this contract; and\n-\nagrees that it is fair and reasonable that it is bound by the provisions of this clause\n4.1\n.\n4.2 Except where expressly stated otherwise, disclaims all warranties, either express\nor implied, including, without limitation, warranties of merchantability and fitness for a\nparticular purpose.\n4.3 Neither party, or their employees, agents or contractors, will be liable to the other for any\nactions, damages, claims, liabilities, costs, expenses, or losses in any way arising in\nrelation to this contract that exceed an amount equal to the Fee paid by the Client to\nunder this contract.\n4.4 In no event will either party, their employees, agents or contractors be liable for\nconsequential, special, indirect, incidental, punitive or exemplary damages, costs,\nexpenses or losses (including, without limitation, lost profits and opportunity costs).\n4.5 Clauses 4.3 and 4.4 apply regardless of the form of action, damage, claim, liability, cost,\nexpense or loss, whether in contract, statute, tort (including, without limitation,\nnegligence) or otherwise. None of the exclusions or limitations will have the effect of\nlimiting or excluding any form of liability where such liability cannot be so limited or\nexcluded under applicable law.\n4.6 The Client understands and agrees that the Services provided may include advice and\nrecommendations, but all decisions in connection with the implementation of such\nadvice and recommendations will be the responsibility of, and made by, the Client. The\nClient will hold harmless against any claim for costs or damages arising from that\nimplementation.\n4.7 indemnifies the Client, and its personnel against all loss, damage, cost and expense\narising from third party claims, and against fines, penalties and other sanctions imposed by\nany government or regulatory authority, in relation to performance of the Services.\n\n4.8 Clause 4.8 does not apply to the extent that any loss, damage, cost or expense arises as a\nresult of any indemnified person’s negligence, breach of law or breach of this Agreement\n(including any breach of warranty).\n5. PAYMENT TERMS\n5.1 Payment Schedule\nPayment for the Project shall be made in accordance with Schedule B (Payment Schedule)\nattached hereto and incorporated by reference. All payments are subject to the following\nterms:\na) Milestone-Based Payments: Payments shall be made upon successful completion and\nacceptance of specified milestones as detailed in Schedule B;\nb) GST: All amounts specified in this Agreement are exclusive of Goods and Services Tax\n(GST). GST shall be added to all invoices at the applicable rate;\nc) Payment Terms: Unless otherwise specified, all invoices shall be paid on 20th of the\nmonth following receipt of invoice by the Client;\nd) Final Payment: Final payment shall be made upon successful delivery and acceptance\nof all deliverables and completion of the Project to the Client’s reasonable satisfaction.\n5.2 Invoicing Requirements\nThe Developer shall submit invoices that include: - Detailed description of work completed\nand milestones achieved; - Reference to the applicable milestone or deliverable from\nSchedule B; - GST registration number and appropriate GST calculations; - Supporting\ndocumentation as reasonably required by the Client.\n5.3 Payment Disputes\nIn the event of a payment dispute, the Client shall pay any undisputed portion of an invoice\nwithin the specified payment terms and notify the Developer in writing of the specific basis\nfor any disputed amounts within seven (7) days of receipt of the invoice.\n6. INTELLECTUAL PROPERTY\n6.1 Ownership of Developed IP\nSubject to full payment of all fees and charges due under this Agreement, all Intellectual\nProperty developed, created, conceived, or reduced to practice by the Developer in the\n\ncourse of performing the Project, including but not limited to inventions, discoveries,\nimprovements, designs, specifications, software, documentation, and know-how\n(collectively, the “Developed IP”), shall be and remain the sole and exclusive property of\nthe Client.\n6.2 Assignment of Rights\nThe Developer hereby assigns, transfers, and conveys to the Client all right, title, and\ninterest in and to the Developed IP, including all patent rights, copyrights, trade secret\nrights, and other proprietary rights therein. This assignment shall be effective immediately\nupon creation of such Developed IP, subject to the condition precedent of full payment as\nspecified in Section 5.1.\n6.3 Pre-Existing IP\nEach party shall retain ownership of any Intellectual Property that existed prior to the\ncommencement of this Agreement (“Pre-Existing IP”). The Developer hereby grants to the\nClient a non-exclusive, royalty-free, perpetual license to use any of the Developer’s Pre-\nExisting IP that is incorporated into or necessary for the use of the Developed IP, solely for\nthe purposes contemplated by this Agreement.\n6.4 Third-Party IP\nThe Developer warrants that, based on its best intent and knowledge at the time of\nperformance, the Developed IP will not knowingly infringe upon any third-party\nIntellectual Property rights. The Developer represents that it will conduct reasonable due\ndiligence to avoid infringement of known third-party Intellectual Property rights during\nthe development process. However, the Developer does not provide any indemnification or\nguarantee against potential third-party intellectual property claims that may arise from the\nuse of the Developed IP.\n6.5 Moral Rights\nTo the extent permitted by law, the Developer waives all moral rights in the Developed IP\nin favour of the Client.\n6.6 Further Assurances\nThe Developer agrees to execute such additional documents and take such additional\nactions as may be reasonably requested by the Client to evidence, perfect, or enforce the\nClient’s ownership rights in the Developed IP.\n6.7 Disclosure of Inventions\nThe Developer shall promptly disclose to the Client in writing all inventions, discoveries,\nimprovements, and other intellectual property created or conceived during the\nperformance of this Agreement, whether or not such intellectual property is patentable or\nsubject to copyright protection.\n\n6.8 Patent Applications\nIf the Client elects to file patent applications for any Developed IP, the Developer agrees to\ncooperate fully with such patent application process, including providing necessary\ndocumentation, executing required forms, and making inventors available for examination\nor testimony as reasonably required.\n7. CONFIDENTIALITY\n7.1 Confidentiality Obligations\nEach party acknowledges that it may have access to Confidential Information of the other\nparty. Each party agrees to:\na) Hold all Confidential Information in strict confidence;\nb) Not disclose Confidential Information to any third party without the prior written\nconsent of the disclosing party;\nc) Use Confidential Information solely for the purposes of this Agreement;\nd) Take reasonable precautions to protect the confidentiality of such information, using\nat least the same degree of care that it uses to protect its own confidential information,\nbut in no event less than reasonable care.\n7.2 Exceptions\nThe obligations set forth in Section 7.1 shall not apply to information that: a) Is or becomes\npublicly available through no breach of this Agreement; b) Was rightfully known by the\nreceiving party prior to disclosure; c) Is rightfully received by the receiving party from a\nthird party without breach of any confidentiality obligation; d) Is independently developed\nby the receiving party without use of or reference to the Confidential Information; e) Is\nrequired to be disclosed by law or court order, provided that the receiving party gives the\ndisclosing party reasonable advance notice of such required disclosure.\n7.3 Return of Information\nUpon termination of this Agreement or upon request by the disclosing party, each party\nshall promptly return or destroy all documents, materials, and other tangible\nmanifestations of Confidential Information in its possession or control.\n7.4 Survival\nThe obligations under this Section 6 shall survive termination of this Agreement for a\nperiod of five (5) years.\n\n8. DISPUTE RESOLUTION\n8.1 Negotiation\nIn the event of any dispute, controversy, or claim arising out of or relating to this\nAgreement or the breach, termination, or invalidity thereof (a “Dispute”), the parties shall\nfirst attempt to resolve such Dispute through good faith negotiations between senior\nrepresentatives of each party who have authority to settle the Dispute.\n8.2 Mediation\nIf the parties are unable to resolve the Dispute through negotiation within thirty (30) days\nafter written notice of the Dispute, the parties agree to submit the\nMediation\nRules then in effect. The mediation shall be conducted in Auckland, New Zealand, unless the\nparties agree otherwise in writing.\n8.3 Costs\nEach party shall bear its own costs and expenses in connection with any dispute resolution\nproceedings, except that the costs of mediation (including the mediator’s fees) shall be\nborne equally by the parties.\n9. TERMINATION\n9.1 Termination for Convenience\nEither party may terminate this Agreement at any time upon thirty (30) days’ prior written\nnotice to the other party.\n9.2 Termination for Cause\nEither party may terminate this Agreement immediately upon written notice if: a) The\nother party materially breaches this Agreement and fails to cure such breach within thirty\n(30) days after written notice thereof; b) The other party becomes insolvent, makes an\nassignment for the benefit of creditors, files a petition in bankruptcy, or has a petition in\nbankruptcy filed against it; c) The other party ceases to carry on business in the ordinary\ncourse.\n9.3 Effect of Termination\nUpon termination of this Agreement:\na) Payment for Completed Work: The Client shall pay the Developer for all work\nsatisfactorily completed prior to the effective date of termination on a pro-rata basis\naccording to the milestones achieved and deliverables accepted;\n\nb) Return of Materials: Each party shall promptly return to the other party all\nConfidential Information, documents, materials, and property belonging to such other\nparty;\nc) Survival of Obligations: Termination shall not affect any rights or obligations that\nhave accrued prior to termination, and the provisions of Sections 6 (Intellectual\nProperty), 7 (Confidentiality), 8 (Dispute Resolution), and 10 (General Provisions)\nshall survive termination.\n9.4 No Penalty for Termination\nNeither party shall be liable to the other for any damages solely as a result of terminating\nthis Agreement in accordance with its terms.\n10. GENERAL PROVISIONS\n10.1 Governing Law\nThis Agreement shall be governed by and construed in accordance with the laws of New\nZealand, without regard to its conflict of laws principles.\n10.2 Jurisdiction\nThe parties hereby submit to the exclusive jurisdiction of the courts of New Zealand for the\nresolution of any disputes arising under this Agreement, except as otherwise provided in\nSection 7 (Dispute Resolution).\n10.3 Entire Agreement\nThis Agreement, including all schedules and appendices attached hereto, constitutes the\nentire agreement between the parties with respect to the subject matter hereof and\nsupersedes all prior and contemporaneous agreements, understandings, negotiations, and\ndiscussions, whether oral or written, between the parties relating to such subject matter.\n10.4 Amendment\nThis Agreement may be amended only by a written instrument signed by both parties.\n10.5 Severability\nIf any provision of this Agreement is held to be invalid, illegal, or unenforceable, the\nvalidity, legality, and enforceability of the remaining provisions shall not be affected or\nimpaired thereby.\n10.6 Waiver\nNo waiver of any provision of this Agreement shall be deemed or shall constitute a waiver\nof any other provision. No waiver shall be effective unless it is in writing and signed by the\nparty to be charged with such waiver.\n\n10.7 Assignment\nNeither party may assign this Agreement or any rights or obligations hereunder without\nthe prior written consent of the other party, except that the Client may assign this\nAgreement to any affiliate or in connection with a merger, acquisition, or sale of all or\nsubstantially all of its assets.\n10.8 Force Majeure\nNeither party shall be liable for any failure or delay in performance under this Agreement\nthat is due to fire, flood, earthquake, elements of nature, acts of God, acts of war, terrorism,\nriots, civil disorders, rebellions, or other causes beyond the reasonable control of such\nparty.\n10.9 Health and Safety\nundertakes to comply with the provisions of the Health and Safety at Work Act\n2015 insofar as those provisions relate to the performance by of any obligations on\nunder this Agreement. does not assume any obligations as the Client’s\nagent that may be imposed upon the Client pursuant to the or any other applicable\nhealth and safety laws in relation to this contract.\n10.10 Notices\nAll notices required or permitted under this Agreement shall be in writing and shall be\ndeemed given when delivered personally, sent by confirmed facsimile transmission, sent by\nconfirmed electronic mail, or three (3) days after being sent by registered or certified mail,\nreturn receipt requested, to the addresses set forth in the preamble to this Agreement or to\nsuch other address as either party may specify in writing.\n10.11 Counterparts\nThis Agreement may be executed in counterparts, each of which shall be deemed an\noriginal and all of which together shall constitute one and the same instrument.\n11. EXECUTION\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the date last\nsigned below.\nUniversity of Auckland\nBy: _________________________________\nName: [Name]\nTitle: [Title]\nDate: _______________________________"
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "WHEREAS the Client desires to engage the Developer to [REDACTED]",
+      "snippet": "WHEREAS the Client desires to engage the Developer to [REDACTED] [REDACTED]",
+      "rationale": "The clause is a preamble or recital, which is not addressed in the UoA Preferred Contracting Positions. Recitals generally serve as context-setting and do not impose substantive obligations, hence no specific policy applies.",
+      "standard_ref": null,
+      "text": "WHEREAS the Client desires to engage the Developer to [REDACTED]  \n\n[REDACTED]"
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "WHEREAS the Developer represents that it has the necessary expertise, resources,",
+      "snippet": "WHEREAS the Developer represents that it has the necessary expertise, resources, and capabilities to perform the research and development work described herein;",
+      "rationale": "The clause is a preamble statement about the Developer's expertise and resources, which is not covered by any UoA Preferred Contracting Positions or associated templates. It does not conflict with any established UoA policies.",
+      "standard_ref": null,
+      "text": "WHEREAS the Developer represents that it has the necessary expertise, resources, and capabilities to perform the research and development work described herein;"
+    },
+    {
+      "level": "blue",
+      "clause_id": "W",
+      "clause_title": "WHEREAS the parties wish to set forth the terms and conditions governing their",
+      "snippet": "WHEREAS the parties wish to set forth the terms and conditions governing their relationship with respect to such research and development work;",
+      "rationale": "The clause is a preamble or recital, which is not addressed in the UoA Preferred Contracting Positions. Recitals generally serve as context-setting and do not impose substantive obligations, hence no specific policy applies.",
+      "standard_ref": null,
+      "text": "WHEREAS the parties wish to set forth the terms and conditions governing their relationship with respect to such research and development work;"
+    },
+    {
+      "level": "green",
+      "clause_id": "A",
+      "clause_title": "AND:",
+      "snippet": "AND: [REDACTED] A company incorporated under the laws of New Zealand [REDACTED] (\u001cDeveloper\u001d)",
+      "rationale": "The clause specifies that the Developer is incorporated under the laws of New Zealand, which aligns with the Preferred position for Governing Law and Jurisdiction (New Zealand). No deviation or escalation is required.",
+      "standard_ref": "UoA Position #POS-16",
+      "text": "AND:  \n\n[REDACTED]  \nA company incorporated under the laws of New Zealand  \n[REDACTED]  \n\n(“Developer”)"
+    }
+  ],
+  "counts": {
+    "green": 1,
+    "amber": 1,
+    "red": 2,
+    "blue": 38
+  },
+  "generated_at": "2026-05-29T13:26:05.001434+00:00",
+  "metrics": {
+    "n_calls": 4,
+    "input_tokens": 13448,
+    "output_tokens": 1913,
+    "total_tokens": 15361,
+    "latency_ms": 29129.0,
+    "total_cost_usd": 0.05275,
+    "backend": "",
+    "model": ""
+  },
+  "references_used": [
+    "UoA Preferred Contracting Positions (Sept 2025 draft)"
+  ],
+  "clause_count": null,
+  "compare_counts": null,
+  "clauses_list": null,
+  "compare_flags": null
+}

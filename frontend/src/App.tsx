@@ -35,10 +35,8 @@ export default function App() {
   const [llmStatus, setLlmStatus] = useState("Checking model connection...");
   const [positions, setPositions] = useState<UoaPosition[]>([]);
   const [advisorCollapsed, setAdvisorCollapsed] = useState(false);
-  const [reviewSessions, setReviewSessions] = useState<ReviewSession[]>(loadStoredReviewSessions);
-  const [activeReviewSessionId, setActiveReviewSessionId] = useState<string | null>(
-    () => loadStoredReviewSessions()[0]?.id ?? null,
-  );
+  const [reviewSessions, setReviewSessions] = useState<ReviewSession[]>([]);
+  const [activeReviewSessionId, setActiveReviewSessionId] = useState<string | null>(null);
 
   useEffect(() => {
     api.health()
@@ -55,21 +53,14 @@ export default function App() {
       .catch(() => {});
   }, []);
 
+  // 不缓存历史 review：每次刷新页面都从空白开始，并清掉旧的本地缓存。
   useEffect(() => {
-    const toStore = reviewSessions
-      .filter((session) => session.phase === "done" && session.review)
-      .slice(0, 20)
-      .map(({ clauses: _c, compareResult: _cr, augmentResult: _ar, ...rest }) => rest);
     try {
-      window.localStorage.setItem(REVIEW_SESSIONS_KEY, JSON.stringify(toStore));
+      window.localStorage.removeItem(REVIEW_SESSIONS_KEY);
     } catch {
-      try {
-        window.localStorage.setItem(REVIEW_SESSIONS_KEY, JSON.stringify(toStore.slice(0, 5)));
-      } catch {
-        window.localStorage.removeItem(REVIEW_SESSIONS_KEY);
-      }
+      /* ignore */
     }
-  }, [reviewSessions]);
+  }, []);
 
   async function runPipeline(file: File) {
     const sessionId = createReviewSession(file.name);
@@ -311,21 +302,3 @@ function isBusyPhase(phase: ReviewPhase) {
     || phase === "augmenting" || phase === "summarizing";
 }
 
-function loadStoredReviewSessions(): ReviewSession[] {
-  try {
-    const raw = window.localStorage.getItem(REVIEW_SESSIONS_KEY);
-    if (!raw) return [];
-    const parsed = JSON.parse(raw) as ReviewSession[];
-    if (!Array.isArray(parsed)) return [];
-    return parsed
-      .filter((session) => session?.review)
-      .map((session) => ({
-        ...session,
-        phase: "done" as const,
-        error: null,
-      }))
-      .slice(0, 20);
-  } catch {
-    return [];
-  }
-}

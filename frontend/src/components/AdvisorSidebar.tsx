@@ -79,7 +79,7 @@ export function AdvisorSidebar({
           Reviews
         </div>
       )}
-      <div className={`mt-2 ${collapsed ? "px-3" : "px-3"}`}>
+      <div className="mt-2 min-h-0 flex-1 overflow-y-auto px-3">
         <div className="space-y-1">
           {reviews.length === 0 && !collapsed && (
             <div className="px-3 py-2 text-[13px] text-white/42">
@@ -144,8 +144,6 @@ export function AdvisorSidebar({
           })}
         </div>
       </div>
-
-      <div className="flex-1" />
 
       <div className="border-t border-white/10 p-3">
         <div

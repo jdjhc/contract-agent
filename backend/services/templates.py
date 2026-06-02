@@ -37,11 +37,11 @@ _REGISTRY: dict[ContractType, list[str]] = {
         "UoA-CDA Two Way Template.docx",
     ],
     ContractType.DTA: [
-        "UoA-Data Transfer Agreement Template (incoming) April 2024.docx",
+        "UoA-Data Transfer Agreement Template (incoming) April 2024 .docx",
         "UoA-Data Transfer Agreement Template (outgoing) April 2024.docx",
     ],
     ContractType.DAA: [
-        "UoA-Data Access Agreement Agency Template (incoming).docx",
+        "UoA-Data Access Agreement Agency Template (incoming) May 2024 (1).docx",
         "UoA-Data Access Agreement Template (outgoing) May 2024.docx",
     ],
     ContractType.MSA: [
@@ -49,9 +49,17 @@ _REGISTRY: dict[ContractType, list[str]] = {
     ],
     ContractType.PROVISION_OF_SERVICES: [
         "UoA-Provision of Services Agreement (Agency)_June 2024.docx",
+        "UoA-Research Services Agreement (Agency) _June 2024 .docx",
     ],
     ContractType.COLLABORATION: [
         "UoA-Research Collaboration Agreement Template (1).docx",
+    ],
+    ContractType.SUBCONTRACT: [
+        "UoA-Template Subcontractor Agreement_2025 (1) (1).docx",
+    ],
+    ContractType.COMMERCIAL_RESEARCH: [
+        "UoA-Research Services Agreement (Agency) _June 2024 .docx",
+        "UoA-Master Services Agreement Template (1).docx",
     ],
 }
 
